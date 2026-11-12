@@ -97,11 +97,21 @@ def hoje_brt():
     return AGORA.astimezone(BRT).date().isoformat()
 
 
+def _lista_remocao():
+    itens = set(x for x in CFG.get("remover", []) if x)
+    arquivo = RAIZ / "data" / "remover.json"
+    if arquivo.exists():  # preenchido pelo atendimento automático de e-mails
+        for x in json.loads(arquivo.read_text(encoding="utf-8")):
+            itens.update(v for v in (x.get("slug"), x.get("link")) if v)
+    return itens
+
+
+REMOVIDOS = _lista_remocao()
+
+
 def removido(registro):
-    """Matérias retiradas a pedido (config.json, "remover"): somem do site e não voltam."""
-    lista = CFG.get("remover", [])
-    return any(x and (x == registro.get("link") or x == registro.get("slug") or x in (registro.get("slug") or "-"))
-               for x in lista)
+    """Matérias retiradas a pedido: somem do site e não voltam."""
+    return bool({registro.get("link"), registro.get("slug")} & REMOVIDOS)
 
 
 # ---------- feeds ----------

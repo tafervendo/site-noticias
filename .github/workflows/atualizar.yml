@@ -32,6 +32,11 @@ jobs:
           python-version: "3.12"
       - name: Instalar dependências
         run: pip install -r requirements.txt
+      - name: Atender pedidos de correção e remoção por e-mail
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python email_correcoes.py
       - name: Buscar notícias, escrever resumos e gerar o site
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
