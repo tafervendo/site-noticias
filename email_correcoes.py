@@ -264,6 +264,7 @@ def main():
 
     smtp.quit()
     imap.logout()
+    print(f"Caixa lida com sucesso: {len(ids)} e-mail(s) novo(s) verificado(s).")
     if mudou:
         REMOVER.write_text(json.dumps(remover, ensure_ascii=False, indent=1), encoding="utf-8")
 
