@@ -1112,6 +1112,9 @@ def gerar(noticias, resumos):
         + "".join(f"<url><loc>{BASE}/{u}</loc><lastmod>{d}</lastmod></url>\n" for u, d in urls)
         + "</urlset>\n", encoding="utf-8")
     (SAIDA / ".nojekyll").write_text("", encoding="utf-8")
+    for arquivo in CFG.get("verificacoes_google", []):  # verificação do Google Search Console
+        if re.fullmatch(r"google[0-9a-f]+\.html", arquivo):
+            (SAIDA / arquivo).write_text(f"google-site-verification: {arquivo}", encoding="utf-8")
     if CFG.get("dominio"):
         (SAIDA / "CNAME").write_text(CFG["dominio"].strip() + "\n", encoding="utf-8")
 
