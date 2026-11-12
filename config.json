@@ -1,0 +1,172 @@
+{
+  "nome": "Tá Fervendo",
+  "slogan": "Famosos, TV, curiosidades e tudo o que está viralizando",
+  "url": "https://tafervendo.com.br",
+  "dominio": "tafervendo.com.br",
+  "contato_email": "contato@seudominio.com.br",
+  "adsense_cliente": "",
+  "adsense_slot_lista": "",
+  "dias_guardados": 4,
+  "max_por_fonte": 25,
+  "ia": {
+    "modelo": "claude-opus-5-5",
+    "esforco": "low",
+    "por_rodada": 4,
+    "max_por_dia": 40,
+    "dias_paginas": 60
+  },
+  "categorias": [
+    {
+      "slug": "ultimas",
+      "nome": "Últimas",
+      "feeds": [
+        {
+          "fonte": "g1",
+          "url": "https://g1.globo.com/rss/g1/pop-arte/"
+        },
+        {
+          "fonte": "Terra",
+          "url": "https://www.terra.com.br/diversao/rss.xml"
+        },
+        {
+          "fonte": "Agência Brasil",
+          "url": "https://agenciabrasil.ebc.com.br/rss/cultura/feed.xml",
+          "imagens": true,
+          "credito": "Agência Brasil"
+        }
+      ]
+    },
+    {
+      "slug": "em-alta",
+      "nome": "Em alta",
+      "feeds": [
+        {
+          "fonte": "Google Trends",
+          "url": "https://trends.google.com/trending/rss?geo=BR",
+          "tipo": "tendencias"
+        }
+      ]
+    },
+    {
+      "slug": "celebridades",
+      "nome": "Celebridades",
+      "feeds": [
+        {
+          "fonte": "Quem",
+          "url": "https://revistaquem.globo.com/rss/quem/"
+        },
+        {
+          "fonte": "Hugo Gloss",
+          "url": "https://hugogloss.uol.com.br/feed/"
+        },
+        {
+          "fonte": "Caras",
+          "url": "https://caras.com.br/feed"
+        },
+        {
+          "fonte": "Contigo",
+          "url": "https://contigo.com.br/feed"
+        },
+        {
+          "fonte": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/leo-dias/feed"
+        }
+      ]
+    },
+    {
+      "slug": "televisao",
+      "nome": "Televisão",
+      "feeds": [
+        {
+          "fonte": "Gshow",
+          "url": "https://gshow.globo.com/rss/gshow/"
+        },
+        {
+          "fonte": "OTV Foco",
+          "url": "https://www.otvfoco.com.br/feed/"
+        }
+      ],
+      "palavras": [
+        "BBB",
+        "Big Brother",
+        "A Fazenda",
+        "reality",
+        "Estrela da Casa",
+        "De Férias com o Ex",
+        "Casa de Vidro",
+        "paredão",
+        "roça",
+        "eliminad*",
+        "confinamento",
+        "peão",
+        "sister",
+        "brother",
+        "novela",
+        "capítulo",
+        "folhetim",
+        "Domingão",
+        "Fantástico",
+        "Mais Você",
+        "SBT",
+        "Record",
+        "apresentador",
+        "apresentadora"
+      ]
+    },
+    {
+      "slug": "virais",
+      "nome": "Virais",
+      "feeds": [
+        {
+          "fonte": "Catraca Livre",
+          "url": "https://catracalivre.com.br/feed/"
+        }
+      ],
+      "palavras": [
+        "viral",
+        "viraliz*",
+        "TikTok",
+        "Instagram",
+        "influenciador",
+        "influenciadora",
+        "influencer",
+        "youtuber",
+        "meme",
+        "internautas",
+        "seguidores",
+        "web",
+        "trend",
+        "vídeo",
+        "bomba na internet",
+        "repercute",
+        "polêmica nas redes"
+      ]
+    },
+    {
+      "slug": "curiosidades",
+      "nome": "Curiosidades",
+      "feeds": [
+        {
+          "fonte": "Superinteressante",
+          "url": "https://super.abril.com.br/feed/"
+        },
+        {
+          "fonte": "Galileu",
+          "url": "https://revistagalileu.globo.com/rss/galileu/"
+        }
+      ],
+      "palavras": [
+        "curiosidade",
+        "você sabia",
+        "cientistas",
+        "descoberta",
+        "descobrem",
+        "estudo revela",
+        "mistério",
+        "recorde",
+        "inusitad*",
+        "bizarr*"
+      ]
+    }
+  ]
+}
