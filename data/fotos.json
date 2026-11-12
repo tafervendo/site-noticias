@@ -91,5 +91,42 @@
    "credito": "Foto: freestocks.org / domínio público",
    "credito_link": "https://www.flickr.com/photos/135396164@N05/25314591330"
   }
- ]
+ ],
+ "b:superhero costume figure": [
+  {
+   "imagem": "https://live.staticflickr.com/5289/5230346975_409a86c8fe_b.jpg",
+   "credito": "Foto: JD Hancock / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/83346641@N00/5230346975"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4043/4380603379_f9e538ddb6_b.jpg",
+   "credito": "Foto: JD Hancock / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/83346641@N00/4380603379"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4099/4870991986_9d22f4dd21_b.jpg",
+   "credito": "Foto: JD Hancock / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/83346641@N00/4870991986"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7799/18074516459_cc39f7b27d_b.jpg",
+   "credito": "Foto: nalends / CC BY-ND 2.0",
+   "credito_link": "https://www.flickr.com/photos/130475615@N06/18074516459"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8767/18074491109_1eaf7aeca3_b.jpg",
+   "credito": "Foto: nalends / CC BY-ND 2.0",
+   "credito_link": "https://www.flickr.com/photos/130475615@N06/18074491109"
+  }
+ ],
+ "p:Gabriel Galípolo": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Gabriel_Gal%C3%ADpolo_in_2023.jpg/1280px-Gabriel_Gal%C3%ADpolo_in_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Agência Senado / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Gabriel_Gal%C3%ADpolo_in_2023.jpg"
+ },
+ "p:Daniel Radcliffe": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/DanielRadcliffe-byPhilipRomano.jpg/1280px-DanielRadcliffe-byPhilipRomano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: PhilipRomano / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:DanielRadcliffe-byPhilipRomano.jpg"
+ }
 }
