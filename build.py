@@ -555,9 +555,13 @@ def resumir_novas(noticias):
 
     feitos_hoje = sum(1 for v in resumos.values() if v.get("slug")
                       and datetime.fromisoformat(v["criado"]).astimezone(BRT).date().isoformat() == hoje_brt())
-    vagas = min(IA.get("por_rodada", 4), IA.get("max_por_dia", 40) - feitos_hoje)
+    # espalha as matérias pelo dia: até a hora H, no máximo (H+1)/24 da cota diária
+    import math
+    hora = AGORA.astimezone(BRT).hour
+    meta_ate_agora = math.ceil(IA.get("max_por_dia", 25) * (hora + 1) / 24)
+    vagas = min(IA.get("por_rodada", 4), meta_ate_agora - feitos_hoje)
     if vagas <= 0:
-        print(f"Limite diário de resumos atingido ({feitos_hoje}).")
+        print(f"Cota até agora já usada ({feitos_hoje} de {meta_ate_agora} até as {hora}h); próximas matérias na próxima hora.")
         return resumos
 
     import anthropic
