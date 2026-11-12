@@ -397,11 +397,17 @@ def foto_banco(termos):
                      "credito_link": f["url"]} for f in d["photos"]]
     try:
         d = api_json("https://api.openverse.org/v1/images/?" + urllib.parse.urlencode(
-        {"q": termos, "license_type": "commercial,modification", "mature": "false", "aspect_ratio": "wide", "page_size": 5}))
+        {"q": termos, "license_type": "commercial,modification", "mature": "false", "aspect_ratio": "wide", "page_size": 20}))
     except Exception:  # Openverse fora do ar ou lento: usa o acervo do Wikimedia Commons
         return foto_commons(termos)
     opcoes = []
+    palavras = [p for p in termos.lower().split() if len(p) >= 4]
     for f in d.get("results", []):
+        descricao = (f.get("title") or "").lower() + " " + " ".join(t.get("name", "") for t in f.get("tags") or []).lower()
+        if palavras and sum(p in descricao for p in palavras) < min(2, len(palavras)):
+            continue  # a foto precisa ser mesmo do assunto procurado
+        if len(opcoes) >= 5:
+            break
         if f.get("url") and (f.get("width") or 0) >= 800:
             licenca = f"CC {f['license'].upper()} {f.get('license_version') or ''}".strip()
             if f["license"] in ("cc0", "pdm"):
@@ -429,7 +435,8 @@ def foto_commons(termos):
         if largura < 1000 or largura / altura < 1.2:
             continue
         titulo_arq = urllib.parse.unquote(p.get("title", "")).lower()
-        if not any(palavra in titulo_arq for palavra in termos.lower().split() if len(palavra) >= 4):
+        chaves = [p for p in termos.lower().split() if len(p) >= 4]
+        if chaves and sum(p in titulo_arq for p in chaves) < min(2, len(chaves)):
             continue  # a busca do Commons às vezes traz arquivos sem relação (ex.: mariposa para "flash")
         autor = limpar_html(meta_.get("Artist", {}).get("value", "")) or "autor desconhecido"
         opcoes.append({"imagem": info.get("thumburl") or info["url"],
@@ -440,9 +447,11 @@ def foto_commons(termos):
     return opcoes or None
 
 
-def imagem_segura(pessoa, busca, semente=""):
+def imagem_segura(pessoa, busca, semente="", titulo=""):
     """Ordem: retrato livre da pessoa, depois foto de banco gratuito. Guarda em cache."""
     cache = json.loads(FOTOS.read_text(encoding="utf-8")) if FOTOS.exists() else {}
+    if pessoa and not eh_pessoa(pessoa, cache, titulo):
+        pessoa = ""  # não confirmou que é a pessoa certa: melhor foto do tema do que rosto errado
     for chave_, func, valor in (("p:" + pessoa, foto_wikipedia, pessoa), ("b:" + busca, lambda t: sem_rostos(foto_banco(t)), busca)):
         if not valor:
             continue
@@ -467,27 +476,89 @@ PROFISSOES = re.compile(
     r"político|política|ex-bbb|participante|personalidade|celebridade|socialite|diretor|diretora|escritor|escritora|"
     r"dj\b|instrumentista|produtor|produtora|chef\b|tenista|nadador|ginasta|boxeador|treinador|técnic", re.I)
 
-# fotos de banco sem pessoas identificáveis, por categoria (nenhuma pode parecer o famoso da notícia)
-TEMAS_BANCO = {
-    "celebridades": ["cinema seats", "stage spotlight", "concert stage lights", "microphone stage", "camera flash lights"],
-    "televisao": ["television studio", "tv camera studio", "retro television", "film set lights", "clapperboard"],
-    "virais": ["smartphone screen", "social media phone", "smartphone hand", "laptop screen night", "emoji"],
-    "curiosidades": ["galaxy stars", "microscope laboratory", "ancient ruins", "nature landscape", "planet earth space"],
-    "em-alta": ["city lights night", "newspaper stack", "abstract lights", "sao paulo skyline", "rio de janeiro"],
-    "ultimas": ["newspaper stack", "city lights night", "abstract lights", "rio de janeiro", "sao paulo skyline"],
-}
 
 
-def eh_pessoa(nome, cache):
-    """Confere na Wikipédia se o nome é de uma pessoa (atriz, cantor, apresentadora…) e não de um lugar ou novela."""
-    chave = "d:" + nome
+MORTE = re.compile(r"\bmorre|\bmorte\b|\bmorreu|velório|\bluto\b|falece|sepult", re.I)
+
+
+def ano_wikidata(valor):
+    m = re.match(r"[+-](\d{4})", valor or "")
+    return int(m.group(1)) if m else None
+
+
+def eh_pessoa(nome, cache, titulo=""):
+    """Confere se o nome é a pessoa da notícia, e não um homônimo.
+
+    Exige: verbete de pessoa com profissão do meio, nascida a partir de 1930 (Wikidata),
+    viva, ou falecida quando a própria notícia é sobre a morte.
+    """
+    chave = "v:" + nome
     if chave not in cache:
         try:
             d = api_json("https://pt.wikipedia.org/api/rest_v1/page/summary/" + urllib.parse.quote(nome.replace(" ", "_")))
-            cache[chave] = d.get("description", "") if d.get("type") == "standard" else ""
         except Exception:
             return False  # sem resposta agora: tenta de novo na próxima rodada
-    return bool(PROFISSOES.search(cache[chave] or ""))
+        info = {"descricao": d.get("description", "") if d.get("type") == "standard" else "", "nasc": None, "morte": None}
+        qid = d.get("wikibase_item")
+        if info["descricao"] and qid:
+            try:
+                ent = api_json("https://www.wikidata.org/w/api.php?" + urllib.parse.urlencode(
+                    {"action": "wbgetentities", "ids": qid, "props": "claims", "format": "json"}))["entities"][qid]
+                pega = lambda p: ano_wikidata((((ent.get("claims", {}).get(p) or [{}])[0].get("mainsnak", {})
+                                                .get("datavalue", {}).get("value", {})) or {}).get("time"))
+                info["nasc"], info["morte"] = pega("P569"), pega("P570")
+            except Exception:
+                return False
+        cache[chave] = info
+    info = cache[chave]
+    if not PROFISSOES.search(info.get("descricao") or ""):
+        return False
+    if not info.get("nasc") or info["nasc"] < 1930:
+        return False  # sem data de nascimento ou de outra época: pode ser homônimo
+    if info.get("morte") and not (MORTE.search(titulo) and info["morte"] >= AGORA.year - 1):
+        return False
+    return True
+
+
+ESQUEMA_TERMOS = {
+    "type": "object",
+    "properties": {"itens": {"type": "array", "items": {
+        "type": "object", "properties": {"n": {"type": "integer"}, "busca": {"type": "string"}},
+        "required": ["n", "busca"], "additionalProperties": False}}},
+    "required": ["itens"], "additionalProperties": False,
+}
+
+TERMOS_IMAGEM = """Você escolhe fotos de banco de imagens para ilustrar manchetes de um site de notícias.
+Para cada manchete numerada, escreva em inglês de 2 a 4 palavras que descrevam uma foto CONCRETA do assunto da notícia: um objeto, um lugar ou uma situação que apareça na própria manchete (ex.: "stolen smartphone street", "boxing gold medal", "pix payment phone", "olympic boxing ring").
+Regras: sem nomes de pessoas, sem marcas, sem pessoas identificáveis. Se a manchete não tiver nada concreto para fotografar (fofoca, opinião, relacionamento, briga entre famosos), deixe a busca vazia: é melhor ficar sem foto do que usar uma que não combina."""
+
+
+def termos_de_imagem(manchetes):
+    """Pede à IA, em lote, o que fotografar para cada manchete (ou nada)."""
+    if not manchetes or not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN")):
+        return {}
+    import anthropic
+    pedido = "\n".join(f"{i}. {m}" for i, m in enumerate(manchetes))
+    dados = chamar_ia(anthropic.Anthropic(), TERMOS_IMAGEM, pedido, ESQUEMA_TERMOS, "low")
+    return {x["n"]: x["busca"].strip() for x in (dados or {}).get("itens", []) if 0 <= x.get("n", -1) < len(manchetes)}
+
+
+def revisar_fotos_materias():
+    """A cada rodada, a foto de pessoa das matérias próprias passa de novo pelas travas contra homônimos."""
+    if not RESUMOS.exists():
+        return
+    resumos = json.loads(RESUMOS.read_text(encoding="utf-8"))
+    cache = json.loads(FOTOS.read_text(encoding="utf-8")) if FOTOS.exists() else {}
+    trocadas = 0
+    for r in resumos.values():
+        if r.get("slug") and r.get("pessoa") and "Wikimedia" in r.get("credito", "") \
+                and not eh_pessoa(r["pessoa"], cache, r.get("titulo_original", "")):
+            r.update({"imagem": "", "credito": "", "credito_link": ""})
+            trocadas += 1
+    FOTOS.write_text(json.dumps(cache, ensure_ascii=False, indent=1), encoding="utf-8")
+    if trocadas:
+        RESUMOS.write_text(json.dumps(resumos, ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"Fotos de pessoa retiradas de {trocadas} matéria(s) por não confirmar a identidade.")
 
 
 def sem_rostos(opcoes):
@@ -513,19 +584,27 @@ def ilustrar(noticias, limite=40):
     # foto de banco que saiu da lista aprovada (com rosto, sem relação) é trocada
     aprovadas = {o["imagem"] for k, v in cache.items() if k.startswith("b:") and v for o in v}
     for n in noticias:
-        if n.get("imagem_tipo") == "banco" and n.get("imagem") not in aprovadas:
+        if n.get("imagem_tipo") == "banco" and (n.get("imagem") not in aprovadas or not n.get("busca_imagem")):
             n["imagem"] = ""
             n.pop("imagem_tipo", None)
+    sem_termo = [n for n in noticias if not n.get("imagem") and "busca_imagem" not in n][:60]
+    for i in range(0, len(sem_termo), 20):
+        lote = sem_termo[i:i + 20]
+        termos = termos_de_imagem([x["titulo"] for x in lote])
+        if not termos and lote:
+            break  # sem IA agora: tenta na próxima rodada
+        for j, x in enumerate(lote):
+            x["busca_imagem"] = termos.get(j, "")
     for n in noticias:
         if n.get("imagem"):
             continue
         achada = None
         for nome in [x for x in NOMES.findall(n["titulo"]) if x not in PALAVRAS_COMUNS][:2]:
-            if "p:" + nome not in cache or "d:" + nome not in cache:
+            if "p:" + nome not in cache or "v:" + nome not in cache:
                 if consultas >= limite:
                     continue  # consulta nova fica para a próxima rodada; o que já está guardado é usado
                 consultas += 1
-            if not eh_pessoa(nome, cache):
+            if not eh_pessoa(nome, cache, n["titulo"]):
                 continue
             if "p:" + nome not in cache:
                 try:
@@ -535,27 +614,20 @@ def ilustrar(noticias, limite=40):
             if cache["p:" + nome]:
                 achada = {**cache["p:" + nome], "imagem_tipo": "pessoa", "pessoa": nome}
                 break
-        if not achada:
+        if not achada and n.get("busca_imagem"):
             import time
-            temas = TEMAS_BANCO.get(n["categoria"], TEMAS_BANCO["ultimas"])
+            busca = n["busca_imagem"]
             semente = int(hashlib.sha1(n["link"].encode()).hexdigest(), 16)
-            for passo in range(len(temas)):  # se um tema não tiver foto, tenta o próximo
-                busca = temas[(semente + passo) % len(temas)]
-                if "b:" + busca not in cache:
-                    if consultas >= limite:
-                        break
-                    consultas += 1
-                    try:
-                        cache["b:" + busca] = sem_rostos(foto_banco(busca))
-                    except Exception as e:  # limite do banco: não guarda a falha, tenta na próxima rodada
-                        print(f"  ! Banco de imagens ({busca}): {e}")
-                        time.sleep(3)
-                        continue
-                    time.sleep(1)
-                opcoes = cache.get("b:" + busca) or []
-                if opcoes:
-                    achada = {**opcoes[(semente // len(temas)) % len(opcoes)], "imagem_tipo": "banco"}
-                    break
+            if "b:" + busca not in cache and consultas < limite:
+                consultas += 1
+                try:
+                    cache["b:" + busca] = sem_rostos(foto_banco(busca))
+                except Exception as e:  # limite do banco: não guarda a falha, tenta na próxima rodada
+                    print(f"  ! Banco de imagens ({busca}): {e}")
+                time.sleep(1)
+            opcoes = cache.get("b:" + busca) or []
+            if opcoes:
+                achada = {**opcoes[semente % len(opcoes)], "imagem_tipo": "banco"}
         if achada:
             n.update(achada)
     FOTOS.write_text(json.dumps(cache, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -746,7 +818,7 @@ def resumir_novas(noticias):
                 "imagem": n["imagem"], "credito": n.get("credito", ""), "credito_link": "",
             })
             if not registro["imagem"] or n.get("imagem_tipo") == "banco":
-                achada = imagem_segura(dados.get("pessoa", ""), dados.get("busca_imagem", ""), n["link"])
+                achada = imagem_segura(dados.get("pessoa", ""), dados.get("busca_imagem", ""), n["link"], n["titulo"])
                 if achada:
                     registro.update(achada)
             vagas -= 1
@@ -1573,6 +1645,7 @@ if __name__ == "__main__":
     print("Buscando feeds…")
     noticias = coletar()
     ilustrar(noticias)
+    revisar_fotos_materias()
     print("Escrevendo resumos…")
     resumos = resumir_novas(noticias)
     if PREVIEW and not any(r.get("slug") for r in resumos.values()):
