@@ -587,5 +587,67 @@
   "imagem": "https://live.staticflickr.com/4314/35435817523_3de1be92d1_b.jpg",
   "credito": "Foto: Jurassic Blueberries / CC BY 2.0",
   "credito_link": "https://www.flickr.com/photos/59863270@N07/35435817523"
+ },
+ "https://gshow.globo.com/novelas/quem-ama-cuida/vem-por-ai/noticia/quem-ama-cuida-ademir-chantageia-dora-e-a-obriga-a-terminar-com-andre.ghtml": {
+  "recusado": true,
+  "criado": "2026-11-12T03:37:08.890670+00:00"
+ },
+ "https://revistaquem.globo.com/eventos/carnaval/noticia/2026/11/duda-freire-e-mais-musas-da-vila-isabel-brilham-em-ensaio-no-rio.ghtml": {
+  "recusado": true,
+  "criado": "2026-11-12T03:37:08.890670+00:00"
+ },
+ "https://catracalivre.com.br/noticias/levantar-da-cadeira-sem-apoiar-as-maos-parece-simples-mas-exige-forca-das-pernas-e-controle-do-equilibrio/": {
+  "recusado": true,
+  "criado": "2026-11-12T03:37:08.890670+00:00"
+ },
+ "https://g1.globo.com/pop-arte/noticia/2026/11/11/pelos-pubianos-de-russell-brand-sao-removidos-de-museu-de-curiosidades-em-londres-apos-condenacao-por-estupro.ghtml": {
+  "recusado": true,
+  "criado": "2026-11-12T03:37:08.890670+00:00"
+ },
+ "https://revistagalileu.globo.com/ciencia/arqueologia/noticia/2026/11/ciclopia-como-era-a-doenca-genetica-rara-que-matou-crianca-ha-1600-anos.ghtml": {
+  "recusado": true,
+  "criado": "2026-11-12T03:37:08.890670+00:00"
+ },
+ "https://gshow.globo.com/carnaval/2026/noticia/giullia-buscaccio-aposta-em-look-com-pedrarias-correntes-buzios-franjas-e-penas-para-ensaio-da-vila-isabel.ghtml": {
+  "publicar": true,
+  "titulo": "Giullia Buscaccio aposta em look com búzios e correntes para ensaio da Vila Isabel",
+  "linha_fina": "Visual em tons terrosos foi inspirado no livro Torto Arado, enredo da escola para o Carnaval de 2027",
+  "paragrafos": [
+   "Giullia Buscaccio chamou atenção no ensaio de rua da Vila Isabel realizado nesta quarta-feira (11), usando um traje em tons de terra feito com pedrarias, correntes, búzios, franjas e penas.",
+   "A roupa foi criada pelo ateliê Jour, com João Lucas à frente da produção e Natan Xirras responsável pelo styling. Segundo a matéria, cada peça tem um sentido: as correntes simbolizam raízes que cruzam gerações, os búzios remetem à ancestralidade e à espiritualidade, e as texturas e os movimentos lembram a força da natureza.",
+   "O visual foi pensado a partir do enredo da escola, baseado no romance Torto Arado.",
+   "Para 2027, a Vila Isabel levará para a Sapucaí o enredo que tem como título a frase Sobre a terra há de viver sempre o mais forte, desenvolvido pelo casal Leonardo Bora e Gabriel Haddad."
+  ],
+  "tags": [
+   "Giullia Buscaccio",
+   "Vila Isabel",
+   "Torto Arado",
+   "ensaio Carnaval"
+  ],
+  "pessoa": "Giullia Buscaccio",
+  "busca_imagem": "carnival parade costume",
+  "criado": "2026-11-12T03:37:08.890670+00:00",
+  "slug": "giullia-buscaccio-aposta-em-look-com-buzios-e-correntes-para-ensaio-da-9f43b8",
+  "fonte": "Gshow",
+  "link": "https://gshow.globo.com/carnaval/2026/noticia/giullia-buscaccio-aposta-em-look-com-pedrarias-correntes-buzios-franjas-e-penas-para-ensaio-da-vila-isabel.ghtml",
+  "categoria": "televisao",
+  "data": "2026-11-12T04:19:39+00:00",
+  "titulo_original": "Giullia Buscaccio aposta em look com pedrarias, correntes, búzios, franjas e penas para ensaio da Vila Isabel",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/63/225696582_9d2077dd37_b.jpg",
+  "credito": "Foto: OiMax / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/72396314@N00/225696582"
+ },
+ "https://revistaquem.globo.com/noticias/filhos-dos-famosos/noticia/2026/11/thiago-lacerda-faz-aparicao-rara-com-os-filhos-mais-velhos-em-premiere.ghtml": {
+  "recusado": true,
+  "criado": "2026-11-12T03:37:08.890670+00:00"
+ },
+ "https://catracalivre.com.br/noticias/oito-merendeiras-de-alagoas-transformam-macaxeira-abobora-charque-e-ingredientes-comuns-em-pratos-de-competicao-e-disputam-premio-de-r-5-mil-com-receitas-da-escola-publica/": {
+  "recusado": true,
+  "criado": "2026-11-12T03:37:08.890670+00:00"
+ },
+ "https://www.terra.com.br/diversao/entre-telas/apos-atriz-de-godzilla-vs-kong-morrer-aos-18-anos-irma-assume-seu-lugar-em-novo-filme-de-super-herois-preservar-seu-legado,8bfaedbdb35e736e02cf1369804d1d66hf2hxcyg.html": {
+  "recusado": true,
+  "criado": "2026-11-12T03:37:08.890670+00:00"
  }
 }
