@@ -7,7 +7,7 @@
   "fonte": "Quem",
   "categoria": "celebridades",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Ivete_Sangalo_SAM_0058_%2854481946217%29_%28cropped%29.jpg/1280px-Ivete_Sangalo_SAM_0058_%2854481946217%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "data": "2026-11-12T17:40:08.927318+00:00",
+  "data": "2026-11-12T17:46:41.334508+00:00",
   "busca_imagem": "stolen smartphone street",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Ivete_Sangalo_SAM_0058_(54481946217)_(cropped).jpg",
   "imagem_tipo": "pessoa",
@@ -21,7 +21,7 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/MG-53-045_%28Hospital_Alvear._Grupo_de_enfermeros_y_personal_con_su_director.%29.tif/lossy-page1-1280px-MG-53-045_%28Hospital_Alvear._Grupo_de_enfermeros_y_personal_con_su_director.%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "data": "2026-11-12T17:40:08.927318+00:00",
+  "data": "2026-11-12T17:46:41.334508+00:00",
   "busca_imagem": "hospital director office",
   "credito_link": "https://commons.wikimedia.org/wiki/File:MG-53-045_(Hospital_Alvear._Grupo_de_enfermeros_y_personal_con_su_director.).tif",
   "imagem_tipo": "banco"
@@ -30,12 +30,14 @@
   "titulo": "Iza celebra a cultura do sound system na capa do álbum 'Zaza'",
   "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/12/iza-celebra-a-cultura-do-sound-system-na-capa-do-album-zaza.ghtml",
   "trecho": "Capa do álbum 'Zaza', de Iza Divulgação ♫ NOTÍCIA ♬ Iza aparece em cima de um sound system na capa do terceiro álbum de estúdio da artista, “Zaza”. A imagem está em sintonia com o tom do álbum dominado pelo reggae e…",
-  "credito": "",
+  "credito": "Foto: Michael Coghlan / CC BY-SA 2.0, via Wikimedia Commons",
   "fonte": "g1",
   "categoria": "ultimas",
-  "imagem": "",
-  "data": "2026-11-12T17:40:08.927318+00:00",
-  "busca_imagem": "sound system speakers party"
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Multi-Phonic_Sound_System.jpg/1280px-Multi-Phonic_Sound_System.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "data": "2026-11-12T17:46:41.334508+00:00",
+  "busca_imagem": "sound system party",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Multi-Phonic_Sound_System.jpg",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "É hoje! Paolla Oliveira conhece figurino de rainha de bateria para desfile da Imperatriz no Carnaval 2027",
@@ -45,8 +47,8 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Paolla_Oliveira.jpg/1280px-Paolla_Oliveira.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "data": "2026-11-12T17:40:08.927318+00:00",
-  "busca_imagem": "carnival samba queen costume",
+  "data": "2026-11-12T17:46:41.334508+00:00",
+  "busca_imagem": "samba carnival costume",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Paolla_Oliveira.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Paolla Oliveira"
@@ -59,7 +61,7 @@
   "fonte": "Quem",
   "categoria": "celebridades",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Elisa12%281%29.jpg/1280px-Elisa12%281%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "data": "2026-11-12T17:40:08.927318+00:00",
+  "data": "2026-11-12T17:46:41.334508+00:00",
   "busca_imagem": "central bank building",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Elisa12(1).jpg",
   "imagem_tipo": "pessoa",
@@ -74,7 +76,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-12T18:38:12+00:00",
-  "busca_imagem": ""
+  "busca_imagem": "Salvador beach travel"
  },
  {
   "titulo": "Pete Davidson revela valor altíssimo que já gastou para remover tatuagens: 'É brutal'",
@@ -85,7 +87,7 @@
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Pete_Davidson_in_2015_%2817073107891%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-12T18:16:40+00:00",
-  "busca_imagem": "",
+  "busca_imagem": "tattoo removal laser",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Pete_Davidson_in_2015_(17073107891).jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Pete Davidson"
@@ -99,7 +101,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-12T18:16:38+00:00",
-  "busca_imagem": ""
+  "busca_imagem": "toned abdomen fitness"
  },
  {
   "titulo": "Juliano Cazarré curte praia com a esposa grávida e cuida do físico para 'Avenida Brasil 2'",
@@ -110,7 +112,7 @@
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Juliano_Cazarre_as_Alcides_in_Pantanal_%282022%29.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-12T18:09:04+00:00",
-  "busca_imagem": "beach surfing waves",
+  "busca_imagem": "beach surfing sunset",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Juliano_Cazarre_as_Alcides_in_Pantanal_(2022).png",
   "imagem_tipo": "pessoa",
   "pessoa": "Juliano Cazarré"
@@ -124,7 +126,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-12T18:05:11+00:00",
-  "busca_imagem": ""
+  "busca_imagem": "elderly woman portrait"
  },
  {
   "titulo": "Georgina Rodríguez mostra festinha caseira para os 9 anos da filha com Cristiano Ronaldo",
@@ -135,7 +137,7 @@
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Georgina_Rodr%C3%ADguez_in_the_Oval_Office_%2854934212986%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-12T17:51:01+00:00",
-  "busca_imagem": "birthday party cake balloons",
+  "busca_imagem": "birthday party cake children",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Georgina_Rodr%C3%ADguez_in_the_Oval_Office_(54934212986)_(cropped).jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Georgina Rodríguez"
@@ -149,20 +151,44 @@
   "categoria": "celebridades",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Carolina_Dieckmann_02.jpg/1280px-Carolina_Dieckmann_02.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "data": "2026-11-12T17:45:44+00:00",
-  "busca_imagem": "noronha beach tropical sand",
+  "busca_imagem": "Noronha beach turquoise water",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Carolina_Dieckmann_02.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Carolina Dieckmmann"
  },
  {
+  "titulo": "Especialistas em coloração afirmam: “Quem tem cabelos brancos não precisa retocar toda a cor, mas apenas as raízes.”",
+  "link": "https://catracalivre.com.br/saude-bem-estar/especialistas-em-coloracao-afirmam-quem-tem-cabelos-brancos-nao-precisa-retocar-toda-a-cor-mas-apenas-as-raizes/",
+  "trecho": "Retocar apenas a raiz cobre os cabelos brancos sem acumular pigmentos nas pontas. Entenda como preservar a cor, o brilho e a saúde dos fios tingidos. O post Especialistas em coloração afirmam: “Quem tem cabelos brancos…",
+  "credito": "",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "imagem": "",
+  "data": "2026-11-12T17:44:41+00:00",
+  "busca_imagem": "gray hair coloring salon"
+ },
+ {
+  "titulo": "O eclipse solar mais longo do século está chegando: o dia se transformará em noite e não acontecerá novamente pelos próximos 157 anos.",
+  "link": "https://catracalivre.com.br/noticias/o-eclipse-solar-mais-longo-do-seculo-esta-chegando-o-dia-se-transformara-em-noite-e-nao-acontecera-novamente-pelos-proximos-157-anos/",
+  "trecho": "Eclipse solar total de 2027 terá até 6 minutos e 23 segundos de escuridão. Veja onde será visível, o trajeto da sombra e os cuidados essenciais. O post O eclipse solar mais longo do século está chegando: o dia se…",
+  "credito": "Foto: User:Kalan / CC BY 3.0, via Wikimedia Commons",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/2008-08-01_Solar_eclipse_progression.jpg/1280px-2008-08-01_Solar_eclipse_progression.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "data": "2026-11-12T17:41:10+00:00",
+  "busca_imagem": "total solar eclipse",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:2008-08-01_Solar_eclipse_progression.jpg",
+  "imagem_tipo": "banco"
+ },
+ {
   "titulo": "Longe da cidade grande: Bruno Gissoni e Yanna deixam a Globo para viver em família no campo",
-  "link": "https://contigo.com.br/noticias/famosos/longe-da-cidade-grande-bruno-gissoni-e-yanna-deixam-a-globo-para-viver-em-familia-no-campo.phtml",
-  "trecho": "Priorizando uma infância ao ar livre, Bruno Gissoni e Yanna Lavigne vivem uma nova rotina afastada dos centros urbanos O post Longe da cidade grande: Bruno Gissoni e Yanna deixam a Globo para viver em família no campo…",
+  "link": "https://www.terra.com.br/diversao/gente/longe-da-cidade-grande-bruno-gissoni-e-yanna-deixam-a-globo-para-viver-em-familia-no-campo,b5d30df333610ef819416816d0f9317bxq83kcpa.html",
+  "trecho": "Focando na integração com o meio ambiente e a distância das telas, Bruno Gissoni e Yanna Lavigne ...",
   "credito": "Foto: 亜々乱 山岸 河合 from SJC, TROPICÁLIA / CC BY-SA 2.0, via Wikimedia Commons",
-  "fonte": "Contigo",
-  "categoria": "celebridades",
+  "fonte": "Terra",
+  "categoria": "ultimas",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Bruno_Gissoni_2011_%28cropped%29.jpg/1280px-Bruno_Gissoni_2011_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "data": "2026-11-12T17:35:43+00:00",
+  "data": "2026-11-12T17:36:05+00:00",
   "busca_imagem": "countryside farm house",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Bruno_Gissoni_2011_(cropped).jpg",
   "imagem_tipo": "pessoa",
@@ -188,32 +214,106 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-12T17:34:26+00:00",
-  "busca_imagem": "ancient roman scroll manuscript"
+  "busca_imagem": "ancient Roman scroll manuscript"
+ },
+ {
+  "titulo": "Esposa de Thiaguinho polemiza ao tomar decisão radical sobre o filho",
+  "link": "https://www.terra.com.br/diversao/gente/esposa-de-thiaguinho-polemiza-ao-tomar-decisao-radical-sobre-o-filho,38c46274129c97df6fad093756ea8ccebatl37sn.html",
+  "trecho": "Carol Peixinho decidiu iniciar uma nova fase na maternidade. A ex-participante do BBB encerrou a ...",
+  "credito": "",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "",
+  "data": "2026-11-12T17:32:42+00:00",
+  "busca_imagem": ""
+ },
+ {
+  "titulo": "Spotify passa a permitir acesso com conta pessoal nas telas de assento da United Airlines",
+  "link": "https://www.terra.com.br/diversao/musica/spotify-passa-a-permitir-acesso-com-conta-pessoal-nas-telas-de-assento-da-united-airlines,d86331b2150753c37506c9ade9497f22fq26ry0o.html",
+  "trecho": "A partir de agora, quem voa pela United Airlines em aviões equipados com Starlink pode acessar a ...",
+  "credito": "Foto: Frankie Roberto / CC BY 2.0",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "https://live.staticflickr.com/2381/2399612184_67bc7790eb_b.jpg",
+  "data": "2026-11-12T17:32:42+00:00",
+  "busca_imagem": "airplane seat screen entertainment",
+  "credito_link": "https://www.flickr.com/photos/84195101@N00/2399612184",
+  "imagem_tipo": "banco"
+ },
+ {
+  "titulo": "Desacreditado à Bola de Ouro: como Kane virou uma lenda prestes a bater recorde na Inglaterra",
+  "link": "https://www.espn.com.br/futebol/artigo/_/id/17505254/desacreditado-bola-de-ouro-como-harry-kane-virou-lenda-prestes-bater-recorde-inglaterra",
+  "trecho": "",
+  "fonte": "ESPN Brasil",
+  "categoria": "em-alta",
+  "data": "2026-11-12T17:30:00+00:00",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/CINvCLT_2017-06-10_-_goal_celebration_%2834538276833%29.jpg/1280px-CINvCLT_2017-06-10_-_goal_celebration_%2834538276833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "em_alta": "inglaterra x croácia · 200+ buscas",
+  "busca_imagem": "football stadium goal celebration",
+  "credito": "Foto: Hayden Schiff from Cincinnati, USA / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:CINvCLT_2017-06-10_-_goal_celebration_(34538276833).jpg",
+  "imagem_tipo": "banco"
+ },
+ {
+  "titulo": "As 3 principais contradições de Suzane von Richthofen no documentário da Netflix",
+  "link": "https://veja.abril.com.br/cultura/as-3-principais-contradicoes-de-suzane-von-richthofen-no-documentario-da-netflix/",
+  "trecho": "",
+  "fonte": "VEJA",
+  "categoria": "em-alta",
+  "data": "2026-11-12T17:30:00+00:00",
+  "imagem": "",
+  "em_alta": "documentário · 2000+ buscas",
+  "busca_imagem": "documentary film reel projector"
+ },
+ {
+  "titulo": "Ala do PT quer barrar Camilo Santana na Casa Civil após racha sobre redução da maioridade penal",
+  "link": "https://www1.folha.uol.com.br/poder/2026/11/ala-do-pt-quer-barrar-camilo-santana-na-casa-civil-apos-racha-sobre-reducao-da-maioridade-penal.shtml",
+  "trecho": "",
+  "fonte": "Folha de S.Paulo",
+  "categoria": "em-alta",
+  "data": "2026-11-12T17:30:00+00:00",
+  "imagem": "",
+  "em_alta": "camilo santana · 200+ buscas",
+  "busca_imagem": "congress building brasilia dome"
+ },
+ {
+  "titulo": "Técnico da Espanha se incomoda com perguntas sobre privilégios de Lamine na seleção: 'O que mais me irrita é...'",
+  "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/17505211/tecnico-espanha-de-la-fuente-irrita-privilegios-yamal-selecao",
+  "trecho": "",
+  "fonte": "ESPN Brasil",
+  "categoria": "em-alta",
+  "data": "2026-11-12T17:30:00+00:00",
+  "imagem": "https://live.staticflickr.com/2215/2433182242_e51200a2bb_b.jpg",
+  "em_alta": "espanha x · 200+ buscas",
+  "busca_imagem": "soccer coach bench stadium",
+  "credito": "Foto: mwlguide / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/87533529@N00/2433182242",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "‘Roque Santeiro’: Mirna descobre segredo de Roque e poderosos planejam expulsá-lo de Asa Branca",
   "link": "https://contigo.com.br/noticias/novelas/roque-santeiro-mirna-descobre-segredo-de-roque-e-poderosos-planejam-expulsa-lo-de-asa-branca.phtml",
   "trecho": "No capítulo desta quinta-feira (12), Sinhozinho Malta surpreenderá a filha ao levar Roberto Mathias para casa, enquanto Porcina e seus aliados tentarão afastar Roque da cidade O post ‘Roque Santeiro’: Mirna descobre…",
-  "credito": "Foto: Bjankuloski06 / CC BY 4.0, via Wikimedia Commons",
+  "credito": "Foto: DMahendra / CC BY 2.0",
   "fonte": "Contigo",
   "categoria": "celebridades",
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/M%C4%81ngere_Bridge_Village_Square_from_NE.jpg/1280px-M%C4%81ngere_Bridge_Village_Square_from_NE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imagem": "https://live.staticflickr.com/4135/4868530184_621d1e98d5_b.jpg",
   "data": "2026-11-12T17:27:45+00:00",
-  "busca_imagem": "village town square",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:M%C4%81ngere_Bridge_Village_Square_from_NE.jpg",
+  "busca_imagem": "small town dusty street",
+  "credito_link": "https://www.flickr.com/photos/7175652@N02/4868530184",
   "imagem_tipo": "banco"
  },
  {
   "titulo": "Letras inéditas de Luiz Melodia não são pérolas negras, mas dão algum brilho a EP que transita por samba, soul e pop solar",
   "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/12/letras-ineditas-de-luiz-melodia-nao-sao-perolas-negras-mas-dao-algum-brilho-a-ep-que-transita-por-samba-soul-e-pop-solar.ghtml",
   "trecho": "Luiz Melodia (1951 – 2017) vira parceiro póstumo de Adriana Calcanhotto, Julia Mestre, Russo Passapusso, Victor Cupertino e Xande de Pilares Divulgação ♫ CRÍTICA DE EP Título: “Melodia – Letra e música” Artistas…",
-  "credito": "Foto: W.carter / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito": "Foto: GordonCZ / CC BY 4.0, via Wikimedia Commons",
   "fonte": "g1",
   "categoria": "ultimas",
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Catalog_number_DJLPD.1001_on_the_1973_vinyl_LP_album_Goodbye_Yellow_Brick_Road_by_Elton_John.jpg/1280px-Catalog_number_DJLPD.1001_on_the_1973_vinyl_LP_album_Goodbye_Yellow_Brick_Road_by_Elton_John.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Modern_DIY_White_Record_Player_Stand.jpg/1280px-Modern_DIY_White_Record_Player_Stand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "data": "2026-11-12T17:26:33+00:00",
-  "busca_imagem": "vinyl record album music",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Catalog_number_DJLPD.1001_on_the_1973_vinyl_LP_album_Goodbye_Yellow_Brick_Road_by_Elton_John.jpg",
+  "busca_imagem": "vinyl record player turntable",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Modern_DIY_White_Record_Player_Stand.jpg",
   "imagem_tipo": "banco"
  },
  {
@@ -225,7 +325,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-12T17:24:20+00:00",
-  "busca_imagem": "lemon vinaigrette salad dressing"
+  "busca_imagem": "lemon halves cutting board"
  },
  {
   "titulo": "Tia Milena posa de biquíni em viagem a Salvador com ex-BBBs",
@@ -247,23 +347,60 @@
   "categoria": "celebridades",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Timoth%C3%A9e_Chalamet-63541_%28cropped%29.jpg/1280px-Timoth%C3%A9e_Chalamet-63541_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "data": "2026-11-12T17:22:54+00:00",
-  "busca_imagem": "vintage microphone folk singer",
+  "busca_imagem": "vintage harmonica microphone stage",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Timoth%C3%A9e_Chalamet-63541_(cropped).jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Timothée Chalamet"
  },
  {
+  "titulo": "Grávida do 1º filho com Rômulo Arantes Neto, Mari Saad adapta treinos para a reta final da gestação; treinadora explica importância. 'Quando a barriga começa a empurrar para fora durante o movimento, é sinal de que aquele exercício precisa ser adaptado ou retirado'",
+  "link": "https://www.terra.com.br/diversao/gente/gravida-do-1-filho-com-romulo-arantes-neto-mari-saad-adapta-treinos-para-a-reta-final-da-gestacao-treinadora-explica-importancia-quando-a-barriga-comeca-a-empurrar-para-fora-durante-o-movimento-e-sinal-de-que-aquele-exercicio-precisa-ser-adaptado-ou-retirado,613fb711a9c83f4a3788597204114894e9n2egib.html",
+  "trecho": "A gravidez provoca mudanças importantes no corpo da mulher, e a prática de exercícios físicos ...",
+  "credito": "Foto: Renan Katayama / CC BY-SA 2.0, via Wikimedia Commons",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/55/19_-_Romulo_Arantes_Neto-003_%2817131529912%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "data": "2026-11-12T17:22:48+00:00",
+  "busca_imagem": "pregnant woman stretching yoga mat",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:19_-_Romulo_Arantes_Neto-003_(17131529912).jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Rômulo Arantes Neto"
+ },
+ {
+  "titulo": "Em vídeo, Chinaina ironiza estereótipo de nordestinos na TV",
+  "link": "https://www.terra.com.br/diversao/entre-telas/em-video-chinaina-ironiza-estereotipo-de-nordestinos-na-tv,25c73d98aedf4d158c63692cbfe1e6472dx5b2fa.html",
+  "trecho": "O músico e apresentador Chinaina usou as redes sociais para ironizar a representação dos ...",
+  "credito": "",
+  "fonte": "Terra",
+  "categoria": "virais",
+  "imagem": "",
+  "data": "2026-11-12T17:21:12+00:00",
+  "busca_imagem": ""
+ },
+ {
   "titulo": "Traição e suspeita de espionagem chinesa: entenda o escândalo envolvendo o CEO da Nvidia",
   "link": "https://contigo.com.br/noticias/famosos/traicao-e-suspeita-de-espionagem-chinesa-entenda-o-escandalo-envolvendo-o-ceo-da-nvidia.phtml",
   "trecho": "Jensen Huang renunciou à presidência da gigante de tecnologia em meio a investigações sobre relacionamento com empresária suspeita de atuar para a China O post Traição e suspeita de espionagem chinesa: entenda o…",
-  "credito": "Foto: Creativity103 / CC BY 2.0",
+  "credito": "",
   "fonte": "Contigo",
   "categoria": "celebridades",
-  "imagem": "https://live.staticflickr.com/5129/5228433146_02c96cc88e_b.jpg",
+  "imagem": "",
   "data": "2026-11-12T17:19:12+00:00",
-  "busca_imagem": "computer chips circuit board",
-  "credito_link": "https://www.flickr.com/photos/36894712@N04/5228433146",
-  "imagem_tipo": "banco"
+  "busca_imagem": "microchip circuit board closeup"
+ },
+ {
+  "titulo": "Tarantino revela que demitiu Mélanie Laurent e Isabelle Huppert de 'Bastardos Inglórios'",
+  "link": "https://www.terra.com.br/diversao/entre-telas/tarantino-revela-que-demitiu-melanie-laurent-e-isabelle-huppert-de-bastardos-inglorios,4b2e2c5a9f0ce278dc86be1b8952bef2rawzfaw1.html",
+  "trecho": "Quentin Tarantino ( Era Uma Vez em... Holywood ) revelou que chegou a demitir Mélanie Laurent ( ...",
+  "credito": "Foto: Elena Ternovaja / CC BY-SA 3.0, via Wikimedia Commons",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Isabelle_Huppert_at_Berlinale_2026-1.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "data": "2026-11-12T17:17:44+00:00",
+  "busca_imagem": "vintage movie clapperboard set",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Isabelle_Huppert_at_Berlinale_2026-1.jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Isabelle Huppert"
  },
  {
   "titulo": "O que significa que uma pessoa eleva o tom de voz quando fala, dependendo da psicologia",
@@ -296,7 +433,7 @@
   "categoria": "televisao",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bruna_Marquezine_2025.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-12T17:11:41+00:00",
-  "busca_imagem": "tropical beach canoe",
+  "busca_imagem": "wooden canoe turquoise sea",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Bruna_Marquezine_2025.png",
   "imagem_tipo": "pessoa",
   "pessoa": "Bruna Marquezine"
@@ -305,14 +442,12 @@
   "titulo": "Vídeo: Fall Out Boy surpreende fãs com show em shopping e lança inédita em VHS",
   "link": "https://www.terra.com.br/diversao/musica/video-fall-out-boy-surpreende-fas-com-show-em-shopping-e-lanca-inedita-em-vhs,20fa4693a10acec6884d0dffd08f8120m04sywrj.html",
   "trecho": "Em meio à preparação para sua nova fase da carreira e o anúncio de uma turnê mundial para 2027, ...",
-  "credito": "Foto: Toby Hudson / CC BY-SA 2.5 au, via Wikimedia Commons",
+  "credito": "",
   "fonte": "Terra",
   "categoria": "virais",
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/VHS_cassette_tape_14.JPG/1280px-VHS_cassette_tape_14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imagem": "",
   "data": "2026-11-12T17:11:14+00:00",
-  "busca_imagem": "vhs tape cassette",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:VHS_cassette_tape_14.JPG",
-  "imagem_tipo": "banco"
+  "busca_imagem": "vhs tape cassette closeup"
  },
  {
   "titulo": "Maurício Mattar revela vício e fala de internação em clínica em 1998: 'É a hora certa de falar'",
@@ -351,7 +486,7 @@
   "data": "2026-11-12T17:10:00+00:00",
   "imagem": "",
   "em_alta": "hugo motta · 200+ buscas",
-  "busca_imagem": ""
+  "busca_imagem": "parliament voting chamber empty seats"
  },
  {
   "titulo": "Caio Mutai vive fase de destaque no cinema e se prepara para musical de filme clássico",
@@ -362,7 +497,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-12T17:07:57+00:00",
-  "busca_imagem": ""
+  "busca_imagem": "movie theater spotlight stage"
  },
  {
   "titulo": "Conheça 'O Corpo', série com casal sáfico inspirada em 'Carrie, A Estranha'",
@@ -373,7 +508,7 @@
   "categoria": "ultimas",
   "imagem": "",
   "data": "2026-11-12T17:07:46+00:00",
-  "busca_imagem": ""
+  "busca_imagem": "two women couple embrace"
  },
  {
   "titulo": "Poço subterrâneo na Índia tem sete níveis e mais de 1.500 esculturas",
@@ -397,7 +532,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-12T17:05:21+00:00",
-  "busca_imagem": "luxury resort hotel mexico"
+  "busca_imagem": "luxury resort pool mexico"
  },
  {
   "titulo": "Como aliviar a sensação de pernas pesadas e a rigidez nas costas com alongamentos simples para fazer em casa",
@@ -408,7 +543,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-12T17:04:11+00:00",
-  "busca_imagem": "home stretching exercise legs"
+  "busca_imagem": "woman stretching legs home"
  },
  {
   "titulo": "Filha de Leonardo desiste de tratamento após valor 'absurdo': 'Não tenho esse valor'",
@@ -430,7 +565,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-12T17:02:39+00:00",
-  "busca_imagem": ""
+  "busca_imagem": "police handcuffs arrest night"
  },
  {
   "titulo": "Aos 46 anos, apresentador da Globo vive casamento discretíssimo de quase uma década com bordadeira",
@@ -477,7 +612,7 @@
   "categoria": "curiosidades",
   "imagem": "",
   "data": "2026-11-12T17:00:43+00:00",
-  "busca_imagem": ""
+  "busca_imagem": "china military weapon technology"
  },
  {
   "titulo": "Vídeos do episódio de 'Mais Você' de quinta-feira, 12 de novembro de 2026",
@@ -488,7 +623,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-12T17:00:01+00:00",
-  "busca_imagem": ""
+  "busca_imagem": "television studio morning show"
  },
  {
   "titulo": "Cansou do preto básico? 3 looks elegantes para usar no trabalho",
@@ -499,7 +634,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-12T17:00:00+00:00",
-  "busca_imagem": "elegant black office outfit"
+  "busca_imagem": "elegant black dress office"
  },
  {
   "titulo": "A Turquia mudou de nome? Entenda o uso de \"Türkiye\" na COP31",
@@ -522,12 +657,9 @@
   "fonte": "Governo Federal",
   "categoria": "em-alta",
   "data": "2026-11-12T17:00:00+00:00",
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/NSA_Souda_Bay%E2%80%99s_Library_Offers_Holiday_Books_and_Movies_%286438342%29.jpg/1280px-NSA_Souda_Bay%E2%80%99s_Library_Offers_Holiday_Books_and_Movies_%286438342%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imagem": "",
   "em_alta": "advocacia pública do brasil · 200+ buscas",
-  "busca_imagem": "law books government library",
-  "credito": "Foto: U.S. Navy photo by Petty Officer 2nd Class Kelly… / Public domain, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:NSA_Souda_Bay%E2%80%99s_Library_Offers_Holiday_Books_and_Movies_(6438342).jpg",
-  "imagem_tipo": "banco"
+  "busca_imagem": "law books exam desk"
  },
  {
   "titulo": "Pai de Felipe Araújo precisa ser internado após crise",
@@ -549,7 +681,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-12T16:56:33+00:00",
-  "busca_imagem": "salt pools mountain landscape"
+  "busca_imagem": "salt evaporation ponds peru"
  },
  {
   "titulo": "'Star Wars: Episódio IV - Uma Nova Esperança' será relançado nos cinemas em celebração aos 50 anos",
@@ -595,12 +727,9 @@
   "fonte": "Bloomberg Linea Brasil",
   "categoria": "em-alta",
   "data": "2026-11-12T16:50:00+00:00",
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Financial_District_Manhattan_May_2025_071.jpg/1280px-Financial_District_Manhattan_May_2025_071.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imagem": "",
   "em_alta": "bb seguridade · 500+ buscas",
-  "busca_imagem": "bank building financial district",
-  "credito": "Foto: Kidfly182 / CC BY 4.0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Financial_District_Manhattan_May_2025_071.jpg",
-  "imagem_tipo": "banco"
+  "busca_imagem": "bank building brazil exterior"
  },
  {
   "titulo": "Starbucks lança campanha de Natal com Bearista e bebidas sazonais",
@@ -624,7 +753,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-12T16:45:00+00:00",
-  "busca_imagem": "summer office outfit clothes"
+  "busca_imagem": "summer office outfit woman"
  },
  {
   "titulo": "A pequena cidade mineira com pouco mais de 4 mil habitantes que ocupa uma área de aproximadamente 728 quilômetros quadrados e chama atenção pelas paisagens naturais do interior de Minas Gerais",
@@ -657,7 +786,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-12T16:41:00+00:00",
-  "busca_imagem": "stepwell ancient india stairs"
+  "busca_imagem": "stepwell geometric pattern india"
  },
  {
   "titulo": "Armênia x Chipre: onde assistir ao vivo e horário | UEFA Nations League 2026/27",
@@ -679,7 +808,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-12T16:34:09+00:00",
-  "busca_imagem": "drywall anchor screw wall"
+  "busca_imagem": "wall drill anchor screw"
  },
  {
   "titulo": "Aos 54 anos, Hudson, da dupla com Edson, transformou mansão em refúgio rural com lago no interior de SP",
@@ -690,7 +819,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-12T16:33:43+00:00",
-  "busca_imagem": "luxury mansion lake countryside"
+  "busca_imagem": "rural house lake countryside"
  },
  {
   "titulo": "Aos 53 anos, Roger Gobeth já revelou recomeço após deixar Record e falou sobre desejo de ser pai",
@@ -701,7 +830,6 @@
   "categoria": "televisao",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Roger_Gobeth_IMG_1725_%2824534430552%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-12T16:32:48+00:00",
-  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Roger_Gobeth_IMG_1725_(24534430552).jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Roger Gobeth"
@@ -726,8 +854,7 @@
   "fonte": "Galileu",
   "categoria": "curiosidades",
   "imagem": "",
-  "data": "2026-11-12T16:30:02+00:00",
-  "busca_imagem": "portable medical device handheld"
+  "data": "2026-11-12T16:30:02+00:00"
  },
  {
   "titulo": "Zezé e Luciano não farão mais shows juntos em 2027: Áudio revela de quem partiu decisão e motivo",
@@ -737,8 +864,7 @@
   "fonte": "OTV Foco",
   "categoria": "televisao",
   "imagem": "",
-  "data": "2026-11-12T16:30:00+00:00",
-  "busca_imagem": ""
+  "data": "2026-11-12T16:30:00+00:00"
  },
  {
   "titulo": "Anatel prioriza espectro, postes, roaming e inteligência artificial em 2027-2028",

@@ -2635,5 +2635,177 @@
   "nasc": null,
   "morte": null
  },
- "b:small town minas gerais mountains": null
+ "b:small town minas gerais mountains": null,
+ "b:sound system party": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Multi-Phonic_Sound_System.jpg/1280px-Multi-Phonic_Sound_System.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Michael Coghlan / CC BY-SA 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Multi-Phonic_Sound_System.jpg"
+  }
+ ],
+ "b:Salvador beach travel": null,
+ "b:toned abdomen fitness": null,
+ "b:elderly woman portrait": null,
+ "b:gray hair coloring salon": null,
+ "b:total solar eclipse": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Eclipse-totale-2026-couronne-Luc-Viatour.jpg/1280px-Eclipse-totale-2026-couronne-Luc-Viatour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Lviatour / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Eclipse-totale-2026-couronne-Luc-Viatour.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/2008-08-01_Solar_eclipse_progression.jpg/1280px-2008-08-01_Solar_eclipse_progression.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: User:Kalan / CC BY 3.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:2008-08-01_Solar_eclipse_progression.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Time_Lapse_of_Total_Solar_Eclipse.jpg/1280px-Time_Lapse_of_Total_Solar_Eclipse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Callan Carpenter / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Time_Lapse_of_Total_Solar_Eclipse.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Solar_eclipse_of_2026_August_12_in_Prague_%28Prague_Castle_from_Riegrovy_sady%29.jpg/1280px-Solar_eclipse_of_2026_August_12_in_Prague_%28Prague_Castle_from_Riegrovy_sady%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Václav Jiroušek / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Solar_eclipse_of_2026_August_12_in_Prague_(Prague_Castle_from_Riegrovy_sady).jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Total_Solar_Eclipse_8_Apr_2024.jpg/1280px-Total_Solar_Eclipse_8_Apr_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Gravy59 / CC0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Total_Solar_Eclipse_8_Apr_2024.jpg"
+  }
+ ],
+ "b:ancient Roman scroll manuscript": null,
+ "v:United Airlines": {
+  "descricao": "companhia aérea norte-americana",
+  "nasc": null,
+  "morte": null
+ },
+ "b:airplane seat screen entertainment": [
+  {
+   "imagem": "https://live.staticflickr.com/2381/2399612184_67bc7790eb_b.jpg",
+   "credito": "Foto: Frankie Roberto / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/84195101@N00/2399612184"
+  }
+ ],
+ "v:Bola de Ouro": {
+  "descricao": "premiação futebolística anual",
+  "nasc": null,
+  "morte": null
+ },
+ "b:football stadium goal celebration": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Beijing_Guoan_goal_celebration_2025-05-05.jpg/1280px-Beijing_Guoan_goal_celebration_2025-05-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: IDontHaveSkype / CC0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Beijing_Guoan_goal_celebration_2025-05-05.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/CINvCLT_2017-06-10_-_goal_celebration_%2834538276833%29.jpg/1280px-CINvCLT_2017-06-10_-_goal_celebration_%2834538276833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Hayden Schiff from Cincinnati, USA / CC BY 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:CINvCLT_2017-06-10_-_goal_celebration_(34538276833).jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/CINvBST_2018-06-13_-_goal_celebration_%2831505080848%29.jpg/1280px-CINvBST_2018-06-13_-_goal_celebration_%2831505080848%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Hayden Schiff from Cincinnati, USA / CC BY 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:CINvBST_2018-06-13_-_goal_celebration_(31505080848).jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/CINvBST_2018-06-13_-_goal_celebration_%2844656477594%29.jpg/1280px-CINvBST_2018-06-13_-_goal_celebration_%2844656477594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Hayden Schiff from Cincinnati, USA / CC BY 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:CINvBST_2018-06-13_-_goal_celebration_(44656477594).jpg"
+  }
+ ],
+ "b:documentary film reel projector": null,
+ "v:Camilo Santana": {
+  "descricao": "Ministro da Educação do Brasil, ex-governador do Ceará",
+  "nasc": 1968,
+  "morte": null
+ },
+ "v:Casa Civil": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "b:congress building brasilia dome": null,
+ "b:soccer coach bench stadium": [
+  {
+   "imagem": "https://live.staticflickr.com/2445/3587637747_f82190cdfe_b.jpg",
+   "credito": "Foto: dph1110 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/56181704@N00/3587637747"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2215/2433182242_e51200a2bb_b.jpg",
+   "credito": "Foto: mwlguide / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/87533529@N00/2433182242"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4044/4457963818_a39e319324_b.jpg",
+   "credito": "Foto: Dan4th / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/43264265@N00/4457963818"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/40/124924360_6073048af0_b.jpg",
+   "credito": "Foto: mwlguide / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/87533529@N00/124924360"
+  }
+ ],
+ "b:small town dusty street": [
+  {
+   "imagem": "https://live.staticflickr.com/4135/4868530184_621d1e98d5_b.jpg",
+   "credito": "Foto: DMahendra / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/7175652@N02/4868530184"
+  }
+ ],
+ "b:vinyl record player turntable": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Vinyl_turntable_%26_retro_radio_player_at_Rumah_Loer_-_Palembang%2C_SS_%289_August_2021%29.jpg/1280px-Vinyl_turntable_%26_retro_radio_player_at_Rumah_Loer_-_Palembang%2C_SS_%289_August_2021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Firzafp / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Vinyl_turntable_%26_retro_radio_player_at_Rumah_Loer_-_Palembang,_SS_(9_August_2021).jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/HMV_Record_Player.jpg/1280px-HMV_Record_Player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Amitbalani / CC0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:HMV_Record_Player.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Vinyl_Player_Original.jpg/1280px-Vinyl_Player_Original.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Ryankusumojr / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Vinyl_Player_Original.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Modern_DIY_White_Record_Player_Stand.jpg/1280px-Modern_DIY_White_Record_Player_Stand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: GordonCZ / CC BY 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Modern_DIY_White_Record_Player_Stand.jpg"
+  }
+ ],
+ "b:lemon halves cutting board": null,
+ "v:Rômulo Arantes Neto": {
+  "descricao": "ator e empresário brasileiro",
+  "nasc": 1987,
+  "morte": null
+ },
+ "p:Rômulo Arantes Neto": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/55/19_-_Romulo_Arantes_Neto-003_%2817131529912%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Renan Katayama / CC BY-SA 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:19_-_Romulo_Arantes_Neto-003_(17131529912).jpg"
+ },
+ "b:microchip circuit board closeup": null,
+ "v:Mélanie Laurent": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Isabelle Huppert": {
+  "descricao": "atriz francesa",
+  "nasc": 1953,
+  "morte": null
+ },
+ "p:Isabelle Huppert": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Isabelle_Huppert_at_Berlinale_2026-1.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Elena Ternovaja / CC BY-SA 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Isabelle_Huppert_at_Berlinale_2026-1.jpg"
+ },
+ "b:vhs tape cassette closeup": null,
+ "b:parliament voting chamber empty seats": null,
+ "b:movie theater spotlight stage": null,
+ "b:two women couple embrace": null
 }
