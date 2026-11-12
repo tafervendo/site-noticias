@@ -112,5 +112,83 @@
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/DanielRadcliffe-byPhilipRomano.jpg/1280px-DanielRadcliffe-byPhilipRomano.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credito": "Foto: PhilipRomano / CC BY-SA 4.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:DanielRadcliffe-byPhilipRomano.jpg"
- }
+ },
+ "b:petrochemical plant industry": [
+  {
+   "imagem": "https://live.staticflickr.com/3346/3628838002_329654abd5_b.jpg",
+   "credito": "Foto: roy.luck / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/21550937@N03/3628838002"
+  },
+  {
+   "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Mt._Fuji_and_Keiyo_petrochemical_complex.JPG",
+   "credito": "Foto: Nanashinodensyaku / CC BY-SA 4.0",
+   "credito_link": "https://commons.wikimedia.org/w/index.php?curid=37716616"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2070/2409079398_f4bf45cc5e_b.jpg",
+   "credito": "Foto: Libelul / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/21987796@N08/2409079398"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/50077342487_7af562cbeb_b.jpg",
+   "credito": "Foto: M McBey / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/158652122@N02/50077342487"
+  }
+ ],
+ "p:Rafael Ilha": null,
+ "b:hospital corridor interior": [
+  {
+   "imagem": "https://live.staticflickr.com/2889/33417044305_c4ecf0d244_b.jpg",
+   "credito": "Foto: infomatique / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/80824546@N00/33417044305"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8685/17181380553_2337566963_b.jpg",
+   "credito": "Foto: Aussie~mobs / domínio público",
+   "credito_link": "https://www.flickr.com/photos/70994841@N07/17181380553"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3803/33261316932_b365128a77_b.jpg",
+   "credito": "Foto: infomatique / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/80824546@N00/33261316932"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5265/5556930356_a7d24c109a_b.jpg",
+   "credito": "Foto: infomatique / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/80824546@N00/5556930356"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5304/5556878278_4f32272a72_b.jpg",
+   "credito": "Foto: infomatique / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/80824546@N00/5556878278"
+  }
+ ],
+ "p:Mariana Sena": null,
+ "b:woman home security": [
+  {
+   "imagem": "https://live.staticflickr.com/3784/13375714323_de62119c00_b.jpg",
+   "credito": "Foto: Minister-president / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/51135196@N05/13375714323"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2630/3829783806_f60a384753_b.jpg",
+   "credito": "Foto: US Army Africa / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/36281822@N08/3829783806"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4006/4202570617_1f2bce7447_b.jpg",
+   "credito": "Foto: US Army Africa / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/36281822@N08/4202570617"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3475/3384273233_5aa0aa05b4_b.jpg",
+   "credito": "Foto: trialsanderrors / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/76204898@N00/3384273233"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2567/4034860294_b03aace3f7_b.jpg",
+   "credito": "Foto: US Army Africa / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/36281822@N08/4034860294"
+  }
+ ]
 }
