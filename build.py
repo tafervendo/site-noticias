@@ -941,8 +941,58 @@ def frescor(item):
     return (faixa, not item.r, not item.imagem, idade_horas(item))
 
 
+ACAO_BOLSA = re.compile(r"^[a-z]{4}\d{1,2}$|\bações\b|\bdólar\b|\bibovespa\b|\bcotação\b", re.I)
+NOMES = re.compile(r"\b([A-ZÁÉÍÓÚÂÊÔÃÕÇ][a-záéíóúâêôãõç]+(?:\s(?:da|de|do|dos|das)?\s?[A-ZÁÉÍÓÚÂÊÔÃÕÇ][a-záéíóúâêôãõç]+)+)")
+PALAVRAS_COMUNS = {"Quem Ama", "Big Brother", "Rio de Janeiro", "São Paulo", "Grammy Latino"}
+
+
+def volume_buscas(item):
+    m = re.search(r"·\s*([\d.]+)\s*(mil|k|m)?\+?\s*buscas", item.n.get("em_alta", ""), re.I)
+    if not m:
+        return 0
+    n = float(m.group(1).replace(".", ""))
+    return int(n * {"mil": 1000, "k": 1000, "m": 1_000_000}.get((m.group(2) or "").lower(), 1))
+
+
+def calcular_calor(itens):
+    """Temperatura de cada notícia: buscas no Google + quantos sites falam do mesmo assunto + quão recente é."""
+    import math
+    recentes = [i for i in itens if idade_horas(i) <= 12]
+    fontes_por_nome = {}
+    for i in recentes:
+        for nome in set(NOMES.findall(i.titulo)) - PALAVRAS_COMUNS:
+            fontes_por_nome.setdefault(nome, set()).add(i.fonte)
+    calor = {}
+    for i in itens:
+        idade = idade_horas(i)
+        pontos = 0.0
+        busca = i.n.get("em_alta", "").split("·")[0].strip()
+        if i.n.get("em_alta") and idade <= 24 and not ACAO_BOLSA.search(busca):
+            peso = 1.0 if classificar(i.titulo, "ultimas") != "ultimas" or i.cat != "em-alta" else 0.5
+            pontos += peso * 2.2 * math.log10(max(volume_buscas(i), 100))
+        repercussao = max((len(fontes_por_nome.get(n, ())) for n in NOMES.findall(i.titulo)), default=1)
+        pontos += 1.6 * (repercussao - 1)
+        pontos += 2.5 if idade <= 2 else 1.5 if idade <= 6 else 0.5 if idade <= 12 else -3
+        pontos += 0.6 if i.r else 0
+        pontos += 0.4 if i.imagem else 0
+        calor[id(i)] = (pontos, repercussao)
+    return calor
+
+
+def selo_calor(item, calor):
+    vol = volume_buscas(item)
+    _, rep = calor.get(id(item), (0, 1))
+    if item.n.get("em_alta") and vol:
+        return f"{vol // 1000} mil+ buscas" if vol >= 1000 else f"{vol}+ buscas"
+    if rep >= 3:
+        return f"em {rep} sites"
+    return ""
+
+
 def gerar_capa(itens):
     itens = sorted(itens, key=frescor)
+    calor = calcular_calor(itens)
+    quentes = sorted(itens, key=lambda i: -calor[id(i)][0])
     proprios = [i for i in itens if i.r and i.imagem]
     com_foto = [i for i in itens if i.imagem]
     usados = set()
@@ -955,18 +1005,25 @@ def gerar_capa(itens):
                 saida.append(i)
         return saida
 
-    topo = pegar(com_foto, 3)
-    blocos = [ticker(itens)]
+    # manchete: o assunto mais quente; entre os 3 mais quentes, prefere o que tem foto
+    candidatos = quentes[:3]
+    principal = next((i for i in candidatos if i.imagem), candidatos[0]) if candidatos else None
+    topo = pegar([principal] if principal else [], 1)
+    topo += pegar([i for i in quentes[:12] if i.imagem] or com_foto, 2)
+    blocos = [ticker(quentes)]
     if topo:
         lado = "".join(capa_item(i, "lateral") for i in topo[1:])
         blocos.append(f'<section class="abre">{capa_item(topo[0], "hero")}<div class="laterais">{lado}</div></section>')
 
-    destaques = pegar(proprios or com_foto, 5)
+    destaques = pegar(quentes, 5)
     if destaques:
+        def selo(i):
+            t = selo_calor(i, calor)
+            return f'<em class="selo-calor">{E(t)}</em>' if t else ""
         lista = "".join(
-            f'<li><a href="{E(i.href())}"{i.alvo()}>{foto(i, "mini")}<span><b>{E(i.titulo)}</b>'
+            f'<li><a href="{E(i.href())}"{i.alvo()}>{foto(i, "mini")}<span>{selo(i)}<b>{E(i.titulo)}</b>'
             f'<small>{E(CATS.get(i.cat, ""))} · {quando(i.data)}</small></span></a></li>' for i in destaques)
-        blocos.append(f'<section class="bloco destaques"><h2 class="rotulo">Para entender hoje</h2><ol>{lista}</ol></section>')
+        blocos.append(f'<section class="bloco destaques"><h2 class="rotulo">Em alta agora</h2><ol>{lista}</ol></section>')
     blocos.append(anuncio())
 
     for slug, nome in CATS.items():

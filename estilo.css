@@ -336,3 +336,8 @@ footer a { color: #fff; }
 
 /* a foto do topo e das laterais ocupa o quadro inteiro */
 .hero > .fundo, .lateral > .fundo { position: absolute; inset: 0; }
+
+/* selo de temperatura no bloco "Em alta agora" */
+.selo-calor { display: inline-flex; align-items: center; gap: 4px; font: 800 11px var(--titulo); font-style: normal; text-transform: uppercase;
+  letter-spacing: .05em; color: #fff; background: var(--gradiente); padding: 3px 8px; border-radius: 999px; margin-bottom: 6px; }
+.selo-calor::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: #fff; animation: pulsa 1.4s infinite; }
