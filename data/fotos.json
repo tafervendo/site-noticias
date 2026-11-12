@@ -227,5 +227,39 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/50/22.05.2026_-_Gilberto_Gil_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: Ricardo Stuckert / PR / CC BY-SA 4.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:22.05.2026_-_Gilberto_Gil_(cropped).jpg"
- }
+ },
+ "p:Wanessa Camargo": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Wanessa_Camargo_at_De_Lado_com_a_Loba_2024_01.jpg/1280px-Wanessa_Camargo_at_De_Lado_com_a_Loba_2024_01.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Wanessa_Camargo_at_De_Lado_com_a_Loba_2024_01.jpg"
+ },
+ "p:Aline Limas": null,
+ "p:Claudia Souto": null,
+ "b:television studio set": [
+  {
+   "imagem": "https://live.staticflickr.com/7033/6639410521_cc88e96c76_b.jpg",
+   "credito": "Foto: Flavio~ / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/37873897@N06/6639410521"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3522/4053654517_5e6d65d2fe_b.jpg",
+   "credito": "Foto: See-ming Lee (SML) / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/48973657@N00/4053654517"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8231/8377670073_408911bd42_b.jpg",
+   "credito": "Foto: Dusty J / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/55608722@N06/8377670073"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/94/275375865_dc55a367eb_b.jpg",
+   "credito": "Foto: DSmous / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/94436653@N00/275375865"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3794/13880957485_620e98526d_b.jpg",
+   "credito": "Foto: pavlinajane / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/60291025@N05/13880957485"
+  }
+ ]
 }
