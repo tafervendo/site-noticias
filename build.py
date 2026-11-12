@@ -442,12 +442,26 @@ TEMAS_PROIBIDOS = re.compile(
     r"pornogr|sexo expl|beb[eê] morto|criança morta|menor de idade", re.I)
 
 
-def copiou_trecho(resumo_txt, materia, tamanho=12):
-    """Verdadeiro se o resumo repete 12 palavras seguidas da matéria (cópia literal)."""
+def trechos_copiados(resumo_txt, materia, tamanho=12):
+    """Sequências de 12 palavras do resumo que aparecem iguais na matéria (cópia literal)."""
     norm = lambda t: re.findall(r"\w+", t.lower())
     fonte = " " + " ".join(norm(materia)) + " "
     palavras = norm(resumo_txt)
-    return any(" " + " ".join(palavras[i:i + tamanho]) + " " in fonte for i in range(len(palavras) - tamanho + 1))
+    achados, i = [], 0
+    while i <= len(palavras) - tamanho:
+        if " " + " ".join(palavras[i:i + tamanho]) + " " in fonte:
+            j = i + tamanho
+            while j < len(palavras) and " " + " ".join(palavras[i:j + 1]) + " " in fonte:
+                j += 1
+            achados.append(" ".join(palavras[i:j]))
+            i = j
+        else:
+            i += 1
+    return achados
+
+
+def texto_do_resumo(dados):
+    return "\n\n".join([dados["titulo"], dados["linha_fina"], *dados["paragrafos"]])
 
 
 def chamar_ia(cliente, sistema, pedido, esquema, esforco):
@@ -485,8 +499,8 @@ def chamar_ia(cliente, sistema, pedido, esquema, esforco):
 
 def revisar(cliente, noticia, materia, dados):
     """Segunda leitura independente. Devolve True (publicar), False (descartar) ou None (tentar depois)."""
-    texto_resumo = "\n\n".join([dados["titulo"], dados["linha_fina"], *dados["paragrafos"]])
-    if copiou_trecho(texto_resumo, materia):
+    texto_resumo = texto_do_resumo(dados)
+    if trechos_copiados(texto_resumo, materia):
         print(f"  - Descartado (trecho copiado): {dados['titulo']}")
         return False
     pedido = (f"<materia veiculo=\"{noticia['fonte']}\">\n{materia}\n</materia>\n\n"
@@ -506,6 +520,14 @@ def escrever_resumo(cliente, noticia, materia):
     dados = chamar_ia(cliente, INSTRUCOES, pedido, ESQUEMA, IA.get("esforco", "low"))
     if dados is None:
         return None
+    copiados = trechos_copiados(texto_do_resumo(dados), materia) if dados.get("publicar") else []
+    if copiados:  # uma chance de reescrever com as próprias palavras
+        lista = "\n".join(f"- {c}" for c in copiados)
+        pedido += ("\n\nVocê já escreveu uma versão, mas estes trechos ficaram iguais aos da matéria. "
+                   f"Escreva tudo de novo, contando os mesmos fatos com outras palavras e outra ordem de frase:\n{lista}")
+        dados = chamar_ia(cliente, INSTRUCOES, pedido, ESQUEMA, IA.get("esforco", "low"))
+        if dados is None:
+            return None
     if not dados.get("publicar") or not dados.get("titulo") or len(dados.get("paragrafos", [])) < 2:
         return {"recusado": True}
     return dados
