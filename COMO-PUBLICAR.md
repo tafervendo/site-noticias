@@ -84,3 +84,13 @@ cd ~/Projetos/site-noticias && .venv/bin/python build.py --preview
 ```
 
 Sem a chave, o `--preview` cria 8 páginas de demonstração (com o trecho do feed no lugar do resumo) só para conferir o visual.
+
+## Proteções automáticas (desde 12/11/2026)
+
+- **Revisão antes de publicar:** cada texto passa por uma segunda leitura independente, que reprova fato que não está na matéria original, boato tratado como fato, acusação sem "suspeito/acusado", exposição de menores ou vítimas, especulação sobre saúde ou vida íntima, título exagerado e trecho copiado
+- **Temas proibidos:** violência sexual, suicídio, nudez vazada e casos com menores nunca viram matéria
+- **Sem texto de outros veículos nas listas:** só o título original e o link
+- **Remoção:** pedidos que chegam no e-mail de contato tiram a matéria do ar sozinhos e recebem resposta automática (precisa do segredo `GMAIL_APP_PASSWORD`). Para retirar algo à mão, coloque o link ou o identificador da matéria em `"remover"` no `config.json`
+- **Segurança:** ações do GitHub fixadas por commit, dependências com versão exata, proteção de segredos ligada, política de conteúdo (CSP) nas páginas
+- **SEO:** dados estruturados de notícia, sitemap de notícias para o Google Notícias, feed RSS, títulos começando pelo nome buscado, páginas de política editorial e termos
+- **Limite:** 25 matérias por dia, porque a revisão dobra o uso da IA; continua dentro dos US$ 2 por mês
