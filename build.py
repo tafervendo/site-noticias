@@ -1231,7 +1231,7 @@ def paginas_fixas():
                            p404.read_text(encoding="utf-8")), encoding="utf-8")
     pagina("contato.html", "Contato", f"""<main><article class="texto">
 <h1>Contato</h1>
-<p>Sugestões, correções, pedidos de remoção e anúncios diretos: <a href="mailto:{email_}">{email_}</a></p>
+<p>Entre em contato conosco: <a href="mailto:{email_}">{email_}</a></p>
 </article></main>""")
 
 
