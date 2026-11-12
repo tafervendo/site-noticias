@@ -327,3 +327,6 @@ footer a { color: #fff; }
 .fundo .capa-destaque.longo { font-size: 5.6cqi; }
 
 .capa-arte .capa-rodape { width: auto; }
+
+.capa-destaque { overflow-wrap: anywhere; hyphens: auto; }
+.capa-arte { min-width: 0; }

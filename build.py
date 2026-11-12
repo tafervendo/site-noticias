@@ -727,7 +727,13 @@ def foto(item, classe="foto", prioridade=False):
     # capa própria: arte única para cada notícia, sem foto de terceiros
     texto, citacao = destaque_capa(item.titulo)
     n = int(hashlib.sha1(item.titulo.encode()).hexdigest(), 16)
-    tamanho = "curto" if len(texto) <= 14 else "medio" if len(texto) <= 28 else "longo"
+    maior_palavra = max((len(p) for p in texto.split()), default=0)
+    if len(texto) <= 14 and maior_palavra <= 9:
+        tamanho = "curto"
+    elif len(texto) <= 28 and maior_palavra <= 13:
+        tamanho = "medio"
+    else:
+        tamanho = "longo"
     aspas = ' citacao' if citacao else ''
     return (f'<div class="{classe} sem-foto capa-arte cat-{item.cat} textura-{n % 5} tom-{(n // 5) % 3}">'
             f'<span class="capa-icone">{ICONES.get(item.cat, ICONES["ultimas"])}</span>'
