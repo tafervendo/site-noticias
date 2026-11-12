@@ -12,7 +12,7 @@
     "modelo": "claude-haiku-5-5",
     "esforco": "low",
     "por_rodada": 4,
-    "max_por_dia": 40,
+    "max_por_dia": 25,
     "dias_paginas": 60
   },
   "categorias": [
@@ -168,5 +168,6 @@
         "bizarr*"
       ]
     }
-  ]
+  ],
+  "remover": []
 }
