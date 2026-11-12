@@ -190,5 +190,42 @@
    "credito": "Foto: US Army Africa / CC BY 2.0",
    "credito_link": "https://www.flickr.com/photos/36281822@N08/4034860294"
   }
- ]
+ ],
+ "b:candlelight vigil crowd": [
+  {
+   "imagem": "https://live.staticflickr.com/192/463678160_80a37ba4de_b.jpg",
+   "credito": "Foto: B. W. Townsend / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/79838019@N00/463678160"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/212/463679200_f769e3aabe_b.jpg",
+   "credito": "Foto: B. W. Townsend / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/79838019@N00/463679200"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3076/2653346236_408d2c492f_b.jpg",
+   "credito": "Foto: AFL-CIO Field / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/26467954@N04/2653346236"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2550/5704014063_bc72df41a9_b.jpg",
+   "credito": "Foto: Klearchos Kapoutsis / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/8383084@N06/5704014063"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3272/2652524245_5653d6bc2f_b.jpg",
+   "credito": "Foto: AFL-CIO Field / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/26467954@N04/2652524245"
+  }
+ ],
+ "p:Bruna Marquezine": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bruna_Marquezine_2025.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Multishow / CC BY 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Bruna_Marquezine_2025.png"
+ },
+ "p:Gilberto Gil": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/50/22.05.2026_-_Gilberto_Gil_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Ricardo Stuckert / PR / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:22.05.2026_-_Gilberto_Gil_(cropped).jpg"
+ }
 }
