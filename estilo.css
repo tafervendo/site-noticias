@@ -330,3 +330,9 @@ footer a { color: #fff; }
 
 .capa-destaque { overflow-wrap: anywhere; hyphens: auto; }
 .capa-arte { min-width: 0; }
+
+/* enquadramento: sem rosto detectado, puxa para o alto */
+.foto img, .fundo img, .mini img, .capa-materia img { object-position: 50% 30%; }
+
+/* a foto do topo e das laterais ocupa o quadro inteiro */
+.hero > .fundo, .lateral > .fundo { position: absolute; inset: 0; }

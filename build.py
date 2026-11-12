@@ -34,6 +34,7 @@ SAIDA = RAIZ / "site"
 DADOS = RAIZ / "data" / "noticias.json"
 RESUMOS = RAIZ / "data" / "resumos.json"
 FOTOS = RAIZ / "data" / "fotos.json"
+FOCOS_ARQ = RAIZ / "data" / "focos.json"
 FONTE_CARD = RAIZ / "fonts" / "ArchivoBlack-Regular.ttf"
 BRT = timezone(timedelta(hours=-3))
 AGORA = datetime.now(timezone.utc)
@@ -651,6 +652,65 @@ def resumos_demo(noticias):
     return demo
 
 
+# ---------- enquadramento das fotos (rosto sempre à vista) ----------
+
+FOCOS = json.loads(FOCOS_ARQ.read_text(encoding="utf-8")) if FOCOS_ARQ.exists() else {}
+FOCO_PADRAO = "50% 30%"  # sem rosto encontrado: puxa para o alto, onde costuma estar a cabeça
+
+
+def achar_foco(url):
+    """Acha o maior rosto da foto e devolve o ponto (x% y%) que o quadro deve manter à vista."""
+    import cv2
+    import numpy as np
+
+    req = urllib.request.Request(url, headers={
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15",
+        "Accept": "image/avif,image/webp,image/*,*/*;q=0.8"})
+    with urllib.request.urlopen(req, timeout=20) as r:
+        dados = r.read(8_000_000)
+    img = cv2.imdecode(np.frombuffer(dados, np.uint8), cv2.IMREAD_COLOR)
+    if img is None:
+        return FOCO_PADRAO
+    alt, larg = img.shape[:2]
+    escala = 640 / max(alt, larg) if max(alt, larg) > 640 else 1
+    if escala != 1:
+        img = cv2.resize(img, (int(larg * escala), int(alt * escala)))
+    h, w = img.shape[:2]
+    # detector de rostos YuNet (modelo oficial da OpenCV): pega rosto de frente e de perfil
+    detector = cv2.FaceDetectorYN.create(str(RAIZ / "modelos" / "face_detection_yunet_2023mar.onnx"), "", (w, h), 0.75)
+    _, achados = detector.detect(img)
+    rostos = []
+    for f in (achados if achados is not None else []):
+        x, y, fw, fh, conf = f[0], f[1], f[2], f[3], f[-1]
+        if fw * fh < (min(h, w) * 0.04) ** 2:
+            continue
+        rostos.append((fw * fh * conf, x + fw / 2, y + fh / 2))
+    if not rostos:
+        return FOCO_PADRAO
+    _, cx, cy = max(rostos)
+    # um pouco acima do centro do rosto, para não cortar a testa nem o cabelo
+    return f"{min(max(cx / w * 100, 5), 95):.0f}% {min(max((cy - h * 0.03) / h * 100, 5), 90):.0f}%"
+
+
+def preparar_focos(urls, limite=60):
+    """Calcula o enquadramento das fotos novas (as já calculadas ficam guardadas)."""
+    novas = [u for u in dict.fromkeys(urls) if u and u.startswith("https://") and u not in FOCOS][:limite]
+    import time
+    for u in novas:
+        try:
+            FOCOS[u] = achar_foco(u)
+        except Exception as e:  # não guarda a falha: tenta de novo na próxima rodada
+            print(f"  ! Enquadramento da foto falhou ({e}); uso o padrão por enquanto")
+        time.sleep(1.5)
+    if novas:
+        FOCOS_ARQ.write_text(json.dumps(FOCOS, ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"Enquadramento calculado para {len(novas)} foto(s).")
+
+
+def foco(url):
+    return FOCOS.get(url, FOCO_PADRAO)
+
+
 # ---------- montagem das páginas ----------
 
 E = html.escape
@@ -723,7 +783,7 @@ def foto(item, classe="foto", prioridade=False):
         credito = f'<small class="credito">{E(item.credito)}</small>' if item.credito else ""
         carga = 'fetchpriority="high"' if prioridade else 'loading="lazy"'
         return (f'<div class="{classe}"><img src="{E(item.imagem)}" alt="{E(item.titulo)}" {carga} decoding="async" '
-                f'referrerpolicy="no-referrer">{credito}</div>')
+                f'style="object-position:{foco(item.imagem)}" referrerpolicy="no-referrer">{credito}</div>')
     # capa própria: arte única para cada notícia, sem foto de terceiros
     texto, citacao = destaque_capa(item.titulo)
     n = int(hashlib.sha1(item.titulo.encode()).hexdigest(), 16)
@@ -1069,7 +1129,7 @@ def gerar_materias(itens, resumos):
             credito = E(item.credito)
             if r.get("credito_link", "").startswith("https://"):
                 credito = f'<a href="{E(r["credito_link"])}" target="_blank" rel="noopener">{credito}</a>'
-            imagem = (f'<figure class="capa-materia"><img src="{E(item.imagem)}" alt="" referrerpolicy="no-referrer">'
+            imagem = (f'<figure class="capa-materia"><img src="{E(item.imagem)}" alt="" style="object-position:{foco(item.imagem)}" referrerpolicy="no-referrer">'
                       f'<figcaption>{credito}</figcaption></figure>')
         else:
             imagem = f'<figure class="capa-materia"><img src="../{card}" alt=""></figure>'
@@ -1293,6 +1353,7 @@ if __name__ == "__main__":
     resumos = resumir_novas(noticias)
     if PREVIEW and not any(r.get("slug") for r in resumos.values()):
         resumos = resumos_demo(noticias)
+    preparar_focos([r.get("imagem") for r in resumos.values()] + [n.get("imagem") for n in noticias])
     gerar(noticias, resumos)
     paginas = sum(1 for r in resumos.values() if r.get("slug"))
     print(f"Pronto: {len(noticias)} notícias, {paginas} com página própria, em {SAIDA}")
