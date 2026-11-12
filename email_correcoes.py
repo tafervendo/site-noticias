@@ -189,7 +189,13 @@ def main():
     ja_removidos = {x["slug"] for x in remover}
 
     imap = imaplib.IMAP4_SSL("imap.gmail.com")
-    imap.login(CONTA, senha)
+    try:
+        imap.login(CONTA, senha)
+    except imaplib.IMAP4.error:
+        # mostra só o formato, nunca a senha: a de app do Google tem 16 letras minúsculas
+        formato = "16 letras, formato certo" if re.fullmatch(r"[a-z]{16}", senha) else f"{len(senha)} caracteres, formato diferente do esperado"
+        print(f"  ! Gmail recusou o login de {CONTA} (senha salva: {formato})")
+        raise
     imap.select("INBOX")
     _, ids = imap.search(None, "UNSEEN")
     ids = ids[0].split()[:MAX_POR_RODADA]
