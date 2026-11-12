@@ -6,11 +6,6 @@
    "credito_link": "https://www.flickr.com/photos/24662369@N07/16149052746"
   },
   {
-   "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Catalyst_Science_Discovery_Centre.jpg",
-   "credito": "Foto: ChrCc / CC BY-SA 4.0",
-   "credito_link": "https://commons.wikimedia.org/w/index.php?curid=42177238"
-  },
-  {
    "imagem": "https://live.staticflickr.com/2146/2478205049_3918db2b12_b.jpg",
    "credito": "Foto: minnemom / CC BY-ND 2.0",
    "credito_link": "https://www.flickr.com/photos/23375196@N06/2478205049"
@@ -229,11 +224,6 @@
    "imagem": "https://live.staticflickr.com/2612/3902026094_041a8754a1_b.jpg",
    "credito": "Foto: avlxyz / CC BY-SA 2.0",
    "credito_link": "https://www.flickr.com/photos/10559879@N00/3902026094"
-  },
-  {
-   "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Doenjangwithbeans.jpg",
-   "credito": "Foto: Badagnani / CC BY 3.0",
-   "credito_link": "https://commons.wikimedia.org/w/index.php?curid=3522948"
   }
  ],
  "b:deep space probe": [
@@ -1175,33 +1165,6 @@
   "credito": "Foto: Vn.reis / CC BY-SA 4.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Humberto_Gessinger_ao_vivo_no_Kazebre_-_S%C3%A3o_Paulo,_SP_(cropped).jpg"
  },
- "b:red carpet empty": [
-  {
-   "imagem": "https://live.staticflickr.com/4046/4609590319_b3cc81da69_b.jpg",
-   "credito": "Foto: TEDxNJLibraries / CC BY 2.0",
-   "credito_link": "https://www.flickr.com/photos/49923856@N02/4609590319"
-  },
-  {
-   "imagem": "https://live.staticflickr.com/5238/14235548644_ce2761e045_b.jpg",
-   "credito": "Foto: Bennyboymothman / CC BY 2.0",
-   "credito_link": "https://www.flickr.com/photos/33398884@N03/14235548644"
-  },
-  {
-   "imagem": "https://live.staticflickr.com/8500/8261998144_c60fc19463_b.jpg",
-   "credito": "Foto: SFB579 Namaste / CC BY 2.0",
-   "credito_link": "https://www.flickr.com/photos/50826080@N00/8261998144"
-  },
-  {
-   "imagem": "https://live.staticflickr.com/5036/14049169889_5dedda7ed9_b.jpg",
-   "credito": "Foto: Bennyboymothman / CC BY 2.0",
-   "credito_link": "https://www.flickr.com/photos/33398884@N03/14049169889"
-  },
-  {
-   "imagem": "https://live.staticflickr.com/2902/14232514001_b8a2eb563f_b.jpg",
-   "credito": "Foto: Bennyboymothman / CC BY 2.0",
-   "credito_link": "https://www.flickr.com/photos/33398884@N03/14232514001"
-  }
- ],
  "b:camera flash lights": [
   {
    "imagem": "https://live.staticflickr.com/1242/789338560_427165af71_b.jpg",
@@ -1596,5 +1559,22 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/64/Caio_Blat_in_2018.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: CINUSP Paulo Emílio / CC BY 3.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Caio_Blat_in_2018.jpg"
- }
+ },
+ "b:cinema seats": [
+  {
+   "imagem": "https://live.staticflickr.com/7582/16121543351_aa7447a43e_b.jpg",
+   "credito": "Foto: qubodup / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/21051491@N02/16121543351"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/84/235277310_20d0ab50b1_b.jpg",
+   "credito": "Foto: hotzeplotz / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/13747999@N00/235277310"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7919/46573873662_dcb739a2ce_b.jpg",
+   "credito": "Foto: Eligius4917 / domínio público",
+   "credito_link": "https://www.flickr.com/photos/38699678@N07/46573873662"
+  }
+ ]
 }

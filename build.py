@@ -428,6 +428,9 @@ def foto_commons(termos):
             continue
         if largura < 1000 or largura / altura < 1.2:
             continue
+        titulo_arq = urllib.parse.unquote(p.get("title", "")).lower()
+        if not any(palavra in titulo_arq for palavra in termos.lower().split() if len(palavra) >= 4):
+            continue  # a busca do Commons às vezes traz arquivos sem relação (ex.: mariposa para "flash")
         autor = limpar_html(meta_.get("Artist", {}).get("value", "")) or "autor desconhecido"
         opcoes.append({"imagem": info.get("thumburl") or info["url"],
                        "credito": f"Foto: {cortar(autor, 50)} / {licenca}, via Wikimedia Commons",
@@ -466,7 +469,7 @@ PROFISSOES = re.compile(
 
 # fotos de banco sem pessoas identificáveis, por categoria (nenhuma pode parecer o famoso da notícia)
 TEMAS_BANCO = {
-    "celebridades": ["red carpet empty", "stage spotlight", "concert stage lights", "microphone stage", "camera flash lights"],
+    "celebridades": ["cinema seats", "stage spotlight", "concert stage lights", "microphone stage", "camera flash lights"],
     "televisao": ["television studio", "tv camera studio", "retro television", "film set lights", "clapperboard"],
     "virais": ["smartphone screen", "social media phone", "smartphone hand", "laptop screen night", "emoji"],
     "curiosidades": ["galaxy stars", "microscope laboratory", "ancient ruins", "nature landscape", "planet earth space"],
