@@ -1000,19 +1000,23 @@ def gerar_capa(itens):
     assuntos_usados = set()
 
     def assunto(i):
-        # nome de novela entre aspas, nomes próprios e o texto antes dos dois-pontos identificam o assunto
-        chaves = set(NOMES.findall(i.titulo))
-        chaves |= {re.sub(r"[^\w ]", "", c).strip().lower() for c in re.findall(r"[‘'\"“]([^’'\"”]{3,40})[’'\"”]", i.titulo)}
-        if ":" in i.titulo:
-            chaves.add(re.sub(r"[^\w ]", "", i.titulo.split(":")[0]).strip().lower())
-        return {c.lower() for c in chaves if c}
+        # palavras com maiúscula (nomes, programas, novelas) identificam o assunto da notícia
+        palavras = re.findall(r"\b[A-ZÁÉÍÓÚÂÊÔÃÕÇ][\wáéíóúâêôãõç]{3,}|\bBBB\b", i.titulo)
+        return {p.lower() for p in palavras}
+
+    def mesmo_assunto(chaves):
+        comuns = chaves & assuntos_usados
+        # nomes de programas (das palavras-chave do config) bastam sozinhos; nomes de pessoas precisam de 2 iguais
+        programas = {w.lower() for c in CFG["categorias"] for p in c.get("palavras", [])
+                     for w in re.findall(r"[A-ZÁÉÍÓÚ][\wáéíóú]{2,}", p)}
+        return len(comuns) >= 2 or bool(comuns & programas) or any(len(c) >= 9 for c in comuns)
 
     def pegar(lista, qtd, variar=True):
         saida = []
         for i in lista:
             if id(i) in usados or len(saida) >= qtd:
                 continue
-            if variar and assunto(i) & assuntos_usados:
+            if variar and mesmo_assunto(assunto(i)):
                 continue  # um assunto por vez: evita cinco notícias da mesma novela lado a lado
             usados.add(id(i))
             assuntos_usados.update(assunto(i))
