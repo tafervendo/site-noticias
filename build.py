@@ -364,7 +364,7 @@ def foto_wikipedia(nome):
     if not arquivo or "missing" in pagina or "disambiguation" in pagina.get("pageprops", {}):
         return None
     q = urllib.parse.urlencode({"action": "query", "titles": "File:" + arquivo, "prop": "imageinfo",
-                                "iiprop": "url|extmetadata", "iiurlwidth": 1200, "format": "json"})
+                                "iiprop": "url|extmetadata", "iiurlwidth": 1280, "format": "json"})
     # a API da Wikipédia em português também enxerga os arquivos do Commons
     infos = next(iter(api_json("https://pt.wikipedia.org/w/api.php?" + q)["query"]["pages"].values())).get("imageinfo")
     if not infos:
@@ -395,8 +395,11 @@ def foto_banco(termos):
             f = d["photos"][0]
             return [{"imagem": f["src"]["large2x"], "credito": f"Foto: {f['photographer']} / Pexels",
                      "credito_link": f["url"]} for f in d["photos"]]
-    d = api_json("https://api.openverse.org/v1/images/?" + urllib.parse.urlencode(
+    try:
+        d = api_json("https://api.openverse.org/v1/images/?" + urllib.parse.urlencode(
         {"q": termos, "license_type": "commercial,modification", "mature": "false", "aspect_ratio": "wide", "page_size": 5}))
+    except Exception:  # Openverse fora do ar ou lento: usa o acervo do Wikimedia Commons
+        return foto_commons(termos)
     opcoes = []
     for f in d.get("results", []):
         if f.get("url") and (f.get("width") or 0) >= 800:
@@ -405,13 +408,39 @@ def foto_banco(termos):
                 licenca = "domínio público"
             opcoes.append({"imagem": f["url"], "credito": f"Foto: {cortar(f.get('creator') or 'autor desconhecido', 50)} / {licenca}",
                            "credito_link": f.get("foreign_landing_url", "")})
+    return opcoes or foto_commons(termos)
+
+
+def foto_commons(termos):
+    """Fotos de tema no Wikimedia Commons, só com licença aberta e formato deitado."""
+    q = urllib.parse.urlencode({
+        "action": "query", "format": "json", "generator": "search", "gsrnamespace": 6, "gsrlimit": 20,
+        "gsrsearch": f"filetype:bitmap {termos}", "prop": "imageinfo", "iiprop": "url|extmetadata|size",
+        "iiurlwidth": 1280})
+    paginas = api_json("https://commons.wikimedia.org/w/api.php?" + q).get("query", {}).get("pages", {})
+    opcoes = []
+    for p in sorted(paginas.values(), key=lambda p: p.get("index", 99)):
+        info = (p.get("imageinfo") or [{}])[0]
+        meta_ = info.get("extmetadata", {})
+        licenca = limpar_html(meta_.get("LicenseShortName", {}).get("value", ""))
+        largura, altura = info.get("width", 0), info.get("height", 1)
+        if not re.match(r"(CC[ -]?BY|CC0|Public domain|Domínio público|PD\b)", licenca, re.I) or re.search(r"\bND\b|NC\b", licenca):
+            continue
+        if largura < 1000 or largura / altura < 1.2:
+            continue
+        autor = limpar_html(meta_.get("Artist", {}).get("value", "")) or "autor desconhecido"
+        opcoes.append({"imagem": info.get("thumburl") or info["url"],
+                       "credito": f"Foto: {cortar(autor, 50)} / {licenca}, via Wikimedia Commons",
+                       "credito_link": info.get("descriptionurl", "")})
+        if len(opcoes) == 5:
+            break
     return opcoes or None
 
 
 def imagem_segura(pessoa, busca, semente=""):
     """Ordem: retrato livre da pessoa, depois foto de banco gratuito. Guarda em cache."""
     cache = json.loads(FOTOS.read_text(encoding="utf-8")) if FOTOS.exists() else {}
-    for chave_, func, valor in (("p:" + pessoa, foto_wikipedia, pessoa), ("b:" + busca, foto_banco, busca)):
+    for chave_, func, valor in (("p:" + pessoa, foto_wikipedia, pessoa), ("b:" + busca, lambda t: sem_rostos(foto_banco(t)), busca)):
         if not valor:
             continue
         if chave_ not in cache:
@@ -427,6 +456,101 @@ def imagem_segura(pessoa, busca, semente=""):
         if achada:
             return achada
     return None
+
+
+PROFISSOES = re.compile(
+    r"atriz|ator\b|cantor|cantora|apresentador|apresentadora|jornalista|humorista|comediante|modelo|influenciador|"
+    r"youtuber|rapper|músic|compositor|dançarin|jogador|jogadora|futebolista|atleta|piloto|lutador|empresári|"
+    r"político|política|ex-bbb|participante|personalidade|celebridade|socialite|diretor|diretora|escritor|escritora|"
+    r"dj\b|instrumentista|produtor|produtora|chef\b|tenista|nadador|ginasta|boxeador|treinador|técnic", re.I)
+
+# fotos de banco sem pessoas identificáveis, por categoria (nenhuma pode parecer o famoso da notícia)
+TEMAS_BANCO = {
+    "celebridades": ["red carpet empty", "stage spotlight", "concert stage lights", "microphone stage", "camera flash lights"],
+    "televisao": ["television studio", "tv camera studio", "retro television", "film set lights", "clapperboard"],
+    "virais": ["smartphone screen", "social media phone", "smartphone hand", "laptop screen night", "emoji"],
+    "curiosidades": ["galaxy stars", "microscope laboratory", "ancient ruins", "nature landscape", "planet earth space"],
+    "em-alta": ["city lights night", "newspaper stack", "abstract lights", "sao paulo skyline", "rio de janeiro"],
+    "ultimas": ["newspaper stack", "city lights night", "abstract lights", "rio de janeiro", "sao paulo skyline"],
+}
+
+
+def eh_pessoa(nome, cache):
+    """Confere na Wikipédia se o nome é de uma pessoa (atriz, cantor, apresentadora…) e não de um lugar ou novela."""
+    chave = "d:" + nome
+    if chave not in cache:
+        try:
+            d = api_json("https://pt.wikipedia.org/api/rest_v1/page/summary/" + urllib.parse.quote(nome.replace(" ", "_")))
+            cache[chave] = d.get("description", "") if d.get("type") == "standard" else ""
+        except Exception:
+            return False  # sem resposta agora: tenta de novo na próxima rodada
+    return bool(PROFISSOES.search(cache[chave] or ""))
+
+
+def sem_rostos(opcoes):
+    """Tira das fotos de banco as que mostram rosto: ninguém pode ser confundido com o famoso da notícia."""
+    import time
+    if not opcoes:
+        return opcoes
+    limpas = []
+    for o in opcoes:
+        try:
+            if not any(area > 0.004 for area, *_ in rostos_na_foto(o["imagem"])):
+                limpas.append(o)
+        except Exception:
+            pass  # sem conseguir conferir, não usa
+        time.sleep(1)
+    return limpas or None
+
+
+def ilustrar(noticias, limite=40):
+    """Dá imagem segura às manchetes sem foto: retrato livre da pessoa citada ou foto de banco do tema."""
+    cache = json.loads(FOTOS.read_text(encoding="utf-8")) if FOTOS.exists() else {}
+    consultas = 0
+    for n in noticias:
+        if n.get("imagem") or consultas >= limite:
+            continue
+        achada = None
+        for nome in [x for x in NOMES.findall(n["titulo"]) if x not in PALAVRAS_COMUNS][:2]:
+            if "p:" + nome not in cache or "d:" + nome not in cache:
+                consultas += 1
+            if not eh_pessoa(nome, cache):
+                continue
+            if "p:" + nome not in cache:
+                try:
+                    cache["p:" + nome] = foto_wikipedia(nome)
+                except Exception:
+                    continue
+            if cache["p:" + nome]:
+                achada = {**cache["p:" + nome], "imagem_tipo": "pessoa", "pessoa": nome}
+                break
+        if not achada:
+            import time
+            temas = TEMAS_BANCO.get(n["categoria"], TEMAS_BANCO["ultimas"])
+            semente = int(hashlib.sha1(n["link"].encode()).hexdigest(), 16)
+            for passo in range(len(temas)):  # se um tema não tiver foto, tenta o próximo
+                busca = temas[(semente + passo) % len(temas)]
+                if "b:" + busca not in cache:
+                    if consultas >= limite:
+                        break
+                    consultas += 1
+                    try:
+                        cache["b:" + busca] = sem_rostos(foto_banco(busca))
+                    except Exception as e:  # limite do banco: não guarda a falha, tenta na próxima rodada
+                        print(f"  ! Banco de imagens ({busca}): {e}")
+                        time.sleep(3)
+                        continue
+                    time.sleep(1)
+                opcoes = cache.get("b:" + busca) or []
+                if opcoes:
+                    achada = {**opcoes[(semente // len(temas)) % len(opcoes)], "imagem_tipo": "banco"}
+                    break
+        if achada:
+            n.update(achada)
+    FOTOS.write_text(json.dumps(cache, ensure_ascii=False, indent=1), encoding="utf-8")
+    DADOS.write_text(json.dumps(noticias, ensure_ascii=False, indent=1), encoding="utf-8")
+    com = sum(1 for n in noticias if n.get("imagem"))
+    print(f"Imagens: {com} de {len(noticias)} manchetes com foto segura ({consultas} consultas nesta rodada).")
 
 
 REVISAO = """Você é editor-chefe e revisor jurídico de um site brasileiro de notícias. Compare o resumo com a matéria original e decida se ele pode ser publicado sem risco de processo, de erro ou de violar as políticas do Google AdSense.
@@ -610,7 +734,7 @@ def resumir_novas(noticias):
                 "data": n["data"], "titulo_original": n["titulo"], "post": post,
                 "imagem": n["imagem"], "credito": n.get("credito", ""), "credito_link": "",
             })
-            if not registro["imagem"]:
+            if not registro["imagem"] or n.get("imagem_tipo") == "banco":
                 achada = imagem_segura(dados.get("pessoa", ""), dados.get("busca_imagem", ""), n["link"])
                 if achada:
                     registro.update(achada)
@@ -658,8 +782,8 @@ FOCOS = json.loads(FOCOS_ARQ.read_text(encoding="utf-8")) if FOCOS_ARQ.exists() 
 FOCO_PADRAO = "50% 30%"  # sem rosto encontrado: puxa para o alto, onde costuma estar a cabeça
 
 
-def achar_foco(url):
-    """Acha o maior rosto da foto e devolve o ponto (x% y%) que o quadro deve manter à vista."""
+def rostos_na_foto(url):
+    """Lista os rostos da foto: (fração da área, x, y, largura, altura da imagem)."""
     import cv2
     import numpy as np
 
@@ -670,7 +794,7 @@ def achar_foco(url):
         dados = r.read(8_000_000)
     img = cv2.imdecode(np.frombuffer(dados, np.uint8), cv2.IMREAD_COLOR)
     if img is None:
-        return FOCO_PADRAO
+        return []
     alt, larg = img.shape[:2]
     escala = 640 / max(alt, larg) if max(alt, larg) > 640 else 1
     if escala != 1:
@@ -685,9 +809,15 @@ def achar_foco(url):
         if fw * fh < (min(h, w) * 0.04) ** 2:
             continue
         rostos.append((fw * fh * conf, x + fw / 2, y + fh / 2))
+    return [(a / (w * h), cx, cy, w, h) for a, cx, cy in rostos]
+
+
+def achar_foco(url):
+    """Acha o maior rosto da foto e devolve o ponto (x% y%) que o quadro deve manter à vista."""
+    rostos = rostos_na_foto(url)
     if not rostos:
         return FOCO_PADRAO
-    _, cx, cy = max(rostos)
+    _, cx, cy, w, h = max(rostos)
     # um pouco acima do centro do rosto, para não cortar a testa nem o cabelo
     return f"{min(max(cx / w * 100, 5), 95):.0f}% {min(max((cy - h * 0.03) / h * 100, 5), 90):.0f}%"
 
@@ -1431,6 +1561,7 @@ def paginas_fixas():
 if __name__ == "__main__":
     print("Buscando feeds…")
     noticias = coletar()
+    ilustrar(noticias)
     print("Escrevendo resumos…")
     resumos = resumir_novas(noticias)
     if PREVIEW and not any(r.get("slug") for r in resumos.values()):
