@@ -1530,5 +1530,57 @@
  },
  "d:Tristão da Cunha": "Explorador e militar português (1460-1540)",
  "d:Anna Carolina": "política brasileira",
- "p:Anna Carolina": null
+ "p:Anna Carolina": null,
+ "d:Roger Gobeth": "ator brasileiro",
+ "p:Roger Gobeth": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Roger_Gobeth_IMG_1725_%2824534430552%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Renan Katayama / CC BY-SA 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Roger_Gobeth_IMG_1725_(24534430552).jpg"
+ },
+ "d:Micael Borges": "ator e cantor brasileiro",
+ "p:Micael Borges": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/76/MicaelBorges.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Eduardo Bravin / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:MicaelBorges.png"
+ },
+ "d:Lucas Guimarães": "influenciador digital e apresentador brasileiro",
+ "p:Lucas Guimarães": null,
+ "d:Luan Santana": "cantor e compositor de músicas sertanejo brasileiro",
+ "p:Luan Santana": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/2Z9A7852.jpg/1280px-2Z9A7852.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Raresinais / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:2Z9A7852.jpg"
+ },
+ "d:Amado Batista": "cantor, compositor, empresário e produtor musical brasileiro",
+ "p:Amado Batista": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/20/2019_Encontro_com_cantor_Amado_Batista%2C_Gilson_Machado_Neto_e_Uugton_Batista_da_Silva_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Palácio do Planalto / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:2019_Encontro_com_cantor_Amado_Batista,_Gilson_Machado_Neto_e_Uugton_Batista_da_Silva_(cropped).jpg"
+ },
+ "d:General Hospital": "soap opera estadunidense",
+ "d:Alan Ritchson": "Ator americano",
+ "p:Alan Ritchson": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Alan_Ritchson_Photo_Op_GalaxyCon_Richmond_2022.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Super Festivals from Ft. Lauderdale, USA / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Alan_Ritchson_Photo_Op_GalaxyCon_Richmond_2022.jpg"
+ },
+ "d:Bruno Rodrigues": "futebolista brasileiro",
+ "p:Bruno Rodrigues": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Bruno-rodrigues-palmeiras-internacional-sep2025-3.jpg/1280px-Bruno-rodrigues-palmeiras-internacional-sep2025-3.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: NullReason / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Bruno-rodrigues-palmeiras-internacional-sep2025-3.jpg"
+ },
+ "d:Caio Blat": "ator brasileiro",
+ "d:Ministério da Justiça": "tipo de ministério",
+ "d:Samuel Lino": "futebolista brasileiro",
+ "p:Samuel Lino": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Samuel_Lino%2C_FC_Salzburg_vs._Atletico_Madrid_%282025-01-29_UEFA_Championsleague%29_83_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Werner100359 / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Samuel_Lino,_FC_Salzburg_vs._Atletico_Madrid_(2025-01-29_UEFA_Championsleague)_83_(cropped).jpg"
+ },
+ "p:Alex Escobar": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Alex_Escobar_-_BBB_A_Elimina%C3%A7%C3%A3o_2023.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Alex_Escobar_-_BBB_A_Elimina%C3%A7%C3%A3o_2023.png"
+ }
 }
