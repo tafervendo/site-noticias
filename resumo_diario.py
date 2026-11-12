@@ -59,7 +59,17 @@ def metricas():
 
     cred, _ = google.auth.default(scopes=["https://www.googleapis.com/auth/analytics.readonly",
                                           "https://www.googleapis.com/auth/webmasters.readonly"])
-    sessao = AuthorizedSession(cred)
+    bruta = AuthorizedSession(cred)
+
+    class Sessao:  # resposta com erro vira exceção, em vez de virar "zero visitas"
+        def post(self, url, **kw):
+            r = bruta.post(url, **kw)
+            d = r.json()
+            if r.status_code >= 400 or "error" in d:
+                raise RuntimeError(f"{url.split('/')[2]}: {d.get('error', {}).get('message', r.status_code)}")
+            return type("R", (), {"json": lambda _s: d})()
+
+    sessao = Sessao()
     dia = ONTEM.isoformat()
     ga = f"https://analyticsdata.googleapis.com/v1beta/properties/{GA_PROPRIEDADE}:runReport"
     faixa = [{"startDate": dia, "endDate": dia}]
