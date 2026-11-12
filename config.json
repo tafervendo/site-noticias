@@ -13,7 +13,7 @@
     "esforco": "low",
     "por_rodada": 4,
     "max_por_dia": 25,
-    "dias_paginas": 60
+    "dias_paginas": 365
   },
   "categorias": [
     {
@@ -173,5 +173,6 @@
   "verificacoes_google": [
     "google41ae046501c00e40.html"
   ],
-  "analytics_id": "G-1PJCWVPKCM"
+  "analytics_id": "G-1PJCWVPKCM",
+  "indexnow_chave": "d70af7b8bd178762e0a5aece80221df5"
 }

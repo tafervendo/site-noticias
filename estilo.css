@@ -341,3 +341,15 @@ footer a { color: #fff; }
 .selo-calor { display: inline-flex; align-items: center; gap: 4px; font: 800 11px var(--titulo); font-style: normal; text-transform: uppercase;
   letter-spacing: .05em; color: #fff; background: var(--gradiente); padding: 3px 8px; border-radius: 999px; margin-bottom: 6px; }
 .selo-calor::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: #fff; animation: pulsa 1.4s infinite; }
+
+/* páginas de famosos e arquivo */
+.pessoa-topo { display: flex; gap: 22px; align-items: center; margin: 22px 0 10px; }
+.retrato { margin: 0; flex: none; width: 150px; }
+.retrato img { width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 4px solid var(--c-celebridades); }
+.retrato figcaption { font-size: 10px; color: var(--suave); margin-top: 4px; text-align: center; }
+.pessoa-topo .bloco-topo.grande { margin: 0 0 6px; }
+.tag-pessoa { background: var(--gradiente); color: #fff !important; font-weight: 700; text-decoration: none; border-radius: 999px; padding: 4px 14px; font-size: 13px; }
+.arquivo h2 { font-size: 18px; margin-top: 24px; }
+.arquivo ul { padding-left: 18px; }
+.lista-famosos { columns: 2; }
+@media (max-width: 600px) { .pessoa-topo { flex-direction: column; align-items: flex-start; } .lista-famosos { columns: 1; } }

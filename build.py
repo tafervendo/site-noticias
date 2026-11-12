@@ -1126,7 +1126,7 @@ def pagina(caminho, titulo, conteudo, ativo="", descricao="", imagem="", tipo="w
 <footer>
   <a class="marca" href="{raiz}index.html">{E(CFG['nome'])}<i></i></a>
   <p>Notícias de famosos, televisão, curiosidades e virais, com a fonte sempre citada e o link para a reportagem original.</p>
-  <p><a href="{raiz}sobre.html">Sobre</a> · <a href="{raiz}politica-editorial.html">Política editorial</a> · <a href="{raiz}termos.html">Termos de uso</a> · <a href="{raiz}privacidade.html">Privacidade</a> · <a href="{raiz}contato.html">Contato</a></p>
+  <p><a href="{raiz}sobre.html">Sobre</a> · <a href="{raiz}arquivo.html">Arquivo</a> · <a href="{raiz}politica-editorial.html">Política editorial</a> · <a href="{raiz}termos.html">Termos de uso</a> · <a href="{raiz}privacidade.html">Privacidade</a> · <a href="{raiz}contato.html">Contato</a></p>
 </footer>
 </body>
 </html>
@@ -1286,9 +1286,11 @@ def gerar_capa(itens):
          "publishingPrinciples": f"{BASE}/politica-editorial.html", "correctionsPolicy": f"{BASE}/politica-editorial.html"},
     ], ensure_ascii=False).replace("</", "<\\/")
     h1 = f'<h1 class="so-leitor">{E(CFG["nome"])}: notícias de famosos, televisão, curiosidades e virais</h1>'
+    preload = (f'<link rel="preload" as="image" href="{E(topo[0].imagem)}" fetchpriority="high">\n'
+               if topo and topo[0].imagem else "")
     pagina("index.html", CFG["nome"], "<main>" + h1 + "".join(blocos) + "</main>", ativo="ultimas",
            imagem=topo[0].imagem if topo else f"{BASE}/logo.png",
-           extra_head=f'<script type="application/ld+json">{ld}</script>')
+           extra_head=preload + f'<script type="application/ld+json">{ld}</script>')
 
 
 def compartilhar(url, titulo):
@@ -1422,12 +1424,15 @@ def gerar_materias(itens, resumos):
             credito = E(item.credito)
             if r.get("credito_link", "").startswith("https://"):
                 credito = f'<a href="{E(r["credito_link"])}" target="_blank" rel="noopener">{credito}</a>'
-            imagem = (f'<figure class="capa-materia"><img src="{E(item.imagem)}" alt="" style="object-position:{foco(item.imagem)}" referrerpolicy="no-referrer">'
+            imagem = (f'<figure class="capa-materia"><img src="{E(item.imagem)}" alt="{E(r.get('pessoa') or r['titulo'])}" fetchpriority="high" style="object-position:{foco(item.imagem)}" referrerpolicy="no-referrer">'
                       f'<figcaption>{credito}</figcaption></figure>')
         else:
-            imagem = f'<figure class="capa-materia"><img src="../{card}" alt=""></figure>'
+            imagem = f'<figure class="capa-materia"><img src="../{card}" alt="{E(r["titulo"])}" fetchpriority="high"></figure>'
         previa = item.imagem or f"{BASE}/{card}"
         tags = "".join(f"<span>#{E(t)}</span>" for t in r.get("tags", []))
+        if r.get("pessoa") and slugify(r["pessoa"]) in PAGINAS_PESSOAS:
+            tags = (f'<a class="tag-pessoa" href="../pessoa/{slugify(r["pessoa"])}.html">Todas as notícias de '
+                    f'{E(r["pessoa"])} →</a>') + tags
         organizacao = {"@type": "NewsMediaOrganization", "name": CFG["nome"], "url": BASE + "/",
                        "logo": {"@type": "ImageObject", "url": f"{BASE}/logo.png", "width": 600, "height": 60}}
         ld = json.dumps([{
@@ -1475,6 +1480,67 @@ def gerar_materias(itens, resumos):
                            f'<script type="application/ld+json">{ld}</script>'))
 
 
+PAGINAS_PESSOAS = {}
+
+
+def pessoa_confirmada(nome, cache):
+    """Mesmas travas contra homônimos, só com o que já está guardado (sem consultar a internet)."""
+    info = cache.get("v:" + nome)
+    return bool(info and PROFISSOES.search(info.get("descricao") or "") and (info.get("nasc") or 0) >= 1930
+                and not info.get("morte"))
+
+
+def gerar_pessoas(itens, resumos):
+    """Uma página por famoso com pelo menos 2 notícias: aparece em buscas como "Fulana notícias"."""
+    cache = json.loads(FOTOS.read_text(encoding="utf-8")) if FOTOS.exists() else {}
+    grupos = {}
+    for i in itens:
+        nomes = {i.r.get("pessoa")} if i.r and i.r.get("pessoa") else set()
+        nomes |= {i.n.get("pessoa")} if i.n.get("pessoa") else set()
+        nomes |= {x for x in NOMES.findall(i.titulo) if "v:" + x in cache}
+        for nome in nomes:
+            if nome and pessoa_confirmada(nome, cache):
+                grupos.setdefault(nome, []).append(i)
+    for nome, lista in grupos.items():
+        lista = sorted({id(i): i for i in lista}.values(), key=lambda i: (not i.r, i.data), reverse=False)
+        lista = sorted(lista, key=lambda i: i.data, reverse=True)
+        if len(lista) < 2:
+            continue
+        slug = slugify(nome)
+        PAGINAS_PESSOAS[slug] = nome
+        descricao = (cache.get("v:" + nome) or {}).get("descricao", "")
+        foto_p = cache.get("p:" + nome) or {}
+        retrato = (f'<figure class="retrato"><img src="{E(foto_p["imagem"])}" alt="{E(nome)}" '
+                   f'style="object-position:{foco(foto_p["imagem"])}" referrerpolicy="no-referrer">'
+                   f'<figcaption>{E(foto_p.get("credito", ""))}</figcaption></figure>') if foto_p.get("imagem") else ""
+        intro = f"{nome}{', ' + descricao if descricao else ''}: as últimas notícias, reunidas pelo {CFG['nome']}."
+        ld = json.dumps({"@context": "https://schema.org", "@type": "CollectionPage", "name": f"{nome}: notícias",
+                         "about": {"@type": "Person", "name": nome}, "url": f"{BASE}/pessoa/{slug}.html"},
+                        ensure_ascii=False).replace("</", "<\\/")
+        conteudo = (f'<main><div class="pessoa-topo">{retrato}<div><div class="bloco-topo grande cat-celebridades">'
+                    f'<h1>{E(nome)}</h1></div><p class="intro-cat">{E(intro)}</p></div></div>'
+                    f'{anuncio()}{grade(lista[:40], "../")}</main>')
+        pagina(f"pessoa/{slug}.html", f"{nome}: últimas notícias", conteudo, ativo="celebridades",
+               descricao=intro, imagem=foto_p.get("imagem", ""),
+               extra_head=f'<script type="application/ld+json">{ld}</script>')
+
+
+def gerar_arquivo(resumos):
+    """Lista de todas as matérias próprias, por dia: nenhuma fica sem link para o Google achar."""
+    por_dia = {}
+    for r in publicadas(resumos):
+        dia = datetime.fromisoformat(r["criado"]).astimezone(BRT).strftime("%d/%m/%Y")
+        por_dia.setdefault(dia, []).append(r)
+    blocos = "".join(
+        f'<h2>{dia}</h2><ul>' + "".join(f'<li><a href="noticia/{E(r["slug"])}.html">{E(r["titulo"])}</a></li>' for r in lista)
+        + "</ul>" for dia, lista in por_dia.items())
+    fama = "".join(f'<li><a href="pessoa/{s}.html">{E(n)}</a></li>' for s, n in sorted(PAGINAS_PESSOAS.items(), key=lambda t: t[1]))
+    conteudo = (f'<main><article class="texto arquivo"><h1>Arquivo de matérias</h1>'
+                + (f'<h2>Famosos</h2><ul class="lista-famosos">{fama}</ul>' if fama else "")
+                + f'{blocos}</article></main>')
+    pagina("arquivo.html", "Arquivo de matérias", conteudo, descricao=f"Todas as matérias publicadas pelo {CFG['nome']}.")
+
+
 def gerar(noticias, resumos):
     if SAIDA.exists():
         shutil.rmtree(SAIDA)
@@ -1483,8 +1549,10 @@ def gerar(noticias, resumos):
     shutil.copy(RAIZ / "favicon.svg", SAIDA / "favicon.svg")
 
     itens = montar_itens(noticias, resumos)
+    gerar_pessoas(itens, resumos)
     gerar_capa(itens)
     gerar_materias(itens, resumos)
+    gerar_arquivo(resumos)
 
     for slug, nome in CATS.items():
         if slug == "ultimas":
@@ -1515,11 +1583,15 @@ def gerar(noticias, resumos):
             + ["sobre.html", "politica-editorial.html", "termos.html", "privacidade.html", "contato.html"]]
     urls += [(f'noticia/{r["slug"]}.html', r["criado"][:10]) for r in resumos.values()
              if r.get("slug") and not removido(r)]
+    urls += [("arquivo.html", hoje)] + [(f"pessoa/{s}.html", hoje) for s in PAGINAS_PESSOAS]
     (SAIDA / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
         + "".join(f"<url><loc>{BASE}/{u}</loc><lastmod>{d}</lastmod></url>\n" for u, d in urls)
         + "</urlset>\n", encoding="utf-8")
     (SAIDA / ".nojekyll").write_text("", encoding="utf-8")
+    chave_indexnow = CFG.get("indexnow_chave", "")
+    if re.fullmatch(r"[a-f0-9]{32}", chave_indexnow):
+        (SAIDA / f"{chave_indexnow}.txt").write_text(chave_indexnow, encoding="utf-8")
     for arquivo in CFG.get("verificacoes_google", []):  # verificação do Google Search Console
         if re.fullmatch(r"google[0-9a-f]+\.html", arquivo):
             (SAIDA / arquivo).write_text(f"google-site-verification: {arquivo}", encoding="utf-8")
