@@ -42,6 +42,8 @@ UA = "Mozilla/5.0 (compatible; ResumoDeNoticiasBot/1.0)"
 UA_API = "TaFervendoBot/1.0 (site de noticias)"
 
 CFG = json.loads((RAIZ / "config.json").read_text(encoding="utf-8"))
+# muda sempre que o visual muda, para o navegador não usar o estilo antigo guardado
+VERSAO_CSS = hashlib.sha1((RAIZ / "estilo.css").read_bytes()).hexdigest()[:8]
 BASE = CFG["url"].rstrip("/")
 IA = CFG.get("ia", {})
 
@@ -827,7 +829,7 @@ def pagina(caminho, titulo, conteudo, ativo="", descricao="", imagem="", tipo="w
 <link rel="apple-touch-icon" href="{raiz}icone.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="{raiz}estilo.css">
+<link rel="stylesheet" href="{raiz}estilo.css?v={VERSAO_CSS}">
 {extra_head}
 {script_ads}
 </head>
