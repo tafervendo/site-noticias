@@ -871,9 +871,20 @@ def montar_itens(noticias, resumos):
     return itens
 
 
+def idade_horas(item):
+    return (AGORA - datetime.fromisoformat(item.data)).total_seconds() / 3600
+
+
+def frescor(item):
+    """Ordem da capa: o que é das últimas 3 h vem antes; dentro disso, matéria própria com foto primeiro."""
+    faixa = 0 if idade_horas(item) <= 3 else 1 if idade_horas(item) <= 8 else 2
+    return (faixa, not item.r, not item.imagem, idade_horas(item))
+
+
 def gerar_capa(itens):
+    itens = sorted(itens, key=frescor)
     proprios = [i for i in itens if i.r and i.imagem]
-    com_foto = proprios + [i for i in itens if i.imagem and not i.r]
+    com_foto = [i for i in itens if i.imagem]
     usados = set()
 
     def pegar(lista, qtd):
@@ -902,7 +913,7 @@ def gerar_capa(itens):
         if slug == "ultimas":
             continue
         da_cat = [i for i in itens if i.cat == slug and id(i) not in usados]
-        da_cat.sort(key=lambda i: (not i.r, not i.imagem))
+        da_cat.sort(key=frescor)
         da_cat = da_cat[:4]
         if not da_cat:
             continue
