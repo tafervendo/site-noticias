@@ -1,3 +1,4 @@
 anthropic==2.8.0
 pillow==13.0.0
 opencv-python-headless==4.14.0.94
+google-auth[requests]==2.62.2
