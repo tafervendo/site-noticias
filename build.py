@@ -508,11 +508,13 @@ def ilustrar(noticias, limite=40):
     cache = json.loads(FOTOS.read_text(encoding="utf-8")) if FOTOS.exists() else {}
     consultas = 0
     for n in noticias:
-        if n.get("imagem") or consultas >= limite:
+        if n.get("imagem"):
             continue
         achada = None
         for nome in [x for x in NOMES.findall(n["titulo"]) if x not in PALAVRAS_COMUNS][:2]:
             if "p:" + nome not in cache or "d:" + nome not in cache:
+                if consultas >= limite:
+                    continue  # consulta nova fica para a próxima rodada; o que já está guardado é usado
                 consultas += 1
             if not eh_pessoa(nome, cache):
                 continue
