@@ -997,12 +997,26 @@ def gerar_capa(itens):
     com_foto = [i for i in itens if i.imagem]
     usados = set()
 
-    def pegar(lista, qtd):
+    assuntos_usados = set()
+
+    def assunto(i):
+        # nome de novela entre aspas, nomes próprios e o texto antes dos dois-pontos identificam o assunto
+        chaves = set(NOMES.findall(i.titulo))
+        chaves |= {re.sub(r"[^\w ]", "", c).strip().lower() for c in re.findall(r"[‘'\"“]([^’'\"”]{3,40})[’'\"”]", i.titulo)}
+        if ":" in i.titulo:
+            chaves.add(re.sub(r"[^\w ]", "", i.titulo.split(":")[0]).strip().lower())
+        return {c.lower() for c in chaves if c}
+
+    def pegar(lista, qtd, variar=True):
         saida = []
         for i in lista:
-            if id(i) not in usados and len(saida) < qtd:
-                usados.add(id(i))
-                saida.append(i)
+            if id(i) in usados or len(saida) >= qtd:
+                continue
+            if variar and assunto(i) & assuntos_usados:
+                continue  # um assunto por vez: evita cinco notícias da mesma novela lado a lado
+            usados.add(id(i))
+            assuntos_usados.update(assunto(i))
+            saida.append(i)
         return saida
 
     # manchete: o assunto mais quente; entre os 3 mais quentes, prefere o que tem foto
@@ -1023,7 +1037,7 @@ def gerar_capa(itens):
         lista = "".join(
             f'<li><a href="{E(i.href())}"{i.alvo()}>{foto(i, "mini")}<span>{selo(i)}<b>{E(i.titulo)}</b>'
             f'<small>{E(CATS.get(i.cat, ""))} · {quando(i.data)}</small></span></a></li>' for i in destaques)
-        blocos.append(f'<section class="bloco destaques"><h2 class="rotulo">Em alta agora</h2><ol>{lista}</ol></section>')
+        blocos.append(f'<section class="bloco destaques"><h2 class="rotulo">Para ficar ligado</h2><ol>{lista}</ol></section>')
     blocos.append(anuncio())
 
     for slug, nome in CATS.items():
