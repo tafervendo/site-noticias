@@ -360,5 +360,15 @@
    "credito": "Foto: sfmission.com / CC BY 2.0",
    "credito_link": "https://www.flickr.com/photos/17281186@N00/3028407310"
   }
- ]
+ ],
+ "p:Robert Downey Jr.": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/RobertDowneyJr-byPhilipRomano.jpg/1280px-RobertDowneyJr-byPhilipRomano.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: PhilipRomano / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:RobertDowneyJr-byPhilipRomano.jpg"
+ },
+ "p:Stephen Hawking": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: NASA / Public domain, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Stephen_Hawking.StarChild.jpg"
+ }
 }
