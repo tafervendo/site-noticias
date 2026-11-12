@@ -510,6 +510,12 @@ def ilustrar(noticias, limite=40):
     """Dá imagem segura às manchetes sem foto: retrato livre da pessoa citada ou foto de banco do tema."""
     cache = json.loads(FOTOS.read_text(encoding="utf-8")) if FOTOS.exists() else {}
     consultas = 0
+    # foto de banco que saiu da lista aprovada (com rosto, sem relação) é trocada
+    aprovadas = {o["imagem"] for k, v in cache.items() if k.startswith("b:") and v for o in v}
+    for n in noticias:
+        if n.get("imagem_tipo") == "banco" and n.get("imagem") not in aprovadas:
+            n["imagem"] = ""
+            n.pop("imagem_tipo", None)
     for n in noticias:
         if n.get("imagem"):
             continue
