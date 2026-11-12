@@ -678,9 +678,11 @@ def quando(iso):
 
 def anuncio(formato="auto"):
     cliente = CFG.get("adsense_cliente", "").strip()
+    slot = CFG.get("adsense_slot_lista", "").strip()
+    if cliente and not slot:
+        return ""  # sem bloco criado no painel, quem posiciona os anúncios é o "anúncios automáticos" do AdSense
     if cliente:
-        slot = CFG.get("adsense_slot_lista", "").strip()
-        slot_attr = f' data-ad-slot="{E(slot)}"' if slot else ""
+        slot_attr = f' data-ad-slot="{E(slot)}"'
         return (f'<div class="ad"><span class="ad-rotulo">Publicidade</span>'
                 f'<ins class="adsbygoogle" style="display:block" data-ad-client="{E(cliente)}"{slot_attr} '
                 f'data-ad-format="{formato}" data-full-width-responsive="true"></ins>'
@@ -756,7 +758,8 @@ def pagina(caminho, titulo, conteudo, ativo="", descricao="", imagem="", tipo="w
               else "noindex, follow")
     descricao = cortar(descricao or CFG["slogan"], 155)
     cliente = CFG.get("adsense_cliente", "").strip()
-    script_ads = (f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={E(cliente)}" '
+    script_ads = (f'<meta name="google-adsense-account" content="{E(cliente)}">\n'
+                  f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={E(cliente)}" '
                   f'crossorigin="anonymous"></script>') if cliente else ""
     nav = "".join(f'<a href="{raiz}{href_cat(s)}"{" class=ativo" if s == ativo else ""}>{E(n)}</a>'
                   for s, n in CATS.items())
