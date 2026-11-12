@@ -865,6 +865,11 @@ def pagina(caminho, titulo, conteudo, ativo="", descricao="", imagem="", tipo="w
     script_ads = (f'<meta name="google-adsense-account" content="{E(cliente)}">\n'
                   f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={E(cliente)}" '
                   f'crossorigin="anonymous"></script>') if cliente else ""
+    ga = CFG.get("analytics_id", "").strip()
+    if re.fullmatch(r"G-[A-Z0-9]+", ga or ""):
+        script_ads += (f'\n<script async src="https://www.googletagmanager.com/gtag/js?id={ga}"></script>\n'
+                       f"<script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}"
+                       f"gtag('js',new Date());gtag('config','{ga}');</script>")
     nav = "".join(f'<a href="{raiz}{href_cat(s)}"{" class=ativo" if s == ativo else ""}>{E(n)}</a>'
                   for s, n in CATS.items())
     titulo_pg = f"{titulo} | {CFG['nome']}" if titulo != CFG["nome"] else f"{CFG['nome']} — {CFG['slogan']}"
@@ -1399,6 +1404,8 @@ def paginas_fixas():
 <p>O {nome} não pede cadastro e não coleta nome, e-mail ou outros dados pessoais de quem visita o site.</p>
 <h2>Publicidade e cookies</h2>
 <p>Usamos o Google AdSense para exibir anúncios. O Google e seus parceiros usam cookies para mostrar anúncios com base em visitas anteriores a este e a outros sites. Você pode desativar os anúncios personalizados em <a href="https://adssettings.google.com" target="_blank" rel="noopener">adssettings.google.com</a> e saber mais em <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener">policies.google.com/technologies/ads</a>.</p>
+<h2>Estatísticas de visitas</h2>
+<p>Usamos o Google Analytics para saber quantas pessoas visitam o site, quais matérias são mais lidas e de onde vêm as visitas. O Google Analytics usa cookies e não identifica você pelo nome. Saiba mais em <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">policies.google.com/technologies/partner-sites</a>.</p>
 <h2>Conteúdo incorporado</h2>
 <p>Algumas matérias mostram publicações do Instagram, TikTok, X ou YouTube. Esses conteúdos são carregados diretamente das redes sociais, que podem usar cookies conforme suas próprias políticas de privacidade.</p>
 <h2>Links externos</h2>
