@@ -52,8 +52,8 @@ Cada resumo lê a matéria (cerca de 4 mil tokens) e escreve o texto (cerca de m
 
 | Modelo (`ia.modelo` no config) | Por resumo | Por mês |
 |---|---|---|
-| `claude-opus-5-5` (padrão, melhor texto) | ~US$ 0,04 | ~US$ 48 (~R$ 270) |
-| `claude-haiku-5-5` (mais barato) | ~US$ 0,001 | ~US$ 1,50 (~R$ 9) |
+| `claude-opus-5-5` (melhor texto) | ~US$ 0,04 | ~US$ 48 (~R$ 270) |
+| `claude-haiku-5-5` (escolhido, mais barato) | ~US$ 0,001 | ~US$ 1,50 (~R$ 9) |
 
 As notícias que a IA ainda não resumiu aparecem com a capa própria e levam ao veículo original.
 

@@ -392,12 +392,14 @@ def escrever_resumo(cliente, noticia, materia):
 
     pedido = (f"Veículo: {noticia['fonte']}\nTítulo original: {noticia['titulo']}\n\n"
               f"<materia>\n{materia}\n</materia>")
+    modelo = IA.get("modelo", "claude-haiku-5-5")
+    # o Haiku não tem modelo reserva em caso de recusa; nos outros, a API tenta outro modelo sozinha
+    reserva = {} if "haiku" in modelo else {"betas": ["server-side-fallback-2026-07-01"], "fallbacks": "default"}
     try:
         resp = cliente.beta.messages.create(
-            model=IA.get("modelo", "claude-opus-5-5"),
+            model=modelo,
             max_tokens=8000,
-            betas=["server-side-fallback-2026-07-01"],
-            fallbacks="default",
+            **reserva,
             system=INSTRUCOES,
             output_config={"effort": IA.get("esforco", "low"),
                            "format": {"type": "json_schema", "schema": ESQUEMA}},

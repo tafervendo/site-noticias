@@ -9,7 +9,7 @@
   "dias_guardados": 4,
   "max_por_fonte": 25,
   "ia": {
-    "modelo": "claude-opus-5-5",
+    "modelo": "claude-haiku-5-5",
     "esforco": "low",
     "por_rodada": 4,
     "max_por_dia": 40,
