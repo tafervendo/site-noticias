@@ -722,9 +722,41 @@ def foto(item, classe="foto", prioridade=False):
         carga = 'fetchpriority="high"' if prioridade else 'loading="lazy"'
         return (f'<div class="{classe}"><img src="{E(item.imagem)}" alt="{E(item.titulo)}" {carga} decoding="async" '
                 f'referrerpolicy="no-referrer">{credito}</div>')
-    # capa própria: arte com a cor da categoria, sem foto de terceiros
-    return (f'<div class="{classe} sem-foto cat-{item.cat}"><span class="capa-cat">{E(CATS.get(item.cat, ""))}</span>'
-            f'<span class="capa-marca">{E(CFG["nome"])}</span></div>')
+    # capa própria: arte única para cada notícia, sem foto de terceiros
+    texto, citacao = destaque_capa(item.titulo)
+    n = int(hashlib.sha1(item.titulo.encode()).hexdigest(), 16)
+    tamanho = "curto" if len(texto) <= 14 else "medio" if len(texto) <= 28 else "longo"
+    aspas = ' citacao' if citacao else ''
+    return (f'<div class="{classe} sem-foto capa-arte cat-{item.cat} textura-{n % 5} tom-{(n // 5) % 3}">'
+            f'<span class="capa-icone">{ICONES.get(item.cat, ICONES["ultimas"])}</span>'
+            + ('<span class="capa-aspas">“</span>' if citacao else '')
+            + f'<span class="capa-destaque {tamanho}{aspas}">{E(texto)}</span>'
+            f'<span class="capa-rodape"><b>{E(CATS.get(item.cat, ""))}</b><i>{E(CFG["nome"].lower())}</i></span></div>')
+
+
+ICONES = {  # ícones simples em SVG, desenhados aqui (sem imagem de terceiros)
+    "ultimas": '<svg viewBox="0 0 24 24"><path d="M13.5 2c.5 3.5-1.5 5-3 6.6C8.8 10.4 7.5 12 7.5 14.5A4.5 4.5 0 0 0 12 19a4.5 4.5 0 0 0 4.5-4.5c0-1.4-.5-2.6-1.2-3.6.9 2.6-.6 4.1-1.8 4.1 1.6-3.5-.2-6.1 0-8.9C15 7.1 16.4 4.6 13.5 2zM12 22a7 7 0 0 1-7-7c0-3.5 1.9-5.6 3.6-7.4C10.7 5.4 12.2 3.7 11.4 0c5 1.6 8.6 6.6 8.6 12.5A9 9 0 0 1 12 22z"/></svg>',
+    "em-alta": '<svg viewBox="0 0 24 24"><path d="M3 17l6-6 4 4 7-7v5h2V3h-10v2h5l-4 4-4-4-8 8z"/></svg>',
+    "celebridades": '<svg viewBox="0 0 24 24"><path d="M12 2l2.9 6.6 7.1.6-5.4 4.7 1.6 7L12 17.3 5.8 21l1.6-7L2 9.2l7.1-.6z"/></svg>',
+    "televisao": '<svg viewBox="0 0 24 24"><path d="M21 6h-7.6l3.3-3.3-.7-.7L12 6 8 2l-.7.7L10.6 6H3a2 2 0 0 0-2 2v11a2 2 0 0 0 2 2h18a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2zm0 13H3V8h18z"/></svg>',
+    "virais": '<svg viewBox="0 0 24 24"><path d="M13 2L4 14h6l-1 8 9-12h-6z"/></svg>',
+    "curiosidades": '<svg viewBox="0 0 24 24"><path d="M9 21h6v-1H9zm3-19a7 7 0 0 0-4 12.7V17a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-2.3A7 7 0 0 0 12 2z"/></svg>',
+}
+
+
+def destaque_capa(titulo):
+    """O que vai em letras grandes na capa: a frase entre aspas, o nome do famoso ou o assunto."""
+    citacao = re.search(r"[\"“‘']([^\"”’']{6,48})[\"”’']", titulo)
+    if citacao and not titulo.startswith(citacao.group(0)):
+        return citacao.group(1).strip(), True
+    antes = titulo.split(":")[0].strip(" '\"‘’“”")
+    if ":" in titulo and 3 <= len(antes) <= 32:
+        return antes, False
+    nome = re.match(r"((?:[A-ZÁÉÍÓÚÂÊÔÃÕÇ][\wáéíóúâêôãõç.'-]+\s){1,2}[A-ZÁÉÍÓÚÂÊÔÃÕÇ][\wáéíóúâêôãõç.'-]+)", titulo)
+    if nome:
+        return nome.group(1), False
+    palavras = titulo.split()
+    return " ".join(palavras[:4]) + ("…" if len(palavras) > 4 else ""), False
 
 
 def meta(item, raiz=""):

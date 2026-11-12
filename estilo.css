@@ -231,3 +231,99 @@ footer a { color: #fff; }
 .intro-cat { max-width: 760px; margin: -6px 0 22px; color: var(--suave); font-size: 17px; }
 .texto ul { padding-left: 20px; }
 .texto li { margin: 6px 0; }
+
+/* ---------- capas próprias (notícia sem foto livre) ---------- */
+.cat-ultimas { --cor2: #ff8a00; }
+.cat-em-alta { --cor2: #ff2d55; }
+.cat-celebridades { --cor2: #8a2be2; }
+.cat-televisao { --cor2: #00a3ff; }
+.cat-virais { --cor2: #c6f000; }
+.cat-curiosidades { --cor2: #00d4c8; }
+
+.capa-arte { position: relative; isolation: isolate; overflow: hidden; display: flex; flex-direction: column;
+  justify-content: space-between; align-items: flex-start; gap: 10px; padding: 16px 18px 14px; color: #fff;
+  background: linear-gradient(135deg, var(--cor) 0%, var(--cor2) 100%); }
+.capa-arte.tom-1 { background: radial-gradient(120% 120% at 0% 0%, var(--cor2) 0%, var(--cor) 55%, #140f1c 120%); }
+.capa-arte.tom-2 { background: linear-gradient(160deg, #140f1c -10%, var(--cor) 45%, var(--cor2) 110%); }
+
+/* texturas: cada capa ganha uma, para nenhuma ficar igual à vizinha */
+.capa-arte::before { content: ""; position: absolute; inset: 0; z-index: -1; pointer-events: none; }
+.textura-0::before { background: radial-gradient(rgba(255,255,255,.22) 1.4px, transparent 1.6px) 0 0 / 13px 13px;
+  -webkit-mask: linear-gradient(120deg, transparent 30%, #000 100%); mask: linear-gradient(120deg, transparent 30%, #000 100%); }
+.textura-1::before { background: repeating-linear-gradient(-45deg, rgba(255,255,255,.10) 0 9px, transparent 9px 22px); }
+.textura-2::before { background: repeating-radial-gradient(circle at 105% -5%, rgba(255,255,255,.16) 0 2px, transparent 2px 24px); }
+.textura-3::before { background: linear-gradient(rgba(255,255,255,.09) 1px, transparent 1px) 0 0 / 22px 22px,
+  linear-gradient(90deg, rgba(255,255,255,.09) 1px, transparent 1px) 0 0 / 22px 22px; }
+.textura-4::before { background: radial-gradient(circle at 85% 15%, rgba(255,255,255,.35) 0 14%, transparent 15%),
+  radial-gradient(circle at 10% 110%, rgba(0,0,0,.28) 0 32%, transparent 33%); }
+.capa-arte::after { content: ""; position: absolute; inset: 0; z-index: -1; pointer-events: none;
+  background: linear-gradient(180deg, rgba(0,0,0,0) 45%, rgba(0,0,0,.35) 100%); }
+
+.capa-icone { width: 34px; height: 34px; border-radius: 50%; background: #fff; display: grid; place-items: center;
+  box-shadow: 0 6px 16px rgba(0,0,0,.25); flex: none; }
+.capa-icone svg { width: 19px; height: 19px; fill: var(--cor); }
+
+.capa-destaque { font: 900 28px/1.02 var(--titulo); letter-spacing: -0.03em; text-wrap: balance; max-width: 100%;
+  text-shadow: 0 2px 18px rgba(0,0,0,.25); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.capa-destaque.curto { font-size: 40px; text-transform: uppercase; letter-spacing: -0.02em; }
+.capa-destaque.longo { font-size: 23px; }
+.capa-destaque.citacao { font-style: normal; }
+.capa-destaque.citacao::before { content: "“"; display: block; font: 900 64px/0.6 var(--titulo); color: #ffe14d; margin: 10px 0 2px; }
+
+.capa-rodape { width: 100%; display: flex; justify-content: space-between; align-items: center; font-size: 11px; }
+.capa-rodape b { font: 800 11px var(--titulo); text-transform: uppercase; letter-spacing: .1em; background: rgba(0,0,0,.28);
+  padding: 4px 8px; border-radius: 6px; }
+.capa-rodape i { font: 800 12px var(--titulo); font-style: normal; opacity: .85; }
+
+/* tamanhos por lugar */
+.mini.capa-arte { padding: 10px 12px; gap: 6px; }
+.mini .capa-icone { width: 26px; height: 26px; } .mini .capa-icone svg { width: 15px; height: 15px; }
+.mini .capa-destaque, .mini .capa-destaque.curto { font-size: 20px; }
+.mini .capa-destaque.citacao::before { font-size: 40px; margin-top: 6px; }
+.mini .capa-rodape { display: none; }
+.fundo.capa-arte { justify-content: flex-start; padding: 24px 26px; }
+.fundo .capa-icone { width: 46px; height: 46px; } .fundo .capa-icone svg { width: 26px; height: 26px; }
+.fundo .capa-destaque { font-size: clamp(34px, 5vw, 64px); -webkit-line-clamp: 2; opacity: .95; }
+.fundo .capa-destaque.curto { font-size: clamp(44px, 7vw, 92px); }
+.fundo .capa-rodape { display: none; }
+.lateral .fundo .capa-destaque { font-size: clamp(24px, 2.6vw, 34px); }
+.cartao:hover .capa-arte .capa-icone { transform: rotate(-8deg) scale(1.06); transition: transform .2s; }
+@media (max-width: 600px) { .capa-destaque.curto { font-size: 34px; } }
+
+/* ajuste: letra proporcional à largura da capa, aspas como elemento próprio */
+.foto, .fundo, .mini { container-type: inline-size; }
+.capa-arte { justify-content: flex-start; }
+.capa-arte .capa-rodape { margin-top: auto; }
+.capa-destaque { font-size: 11.5cqi; -webkit-line-clamp: 3; margin-top: 4px; }
+.capa-destaque.curto { font-size: 15cqi; }
+.capa-destaque.longo { font-size: 9.2cqi; }
+.capa-destaque.citacao::before { content: none; }
+.capa-aspas { font: 900 22cqi/0.55 var(--titulo); color: #ffe14d; height: 0.45em; margin: 2px 0 0 -2px; text-shadow: 0 3px 12px rgba(0,0,0,.25); }
+.capa-aspas + .capa-destaque { margin-top: 0; }
+.mini .capa-destaque, .mini .capa-destaque.curto, .mini .capa-destaque.longo { font-size: 11cqi; }
+.mini .capa-aspas { font-size: 18cqi; }
+.fundo .capa-destaque { font-size: 7.5cqi; -webkit-line-clamp: 2; }
+.fundo .capa-destaque.curto { font-size: 10cqi; }
+.fundo .capa-destaque.longo { font-size: 6cqi; }
+.fundo .capa-aspas { font-size: 14cqi; }
+@media (max-width: 600px) { .capa-destaque.curto { font-size: 15cqi; } }
+
+/* ajuste 2: ícone e rodapé nos cantos, texto centralizado com espaço livre */
+.capa-arte { justify-content: center; padding: 14px 16px 38px; }
+.capa-arte .capa-icone { position: absolute; top: 10px; right: 10px; width: 30px; height: 30px; }
+.capa-arte .capa-icone svg { width: 17px; height: 17px; }
+.capa-arte .capa-rodape { position: absolute; left: 14px; right: 14px; bottom: 10px; margin: 0; }
+.capa-destaque { font-size: 9.6cqi; line-height: 1.04; -webkit-line-clamp: 3; padding-right: 26px; }
+.capa-destaque.curto { font-size: 12.5cqi; -webkit-line-clamp: 2; }
+.capa-destaque.longo { font-size: 8cqi; }
+.capa-aspas { font-size: 18cqi; height: .38em; }
+.mini.capa-arte { padding: 10px 12px; }
+.mini .capa-destaque, .mini .capa-destaque.curto, .mini .capa-destaque.longo { font-size: 10cqi; padding-right: 0; }
+.mini .capa-icone { display: none; }
+.fundo.capa-arte { justify-content: flex-start; padding: 28px 30px; }
+.fundo .capa-icone { top: 22px; right: 22px; width: 48px; height: 48px; }
+.fundo .capa-destaque { font-size: 7cqi; padding-right: 60px; }
+.fundo .capa-destaque.curto { font-size: 9.5cqi; }
+.fundo .capa-destaque.longo { font-size: 5.6cqi; }
+
+.capa-arte .capa-rodape { width: auto; }
