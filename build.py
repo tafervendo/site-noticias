@@ -21,6 +21,7 @@ import re
 import shutil
 import sys
 import unicodedata
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -316,10 +317,17 @@ def extrair_materia(url):
 
 # ---------- imagens com licença livre ----------
 
-def api_json(url, headers=None):
+def api_json(url, headers=None, tentativas=3):
+    import time
     req = urllib.request.Request(url, headers={"User-Agent": UA_API, **(headers or {})})
-    with urllib.request.urlopen(req, timeout=20) as r:
-        return json.load(r)
+    for i in range(tentativas):
+        try:
+            with urllib.request.urlopen(req, timeout=20) as r:
+                return json.load(r)
+        except urllib.error.HTTPError as e:
+            if e.code != 429 or i == tentativas - 1:
+                raise
+            time.sleep(10 * (i + 1))  # o servidor pediu calma: espera e tenta de novo
 
 
 def foto_wikipedia(nome):
@@ -332,10 +340,19 @@ def foto_wikipedia(nome):
         return None
     q = urllib.parse.urlencode({"action": "query", "titles": "File:" + arquivo, "prop": "imageinfo",
                                 "iiprop": "url|extmetadata", "iiurlwidth": 1200, "format": "json"})
-    info = next(iter(api_json("https://commons.wikimedia.org/w/api.php?" + q)["query"]["pages"].values()))["imageinfo"][0]
+    # a API da Wikipédia em português também enxerga os arquivos do Commons
+    infos = next(iter(api_json("https://pt.wikipedia.org/w/api.php?" + q)["query"]["pages"].values())).get("imageinfo")
+    if not infos:
+        return None
+    info = infos[0]
     meta_ = info.get("extmetadata", {})
     licenca = limpar_html(meta_.get("LicenseShortName", {}).get("value", ""))
-    if not licenca or re.search(r"fair use|non-free", licenca, re.I):
+    # só arquivos do Commons (a Wikipédia em português também guarda fotos restritas)
+    # e só licenças abertas conhecidas; sem "ND", que proíbe recorte
+    url = info.get("thumburl") or info.get("url", "")
+    if "/wikipedia/commons/" not in url:
+        return None
+    if not re.match(r"(CC[ -]?BY|CC0|Public domain|Domínio público|PD\b)", licenca, re.I) or re.search(r"\bND\b|NC\b", licenca):
         return None
     autor = limpar_html(meta_.get("Artist", {}).get("value", "")) or "autor desconhecido"
     return {"imagem": info.get("thumburl") or info["url"],
@@ -354,7 +371,7 @@ def foto_banco(termos):
             return [{"imagem": f["src"]["large2x"], "credito": f"Foto: {f['photographer']} / Pexels",
                      "credito_link": f["url"]} for f in d["photos"]]
     d = api_json("https://api.openverse.org/v1/images/?" + urllib.parse.urlencode(
-        {"q": termos, "license_type": "commercial", "mature": "false", "aspect_ratio": "wide", "page_size": 5}))
+        {"q": termos, "license_type": "commercial,modification", "mature": "false", "aspect_ratio": "wide", "page_size": 5}))
     opcoes = []
     for f in d.get("results", []):
         if f.get("url") and (f.get("width") or 0) >= 800:

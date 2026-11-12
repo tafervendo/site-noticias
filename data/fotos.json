@@ -1,14 +1,4 @@
 {
- "p:Bruna Marquezine": {
-  "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bruna_Marquezine_2025.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "credito": "Foto: Multishow / CC BY 4.0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Bruna_Marquezine_2025.png"
- },
- "p:Wanessa Camargo": {
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Wanessa_Camargo_at_De_Lado_com_a_Loba_2024_01.jpg/1280px-Wanessa_Camargo_at_De_Lado_com_a_Loba_2024_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Wanessa_Camargo_at_De_Lado_com_a_Loba_2024_01.jpg"
- },
  "b:science discovery": [
   {
    "imagem": "https://live.staticflickr.com/8669/16149052746_3594ae5b91_b.jpg",
@@ -36,7 +26,6 @@
    "credito_link": "https://www.flickr.com/photos/23375196@N06/2478205049"
   }
  ],
- "p:Quem Ama": null,
  "b:television studio": [
   {
    "imagem": "https://live.staticflickr.com/5330/7432171056_48b21b5bc9_b.jpg",
@@ -59,12 +48,6 @@
    "credito_link": "https://www.flickr.com/photos/23448975@N04/4352912413"
   }
  ],
- "p:Giullia Buscaccio": null,
- "p:Gilberto Gil": {
-  "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/50/22.05.2026_-_Gilberto_Gil_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "credito": "Foto: Ricardo Stuckert / PR / CC BY-SA 4.0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:22.05.2026_-_Gilberto_Gil_(cropped).jpg"
- },
  "b:smartphone social media": [
   {
    "imagem": "https://live.staticflickr.com/8187/8107134068_3bda32920a_b.jpg",
@@ -92,6 +75,7 @@
    "credito_link": "https://www.flickr.com/photos/135396164@N05/25314591330"
   }
  ],
+ "p:Henry Cavill": null,
  "b:superhero costume figure": [
   {
    "imagem": "https://live.staticflickr.com/5289/5230346975_409a86c8fe_b.jpg",
@@ -109,23 +93,23 @@
    "credito_link": "https://www.flickr.com/photos/83346641@N00/4870991986"
   },
   {
-   "imagem": "https://live.staticflickr.com/7799/18074516459_cc39f7b27d_b.jpg",
-   "credito": "Foto: nalends / CC BY-ND 2.0",
-   "credito_link": "https://www.flickr.com/photos/130475615@N06/18074516459"
+   "imagem": "https://live.staticflickr.com/4041/4386543960_fbb5ccae75_b.jpg",
+   "credito": "Foto: JD Hancock / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/83346641@N00/4386543960"
   },
   {
-   "imagem": "https://live.staticflickr.com/8767/18074491109_1eaf7aeca3_b.jpg",
-   "credito": "Foto: nalends / CC BY-ND 2.0",
-   "credito_link": "https://www.flickr.com/photos/130475615@N06/18074491109"
+   "imagem": "https://live.staticflickr.com/4045/4458168725_52b11e8f70_b.jpg",
+   "credito": "Foto: JD Hancock / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/83346641@N00/4458168725"
   }
  ],
  "p:Gabriel Galípolo": {
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Gabriel_Gal%C3%ADpolo_in_2023.jpg/1280px-Gabriel_Gal%C3%ADpolo_in_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Gabriel_Gal%C3%ADpolo_in_2023.jpg/1280px-Gabriel_Gal%C3%ADpolo_in_2023.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credito": "Foto: Agência Senado / CC BY 2.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Gabriel_Gal%C3%ADpolo_in_2023.jpg"
  },
  "p:Daniel Radcliffe": {
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/DanielRadcliffe-byPhilipRomano.jpg/1280px-DanielRadcliffe-byPhilipRomano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/DanielRadcliffe-byPhilipRomano.jpg/1280px-DanielRadcliffe-byPhilipRomano.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credito": "Foto: PhilipRomano / CC BY-SA 4.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:DanielRadcliffe-byPhilipRomano.jpg"
  }
