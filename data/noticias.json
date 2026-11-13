@@ -1,5 +1,43 @@
 [
  {
+  "titulo": "Em 'Carnaval de Luz', U2 não reinventa a roda, mas volta a soar como U2",
+  "link": "https://g1.globo.com/pop-arte/musica/noticia/2026/11/13/em-carnaval-de-luz-u2-nao-reinventa-a-roda-mas-volta-a-soar-como-u2.ghtml",
+  "trecho": "Título: \"Carnaval de Luz\" Artista: U2 Nota: 7/10 Após quase dez anos sem um álbum inteiro de inéditas (o último foi \"Songs of Experience\", em 2017), o U2 volta com o disco \"Carnaval de Luz\". Assim mesmo, em bom…",
+  "credito": "Foto: kevin dooley / CC BY 2.0",
+  "fonte": "g1",
+  "categoria": "ultimas",
+  "imagem": "https://live.staticflickr.com/2303/2108795296_889955b0fe_b.jpg",
+  "data": "2026-11-13T07:07:41.284405+00:00",
+  "busca_imagem": "rock band concert stage lights",
+  "credito_link": "https://www.flickr.com/photos/12836528@N00/2108795296",
+  "imagem_tipo": "banco"
+ },
+ {
+  "titulo": "Tá rolando! Dakota Johnson e Machine Gun Kelly circulam agarradinhos e de mãos dadas",
+  "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/ta-rolando-dakota-johnson-e-machine-gun-kelly-circulam-agarradinhos-e-maos-dadas.ghtml",
+  "trecho": "A atriz Dakota Johnson, de 37 anos de idade, e o cantor Machine Gun Kelly, de 36 anos, apareceram assumidíssimos, em uma noitada nessa quinta-feira (12). A ex de Chris Martin e o ex de Megan Fox foram à première do…",
+  "credito": "Foto: Gabriel Hutchinson / CC BY-SA 4.0, via Wikimedia Commons",
+  "fonte": "Quem",
+  "categoria": "celebridades",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Dakota_Johnson_at_the_2025_Cannes_Film_Festival_%28cropped%29.jpg/1280px-Dakota_Johnson_at_the_2025_Cannes_Film_Festival_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "data": "2026-11-13T07:07:41.284405+00:00",
+  "busca_imagem": "",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Dakota_Johnson_at_the_2025_Cannes_Film_Festival_(cropped).jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Dakota Johnson"
+ },
+ {
+  "titulo": "Coelhinha da 'Playboy' em filme, Lily-Rose Depp usa microshort e top em set",
+  "link": "https://revistaquem.globo.com/entretenimento/series-e-filmes/noticia/2026/11/coelhinha-da-playboy-em-filme-lily-rose-depp-usa-microshort-e-top-em-set.ghtml",
+  "trecho": "A atriz Lily-Rose Depp, de 27 anos de idade, mais conhecida por atuar no filme Nosferatu (2024) e no ainda inédito Lobis-Homem, apareceu bem à vontade no set de filmagem de seu mais novo longa, Playmates [Coelhinhas, em…",
+  "credito": "",
+  "fonte": "Quem",
+  "categoria": "celebridades",
+  "imagem": "",
+  "data": "2026-11-13T07:07:41.284405+00:00",
+  "busca_imagem": ""
+ },
+ {
   "titulo": "Grammy Latino 2026 tem primeira vitória de Anitta e Rosalía fazendo história; veja tudo o que rolou!",
   "link": "https://gshow.globo.com/cultura-pop/musica/noticia/grammy-latino-2026-tem-primeira-vitoria-de-anitta-e-rosalia-fazendo-historia-veja-o-que-rolou.ghtml",
   "trecho": "Anitta ganha primeiro Grammy Latino de sua carreira Noite mais aguardada pelos artistas da América Latina, o Grammy Latino 2026 rolou nesta quinta-feira (12), em Las Vegas, reunindo algumas das maiores celebridades do…",
@@ -7,8 +45,8 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "",
-  "data": "2026-11-13T05:34:27.353085+00:00",
-  "busca_imagem": "grammy latino trophy stage"
+  "data": "2026-11-13T07:14:25+00:00",
+  "busca_imagem": "latin grammy trophy gold"
  },
  {
   "titulo": "Sabre de luz de Darth Vader é vendido por quase R$ 28 milhões",
@@ -18,20 +56,53 @@
   "fonte": "g1",
   "categoria": "ultimas",
   "imagem": "",
-  "data": "2026-11-13T05:34:27.353085+00:00",
-  "busca_imagem": "lightsaber replica display case"
+  "data": "2026-11-13T07:09:00+00:00",
+  "busca_imagem": "lightsaber replica display glass case"
+ },
+ {
+  "titulo": "Além da eterna Glória: Relembre de que morreram os astros do elenco de Chaves",
+  "link": "https://tvfoco.uai.com.br/alem-da-eterna-gloria-relembre-de-que-morreram-os-astros-do-elenco-de-chaves/",
+  "trecho": "A morte de Regina Torné, aos 82 anos, nesta semana, reacende a saudade dos fãs de Chaves; veja o que causou a partida de outros nomes O seriado Chaves atravessou gerações com histórias simples e personagens que se…",
+  "credito": "",
+  "fonte": "OTV Foco",
+  "categoria": "televisao",
+  "imagem": "",
+  "data": "2026-11-13T07:00:00+00:00",
+  "busca_imagem": ""
+ },
+ {
+  "titulo": "Atriz importante do elenco de 'Chaves' morre aos 82 anos; saiba quem é",
+  "link": "https://www.terra.com.br/diversao/gente/atriz-importante-do-elenco-de-chaves-morre-aos-82-anos-saiba-quem-e,763a0e0970ac9203ea45be576045e427bogy4wwn.html",
+  "trecho": "Conhecida no Brasil por ter vivido a Glória no seriado Chaves, Regina Torné faleceu nesta ...",
+  "credito": "",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "",
+  "data": "2026-11-13T06:51:09+00:00",
+  "busca_imagem": ""
  },
  {
   "titulo": "Angélica se joga em trend de Ludmilla e arrasa no desafio da latinha: 'Maravilhosa'",
   "link": "https://gshow.globo.com/gnt/angelica-ao-vivo/noticia/angelica-se-joga-em-trend-de-ludmilla-e-arrasa-no-desafio-da-latinha-maravilhosa.ghtml",
   "trecho": "Angélica, Lore Improta e mais fazem desafio da música 'Bi Festinha', de Ludmilla \"Olha como ela mexe no baile, olha como é que ela mexe no baile\", foi com os versos da nova música de Ludmilla que os convidados do…",
-  "credito": "Foto: The Obazee ╰༼=ಠਊಠ=༽╯ / CC BY-SA 2.0",
+  "credito": "",
   "fonte": "Gshow",
   "categoria": "virais",
-  "imagem": "https://live.staticflickr.com/5598/15281204788_9124b1497e_b.jpg",
+  "imagem": "",
   "data": "2026-11-13T06:27:22+00:00",
-  "busca_imagem": "ice bucket challenge",
-  "credito_link": "https://www.flickr.com/photos/96859963@N08/15281204788",
+  "busca_imagem": "aluminum soda can challenge"
+ },
+ {
+  "titulo": "Cidade alemã investiu quase 1,2 milhão de euros em caminhão de lixo movido a hidrogênio, mas veículo ficou parado em até 85% dos dias e agora será convertido para diesel",
+  "link": "https://catracalivre.com.br/noticias/cidade-alema-investiu-quase-12-milhao-de-euros-em-caminhao-de-lixo-movido-a-hidrogenio-mas-veiculo-ficou-parado-em-ate-85-dos-dias-e-agora-sera-convertido-para-diesel/",
+  "trecho": "Heidelberg gastou 1,2 milhão de euros em caminhão de lixo a hidrogênio, mas falhas paralisaram a operação e forçaram troca para diesel. O post Cidade alemã investiu quase 1,2 milhão de euros em caminhão de lixo movido a…",
+  "credito": "Foto: John Englart (Takver) / CC BY-SA 2.0",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "imagem": "https://live.staticflickr.com/4365/36334423666_bc5daa3094_b.jpg",
+  "data": "2026-11-13T06:24:49+00:00",
+  "busca_imagem": "hydrogen fuel garbage truck",
+  "credito_link": "https://www.flickr.com/photos/81043308@N00/36334423666",
   "imagem_tipo": "banco"
  },
  {
@@ -57,10 +128,21 @@
   "categoria": "televisao",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/2Z9A7852.jpg/1280px-2Z9A7852.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "data": "2026-11-13T06:10:09+00:00",
-  "busca_imagem": "music studio microphone",
+  "busca_imagem": "music ep album release",
   "credito_link": "https://commons.wikimedia.org/wiki/File:2Z9A7852.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Luan Santana"
+ },
+ {
+  "titulo": "Sêneca, filósofo romano, sobre aprender durante toda a vida: “Enquanto viver, continue aprendendo a viver”",
+  "link": "https://catracalivre.com.br/noticias/seneca-filosofo-romano-sobre-aprender-durante-toda-a-vida-enquanto-viver-continue-aprendendo-a-viver/",
+  "trecho": "A reflexão de Sêneca nas Cartas a Lucílio mostra por que o aprendizado constante e o autoconhecimento transformam qualquer fase da vida. O post Sêneca, filósofo romano, sobre aprender durante toda a vida: “Enquanto…",
+  "credito": "",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "imagem": "",
+  "data": "2026-11-13T06:04:49+00:00",
+  "busca_imagem": "ancient roman stone bust philosopher"
  },
  {
   "titulo": "Thais Carla relembra ameaças de morte: 'Falava que eu tinha que morrer queimada'",
@@ -82,7 +164,7 @@
   "categoria": "televisao",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ana_Castela_e_Z%C3%A9_Felipe_no_anivers%C3%A1rio_de_Marrone_%28Z%C3%A9_Felipe%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T06:00:00+00:00",
-  "busca_imagem": "festa party decoration balloons",
+  "busca_imagem": "birthday party celebration cake",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Ana_Castela_e_Z%C3%A9_Felipe_no_anivers%C3%A1rio_de_Marrone_(Z%C3%A9_Felipe).jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Zé Felipe"
@@ -96,7 +178,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-13T06:00:00+00:00",
-  "busca_imagem": "white outfit fashion runway"
+  "busca_imagem": ""
  },
  {
   "titulo": "Anitta faz história e vence seu primeiro Grammy Latino com 'EQUILIBRIVM'",
@@ -107,7 +189,7 @@
   "categoria": "ultimas",
   "imagem": "",
   "data": "2026-11-13T05:57:48+00:00",
-  "busca_imagem": "grammy gold trophy award"
+  "busca_imagem": "latin grammy trophy gold"
  },
  {
   "titulo": "Anitta conquista o 1º Grammy Latino após mais de 15 anos de carreira",
@@ -118,19 +200,30 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-13T05:56:04+00:00",
-  "busca_imagem": "grammy gold trophy award"
+  "busca_imagem": "latin grammy trophy gold"
  },
  {
-  "titulo": "Anitta ganha o primeiro Grammy Latino da carreira com o disco 'EQILIBRIVM'",
+  "titulo": "Anitta ganha o primeiro Grammy Latino da carreira com o disco 'EQUILIBRIVM'",
   "link": "https://gshow.globo.com/cultura-pop/musica/noticia/anitta-ganha-o-primeiro-grammy-latino-da-carreira-com-o-disco-eqilibrivm.ghtml",
   "trecho": "Anitta ganha primeiro Grammy Latino de sua carreira É dela! Anitta ganhou o primeiro Grammy Latino da sua carreira em cerimônia que rolou nesta quinta-feira (12), em Las Vegas. A cantora levou o prêmio de Melhor Álbum…",
-  "credito": "Foto: France1978 / CC BY-SA 2.0",
+  "credito": "",
   "fonte": "Gshow",
   "categoria": "televisao",
-  "imagem": "https://live.staticflickr.com/4468/37182168783_4f55b523f7_b.jpg",
+  "imagem": "",
   "data": "2026-11-13T05:53:07+00:00",
-  "busca_imagem": "vinyl record album",
-  "credito_link": "https://www.flickr.com/photos/51764518@N02/37182168783",
+  "busca_imagem": "latin grammy trophy gold"
+ },
+ {
+  "titulo": "Ovos retirados diretamente da geladeira podem prejudicar a textura de alguns bolos, segundo especialistas americanos em panificação que explicam quando a temperatura faz diferença",
+  "link": "https://catracalivre.com.br/noticias/ovos-retirados-diretamente-da-geladeira-podem-prejudicar-a-textura-de-alguns-bolos-segundo-especialistas-americanos-em-panificacao-que-explicam-quando-a-temperatura-faz-diferenca/",
+  "trecho": "Ovos gelados podem afetar a emulsão e a textura de bolos caseiros; especialistas explicam quando a temperatura realmente faz diferença. O post Ovos retirados diretamente da geladeira podem prejudicar a textura de alguns…",
+  "credito": "Foto: Vegan Feast Catering / CC BY 2.0",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "imagem": "https://live.staticflickr.com/2445/3617694379_c82c7bc634_b.jpg",
+  "data": "2026-11-13T05:44:19+00:00",
+  "busca_imagem": "eggs refrigerator baking cake",
+  "credito_link": "https://www.flickr.com/photos/25128194@N02/3617694379",
   "imagem_tipo": "banco"
  },
  {
@@ -148,14 +241,12 @@
   "titulo": "Angélica se emociona ao lembrar dos filhos pequenos e comentar, quase, ninho vazio: 'Coração apertado'",
   "link": "https://gshow.globo.com/gnt/angelica-ao-vivo/noticia/angelica-se-emociona-ao-lembrar-dos-filhos-pequenos-e-comentar-quase-ninho-vazio-coracao-apertado.ghtml",
   "trecho": "Angélica se emociona ao lembrar os filhos pequenos Angélica abriu o coração nesta quinta-feira (12), ao comentar sobre seus três filhos — Joaquim, de 22 anos, Benício, de 18, e Eva, de 14 — durante o Angélica Ao Vivo. A…",
-  "credito": "Foto: bushie / CC BY 2.0",
+  "credito": "",
   "fonte": "Gshow",
   "categoria": "televisao",
-  "imagem": "https://live.staticflickr.com/3229/3038270583_ab3464abf9_b.jpg",
+  "imagem": "",
   "data": "2026-11-13T05:38:22+00:00",
-  "busca_imagem": "empty nest family home",
-  "credito_link": "https://www.flickr.com/photos/29629438@N00/3038270583",
-  "imagem_tipo": "banco"
+  "busca_imagem": ""
  },
  {
   "titulo": "A cidade brasileira onde águas cristalinas permitem observar peixes durante um percurso de 1.000 metros e uma nascente impressiona pela quantidade de pontos onde a água brota do chão",
@@ -166,7 +257,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-13T05:24:49+00:00",
-  "busca_imagem": "crystal clear river brazil"
+  "busca_imagem": "clear river fish brazil"
  },
  {
   "titulo": "Andrea Andrade, a rainha das supercoxas, aposta em microshort e deixa parte do bumbum à mostra em ensaio",
@@ -188,7 +279,7 @@
   "categoria": "televisao",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Gabi_Martins.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T05:19:21+00:00",
-  "busca_imagem": "red carpet gala evening",
+  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Gabi_Martins.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Gabi Martins"
@@ -211,26 +302,24 @@
   "titulo": "Morador de 39 anos encontra jiboia dentro da caixa-d’água no quintal e chama os bombeiros, mas dois dias depois outra cobra de 1,40 metro aparece no barracão de uma casa na cidade vizinha",
   "link": "https://catracalivre.com.br/noticias/morador-de-39-anos-encontra-jiboia-dentro-da-caixa-dagua-no-quintal-e-chama-os-bombeiros-mas-dois-dias-depois-outra-cobra-de-140-metro-aparece-no-barracao-de-uma-casa-na-cidade-vizinha/",
   "trecho": "Morador encontra jiboia na caixa-d’água do quintal e, dois dias depois, outra serpente aparece no imóvel. Profissionais realizam o resgate. O post Morador de 39 anos encontra jiboia dentro da caixa-d’água no quintal e…",
-  "credito": "Foto: shankar s. / CC BY 2.0",
+  "credito": "",
   "fonte": "Catraca Livre",
   "categoria": "virais",
-  "imagem": "https://live.staticflickr.com/8379/8454561765_2d3b69b0fd_b.jpg",
+  "imagem": "",
   "data": "2026-11-13T05:04:25+00:00",
-  "busca_imagem": "boa constrictor snake tree",
-  "credito_link": "https://www.flickr.com/photos/77742560@N06/8454561765",
-  "imagem_tipo": "banco"
+  "busca_imagem": "boa snake water tank"
  },
  {
   "titulo": "Marco Aurélio, imperador romano, sobre encontrar força interior: “Dentro de você existe uma fonte de bondade”",
   "link": "https://catracalivre.com.br/noticias/marco-aurelio-imperador-romano-sobre-encontrar-forca-interior-dentro-de-voce-existe-uma-fonte-de-bondade/",
   "trecho": "A reflexão de Marco Aurélio em Meditações mostra como cultivar a fonte interior de bondade, a razão estoica e a integridade pessoal. O post Marco Aurélio, imperador romano, sobre encontrar força interior: “Dentro de…",
-  "credito": "Foto: MCAD Library / CC BY 2.0",
+  "credito": "Foto: nikoretro / CC BY-SA 2.0",
   "fonte": "Catraca Livre",
   "categoria": "virais",
-  "imagem": "https://live.staticflickr.com/7360/11971712995_934c7a5409_b.jpg",
+  "imagem": "https://live.staticflickr.com/48/167727557_a4d38927ea_b.jpg",
   "data": "2026-11-13T04:44:19+00:00",
-  "busca_imagem": "ancient roman statue marble",
-  "credito_link": "https://www.flickr.com/photos/69184488@N06/11971712995",
+  "busca_imagem": "ancient roman marble bust",
+  "credito_link": "https://www.flickr.com/photos/22768390@N00/167727557",
   "imagem_tipo": "banco"
  },
  {
@@ -240,36 +329,36 @@
   "credito": "Foto: sfmission.com / CC BY 2.0",
   "fonte": "Quem",
   "categoria": "celebridades",
-  "imagem": "https://live.staticflickr.com/7358/9437347337_1db86f9203_b.jpg",
+  "imagem": "https://live.staticflickr.com/2281/3541767603_6860cdb330_b.jpg",
   "data": "2026-11-13T04:41:56+00:00",
-  "busca_imagem": "samba carnival drums parade",
-  "credito_link": "https://www.flickr.com/photos/17281186@N00/9437347337",
+  "busca_imagem": "samba carnival feathers costume",
+  "credito_link": "https://www.flickr.com/photos/17281186@N00/3541767603",
   "imagem_tipo": "banco"
  },
  {
   "titulo": "Quem Ama Cuida: Pilar começa a fazer aula de tiro",
   "link": "https://gshow.globo.com/novelas/quem-ama-cuida/vem-por-ai/noticia/quem-ama-cuida-pilar-comeca-a-fazer-aula-de-tiro.ghtml",
   "trecho": "Quem Ama Cuida: confira cenas do próximo capítulo, dia 13/11 Pilar (Isabel Teixeira) está cada vez mais sinistra e assustadora em Quem Ama Cuida. A dondoca sempre pediu para os outros fazerem suas maracutaias, como os…",
-  "credito": "Foto: Wheeler Cowperthwaite / CC BY 2.0",
+  "credito": "Foto: thebarrowboy / CC BY 2.0",
   "fonte": "Gshow",
   "categoria": "televisao",
-  "imagem": "https://live.staticflickr.com/3784/11750291016_e5655b6208_b.jpg",
+  "imagem": "https://live.staticflickr.com/7106/7832953448_8fb825a063_b.jpg",
   "data": "2026-11-13T04:41:46+00:00",
-  "busca_imagem": "shooting range pistol target",
-  "credito_link": "https://www.flickr.com/photos/60756254@N07/11750291016",
+  "busca_imagem": "shooting range target practice",
+  "credito_link": "https://www.flickr.com/photos/48778414@N04/7832953448",
   "imagem_tipo": "banco"
  },
  {
   "titulo": "Anitta agita plateia com apresentação do 'EQUILIBRIVM' no Grammy Latino 2026",
   "link": "https://gshow.globo.com/cultura-pop/musica/noticia/anitta-se-apresenta-no-grammy-latino-2026.ghtml",
   "trecho": "Anitta se apresenta no Grammy Latino 2026 Anitta levou o \"EQUILIBRIVM\" ao palco do Grammy Latino nesta quinta-feira (12), em Las Vegas. Indicada a dois prêmios, a cantora fez um medley de hits do disco, investiu em…",
-  "credito": "Foto: rileyroxx / CC BY 2.0",
+  "credito": "Foto: abulhussain / CC BY 2.0",
   "fonte": "Gshow",
   "categoria": "televisao",
-  "imagem": "https://live.staticflickr.com/3050/2349069547_030b5b7ce3_b.jpg",
+  "imagem": "https://live.staticflickr.com/5190/5594387099_634db38a36_b.jpg",
   "data": "2026-11-13T04:38:16+00:00",
-  "busca_imagem": "concert crowd cheering stage",
-  "credito_link": "https://www.flickr.com/photos/41216460@N00/2349069547",
+  "busca_imagem": "concert stage lights crowd",
+  "credito_link": "https://www.flickr.com/photos/7678586@N06/5594387099",
   "imagem_tipo": "banco"
  },
  {
@@ -292,7 +381,7 @@
   "categoria": "curiosidades",
   "imagem": "",
   "data": "2026-11-13T04:24:25+00:00",
-  "busca_imagem": "trapped pigeon glass facade building"
+  "busca_imagem": "pigeon trapped glass facade building"
  },
  {
   "titulo": "Aos 43 anos, Fernanda Paes Leme revela hábito adotado na criação da filha de 2 anos",
@@ -303,7 +392,7 @@
   "categoria": "celebridades",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Fernanda_Paes_Leme_01.jpg/1280px-Fernanda_Paes_Leme_01.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "data": "2026-11-13T04:16:08+00:00",
-  "busca_imagem": "toddler girl playing mother",
+  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Fernanda_Paes_Leme_01.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Fernanda Paes Leme"
@@ -312,13 +401,13 @@
   "titulo": "Aos 71 anos, atriz comanda carreira e transforma mansão de 881 m² em refúgio de privacidade",
   "link": "https://caras.com.br/casa-dos-famosos/aos-71-anos-atriz-comanda-carreira-e-transforma-mansao-de-881-m%c2%b2-em-refugio-de-privacidade.phtml",
   "trecho": "Veterana de Hollywood escolheu uma mansão histórica de 881 m² em Nova Jersey como refúgio longe dos holofotes O post Aos 71 anos, atriz comanda carreira e transforma mansão de 881 m² em refúgio de privacidade apareceu…",
-  "credito": "Foto: Gites Castelnaut / CC BY 2.0",
+  "credito": "Foto: kenhodge13 / CC BY 2.0",
   "fonte": "Caras",
   "categoria": "celebridades",
-  "imagem": "https://live.staticflickr.com/4148/4967905845_24b7950669_b.jpg",
+  "imagem": "https://live.staticflickr.com/4061/4585077987_1c2b829dcf_b.jpg",
   "data": "2026-11-13T04:13:17+00:00",
-  "busca_imagem": "luxury mansion private garden",
-  "credito_link": "https://www.flickr.com/photos/53688974@N03/4967905845",
+  "busca_imagem": "luxury mansion modern exterior",
+  "credito_link": "https://www.flickr.com/photos/40132991@N07/4585077987",
   "imagem_tipo": "banco"
  },
  {
@@ -339,14 +428,12 @@
   "titulo": "Aos 84 anos, atriz que perdeu apartamento no Rio revela conquista após indenização milionária",
   "link": "https://caras.com.br/casa-dos-famosos/aos-84-anos-atriz-que-perdeu-apartamento-no-rio-revela-conquista-apos-indenizacao-milionaria.phtml",
   "trecho": "Veterana da Globo já precisou deixar imóvel alugado no Rio após dois AVCs. Anos depois, uma indenização mudou sua história em Salvador O post Aos 84 anos, atriz que perdeu apartamento no Rio revela conquista após…",
-  "credito": "Foto: Better Than Bacon / CC BY 2.0",
+  "credito": "",
   "fonte": "Caras",
   "categoria": "celebridades",
-  "imagem": "https://live.staticflickr.com/2262/1663024368_f4457b183a_b.jpg",
+  "imagem": "",
   "data": "2026-11-13T04:10:45+00:00",
-  "busca_imagem": "apartment building window Rio",
-  "credito_link": "https://www.flickr.com/photos/39057810@N00/1663024368",
-  "imagem_tipo": "banco"
+  "busca_imagem": ""
  },
  {
   "titulo": "Bitcoin hoje cai 3,8%, a US$ 71,5 mil, com tensão no Oriente Médio",
@@ -355,12 +442,9 @@
   "fonte": "Estadão",
   "categoria": "em-alta",
   "data": "2026-11-13T04:10:00+00:00",
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Bitcoin_BTC_golden_coin_with_the_symbol.jpg/1280px-Bitcoin_BTC_golden_coin_with_the_symbol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "em_alta": "btc · 100+ buscas",
-  "busca_imagem": "bitcoin coin golden",
-  "credito": "Foto: Satheesh Sankaran / CC BY-SA 2.0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Bitcoin_BTC_golden_coin_with_the_symbol.jpg",
-  "imagem_tipo": "banco"
+  "imagem": "",
+  "em_alta": "btc · 200+ buscas",
+  "busca_imagem": "bitcoin coins gold chart"
  },
  {
   "titulo": "Grammy Latino 2026: Resumão! Anitta faz história e Rosalía é a grande vencedora da noite; vem ver tudo Grammy Latino 2026: Resumão! Anitta faz história e Rosalía é a grande vencedora da noite; vem ver tudo",
@@ -371,20 +455,18 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-13T04:09:12+00:00",
-  "busca_imagem": "music awards trophy stage"
+  "busca_imagem": "red carpet awards night"
  },
  {
   "titulo": "Aos 83 anos, médico famoso ajudou a fundar rede de ensino que alcançou 1 milhão de alunos",
   "link": "https://caras.com.br/atualidades/aos-83-anos-medico-famoso-ajudou-a-fundar-rede-de-ensino-que-alcancou-1-milhao-de-alunos.phtml",
   "trecho": "Médico conhecido pelo público participou de um projeto iniciado em 1965 que se transformou em uma das maiores redes de ensino do Brasil O post Aos 83 anos, médico famoso ajudou a fundar rede de ensino que alcançou 1…",
-  "credito": "Foto: flickingerbrad / CC BY 2.0",
+  "credito": "",
   "fonte": "Caras",
   "categoria": "celebridades",
-  "imagem": "https://live.staticflickr.com/7159/6660057865_1019e083ec_b.jpg",
+  "imagem": "",
   "data": "2026-11-13T04:08:59+00:00",
-  "busca_imagem": "school classroom students",
-  "credito_link": "https://www.flickr.com/photos/56155476@N08/6660057865",
-  "imagem_tipo": "banco"
+  "busca_imagem": ""
  },
  {
   "titulo": "Aos 69 anos, Luís Melo superou preconceito e levou 10 anos para conquistar espaço na TV",
@@ -395,7 +477,7 @@
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Lu%C3%ADs_Melo.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T04:05:35+00:00",
-  "busca_imagem": "television studio camera",
+  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Lu%C3%ADs_Melo.png",
   "imagem_tipo": "pessoa",
   "pessoa": "Luís Melo"
@@ -404,14 +486,12 @@
   "titulo": "Este objeto pequeno na geladeira revela se os alimentos estão realmente bem refrigerados",
   "link": "https://catracalivre.com.br/noticias/este-objeto-pequeno-na-geladeira-revela-se-os-alimentos-estao-realmente-bem-refrigerados/",
   "trecho": "Geladeira gelando pouco sem você perceber? Descubra como um termômetro simples revela a temperatura real e evita riscos. O post Este objeto pequeno na geladeira revela se os alimentos estão realmente bem refrigerados…",
-  "credito": "Foto: USDAgov / domínio público",
+  "credito": "",
   "fonte": "Catraca Livre",
   "categoria": "virais",
-  "imagem": "https://live.staticflickr.com/7279/7008317491_b799952b35_b.jpg",
+  "imagem": "",
   "data": "2026-11-13T04:04:03+00:00",
-  "busca_imagem": "refrigerator thermometer food",
-  "credito_link": "https://www.flickr.com/photos/41284017@N08/7008317491",
-  "imagem_tipo": "banco"
+  "busca_imagem": "refrigerator thermometer food inside"
  },
  {
   "titulo": "Anitta ganha o Grammy Latino pela primeira vez e surpreende com discurso: 'Exu'",
@@ -422,46 +502,44 @@
   "categoria": "ultimas",
   "imagem": "",
   "data": "2026-11-13T04:02:48+00:00",
-  "busca_imagem": "golden gramophone trophy award"
+  "busca_imagem": "music awards trophy stage"
  },
  {
   "titulo": "Aos 50 anos, Poliana Rocha amplia negócios e aposta em 4 frentes empresariais",
   "link": "https://caras.com.br/atualidades/aos-50-anos-poliana-rocha-amplia-negocios-e-aposta-em-4-frentes-empresariais.phtml",
   "trecho": "Poliana Rocha diversifica investimentos e acumula participações em empresas de diferentes setores; um projeto iniciado em 2020 chama atenção O post Aos 50 anos, Poliana Rocha amplia negócios e aposta em 4 frentes…",
-  "credito": "Foto: DavidMartynHunt / CC BY 2.0",
+  "credito": "Foto: Rawpixel Ltd / CC BY 2.0",
   "fonte": "Caras",
   "categoria": "celebridades",
-  "imagem": "https://live.staticflickr.com/1104/1467023552_2c1720b6da_b.jpg",
+  "imagem": "https://live.staticflickr.com/4899/43972156980_c5a08d97ae_b.jpg",
   "data": "2026-11-13T04:02:08+00:00",
-  "busca_imagem": "business office meeting desk",
-  "credito_link": "https://www.flickr.com/photos/35395389@N00/1467023552",
+  "busca_imagem": "businesswoman planning business strategy",
+  "credito_link": "https://www.flickr.com/photos/147875007@N03/43972156980",
   "imagem_tipo": "banco"
  },
  {
   "titulo": "CCXP26 reúne John Rhys-Davies, Marta e painel sobre Avenida Brasil 2; confira atrações",
   "link": "https://gshow.globo.com/cultura-pop/noticia/ccxp26-reune-john-rhys-davies-marta-e-painel-sobre-avenida-brasil-2-confira-atracoes.ghtml",
   "trecho": "Filme sobre a história da jogadora Marta estreia em 2027 A CCXP anunciou, nesta quinta-feira (12), novas atrações da edição deste ano, que acontece entre os dias 3 e 6 de dezembro, no São Paulo Expo, na capital…",
-  "credito": "Foto: PatLoika / CC BY 2.0",
+  "credito": "Foto: kevin dooley / CC BY 2.0",
   "fonte": "Gshow",
   "categoria": "televisao",
-  "imagem": "https://live.staticflickr.com/6065/6117395002_7c7590a6b4_b.jpg",
+  "imagem": "https://live.staticflickr.com/3548/3841940177_5b209c2006_b.jpg",
   "data": "2026-11-13T04:01:00+00:00",
-  "busca_imagem": "comic convention crowd stage",
-  "credito_link": "https://www.flickr.com/photos/25569106@N00/6117395002",
+  "busca_imagem": "comic convention crowd",
+  "credito_link": "https://www.flickr.com/photos/12836528@N00/3841940177",
   "imagem_tipo": "banco"
  },
  {
   "titulo": "Vídeos do capítulo de 'Quem Ama Cuida' de quinta-feira, 12 de novembro de 2026",
   "link": "https://gshow.globo.com/novelas/quem-ama-cuida/capitulo/2026/11/12/videos-do-capitulo-de-quem-ama-cuida-de-quinta-feira-12-de-novembro-de-2026.ghtml",
   "trecho": "Assista gratuitamente aos vídeos de 'Quem Ama Cuida' de quinta, 12/11",
-  "credito": "Foto: freestocks.org / domínio público",
+  "credito": "",
   "fonte": "Gshow",
   "categoria": "televisao",
-  "imagem": "https://live.staticflickr.com/855/42921011804_57bb03211b_b.jpg",
+  "imagem": "",
   "data": "2026-11-13T04:00:00+00:00",
-  "busca_imagem": "television streaming screen remote",
-  "credito_link": "https://www.flickr.com/photos/135396164@N05/42921011804",
-  "imagem_tipo": "banco"
+  "busca_imagem": ""
  },
  {
   "titulo": "Antes de morrer em Quem Ama Cuida, Zeni estraga sequestro orquestrado por Pilar",
@@ -504,8 +582,8 @@
   "categoria": "em-alta",
   "data": "2026-11-13T03:50:00+00:00",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Enzo_Fittipaldi_Austria_2022.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "em_alta": "enzo fittipaldi · 200+ buscas",
-  "busca_imagem": "formula e electric race car",
+  "em_alta": "enzo fittipaldi · 500+ buscas",
+  "busca_imagem": "formula e race car",
   "credito": "Foto: KVYTICAL / CC BY-SA 4.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Enzo_Fittipaldi_Austria_2022.jpg",
   "imagem_tipo": "pessoa",
@@ -531,20 +609,18 @@
   "categoria": "ultimas",
   "imagem": "",
   "data": "2026-11-13T03:46:03+00:00",
-  "busca_imagem": "grammy award trophy"
+  "busca_imagem": "music awards trophy stage"
  },
  {
   "titulo": "Empregada doméstica pega R$ 124 emprestados da antiga patroa, começa fazendo marmitas à noite com os quatro filhos e transforma negócio improvisado em produção de até 3 mil refeições mensais",
   "link": "https://catracalivre.com.br/noticias/empregada-domestica-pega-r-124-emprestados-da-antiga-patroa-comeca-fazendo-marmitas-a-noite-com-os-quatro-filhos-e-transforma-negocio-improvisado-em-producao-de-ate-3-mil-refeicoes-mensais/",
   "trecho": "Empregada doméstica começa negócio de marmitas com R$ 124 emprestados, envolve os quatro filhos e reorganiza a produção para crescer. O post Empregada doméstica pega R$ 124 emprestados da antiga patroa, começa fazendo…",
-  "credito": "Foto: PWRDF / CC BY 2.0",
+  "credito": "",
   "fonte": "Catraca Livre",
   "categoria": "virais",
-  "imagem": "https://live.staticflickr.com/6042/6401977519_6b2ce47cf5_b.jpg",
+  "imagem": "",
   "data": "2026-11-13T03:44:26+00:00",
-  "busca_imagem": "home cooking meal containers",
-  "credito_link": "https://www.flickr.com/photos/45005153@N07/6401977519",
-  "imagem_tipo": "banco"
+  "busca_imagem": "homemade meal containers kitchen"
  },
  {
   "titulo": "Casado com autor da Globo, Carmo Dalla Vecchia ironiza polêmica de xenofobia em novela das seis",
@@ -569,7 +645,7 @@
   "categoria": "ultimas",
   "imagem": "",
   "data": "2026-11-13T03:36:21+00:00",
-  "busca_imagem": "grammy award ceremony stage"
+  "busca_imagem": "music awards trophy stage"
  },
  {
   "titulo": "'A Fazenda 18': Em votação apertada, Murilo é eliminado e toma decisão sobre a herança",
@@ -580,7 +656,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-13T03:32:42+00:00",
-  "busca_imagem": "reality show house elimination"
+  "busca_imagem": ""
  },
  {
   "titulo": "XFG: o que se sabe sobre a variante do coronavírus que predomina no Brasil",
@@ -589,11 +665,11 @@
   "fonte": "Estadão",
   "categoria": "em-alta",
   "data": "2026-11-13T03:30:00+00:00",
-  "imagem": "https://live.staticflickr.com/65535/49535423307_02f01c2f6c_b.jpg",
-  "em_alta": "nova variante covid · 1000+ buscas",
-  "busca_imagem": "coronavirus microscope virus cells",
-  "credito": "Foto: National Institutes of Health (NIH) / domínio público",
-  "credito_link": "https://www.flickr.com/photos/132318516@N08/49535423307",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/76/Novel_Coronavirus_SARS-CoV-2.jpg",
+  "em_alta": "nova variante covid · 500+ buscas",
+  "busca_imagem": "coronavirus virus microscope",
+  "credito": "Foto: NIAID-RML (https://www.niaid.nih.gov/ &… / CC BY 2.0",
+  "credito_link": "https://commons.wikimedia.org/w/index.php?curid=92612457",
   "imagem_tipo": "banco"
  },
  {
@@ -616,7 +692,7 @@
   "data": "2026-11-13T03:30:00+00:00",
   "imagem": "",
   "em_alta": "josh hokit · 100+ buscas",
-  "busca_imagem": "mixed martial arts octagon"
+  "busca_imagem": "ufc octagon fight arena"
  },
  {
   "titulo": "Justin Bieber surpreendeu organizadora do casamento com Hailey ao fazer pedido inesperado para a cerimônia; saiba qual Justin Bieber surpreendeu organizadora do casamento com Hailey ao fazer pedido inesperado para a cerimônia; saiba qual",
@@ -652,7 +728,7 @@
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/30/Jennifer_Aniston_2011_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T03:05:35+00:00",
-  "busca_imagem": "television studio film set",
+  "busca_imagem": "television studio filming set",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Jennifer_Aniston_2011_(cropped).jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Jennifer Aniston"
@@ -666,7 +742,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-13T03:04:49+00:00",
-  "busca_imagem": "kitchen dish towel"
+  "busca_imagem": "kitchen dish towel cooking"
  },
  {
   "titulo": "Fernanda Lima revela os cuidados especiais e o vínculo que fortalece sua relação com a filha de 7 anos",
@@ -691,7 +767,6 @@
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Drauzio_Varella_%28cropped%29.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T03:03:28+00:00",
-  "busca_imagem": "academy of letters books",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Drauzio_Varella_(cropped).png",
   "imagem_tipo": "pessoa",
   "pessoa": "Drauzio Varella"
@@ -705,7 +780,6 @@
   "categoria": "ultimas",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/S%C3%A9rgio_Mallandro.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T03:00:56+00:00",
-  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:S%C3%A9rgio_Mallandro.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Sérgio Mallandro"
@@ -718,21 +792,27 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "",
-  "data": "2026-11-13T03:00:00+00:00",
-  "busca_imagem": "television drama series scene"
+  "data": "2026-11-13T03:00:00+00:00"
  },
  {
   "titulo": "Rasteira no Cruzeiro: Gerson voltando ao Flamengo tem situação atualizada em 2027",
   "link": "https://tvfoco.uai.com.br/rasteira-no-cruzeiro-gerson-no-flamengo-tem-situacao-para-2027/",
   "trecho": "Gerson é um dos principais jogadores do futebol brasileiro e pode retornar ao Flamengo como reforço de 2027 A possibilidade de Gerson voltar a vestir a camisa do Flamengo voltou a movimentar os bastidores do futebol…",
-  "credito": "Foto: KG Sand Soccer / CC BY 2.0",
+  "credito": "",
   "fonte": "OTV Foco",
   "categoria": "televisao",
-  "imagem": "https://live.staticflickr.com/4031/4567285528_a2abae6485_b.jpg",
+  "imagem": "",
+  "data": "2026-11-13T03:00:00+00:00"
+ },
+ {
+  "titulo": "A Fazenda 18: Enquete mostra quem deve ser eliminado do reality",
+  "link": "https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/11/a-fazenda-18-enquete-mostra-quem-deve-ser-eliminado-do-reality.shtml",
+  "trecho": "",
+  "fonte": "UOL",
+  "categoria": "em-alta",
   "data": "2026-11-13T03:00:00+00:00",
-  "busca_imagem": "soccer player stadium",
-  "credito_link": "https://www.flickr.com/photos/39255507@N03/4567285528",
-  "imagem_tipo": "banco"
+  "imagem": "",
+  "em_alta": "a fazenda 18 enquetes · 10000+ buscas"
  },
  {
   "titulo": "Aos 43 anos, Anne Hathaway transforma mansão de R$ 20 milhões em refúgio histórico",
@@ -743,7 +823,6 @@
   "categoria": "celebridades",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Anne_Hathaway-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194764955_%28cropped%29.jpg/1280px-Anne_Hathaway-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194764955_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "data": "2026-11-13T02:59:44+00:00",
-  "busca_imagem": "luxury mansion historic estate",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Anne_Hathaway-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194764955_(cropped).jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Anne Hathaway"
@@ -756,21 +835,17 @@
   "fonte": "Quem",
   "categoria": "celebridades",
   "imagem": "",
-  "data": "2026-11-13T02:54:45+00:00",
-  "busca_imagem": ""
+  "data": "2026-11-13T02:54:45+00:00"
  },
  {
   "titulo": "Para alívio dos fãs, Måneskin é confirmado no Coachella 2027",
   "link": "https://www.terra.com.br/diversao/musica/meu-sonora/rock/para-alivio-dos-fas-mneskin-e-confirmado-no-coachella-2027,e3f85d5cc7df1550d8b7c06ec4467a2a9smwkfi1.html",
   "trecho": "O Måneskin já tem data para retornar aos palcos após um período de aproximadamente dois anos ...",
-  "credito": "Foto: Jamiecat * / CC BY 2.0",
+  "credito": "",
   "fonte": "Terra",
   "categoria": "ultimas",
-  "imagem": "https://live.staticflickr.com/3254/2722387472_a33e60021b_b.jpg",
-  "data": "2026-11-13T02:51:07+00:00",
-  "busca_imagem": "music festival stage crowd",
-  "credito_link": "https://www.flickr.com/photos/27330325@N08/2722387472",
-  "imagem_tipo": "banco"
+  "imagem": "",
+  "data": "2026-11-13T02:51:07+00:00"
  },
  {
   "titulo": "Fátima Bernardes manda recado para o seu namorado através das redes sociais",
