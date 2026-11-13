@@ -1784,8 +1784,73 @@
   "data": "2026-11-13T21:50:00+00:00",
   "titulo_original": "Henrique Menke é convocado para a Seleção Brasileira Sub-20",
   "post": null,
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Football_goalkeeper_gloves_Select_34.jpg/1280px-Football_goalkeeper_gloves_Select_34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credito": "Foto: Santeri Viinamäki / CC BY-SA 4.0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Football_goalkeeper_gloves_Select_34.jpg"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://sports.sbt.com.br/noticia/sbt-sports/flamengo-ainda-luta-para-ter-o-garcom-do-brasileirao": {
+  "publicar": true,
+  "titulo": "Flamengo segue na briga por prêmios individuais do Brasileirão 2026",
+  "linha_fina": "Pedro corre atrás do posto de artilheiro, e Carrascal e Samuel Lino disputam o de maior garçom, ambos com nove assistências",
+  "paragrafos": [
+   "O Flamengo, que disputa o título brasileiro, também tem chances em duas premiações individuais da competição: a de artilheiro e a de maior garçom. Pedro chegou a 20 gols nesta edição, após marcar quatro vezes nos dois últimos jogos, e se aproximou do líder Kevin Viveros, do Athletico, que tem 21.",
+   "Como o colombiano do Athletico vai cumprir suspensão nas próximas duas partidas, Pedro pode encostar ou ultrapassá-lo nas rodadas que restam. No quesito de assistências, o líder é Josué, do Coritiba, com 11, seguido por Andreas Pereira, do Palmeiras, com dez. Logo atrás aparecem Jorge Carrascal e Samuel Lino, do Flamengo, com nove cada.",
+   "Segundo a matéria, Samuel Lino tem mostrado regularidade desde a quinta rodada, somando gols e assistências. Já Carrascal teve um primeiro turno discreto, com apenas três participações em gols, mas ganhou ritmo a partir da 22ª rodada, com cinco gols e oito assistências em 13 partidas.",
+   "Arrascaeta, que venceu a disputa de assistências em 2025 com 14 passes, aparece apenas com quatro passes para gols neste ano. Com quatro rodadas restantes, Carrascal e Lino ainda podem alcançar os líderes e disputar o prêmio."
+  ],
+  "tags": [
+   "Flamengo",
+   "Brasileirão 2026",
+   "Pedro",
+   "artilheiro"
+  ],
+  "pessoa": "",
+  "busca_imagem": "soccer player celebrating goal",
+  "criado": "2026-11-13T23:14:43.549880+00:00",
+  "slug": "flamengo-segue-na-briga-por-premios-individuais-do-brasileirao-2026-dfe57a",
+  "fonte": "SBT Sports",
+  "link": "https://sports.sbt.com.br/noticia/sbt-sports/flamengo-ainda-luta-para-ter-o-garcom-do-brasileirao",
+  "categoria": "em-alta",
+  "data": "2026-11-13T22:50:00+00:00",
+  "titulo_original": "Flamengo ainda luta para ter o garçom do Brasileirão",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Jacob_Amb%C3%A6k_celebrating_goal.jpg/1280px-Jacob_Amb%C3%A6k_celebrating_goal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: https://vilfortpark.dk / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Jacob_Amb%C3%A6k_celebrating_goal.jpg"
+ },
+ "https://www.superlutas.com.br/noticias/381687/exclusivo-carlos-prates-projeta-reinado-campeao-ufc/": {
+  "publicar": true,
+  "titulo": "Carlos Prates projeta reinado como campeão dos meio-médios do UFC",
+  "linha_fina": "Brasileiro enfrenta Michael Morales em 30 de janeiro, no UFC 336, e promete mais lutas por ano se conquistar o cinturão interino",
+  "paragrafos": [
+   "Carlos Prates pode entrar para a história no UFC 336, marcado para 30 de janeiro, no Canadá. O brasileiro encara o equatoriano Michael Morales por um cinturão interino da categoria meio-médio, de até 77,1 kg, e pode se tornar o primeiro brasileiro a conquistar esse título na organização.",
+   "Em conversa com o Squawka, em parceria com o Super Lutas, o lutador já falou sobre o que pensa fazer caso vença. Ele se incomodou com a desistência do campeão russo Islam Makhachev de enfrentá-lo em janeiro e criticou o ritmo lento do atual campeão, que teve apenas uma luta em 2026.",
+   "Prates disse que, como campeão, manteria a rotina de atuar com frequência, algo como duas ou três lutas por ano. Segundo ele, lutar é o que faz parte do seu trabalho, e não vê motivo para ficar parado se estiver saudável e descansado.",
+   "Desde a estreia no UFC, em 2024, o paulista disputou quatro lutas naquele ano e três em 2025. Nesta temporada, fez apenas um combate, em maio, por causa da dificuldade em encontrar adversários.",
+   "Aos 33 anos, o atleta da academia Fighting Nerds soma 24 vitórias e sete derrotas no MMA, e lidera o ranking dos meio-médios do UFC."
+  ],
+  "tags": [
+   "Carlos Prates",
+   "UFC 336",
+   "meio-médios UFC",
+   "MMA"
+  ],
+  "pessoa": "Carlos Prates",
+  "busca_imagem": "mixed martial arts fighter",
+  "criado": "2026-11-13T23:14:43.549880+00:00",
+  "slug": "carlos-prates-projeta-reinado-como-campeao-dos-meio-medios-do-ufc-b46e4a",
+  "fonte": "Super Lutas",
+  "link": "https://www.superlutas.com.br/noticias/381687/exclusivo-carlos-prates-projeta-reinado-campeao-ufc/",
+  "categoria": "em-alta",
+  "data": "2026-11-13T22:40:00+00:00",
+  "titulo_original": "EXCLUSIVO! Carlos Prates Projeta Seu Reinado Como Campeão Dos Meio-médios Do UFC",
+  "post": {
+   "tipo": "youtube",
+   "id": "LXBnrGRA_wo",
+   "url": "https://www.youtube.com/watch?v=LXBnrGRA_wo"
+  },
+  "imagem": "https://live.staticflickr.com/5231/5911904459_5d12214c44_b.jpg",
+  "credito": "Foto: Fort George G. Meade / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/64000826@N08/5911904459"
  }
 }
