@@ -9802,5 +9802,279 @@
  "c:e47617f394965822f89e": true,
  "c:43965b246741192cd060": true,
  "c:d014fd14dd9f47d79555": false,
- "b:court hearing gavel": null
+ "b:court hearing gavel": null,
+ "b:person using smartphone chatbot": null,
+ "v:Giulia Costa": {
+  "descricao": "atriz brasileira",
+  "nasc": 2000,
+  "morte": null
+ },
+ "p:Giulia Costa": null,
+ "v:Nicolas Prattes": {
+  "descricao": "ator brasileiro",
+  "nasc": 1997,
+  "morte": null
+ },
+ "p:Nicolas Prattes": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Nicolas_Prattes_in_2020.jpg/1280px-Nicolas_Prattes_in_2020.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Giselle de Prattes / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Nicolas_Prattes_in_2020.jpg"
+ },
+ "b:high school students classroom": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Classroom_with_students_in_Baozhong_Junior_High_School_20130308.jpg/1280px-Classroom_with_students_in_Baozhong_Junior_High_School_20130308.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: 褒忠國中 雲端網 / CC BY 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Classroom_with_students_in_Baozhong_Junior_High_School_20130308.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Students_in_a_high_school_classroom_in_North_Carolina_06.jpg/1280px-Students_in_a_high_school_classroom_in_North_Carolina_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Harrison Keely / CC BY 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Students_in_a_high_school_classroom_in_North_Carolina_06.jpg"
+  }
+ ],
+ "b:ozempic pen medication": null,
+ "b:pizza burnt crust": null,
+ "b:theater acting class stage": null,
+ "b:tropical beach noronha sunshine": null,
+ "b:carnival parade costumes glitter": null,
+ "b:woman gym fitness workout": null,
+ "b:hospital bed sad patient": null,
+ "b:bread dough baking kitchen": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Bread_dough_in_basket.JPG/1280px-Bread_dough_in_basket.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Wald1siedel / CC BY-SA 3.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Bread_dough_in_basket.JPG"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Sourdough_bread_cut_with_lame%2C_after_baking.jpg/1280px-Sourdough_bread_cut_with_lame%2C_after_baking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Joy / CC BY 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Sourdough_bread_cut_with_lame,_after_baking.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Military_Administration_-_In_Service_of_the_Interior_-_Supply_Service_-_Rations_-_Field_Kitchens_and_Bakeries_-_NEW_TYPE_OF_BREAD_MAKING_MACHINE_FOR_U.S._ARMY_-_NARA_-_45501006.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Unknown author Unknown author or not provided / Public domain, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Military_Administration_-_In_Service_of_the_Interior_-_Supply_Service_-_Rations_-_Field_Kitchens_and_Bakeries_-_NEW_TYPE_OF_BREAD_MAKING_MACHINE_FOR_U.S._ARMY_-_NARA_-_45501006.jpg"
+  }
+ ],
+ "b:pasta pot boiling water": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/2008-07-05_Water_boiling_in_cooking_pot.jpg/1280px-2008-07-05_Water_boiling_in_cooking_pot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Ildar Sagdejev ( Specious ) / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:2008-07-05_Water_boiling_in_cooking_pot.jpg"
+  }
+ ],
+ "b:visa passport application documents": null,
+ "b:clock hourglass time passing": null,
+ "b:wedding decoration celebration party": null,
+ "b:toddler playing piano keyboard": null,
+ "b:gray hair strands close up": null,
+ "v:Mario Frias": {
+  "descricao": "ator e político brasileiro",
+  "nasc": 1971,
+  "morte": null
+ },
+ "p:Mario Frias": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/62/M%C3%A1rio_Frias_em_2020.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Isac Nóbrega/ PR / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:M%C3%A1rio_Frias_em_2020.jpg"
+ },
+ "v:Silvia Abravanel": {
+  "descricao": "apresentadora brasileira",
+  "nasc": 1971,
+  "morte": null
+ },
+ "p:Silvia Abravanel": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/36/Silvia_Abravanel_in_2018_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Silvia Abravanel / CC BY-SA 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Silvia_Abravanel_in_2018_(cropped).jpg"
+ },
+ "v:Ordem dos Advogados": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "b:law exam books gavel": null,
+ "b:women musicians singing microphone": [
+  {
+   "imagem": "https://live.staticflickr.com/8264/8673804424_c980e782af_b.jpg",
+   "credito": "Foto: Steren México / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/60716270@N08/8673804424"
+  }
+ ],
+ "b:hockey mask horror film": null,
+ "c:e4c9cb98417e333fc7a2": true,
+ "c:835041220b57ca6e7530": true,
+ "c:c181f01e60bed1dc81ab": false,
+ "c:b6bf40be87263af9c56e": true,
+ "c:7d15bd3cf404bf87ad53": false,
+ "c:c435e29cd22b2d709222": false,
+ "c:6f69f5058c0c3b43815c": true,
+ "c:e3111299b265c3525425": true,
+ "c:c690762f49b9c68ea01d": true,
+ "c:878381e8f47f67c8625b": false,
+ "c:03784cdc13db4b379a55": false,
+ "c:69a768b037663c646609": true,
+ "c:132cfc76a845746c834d": true,
+ "c:6e7fb79fe40f70d95c83": true,
+ "c:23e6abdfe45573dc937e": true,
+ "c:1277062bf3f3b8117150": true,
+ "c:6e364a52181a3dd75eba": true,
+ "c:e166df8d3eca368ee878": true,
+ "c:d033cc194d7a9b0c1c85": true,
+ "c:83182e8bc65bbf0141cf": false,
+ "c:62b901d2af151e0d2df3": false,
+ "c:36678e0bfda52d1a8b39": false,
+ "c:01281f99518286bed629": false,
+ "c:3c03cc260e93b71b4e06": true,
+ "c:8b571a6d75fc0cea22b7": true,
+ "c:0d57661dce367cb6e596": true,
+ "c:29851170b23206d6ae79": true,
+ "c:5b9c714f8124ca34a283": true,
+ "c:2fa44aa75a0406374255": true,
+ "c:ce9574ea168b9a1eb041": true,
+ "c:41bd7640f1dcf80bc7bb": true,
+ "c:c47962dee918e0f10e9a": true,
+ "c:6294d440446deb0d981b": true,
+ "c:5251ebaef482050e8118": true,
+ "c:edbfe48d041cd6053b54": true,
+ "c:8ef6283b513c46037f21": true,
+ "c:d6c31ffd7330388b9513": true,
+ "c:ea49fcc133403198c450": true,
+ "v:Kim Kardashian": {
+  "descricao": "personalidade da televisão e das mídias sociais americana",
+  "nasc": 1980,
+  "morte": null
+ },
+ "p:Kim Kardashian": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/08/President_Trump_Meets_with_Sentencing_Commutation_Recipients_%2849624188912%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: The White House from Washington, DC / Public domain, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:President_Trump_Meets_with_Sentencing_Commutation_Recipients_(49624188912)_(cropped).jpg"
+ },
+ "b:shower tile grout cleaning": [
+  {
+   "imagem": "https://live.staticflickr.com/90/234117614_28ce2b6e1e_b.jpg",
+   "credito": "Foto: jessicafm / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/94953676@N00/234117614"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/117/291046180_fe3c08dae0_b.jpg",
+   "credito": "Foto: Ken Dyck / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/46126365@N00/291046180"
+  }
+ ],
+ "b:vintage vinyl record player": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Vintage_Television_Media_Stand_With_Teac_Record_Player_%28247221611%29.jpeg/1280px-Vintage_Television_Media_Stand_With_Teac_Record_Player_%28247221611%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Gordon Chavez / CC BY 3.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Vintage_Television_Media_Stand_With_Teac_Record_Player_(247221611).jpeg"
+  }
+ ],
+ "v:Nicole Bahls": {
+  "descricao": "modelo brasileira",
+  "nasc": 1985,
+  "morte": null
+ },
+ "p:Nicole Bahls": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bahls_2022.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Bahls_2022.jpg"
+ },
+ "b:movie theater popcorn screen": [
+  {
+   "imagem": "https://live.staticflickr.com/65535/49243979568_4f307df08a_b.jpg",
+   "credito": "Foto: dankeck / domínio público",
+   "credito_link": "https://www.flickr.com/photos/140641142@N05/49243979568"
+  }
+ ],
+ "b:pills medicine bottle": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Medicine_pills_with_funny_faces_and_a_bottle_on_a_blue_background_%2851021133488%29.jpg/1280px-Medicine_pills_with_funny_faces_and_a_bottle_on_a_blue_background_%2851021133488%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Jernej Furman from Slovenia / CC BY 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Medicine_pills_with_funny_faces_and_a_bottle_on_a_blue_background_(51021133488).jpg"
+  }
+ ],
+ "v:Helô Pinheiro": {
+  "descricao": "apresentadora, empresária e ex-modelo brasileira",
+  "nasc": 1943,
+  "morte": null
+ },
+ "p:Helô Pinheiro": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/2024-03-06_22.%C2%AA_edi%C3%A7%C3%A3o_do_evento_Mulheres_de_Sucesso_-_011_%28Hel%C3%B4_Pinheiro%29.jpg/1280px-2024-03-06_22.%C2%AA_edi%C3%A7%C3%A3o_do_evento_Mulheres_de_Sucesso_-_011_%28Hel%C3%B4_Pinheiro%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Prefeitura de Rio Preto / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:2024-03-06_22.%C2%AA_edi%C3%A7%C3%A3o_do_evento_Mulheres_de_Sucesso_-_011_(Hel%C3%B4_Pinheiro).jpg"
+ },
+ "v:Zé Neto": {
+  "descricao": "advogado e político brasileiro",
+  "nasc": 1964,
+  "morte": null
+ },
+ "p:Zé Neto": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/37/2020_Z%C3%89_NETO_CANDIDATO_PREFEITO_BA_FEIRA_DE_SANTANA_TSE_%2850000824378%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Portal de Dados Abertos do Tribunal Superior Eleitoral do… / CC BY 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:2020_Z%C3%89_NETO_CANDIDATO_PREFEITO_BA_FEIRA_DE_SANTANA_TSE_(50000824378).jpg"
+ },
+ "b:music streaming headphones smartphone": null,
+ "b:kindergarten classroom children": [
+  {
+   "imagem": "https://live.staticflickr.com/6157/6150444142_2dd95091db_b.jpg",
+   "credito": "Foto: Simone Ramella / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/12557829@N00/6150444142"
+  }
+ ],
+ "b:full moon werewolf forest night": null,
+ "b:folded kitchen towel sink": null,
+ "v:Alcione Albanesi": {
+  "descricao": "Empresária e filantropa brasileira, fundadora do Amigos do Bem",
+  "nasc": 1962,
+  "morte": null
+ },
+ "p:Alcione Albanesi": null,
+ "b:book launch event books stack": null,
+ "b:hospital lung x-ray scan": null,
+ "b:homemade bread bakery loaf": null,
+ "c:aac0f03aecc978fa1ffb": false,
+ "c:e795b32bc01677473561": false,
+ "c:c748b52f0145cdf5cf04": true,
+ "c:4ac2f0949382636de310": false,
+ "c:c24ab7d2b3f4d0230174": true,
+ "c:c655aa2cd6118d927711": false,
+ "c:6d7abf97c87bdba2a667": false,
+ "c:4c24cfb36317e939f946": false,
+ "c:83e21b01d839e1792795": true,
+ "c:7a1ff2d832ce6097f1d5": false,
+ "c:b3bf7dde8657ffa93e4c": false,
+ "c:f955e2a737b934286d02": false,
+ "v:Tiago Volpi": {
+  "descricao": "futebolista brasileiro",
+  "nasc": 1990,
+  "morte": null
+ },
+ "p:Tiago Volpi": null,
+ "b:football stadium stands": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Stand_at_the_Dumbarton_Football_Stadium_-_Home_of_Dumbarton_FC.jpg/1280px-Stand_at_the_Dumbarton_Football_Stadium_-_Home_of_Dumbarton_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Fragglerock52 / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Stand_at_the_Dumbarton_Football_Stadium_-_Home_of_Dumbarton_FC.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Galabank_Football_Stadium_stands%2C_Annan%2C_Scotland.jpg/1280px-Galabank_Football_Stadium_stands%2C_Annan%2C_Scotland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Rosser1954 / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Galabank_Football_Stadium_stands,_Annan,_Scotland.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Groseclose_Track_at_Brown_Stadium%2C_track_and_field_area_%26_Malone_Stadium_away_stands_and_football_fieldhouse%2C_Monroe%2C_Louisiana.jpg/1280px-Groseclose_Track_at_Brown_Stadium%2C_track_and_field_area_%26_Malone_Stadium_away_stands_and_football_fieldhouse%2C_Monroe%2C_Louisiana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Spatms / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Groseclose_Track_at_Brown_Stadium,_track_and_field_area_%26_Malone_Stadium_away_stands_and_football_fieldhouse,_Monroe,_Louisiana.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/View_from_the_Stand_at_the_Dumbarton_Football_Stadium.jpg/1280px-View_from_the_Stand_at_the_Dumbarton_Football_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Fragglerock52 / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:View_from_the_Stand_at_the_Dumbarton_Football_Stadium.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Wembley_stadium%2C_the_old_stadium_from_the_stands_-_geograph.org.uk_-_3488393.jpg/1280px-Wembley_stadium%2C_the_old_stadium_from_the_stands_-_geograph.org.uk_-_3488393.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Christopher Hilton / CC BY-SA 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Wembley_stadium,_the_old_stadium_from_the_stands_-_geograph.org.uk_-_3488393.jpg"
+  }
+ ]
 }

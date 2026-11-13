@@ -1595,5 +1595,43 @@
   "imagem": "",
   "credito": "",
   "credito_link": ""
+ },
+ "https://f5.folha.uol.com.br/celebridades/2026/11/quem-e-leo-fuchs-e-por-que-ele-reunira-tantos-famosos-em-seu-casamento.shtml": {
+  "recusado": true,
+  "criado": "2026-11-13T18:19:59.557058+00:00"
+ },
+ "https://www.cnnbrasil.com.br/politica/pf-deflagra-nova-fase-da-operacao-sobre-desvio-de-emendas-para-dark-horse/": {
+  "recusado": true,
+  "criado": "2026-11-13T18:19:59.557058+00:00"
+ },
+ "https://gauchazh.clicrbs.com.br/esportes/gremio/noticia/2026/11/saiba-o-valor-que-o-gremio-deve-ao-toluca-em-transfer-ban-por-tiago-volpi-cmwb6yayc00qj015e2ggdz1fn.html": {
+  "publicar": true,
+  "titulo": "Grêmio deve US$ 250 mil ao Toluca e sofre transfer ban por Tiago Volpi",
+  "linha_fina": "Quarta punição da Fifa ativa contra o Tricolor impede inscrição de novos jogadores até quitação da dívida",
+  "paragrafos": [
+   "O Grêmio está com uma pendência financeira de US$ 250 mil, o equivalente a R$ 1,4 milhão, com o Toluca, do México, pela contratação do goleiro Tiago Volpi, que se juntou ao clube em janeiro de 2025.",
+   "Por causa desse débito, o clube mexicano recorreu à Fifa, e o Tricolor recebeu um transfer ban, sanção que proíbe o clube de registrar novos atletas enquanto o valor não for quitado.",
+   "Volpi chegou ao Grêmio sem custo inicial, mas o acordo previa pagamentos extras ao Toluca caso determinadas metas fossem alcançadas, e é justamente isso que gerou a dívida.",
+   "Esse é o quarto transfer ban em vigor contra o clube. As outras punições se relacionam a valores não pagos nas negociações de Monsalve e Campaz, além de um débito de R$ 15 milhões referente à rescisão com o volante Cuéllar, feita no começo do ano."
+  ],
+  "tags": [
+   "Grêmio",
+   "Tiago Volpi",
+   "transfer ban",
+   "Fifa"
+  ],
+  "pessoa": "Tiago Volpi",
+  "busca_imagem": "football stadium stands",
+  "criado": "2026-11-13T18:19:59.557058+00:00",
+  "slug": "gremio-deve-us-250-mil-ao-toluca-e-sofre-transfer-ban-por-tiago-volpi-bb3643",
+  "fonte": "GZH",
+  "link": "https://gauchazh.clicrbs.com.br/esportes/gremio/noticia/2026/11/saiba-o-valor-que-o-gremio-deve-ao-toluca-em-transfer-ban-por-tiago-volpi-cmwb6yayc00qj015e2ggdz1fn.html",
+  "categoria": "em-alta",
+  "data": "2026-11-13T16:30:00+00:00",
+  "titulo_original": "Saiba o valor que o Grêmio deve ao Toluca em transfer ban por Tiago Volpi",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Stand_at_the_Dumbarton_Football_Stadium_-_Home_of_Dumbarton_FC.jpg/1280px-Stand_at_the_Dumbarton_Football_Stadium_-_Home_of_Dumbarton_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Fragglerock52 / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Stand_at_the_Dumbarton_Football_Stadium_-_Home_of_Dumbarton_FC.jpg"
  }
 }
