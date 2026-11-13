@@ -1749,5 +1749,43 @@
  "https://portal.inmet.gov.br/noticias/previs%C3%A3o-para-sexta-feira-13-e-s%C3%A1bado-14": {
   "recusado": true,
   "criado": "2026-11-13T21:23:21.330205+00:00"
+ },
+ "https://www.agrolink.com.br/noticias/ciclone-deve-ajudar-a-formar-o-primeiro-canal-de-umidade-da-primavera--saiba-quando_520949.html": {
+  "recusado": true,
+  "criado": "2026-11-13T22:16:50.197406+00:00"
+ },
+ "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/tempestade-charles-perde-forca-portugal-sai-de-situacao-de-alerta": {
+  "recusado": true,
+  "criado": "2026-11-13T22:16:50.197406+00:00"
+ },
+ "https://internacional.com.br/noticias/masculino/henrique-menke-e-convocado-para-a-selecao-brasileira-sub-20-1": {
+  "publicar": true,
+  "titulo": "Henrique Menke é convocado para a Seleção Brasileira Sub-20",
+  "linha_fina": "Goleiro do Internacional fará dois amistosos contra o Peru, em Belém, nos dias 13 e 16 de novembro",
+  "paragrafos": [
+   "A CBF anunciou nesta quinta-feira (12/11) a convocação do goleiro Henrique Menke para a Seleção Brasileira Sub-20. Ele vai se apresentar à equipe para dois amistosos contra o Peru, marcados para os dias 13 e 16 de novembro, no Estádio Mangueirão, em Belém (PA).",
+   "Essa é a última convocação da Sub-20 antes da lista definitiva para o Sul-Americano da categoria, previsto para janeiro de 2027. Menke já havia vestido a camisa da seleção em outras ocasiões e fazia parte do grupo campeão sul-americano da categoria em 2025. Ele entrou na base do Internacional em 2016, com apenas nove anos de idade.",
+   "Nesta temporada, o goleiro atuou em quatro jogos pelo time de base e treina com o elenco profissional, além de ter sido relacionado para as últimas partidas da equipe principal. Antes de retornar ao clube gaúcho na segunda metade do ano, ele defendeu o Como, da Itália, no início de 2026.",
+   "O Internacional parabenizou o atleta pela nova convocação."
+  ],
+  "tags": [
+   "Henrique Menke",
+   "Seleção Sub-20",
+   "Internacional",
+   "Sul-Americano Sub-20"
+  ],
+  "pessoa": "Henrique Menke",
+  "busca_imagem": "goalkeeper soccer gloves",
+  "criado": "2026-11-13T22:16:50.197406+00:00",
+  "slug": "henrique-menke-e-convocado-para-a-selecao-brasileira-sub-20-b5961e",
+  "fonte": "Sport Club Internacional",
+  "link": "https://internacional.com.br/noticias/masculino/henrique-menke-e-convocado-para-a-selecao-brasileira-sub-20-1",
+  "categoria": "em-alta",
+  "data": "2026-11-13T21:50:00+00:00",
+  "titulo_original": "Henrique Menke é convocado para a Seleção Brasileira Sub-20",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Football_goalkeeper_gloves_Select_34.jpg/1280px-Football_goalkeeper_gloves_Select_34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Santeri Viinamäki / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Football_goalkeeper_gloves_Select_34.jpg"
  }
 }
