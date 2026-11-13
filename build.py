@@ -515,6 +515,8 @@ def eh_pessoa(nome, cache, titulo=""):
         return False
     if not info.get("nasc") or info["nasc"] < 1930:
         return False  # sem data de nascimento ou de outra época: pode ser homônimo
+    if info["nasc"] > AGORA.year - 18:
+        return False  # menor de idade: nunca usamos foto
     if info.get("morte") and not (MORTE.search(titulo) and info["morte"] >= AGORA.year - 1):
         return False
     return True
@@ -554,6 +556,8 @@ Reprove se:
 - é constrangedora, de mau gosto, violenta ou pode ofender quem aparece;
 - mostra marca, logotipo ou nome de outro veículo de imprensa.
 Na dúvida, reprove: é melhor a notícia ficar sem foto do que com uma que não combina.
+
+Quando o par vier marcado como RETRATO CONFIRMADO, a foto é o retrato oficial (Wikipédia) da pessoa citada na manchete. Nesse caso aprove, a menos que a imagem seja constrangedora, de mau gosto, mostre claramente uma criança ou adolescente, ou contradiga a manchete de forma evidente. Não reprove só porque o retrato não mostra o acontecimento da notícia.
 Você não precisa (nem deve) dizer quem é a pessoa da foto; avalie só se ela é coerente com a manchete."""
 
 ESQUEMA_CONFERE = {
@@ -612,13 +616,16 @@ def conferir_imagens(noticias, limite=120):
     reprovadas = 0
     for i in range(0, len(pendentes), 8):
         lote, conteudo, validos = pendentes[i:i + 8], [], []
-        for j, (_, reg, titulo) in enumerate(lote):
+        for j, (tipo, reg, titulo) in enumerate(lote):
             try:
                 dado = miniatura_base64(reg["imagem"])
             except Exception:
                 continue
             validos.append(j)
-            conteudo += [{"type": "text", "text": f"{j}. Manchete: {titulo}"},
+            oficial = cache.get("p:" + (reg.get("pessoa") or "")) or {}
+            retrato = bool(reg.get("pessoa")) and oficial.get("imagem") == reg["imagem"]
+            marca = f" (RETRATO CONFIRMADO de {reg['pessoa']})" if retrato else ""
+            conteudo += [{"type": "text", "text": f"{j}. Manchete: {titulo}{marca}"},
                          {"type": "image", "source": {"type": "base64", "media_type": "image/jpeg", "data": dado}}]
             time.sleep(0.5)
         if not validos:

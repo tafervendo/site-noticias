@@ -336,9 +336,7 @@
   "categoria": "televisao",
   "data": "2026-11-13T15:30:00+00:00",
   "busca_imagem": "",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/5/5f/Maur%C3%ADcio_Mattar_%2817706734599%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -956,9 +954,7 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "data": "2026-11-13T14:32:56+00:00",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/c/cb/Juliano_Floss_em_2026.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ana_Paula_Renault_em_janeiro_de_2026.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "busca_imagem": "",
   "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons",
@@ -973,9 +969,7 @@
   "fonte": "Caras",
   "categoria": "televisao",
   "data": "2026-11-13T14:32:50+00:00",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/7/7b/Heraldo_2020.JPG?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": "",
   "busca_imagem": ""
  },
@@ -1309,10 +1303,7 @@
   "fonte": "Quem",
   "categoria": "virais",
   "data": "2026-11-13T13:56:51+00:00",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/9/98/Bruna_Marquezine_2025.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://upload.wikimedia.org/wikipedia/commons/a/a4/191125_Shawn_Mendes_at_the_2019_American_Music_Awards.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "busca_imagem": "",
   "imagem": ""
  },
@@ -1335,7 +1326,6 @@
   "categoria": "celebridades",
   "data": "2026-11-13T13:54:58+00:00",
   "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/1/12/Sabrina_Sato_at_the_Lady_Night_in_2022_%2802%29.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3Vwd2s2MTg0NzA2MC13aWtpbWVkaWEtaW1hZ2Uta293cGxnbXguanBn.jpg"
   ],
   "busca_imagem": "newborn baby feet",
@@ -1395,9 +1385,7 @@
   "categoria": "virais",
   "data": "2026-11-13T13:49:25+00:00",
   "busca_imagem": "",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/9/98/Bruna_Marquezine_2025.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -1408,9 +1396,7 @@
   "categoria": "ultimas",
   "data": "2026-11-13T13:47:40+00:00",
   "busca_imagem": "",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/9/98/Bruna_Marquezine_2025.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -1787,9 +1773,7 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "data": "2026-11-13T12:41:41+00:00",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bruna_Griphao_-_BBB_23.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": "",
   "busca_imagem": ""
  },
@@ -1814,9 +1798,7 @@
   "fonte": "Caras",
   "categoria": "celebridades",
   "data": "2026-11-13T12:32:59+00:00",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Ivete_Sangalo_SAM_0058_%2854481946217%29_%28cropped%29.jpg/1280px-Ivete_Sangalo_SAM_0058_%2854481946217%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": "",
   "busca_imagem": ""
  },
@@ -1858,9 +1840,7 @@
   "categoria": "ultimas",
   "data": "2026-11-13T12:24:31+00:00",
   "busca_imagem": "judge gavel courtroom",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Live_Casa_Mimosa_-_Participa%C3%A7%C3%A3o_Livia_Andrade_%28cropped%29.jpg/1280px-Live_Casa_Mimosa_-_Participa%C3%A7%C3%A3o_Livia_Andrade_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -2081,9 +2061,7 @@
   "categoria": "celebridades",
   "data": "2026-11-13T12:00:50+00:00",
   "busca_imagem": "",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/4/41/Can_Yaman_Margherita_di_Savoia_2023-04-27_%281%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -2165,9 +2143,7 @@
   "categoria": "celebridades",
   "data": "2026-11-13T11:48:35+00:00",
   "busca_imagem": "court gavel justice scales",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Live_Casa_Mimosa_-_Participa%C3%A7%C3%A3o_Livia_Andrade_%28cropped%29.jpg/1280px-Live_Casa_Mimosa_-_Participa%C3%A7%C3%A3o_Livia_Andrade_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -2371,9 +2347,7 @@
   "categoria": "ultimas",
   "data": "2026-11-13T11:14:28+00:00",
   "busca_imagem": "court gavel justice hall",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/c/c0/Arezzo_Inverno_2019_com_Sasha_Meneghel_02.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -3136,9 +3110,7 @@
   "categoria": "ultimas",
   "data": "2026-11-13T08:00:29+00:00",
   "busca_imagem": "",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/e/e7/L%C3%A9o_Santana_2019.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -3243,9 +3215,7 @@
   "data": "2026-11-13T07:10:00+00:00",
   "em_alta": "celso portiolli · 200+ buscas",
   "busca_imagem": "",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/2/29/Celso_Portiolli_2021.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -3306,9 +3276,7 @@
   "fonte": "Quem",
   "categoria": "celebridades",
   "data": "2026-11-13T06:24:40+00:00",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/EIKE_BATISTA_%28crop%29.jpg/1280px-EIKE_BATISTA_%28crop%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -3362,9 +3330,7 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "data": "2026-11-13T06:00:00+00:00",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ana_Castela_e_Z%C3%A9_Felipe_no_anivers%C3%A1rio_de_Marrone_%28Z%C3%A9_Felipe%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -3562,9 +3528,7 @@
   "fonte": "Caras",
   "categoria": "celebridades",
   "data": "2026-11-13T04:16:08+00:00",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Fernanda_Paes_Leme_01.jpg/1280px-Fernanda_Paes_Leme_01.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -3584,9 +3548,7 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "data": "2026-11-13T04:12:07+00:00",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/SENSACIONAL%21_2024_-_MARINA_SENA_%2854312729181%29_%28cropped%29.jpg/1280px-SENSACIONAL%21_2024_-_MARINA_SENA_%2854312729181%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -3877,9 +3839,7 @@
   "fonte": "Caras",
   "categoria": "celebridades",
   "data": "2026-11-13T03:03:41+00:00",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Fernanda_Lima_in_2012.jpg/1280px-Fernanda_Lima_in_2012.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -3902,9 +3862,7 @@
   "fonte": "Terra",
   "categoria": "ultimas",
   "data": "2026-11-13T03:00:56+00:00",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/e/e8/S%C3%A9rgio_Mallandro.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -4002,9 +3960,7 @@
   "data": "2026-11-13T02:50:00+00:00",
   "em_alta": "jade picon · 100+ buscas",
   "busca_imagem": "boho beach fashion",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Jade_Picon_at_Web_Summit_Rio_2026.jpg/1280px-Jade_Picon_at_Web_Summit_Rio_2026.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -4058,9 +4014,7 @@
   "fonte": "Terra",
   "categoria": "ultimas",
   "data": "2026-11-13T02:41:12+00:00",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Wanessa_Camargo_at_De_Lado_com_a_Loba_2024_01.jpg/1280px-Wanessa_Camargo_at_De_Lado_com_a_Loba_2024_01.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -4118,9 +4072,7 @@
   "fonte": "Caras",
   "categoria": "celebridades",
   "data": "2026-11-13T02:33:40+00:00",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/a/ae/Tat%C3%A1_Werneck_at_Lady_Night_in_2023.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -4165,9 +4117,7 @@
   "categoria": "ultimas",
   "data": "2026-11-13T02:26:10+00:00",
   "busca_imagem": "vinyl record turntable",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Caetano_Veloso_entrevista_Haddad_%C2%B7_23-06-2022_%C2%B7_S%C3%A3o_Paulo_%28SP%29_%2852433690124%29_%28cropped%29.jpg/1280px-Caetano_Veloso_entrevista_Haddad_%C2%B7_23-06-2022_%C2%B7_S%C3%A3o_Paulo_%28SP%29_%2852433690124%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -4411,9 +4361,7 @@
   "fonte": "Caras",
   "categoria": "celebridades",
   "data": "2026-11-13T01:28:28+00:00",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/9/98/Bruna_Marquezine_2025.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -4456,9 +4404,7 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "data": "2026-11-13T01:24:03+00:00",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/a/a4/191125_Shawn_Mendes_at_the_2019_American_Music_Awards.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bruna_Marquezine_2025.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: Multishow / CC BY 4.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Bruna_Marquezine_2025.png",
@@ -4618,9 +4564,7 @@
   "categoria": "ultimas",
   "data": "2026-11-13T01:01:48+00:00",
   "busca_imagem": "grammy award statuette",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/8/81/Johnny_Hooker_SESC_Vila_Mariana_%2843797592440%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -4727,9 +4671,7 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "data": "2026-11-13T00:48:52+00:00",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Juliana_Salimeni.jpg/1280px-Juliana_Salimeni.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -4831,9 +4773,7 @@
   "categoria": "ultimas",
   "data": "2026-11-13T00:36:07+00:00",
   "busca_imagem": "music award trophy",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/8/81/Johnny_Hooker_SESC_Vila_Mariana_%2843797592440%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -4843,9 +4783,7 @@
   "fonte": "Contigo",
   "categoria": "celebridades",
   "data": "2026-11-13T00:34:59+00:00",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Caudia_Raia_no_Sem_Censura_TV_Brasil.jpg/1280px-Caudia_Raia_no_Sem_Censura_TV_Brasil.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -4855,9 +4793,7 @@
   "fonte": "Caras",
   "categoria": "celebridades",
   "data": "2026-11-13T00:33:21+00:00",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Gusttavo_Lima_Extrema_-_MG_GL-71.jpg/1280px-Gusttavo_Lima_Extrema_-_MG_GL-71.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -4950,10 +4886,7 @@
   "categoria": "ultimas",
   "data": "2026-11-13T00:22:13+00:00",
   "busca_imagem": "",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/LuisaSonza_Gisele.jpg/1280px-LuisaSonza_Gisele.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/SENSACIONAL%21_2024_-_MARINA_SENA_%2854312729181%29_%28cropped%29.jpg/1280px-SENSACIONAL%21_2024_-_MARINA_SENA_%2854312729181%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -5186,9 +5119,7 @@
   "fonte": "Contigo",
   "categoria": "celebridades",
   "data": "2026-11-12T23:43:15+00:00",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/5/51/Neusa_Borges_Oficial.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -5306,9 +5237,7 @@
   "data": "2026-11-12T23:20:00+00:00",
   "em_alta": "piloto automobilístico · 200+ buscas",
   "busca_imagem": "",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Virginia_Fonseca_na_CPI_das_BETS_02_%28cropped%29.jpg/1280px-Virginia_Fonseca_na_CPI_das_BETS_02_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -5430,9 +5359,7 @@
   "fonte": "Hugo Gloss",
   "categoria": "celebridades",
   "data": "2026-11-12T23:06:19+00:00",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/e/e8/S%C3%A9rgio_Mallandro.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -5462,9 +5389,7 @@
   "fonte": "Caras",
   "categoria": "celebridades",
   "data": "2026-11-12T23:02:26+00:00",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/2/21/Inaugura%C3%A7%C3%A3o_da_Creche_Anglicana_e_da_Escola_da_Cultura_Inglesa_%2833583144448%29_%28Gabriela_Duarte%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -5635,9 +5560,7 @@
   "fonte": "Terra",
   "categoria": "ultimas",
   "data": "2026-11-12T22:37:46+00:00",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/c/c9/Gracyanne_Barbosa_-_Mesacast_BBB_2025.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -5647,9 +5570,7 @@
   "fonte": "Contigo",
   "categoria": "celebridades",
   "data": "2026-11-12T22:32:25+00:00",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/c/c9/Gracyanne_Barbosa_-_Mesacast_BBB_2025.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -5907,9 +5828,7 @@
   "categoria": "ultimas",
   "data": "2026-11-12T22:01:12+00:00",
   "busca_imagem": "action movie film set",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Chris_Hemsworth_-_Crime_101.jpg/1280px-Chris_Hemsworth_-_Crime_101.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -6068,9 +5987,7 @@
   "fonte": "Hugo Gloss",
   "categoria": "curiosidades",
   "data": "2026-11-12T21:44:42+00:00",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Chris_Hemsworth_-_Crime_101.jpg/1280px-Chris_Hemsworth_-_Crime_101.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -6144,9 +6061,7 @@
   "fonte": "Caras",
   "categoria": "celebridades",
   "data": "2026-11-12T21:31:53+00:00",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Fernanda_Paes_Leme_01.jpg/1280px-Fernanda_Paes_Leme_01.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -6177,9 +6092,7 @@
   "categoria": "celebridades",
   "data": "2026-11-12T21:28:23+00:00",
   "busca_imagem": "latin music concert stage",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/SENSACIONAL%21_2024_-_MARINA_SENA_%2854312729181%29_%28cropped%29.jpg/1280px-SENSACIONAL%21_2024_-_MARINA_SENA_%2854312729181%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -6189,9 +6102,7 @@
   "fonte": "Contigo",
   "categoria": "celebridades",
   "data": "2026-11-12T21:25:53+00:00",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/e/e8/S%C3%A9rgio_Mallandro.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -6215,9 +6126,7 @@
   "categoria": "ultimas",
   "data": "2026-11-12T21:21:02+00:00",
   "busca_imagem": "christmas tree decorations glitter",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/4/4b/MariahSandringham150825-18_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -6228,9 +6137,7 @@
   "categoria": "ultimas",
   "data": "2026-11-12T21:20:51+00:00",
   "busca_imagem": "vintage email computer screen",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/TomHanks-byPhilipRomano.jpg/1280px-TomHanks-byPhilipRomano.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -6284,9 +6191,7 @@
   "fonte": "Hugo Gloss",
   "categoria": "celebridades",
   "data": "2026-11-12T21:16:21+00:00",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Kris_Jenner_by_Gage_Skidmore.jpg/1280px-Kris_Jenner_by_Gage_Skidmore.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -6320,9 +6225,7 @@
   "categoria": "ultimas",
   "data": "2026-11-12T21:11:02+00:00",
   "busca_imagem": "vintage synthesizer microphone",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Morten_Harket_FFM13_001_%28cropped%29.jpg/1280px-Morten_Harket_FFM13_001_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -6373,9 +6276,7 @@
   "categoria": "virais",
   "data": "2026-11-12T21:06:20+00:00",
   "busca_imagem": "ice skating fall rink",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/5/50/Glasto_2025_%2846%29_-_Alanis_Morissette_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -6386,9 +6287,7 @@
   "categoria": "ultimas",
   "data": "2026-11-12T21:06:09+00:00",
   "busca_imagem": "",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/a/ae/Tat%C3%A1_Werneck_at_Lady_Night_in_2023.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -6779,9 +6678,7 @@
   "fonte": "Quem",
   "categoria": "celebridades",
   "data": "2026-11-12T20:13:23+00:00",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Ivete_Sangalo_SAM_0058_%2854481946217%29_%28cropped%29.jpg/1280px-Ivete_Sangalo_SAM_0058_%2854481946217%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -7269,9 +7166,7 @@
   "fonte": "Hugo Gloss",
   "categoria": "celebridades",
   "data": "2026-11-12T19:18:41+00:00",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/5/50/Glasto_2025_%2846%29_-_Alanis_Morissette_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -7465,9 +7360,7 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "data": "2026-11-12T18:54:12+00:00",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Paolla_Oliveira.jpg/1280px-Paolla_Oliveira.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -7497,9 +7390,7 @@
   "fonte": "Quem",
   "categoria": "celebridades",
   "data": "2026-11-12T18:47:01+00:00",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Elisa12%281%29.jpg/1280px-Elisa12%281%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -7555,9 +7446,7 @@
   "categoria": "ultimas",
   "data": "2026-11-12T18:39:51+00:00",
   "busca_imagem": "luxury duplex jacuzzi interior",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/6/69/Thammy_Miranda.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -8046,9 +7935,7 @@
   "categoria": "ultimas",
   "data": "2026-11-12T18:00:33+00:00",
   "busca_imagem": "",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Paolla_Oliveira.jpg/1280px-Paolla_Oliveira.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -8102,9 +7989,7 @@
   "fonte": "Quem",
   "categoria": "celebridades",
   "data": "2026-11-12T17:51:01+00:00",
-  "vetadas": [
-   "https://upload.wikimedia.org/wikipedia/commons/6/6d/Georgina_Rodr%C3%ADguez_in_the_Oval_Office_%2854934212986%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -8181,9 +8066,7 @@
   "fonte": "Quem",
   "categoria": "celebridades",
   "data": "2026-11-12T17:45:44+00:00",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Carolina_Dieckmann_02.jpg/1280px-Carolina_Dieckmann_02.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -8224,9 +8107,7 @@
   "categoria": "ultimas",
   "data": "2026-11-12T17:36:05+00:00",
   "busca_imagem": "countryside farm house field",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Bruno_Gissoni_2011_%28cropped%29.jpg/1280px-Bruno_Gissoni_2011_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
+  "vetadas": [],
   "imagem": ""
  },
  {
@@ -10920,12 +10801,10 @@
   "fonte": "SBT News",
   "categoria": "em-alta",
   "data": "2026-11-12T12:40:00+00:00",
-  "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Cady_daniel.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "imagem": "",
   "em_alta": "daniel cady · 500+ buscas",
   "credito": "Foto: autor desconhecido / Public domain, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Cady_daniel.jpg",
-  "imagem_tipo": "pessoa",
-  "pessoa": "Daniel Cady"
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Cady_daniel.jpg"
  },
  {
   "titulo": "Xi Jinping diz que reunificação de Taiwan com a China é \"inevitável\"",
@@ -13804,11 +13683,9 @@
   "credito": "Foto: autor desconhecido / Public domain, via Wikimedia Commons",
   "fonte": "Quem",
   "categoria": "celebridades",
-  "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Cady_daniel.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "imagem": "",
   "data": "2026-11-12T00:41:02+00:00",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Cady_daniel.jpg",
-  "imagem_tipo": "pessoa",
-  "pessoa": "Daniel Cady"
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Cady_daniel.jpg"
  },
  {
   "titulo": "Mariah Carey ganha carinho dos fãs em São Paulo antes de shows inéditos no país",
@@ -14156,11 +14033,9 @@
   "credito": "Foto: autor desconhecido / Public domain, via Wikimedia Commons",
   "fonte": "Contigo",
   "categoria": "celebridades",
-  "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Cady_daniel.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "imagem": "",
   "data": "2026-11-11T23:44:11+00:00",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Cady_daniel.jpg",
-  "imagem_tipo": "pessoa",
-  "pessoa": "Daniel Cady"
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Cady_daniel.jpg"
  },
  {
   "titulo": "Famosos curtem show de Chico Chico e Vannick Belchior em praia no Ceará",
@@ -14451,11 +14326,9 @@
   "credito": "Foto: Elliott & Fry / Public domain, via Wikimedia Commons",
   "fonte": "Catraca Livre",
   "categoria": "virais",
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/1280px-Mahatma-Gandhi%2C_studio%2C_1931.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imagem": "",
   "data": "2026-11-11T23:04:33+00:00",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Mahatma-Gandhi,_studio,_1931.jpg",
-  "imagem_tipo": "pessoa",
-  "pessoa": "Mahatma Gandhi"
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Mahatma-Gandhi,_studio,_1931.jpg"
  },
  {
   "titulo": "Bruna Marquezine e Shawn Mendes curtem dia na praia em Fernando de Noronha; vídeo",
@@ -14823,11 +14696,9 @@
   "credito": "Foto: W. Punt for Anefo / CC0, via Wikimedia Commons",
   "fonte": "OTV Foco",
   "categoria": "televisao",
-  "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Artur_Jorge_-_Schiphol.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "imagem": "",
   "data": "2026-11-11T20:00:00+00:00",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Artur_Jorge_-_Schiphol.jpg",
-  "imagem_tipo": "pessoa",
-  "pessoa": "Artur Jorge"
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Artur_Jorge_-_Schiphol.jpg"
  },
  {
   "titulo": "Sonia Abrão dispara sobre revolta de Ana Maria nos bastidores por contrato: “Tão absurda”",
