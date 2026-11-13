@@ -1450,5 +1450,47 @@
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Jacob_Amb%C3%A6k_celebrating_goal.jpg/1280px-Jacob_Amb%C3%A6k_celebrating_goal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credito": "Foto: https://vilfortpark.dk / CC BY-SA 4.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Jacob_Amb%C3%A6k_celebrating_goal.jpg"
+ },
+ "https://www1.folha.uol.com.br/ilustrada/2026/11/claudette-soares-com-1o-disco-de-ineditas-aos-91-diz-se-sentir-como-nos-anos-1960.shtml": {
+  "recusado": true,
+  "criado": "2026-11-13T15:03:56.308452+00:00"
+ },
+ "https://www.terra.com.br/esportes/sao-paulo/atacante-deixa-o-sao-paulo-e-recebe-premio-de-melhor-jogador-no-exterior,40a3e839f7ad8df2c21315ab55d56766bo3s3wyq.html": {
+  "recusado": true,
+  "criado": "2026-11-13T15:03:56.308452+00:00"
+ },
+ "https://veja.abril.com.br/cultura/globo-se-manifesta-apos-indireta-do-minc-a-la-na-minha-terra/": {
+  "publicar": true,
+  "titulo": "Globo se manifesta após críticas à novela Lá na Minha Terra",
+  "linha_fina": "Emissora diz estar aberta a rever escolhas artísticas após reação negativa ao retrato do Nordeste",
+  "paragrafos": [
+   "A Globo respondeu às críticas que tomaram conta das redes depois da estreia de Lá na Minha Terra, nova novela das seis, segundo a coluna GENTE, da VEJA. Em comunicado enviado à coluna, José Luiz Villamarim, diretor de Dramaturgia da emissora, disse que a empresa quer ouvir as reações e pode fazer ajustes na trama.",
+   "Para Villamarim, o debate sobre a obra é positivo e pode ajudar a revisar algumas decisões criativas. Ele lembrou que as novelas são produções que mudam ao longo da exibição, podendo incorporar a opinião do público e passar por adaptações com base nela.",
+   "As críticas começaram antes mesmo da estreia, na segunda-feira, 9, e se concentram na maneira como o Nordeste aparece na produção, incluindo a construção dos personagens, os cenários e os elementos culturais mostrados.",
+   "Na mesma época, o Ministério da Cultura publicou dois vídeos sobre a diversidade cultural nordestina e afirmou que a região não deve ser resumida a uma única imagem, o que foi visto como um recado indireto à novela."
+  ],
+  "tags": [
+   "Lá na Minha Terra",
+   "Globo",
+   "novela das seis",
+   "Nordeste"
+  ],
+  "pessoa": "",
+  "busca_imagem": "television studio set",
+  "criado": "2026-11-13T15:03:56.308452+00:00",
+  "slug": "globo-se-manifesta-apos-criticas-a-novela-la-na-minha-terra-20c3fb",
+  "fonte": "VEJA",
+  "link": "https://veja.abril.com.br/cultura/globo-se-manifesta-apos-indireta-do-minc-a-la-na-minha-terra/",
+  "categoria": "em-alta",
+  "data": "2026-11-13T14:10:00+00:00",
+  "titulo_original": "Globo se manifesta após indireta do MinC a ‘Lá na Minha Terra’",
+  "post": {
+   "tipo": "youtube",
+   "id": "wAffBxevrag",
+   "url": "https://www.youtube.com/watch?v=wAffBxevrag"
+  },
+  "imagem": "https://live.staticflickr.com/3794/13880957485_620e98526d_b.jpg",
+  "credito": "Foto: pavlinajane / CC BY-SA 2.0",
+  "credito_link": "https://www.flickr.com/photos/60291025@N05/13880957485"
  }
 }
