@@ -1,48 +1,182 @@
 [
  {
-  "titulo": "Musa do Carnaval recusa R$ 200 mil para virar fisiculturista: 'dedicação total ao samba'",
+  "titulo": "GiroPop: Simaria estreia carreira solo, U2 se inspira no Carnaval brasileiro e Luan Santana lança EP",
+  "link": "https://gshow.globo.com/cultura-pop/noticia/giropop-simaria-estreia-carreira-solo-u2-se-inspira-no-carnaval-brasileiro-e-luan-santana-lanca-ep.ghtml",
+  "trecho": "GiroPop: Pocah, Ludmila e Gloria Groove dominam os lançamentos da semana O fim de semana chegou recheado de novidades no mundo da música! Tem Simaria dando início à carreira solo, U2 se inspirando no Carnaval brasileiro…",
+  "credito": "Foto: Raresinais / CC BY-SA 4.0, via Wikimedia Commons",
+  "fonte": "Gshow",
+  "categoria": "televisao",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/2Z9A7852.jpg/1280px-2Z9A7852.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "data": "2026-11-13T03:22:09.900863+00:00",
+  "busca_imagem": "singer solo debut stage",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:2Z9A7852.jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Luan Santana"
+ },
+ {
+  "titulo": "Thais Carla relembra ameaças de morte: 'Falava que eu tinha que morrer queimada'",
+  "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/thais-carla-relembra-ameacas-de-morte-falava-que-eu-tinha-que-morrer-queimada.ghtml",
+  "trecho": "A influenciadora e dançarina Thais Carla, de 35 anos de idade, que concedeu uma entrevista ao programa PodeMais, apresentado pela jornalista Mara Ferraz, falou sobre os ataques de haters por conta da gordofobia. Ela…",
+  "credito": "",
+  "fonte": "Quem",
+  "categoria": "celebridades",
+  "imagem": "",
+  "data": "2026-11-13T03:22:09.900863+00:00",
+  "busca_imagem": ""
+ },
+ {
+  "titulo": "Sem Leonardo e Zé Felipe no palco, Poliana Rocha escolhe Paulo Ricardo e Latino para festão de 50 anos",
+  "link": "https://gshow.globo.com/cultura-pop/famosos/noticia/sem-leonardo-e-ze-felipe-no-palco-poliana-rocha-escolhe-paulo-ricardo-e-latino-para-festao-de-50-anos.ghtml",
+  "trecho": "Poliana Rocha mostra preparativos para festão de 50 anos Poliana Rocha está a todo vapor com os últimos preparativos para seu festão de 50 anos. A influenciadora, casada com o cantor Leonardo, chega à nova idade nesta…",
+  "credito": "Foto: Record Goiás / CC BY 3.0, via Wikimedia Commons",
+  "fonte": "Gshow",
+  "categoria": "televisao",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ana_Castela_e_Z%C3%A9_Felipe_no_anivers%C3%A1rio_de_Marrone_%28Z%C3%A9_Felipe%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "data": "2026-11-13T03:22:09.900863+00:00",
+  "busca_imagem": "birthday party celebration cake",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Ana_Castela_e_Z%C3%A9_Felipe_no_anivers%C3%A1rio_de_Marrone_(Z%C3%A9_Felipe).jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Zé Felipe"
+ },
+ {
+  "titulo": "Coincidência fashion: Anitta, Rosalía e mais famosas apostam em looks all white para o Grammy Latino 2026",
+  "link": "https://gshow.globo.com/comportamento/moda/noticia/coincidencia-fashion-anitta-rosalia-e-mais-famosas-apostam-em-looks-all-white-para-o-grammy-latino-2026.ghtml",
+  "trecho": "Veja os looks dos famosos no tapete vermelho no Grammy Latino 2026 Alerta de tendência!🚨​ As famosas que marcaram presença no Grammy Latino 2026, que rolou nesta quinta-feira (12), diretamente de Las Vegas, passaram por…",
+  "credito": "Foto: Joe Shlabotnik / CC BY 2.0",
+  "fonte": "Gshow",
+  "categoria": "televisao",
+  "imagem": "https://live.staticflickr.com/1355/1121355029_56d93f6b29_b.jpg",
+  "data": "2026-11-13T03:22:09.900863+00:00",
+  "busca_imagem": "white fashion red carpet",
+  "credito_link": "https://www.flickr.com/photos/40646519@N00/1121355029",
+  "imagem_tipo": "banco"
+ },
+ {
+  "titulo": "Anitta faz história e vence seu primeiro Grammy Latino com 'EQUILIBRVM'",
+  "link": "https://g1.globo.com/pop-arte/musica/noticia/2026/11/12/anitta-vence-seu-primeiro-grammy-latino.ghtml",
+  "trecho": "Anitta recebe o prêmio de Melhor Álbum Pop Contemporâneo em Língua Portuguesa por \"Equilibrivm\" durante a 27ª edição do Grammy Latino VALERIE MACON / AFP Chegou a vez de Anitta! Após 12 indicações ao longo de mais de…",
+  "credito": "",
+  "fonte": "g1",
+  "categoria": "ultimas",
+  "imagem": "",
+  "data": "2026-11-13T03:22:09.900863+00:00",
+  "busca_imagem": "gramophone award trophy"
+ },
+ {
+  "titulo": "Anitta conquista o 1º Grammy Latino após 15 anos de carreira",
+  "link": "https://revistaquem.globo.com/eventos/noticia/2026/11/anitta-conquista-o-1o-grammy-latino-apos-15-anos-de-carreira.ghtml",
+  "trecho": "Anitta, de 33 anos de idade, conquistou nesta quinta-feira (12) o primeiro Grammy Latino da carreira. A cantora venceu a categoria Melhor Álbum de Pop Contemporâneo em Língua Portuguesa com “EQUILIBRIVM”, na 27ª edição…",
+  "credito": "",
+  "fonte": "Quem",
+  "categoria": "celebridades",
+  "imagem": "",
+  "data": "2026-11-13T03:22:09.900863+00:00",
+  "busca_imagem": "music award trophy stage"
+ },
+ {
+  "titulo": "Anitta ganha o primeiro Grammy Latino da carreira com o disco 'EQILIBRIVM'",
+  "link": "https://gshow.globo.com/cultura-pop/musica/noticia/anitta-ganha-o-primeiro-grammy-latino-da-carreira-com-o-disco-eqilibrivm.ghtml",
+  "trecho": "Anitta ganha primeiro Grammy Latino de sua carreira É dela! Anitta ganhou o primeiro Grammy Latino da sua carreira em cerimônia que rolou nesta quinta-feira (12), em Las Vegas. A cantora levou o prêmio de Melhor Álbum…",
+  "credito": "",
+  "fonte": "Gshow",
+  "categoria": "televisao",
+  "imagem": "",
+  "data": "2026-11-13T03:22:09.900863+00:00",
+  "busca_imagem": "gramophone award trophy"
+ },
+ {
+  "titulo": "Brunna Gonçalves curte Disney com Ludmilla e a filha, Zuri: 'Minhas vidas'",
+  "link": "https://revistaquem.globo.com/noticias/filhos-dos-famosos/noticia/2026/11/brunna-goncalves-curte-orlando-com-ludmilla-e-a-filha-zuri-minhas-vidas.ghtml",
+  "trecho": "Brunna Gonçalves, de 33 anos de idade, dividiu com seus mais de sete milhões de seguidores no Instagram, nesta quinta-feira (12), momentos em Orlando, na Flórida (EUA), com a família. Na viagem, a dançarina e ex-BBB…",
+  "credito": "",
+  "fonte": "Quem",
+  "categoria": "celebridades",
+  "imagem": "",
+  "data": "2026-11-13T03:22:09.900863+00:00",
+  "busca_imagem": ""
+ },
+ {
+  "titulo": "Angélica se emociona ao lembrar dos filhos pequenos e comentar, quase, ninho vazio: 'Coração apertado'",
+  "link": "https://gshow.globo.com/gnt/angelica-ao-vivo/noticia/angelica-se-emociona-ao-lembrar-dos-filhos-pequenos-e-comentar-quase-ninho-vazio-coracao-apertado.ghtml",
+  "trecho": "Angélica se emociona ao lembrar os filhos pequenos Angélica abriu o coração nesta quinta-feira (12), ao comentar sobre seus três filhos — Joaquim, de 22 anos, Benício, de 18, e Eva, de 14 — durante o Angélica Ao Vivo. A…",
+  "credito": "",
+  "fonte": "Gshow",
+  "categoria": "televisao",
+  "imagem": "",
+  "data": "2026-11-13T03:22:09.900863+00:00",
+  "busca_imagem": "empty nest home living room"
+ },
+ {
+  "titulo": "Andrea Andrade, a rainha das supercoxas, aposta em microshort e deixa parte do bumbum à mostra em ensaio",
+  "link": "https://revistaquem.globo.com/eventos/carnaval/noticia/2026/11/andrea-andrade-rainha-da-porto-da-pedra-aposta-em-microshort-e-deixa-parte-do-bumbum-a-mostra-em-ensaio.ghtml",
+  "trecho": "Andrea Andrade, rainha de bateria da Unidos do Porto da Pedra, chamou atenção durante seu segundo ensaio de quadra da escola de samba, em São Gonçalo, no Rio de Janeiro. Para a ocasião, a musa apostou em um look branco…",
+  "credito": "",
+  "fonte": "Quem",
+  "categoria": "celebridades",
+  "imagem": "",
+  "data": "2026-11-13T03:22:09.900863+00:00",
+  "busca_imagem": ""
+ },
+ {
+  "titulo": "Com decote, fenda e brilho, ex-BBB Gabi Martins rouba a cena no Grammy Latino",
+  "link": "https://gshow.globo.com/realities/bbb/depois-do-bbb/noticia/com-decote-fenda-e-brilho-ex-bbb-gabi-martins-rouba-a-cena-no-grammy-latino.ghtml",
+  "trecho": "Gabi Martins revela status do relacionamento em Barretos Gabi Martins, arrancou elogios dos seguidores na noite desta quinta-feira (12) ao exibir seu look para mais uma edição do Grammy Latino, a premiação que celebra…",
+  "credito": "Foto: Vovô Raul Gil Oficial / CC BY 3.0, via Wikimedia Commons",
+  "fonte": "Gshow",
+  "categoria": "televisao",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Gabi_Martins.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "data": "2026-11-13T03:22:09.900863+00:00",
+  "busca_imagem": "red carpet gala evening dress",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Gabi_Martins.jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Gabi Martins"
+ },
+ {
+  "titulo": "Musa do Carnaval recusa R$ 200 mil para virar fisiculturista: 'Dedicação total ao samba'",
   "link": "https://revistaquem.globo.com/eventos/carnaval/noticia/2026/11/musa-do-carnaval-recusa-r-200-mil-para-virar-fisiculturista-dedicacao-total-ao-samba.ghtml",
   "trecho": "Carla Silva, musa da Barroca Zona Sul no Carnaval 2027, recusou uma proposta pra entrar no fisiculturismo, mesmo com patrocínio garantido de R$ 200 mil. A proposta veio de uma associação após a repercussão de fotos…",
   "credito": "",
   "fonte": "Quem",
   "categoria": "celebridades",
   "imagem": "",
-  "data": "2026-11-13T02:06:30.667028+00:00",
-  "busca_imagem": "carnival samba dancer costume"
+  "data": "2026-11-13T03:22:09.900863+00:00",
+  "busca_imagem": "samba dancer carnival costume"
  },
  {
   "titulo": "Quem Ama Cuida: Pilar começa a fazer aula de tiro",
   "link": "https://gshow.globo.com/novelas/quem-ama-cuida/vem-por-ai/noticia/quem-ama-cuida-pilar-comeca-a-fazer-aula-de-tiro.ghtml",
   "trecho": "Quem Ama Cuida: confira cenas do próximo capítulo, dia 13/11 Pilar (Isabel Teixeira) está cada vez mais sinistra e assustadora em Quem Ama Cuida. A dondoca sempre pediu para os outros fazerem suas maracutaias, como os…",
-  "credito": "Foto: U.S. Army TSAE by Georgios Moumoulidis / Public domain, via Wikimedia Commons",
+  "credito": "Foto: Wheeler Cowperthwaite / CC BY 2.0",
   "fonte": "Gshow",
   "categoria": "televisao",
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Partnership_Shooting_-_USAG_Ansbach_Military_Police_%26_German_Police_%286357414%29.jpg/1280px-Partnership_Shooting_-_USAG_Ansbach_Military_Police_%26_German_Police_%286357414%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "data": "2026-11-13T02:06:30.667028+00:00",
-  "busca_imagem": "police shooting range pistol",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Partnership_Shooting_-_USAG_Ansbach_Military_Police_%26_German_Police_(6357414).jpg",
+  "imagem": "https://live.staticflickr.com/3784/11750291016_e5655b6208_b.jpg",
+  "data": "2026-11-13T03:22:09.900863+00:00",
+  "busca_imagem": "shooting range target pistol",
+  "credito_link": "https://www.flickr.com/photos/60756254@N07/11750291016",
   "imagem_tipo": "banco"
  },
  {
   "titulo": "Anitta agita plateia com apresentação do 'EQUILIBRIVM' no Grammy Latino 2026",
   "link": "https://gshow.globo.com/cultura-pop/musica/noticia/anitta-se-apresenta-no-grammy-latino-2026.ghtml",
   "trecho": "Anitta se apresenta no Grammy Latino 2026 Anitta levou o \"EQUILIBRIVM\" ao palco do Grammy Latino nesta quinta-feira (12), em Las Vegas. Indicada a dois prêmios, a cantora fez um medley de hits do disco, investiu em…",
-  "credito": "",
+  "credito": "Foto: abulhussain / CC BY 2.0",
   "fonte": "Gshow",
   "categoria": "televisao",
-  "imagem": "",
-  "data": "2026-11-13T02:06:30.667028+00:00",
-  "busca_imagem": "concert crowd singer stage"
+  "imagem": "https://live.staticflickr.com/5190/5594387099_634db38a36_b.jpg",
+  "data": "2026-11-13T03:22:09.900863+00:00",
+  "busca_imagem": "concert stage crowd lights",
+  "credito_link": "https://www.flickr.com/photos/7678586@N06/5594387099",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Karoline Lima fala de expectativas após fim de noivado e novo affair: 'Frustração é quase um dom'",
   "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/karoline-lima-fala-de-expectativas-apos-fim-de-noivado-e-novo-affair-frustracao-e-quase-um-dom.ghtml",
-  "trecho": "A influenciadora Karoline Lima, de 30 anos de idade, abriu sua caixinha de perguntas nos Stories do Instagram, na noite desta quinta-feira (12), dias após o fim de seu noivado com o jogador do Flamengo Léo Pereira e um…",
+  "trecho": "A influenciadora Karoline Lima abriu sua caixinha de perguntas nos Stories do Instagram, na noite desta quinta-feira (12), dias após o fim de seu noivado com o jogador do Flamengo Léo Pereira, também de 30 anos, e um…",
   "credito": "",
   "fonte": "Quem",
   "categoria": "celebridades",
   "imagem": "",
-  "data": "2026-11-13T02:06:30.667028+00:00",
+  "data": "2026-11-13T03:22:09.900863+00:00",
   "busca_imagem": ""
  },
  {
@@ -53,8 +187,8 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/SENSACIONAL%21_2024_-_MARINA_SENA_%2854312729181%29_%28cropped%29.jpg/1280px-SENSACIONAL%21_2024_-_MARINA_SENA_%2854312729181%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "data": "2026-11-13T02:06:30.667028+00:00",
-  "busca_imagem": "",
+  "data": "2026-11-13T04:12:07+00:00",
+  "busca_imagem": "red carpet gala evening dress",
   "credito_link": "https://commons.wikimedia.org/wiki/File:SENSACIONAL!_2024_-_MARINA_SENA_(54312729181)_(cropped).jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Marina Sena"
@@ -67,7 +201,7 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "https://live.staticflickr.com/7112/7848394968_05c2772ed4_b.jpg",
-  "data": "2026-11-13T02:06:30.667028+00:00",
+  "data": "2026-11-13T04:01:00+00:00",
   "busca_imagem": "comic con convention crowd",
   "credito_link": "https://www.flickr.com/photos/12836528@N00/7848394968",
   "imagem_tipo": "banco"
@@ -80,8 +214,8 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "",
-  "data": "2026-11-13T02:06:30.667028+00:00",
-  "busca_imagem": "television series watching couch"
+  "data": "2026-11-13T04:00:00+00:00",
+  "busca_imagem": ""
  },
  {
   "titulo": "Cantora deixa 'peitoral' à mostra com look ousado no Grammy Latino; veja",
@@ -91,8 +225,8 @@
   "fonte": "Quem",
   "categoria": "celebridades",
   "imagem": "",
-  "data": "2026-11-13T02:06:30.667028+00:00",
-  "busca_imagem": ""
+  "data": "2026-11-13T03:52:43+00:00",
+  "busca_imagem": "red carpet gala evening dress"
  },
  {
   "titulo": "De biquíni e sem filtros, Melão rebate haters: 'Todo mundo vai envelhecer'",
@@ -102,8 +236,49 @@
   "fonte": "Quem",
   "categoria": "celebridades",
   "imagem": "",
-  "data": "2026-11-13T02:06:30.667028+00:00",
+  "data": "2026-11-13T03:46:35+00:00",
   "busca_imagem": ""
+ },
+ {
+  "titulo": "Jennifer Aniston e Reese Witherspoon lideram lista de atores mais bem pagos da TV; confira o ranking e os valores Jennifer Aniston e Reese Witherspoon lideram lista de atores mais bem pagos da TV; confira o ranking e os valores",
+  "link": "https://hugogloss.uol.com.br/tv/series/jennifer-aniston-reese-salarios/",
+  "trecho": "Levantamento da Variety revela quanto estrelas de Hollywood recebem por episódio de suas séries; Jennifer Aniston e Reese Witherspoon lideram O post Jennifer Aniston e Reese Witherspoon lideram lista de atores mais bem…",
+  "credito": "Foto: Official White House Photo by Chuck Kennedy / Public domain, via Wikimedia Commons",
+  "fonte": "Hugo Gloss",
+  "categoria": "celebridades",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/30/Jennifer_Aniston_2011_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "data": "2026-11-13T03:05:35+00:00",
+  "busca_imagem": "tv show awards ceremony",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Jennifer_Aniston_2011_(cropped).jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Jennifer Aniston"
+ },
+ {
+  "titulo": "Trocar o pano de prato todos os dias pode ajudar a evitar a contaminação na cozinha: por que autoridades canadenses recomendam esse cuidado durante o preparo dos alimentos",
+  "link": "https://catracalivre.com.br/noticias/trocar-o-pano-de-prato-todos-os-dias-pode-ajudar-a-evitar-a-contaminacao-na-cozinha-por-que-autoridades-canadenses-recomendam-esse-cuidado-durante-o-preparo-dos-alimentos/",
+  "trecho": "Autoridades sanitárias do Canadá recomendam a troca diária do pano de prato para prevenir bactérias e contaminação cruzada na cozinha. O post Trocar o pano de prato todos os dias pode ajudar a evitar a contaminação na…",
+  "credito": "Foto: qmnonic / CC BY 2.0",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "imagem": "https://live.staticflickr.com/3268/2421038346_c5261293c6_b.jpg",
+  "data": "2026-11-13T03:04:49+00:00",
+  "busca_imagem": "kitchen dish towel hanging",
+  "credito_link": "https://www.flickr.com/photos/58575431@N00/2421038346",
+  "imagem_tipo": "banco"
+ },
+ {
+  "titulo": "Fernanda Lima revela os cuidados especiais e o vínculo que fortalece sua relação com a filha de 7 anos",
+  "link": "https://caras.com.br/atualidades/fernanda-lima-revela-os-cuidados-especiais-e-o-vinculo-que-fortalece-sua-relacao-com-a-filha-de-7-anos.phtml",
+  "trecho": "A apresentadora mantém uma relação calma e observadora com Maria Manoela, enquanto equilibra a rotina com os gêmeos adolescentes O post Fernanda Lima revela os cuidados especiais e o vínculo que fortalece sua relação…",
+  "credito": "Foto: Alex Carvalho from Rio de Janeiro, Brasil / CC BY-SA 2.0, via Wikimedia Commons",
+  "fonte": "Caras",
+  "categoria": "celebridades",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Fernanda_Lima_in_2012.jpg/1280px-Fernanda_Lima_in_2012.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "data": "2026-11-13T03:03:41+00:00",
+  "busca_imagem": "",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Fernanda_Lima_in_2012.jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Fernanda Lima"
  },
  {
   "titulo": "Drauzio Varella é eleito para a Academia Brasileira de Letras",
@@ -114,21 +289,64 @@
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Drauzio_Varella_%28cropped%29.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T03:03:28+00:00",
-  "busca_imagem": "brazilian academy letters building",
+  "busca_imagem": "academy of letters books",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Drauzio_Varella_(cropped).png",
   "imagem_tipo": "pessoa",
   "pessoa": "Drauzio Varella"
  },
  {
+  "titulo": "Sérgio Mallandro conta sua versão sobre pegadinha da cocaína com Rafael Ilha: 'Tudo combinado'",
+  "link": "https://www.terra.com.br/diversao/gente/sergio-mallandro-conta-sua-versao-sobre-pegadinha-da-cocaina-com-rafael-ilha-tudo-combinado,99cd7d76dee2924164674ee00d5f9918xbuhftk5.html",
+  "trecho": "A polêmica entre Sérgio Mallandro e Rafael Ilha ganhou um novo capítulo nesta quinta-feira (12). ...",
+  "credito": "Foto: Sérgio (Savaman) Savarese / CC BY 2.0, via Wikimedia Commons",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/S%C3%A9rgio_Mallandro.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "data": "2026-11-13T03:00:56+00:00",
+  "busca_imagem": "",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:S%C3%A9rgio_Mallandro.jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Sérgio Mallandro"
+ },
+ {
   "titulo": "Vídeos do capítulo de 'Por Você' de quinta-feira, 12 de novembro de 2026",
   "link": "https://gshow.globo.com/novelas/por-voce/capitulo/2026/11/12/videos-do-capitulo-de-por-voce-de-quinta-feira-12-de-novembro-de-2026.ghtml",
   "trecho": "Assista gratuitamente aos vídeos de 'Por Você' de quinta, 12/11",
-  "credito": "",
+  "credito": "Foto: William Hook / CC BY-SA 2.0",
   "fonte": "Gshow",
   "categoria": "televisao",
-  "imagem": "",
+  "imagem": "https://live.staticflickr.com/2123/2322445722_5e09a21c4a_b.jpg",
   "data": "2026-11-13T03:00:00+00:00",
-  "busca_imagem": "television series watching couch"
+  "busca_imagem": "television studio cameras",
+  "credito_link": "https://www.flickr.com/photos/83542829@N00/2322445722",
+  "imagem_tipo": "banco"
+ },
+ {
+  "titulo": "Rasteira no Cruzeiro: Gerson voltando ao Flamengo tem situação atualizada em 2027",
+  "link": "https://tvfoco.uai.com.br/rasteira-no-cruzeiro-gerson-no-flamengo-tem-situacao-para-2027/",
+  "trecho": "Gerson é um dos principais jogadores do futebol brasileiro e pode retornar ao Flamengo como reforço de 2027 A possibilidade de Gerson voltar a vestir a camisa do Flamengo voltou a movimentar os bastidores do futebol…",
+  "credito": "Foto: KG Sand Soccer / CC BY 2.0",
+  "fonte": "OTV Foco",
+  "categoria": "televisao",
+  "imagem": "https://live.staticflickr.com/4031/4567285528_a2abae6485_b.jpg",
+  "data": "2026-11-13T03:00:00+00:00",
+  "busca_imagem": "soccer player stadium",
+  "credito_link": "https://www.flickr.com/photos/39255507@N03/4567285528",
+  "imagem_tipo": "banco"
+ },
+ {
+  "titulo": "Aos 43 anos, Anne Hathaway transforma mansão de R$ 20 milhões em refúgio histórico",
+  "link": "https://caras.com.br/casa-dos-famosos/aos-43-anos-anne-hathaway-transforma-mansao-de-r-20-milhoes-em-refugio-historico.phtml",
+  "trecho": "Anne Hathaway transforma fazenda histórica na Califórnia em refúgio de luxo. Mansão de 1906 tem arquitetura suíça, decoração especial e sala de música O post Aos 43 anos, Anne Hathaway transforma mansão de R$ 20 milhões…",
+  "credito": "Foto: Ministry of culture, sports and Tourism- Lee Jeong-woo / CC BY-SA 4.0, via Wikimedia Commons",
+  "fonte": "Caras",
+  "categoria": "celebridades",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Anne_Hathaway-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194764955_%28cropped%29.jpg/1280px-Anne_Hathaway-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194764955_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "data": "2026-11-13T02:59:44+00:00",
+  "busca_imagem": "luxury mansion exterior",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Anne_Hathaway-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194764955_(cropped).jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Anne Hathaway"
  },
  {
   "titulo": "Solteira, Thais Carla diz que homens que a criticam querem ficar com ela: 'Doidos para me agarrar'",
@@ -142,29 +360,188 @@
   "busca_imagem": ""
  },
  {
+  "titulo": "Para alívio dos fãs, Måneskin é confirmado no Coachella 2027",
+  "link": "https://www.terra.com.br/diversao/musica/meu-sonora/rock/para-alivio-dos-fas-mneskin-e-confirmado-no-coachella-2027,e3f85d5cc7df1550d8b7c06ec4467a2a9smwkfi1.html",
+  "trecho": "O Måneskin já tem data para retornar aos palcos após um período de aproximadamente dois anos ...",
+  "credito": "Foto: Jamiecat * / CC BY 2.0",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "https://live.staticflickr.com/3254/2722387472_a33e60021b_b.jpg",
+  "data": "2026-11-13T02:51:07+00:00",
+  "busca_imagem": "music festival stage crowd",
+  "credito_link": "https://www.flickr.com/photos/27330325@N08/2722387472",
+  "imagem_tipo": "banco"
+ },
+ {
+  "titulo": "Fátima Bernardes manda recado para o seu namorado através das redes sociais",
+  "link": "https://www.terra.com.br/diversao/gente/fatima-bernardes-manda-recado-para-o-seu-namorado-atraves-das-redes-sociais,a2b5288602eb02207779f1afcc57fc85zf8nlw5h.html",
+  "trecho": "A quinta-feira (12 de novembro) foi marcada por uma homenagem especial de Fátima Bernardes nas ...",
+  "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/99/F%C3%A1tima_Bernardes_no_Lady_Night_5_%28cropped%29.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "data": "2026-11-13T02:51:01+00:00",
+  "busca_imagem": "",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:F%C3%A1tima_Bernardes_no_Lady_Night_5_(cropped).png",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Fátima Bernardes"
+ },
+ {
   "titulo": "Anitta rouba a cena no tapete vermelho do Grammy Latino 2026 com look branco e transparências",
   "link": "https://gshow.globo.com/comportamento/moda/noticia/anitta-passa-pelo-tapete-vermelho-do-grammy-latino-2026.ghtml",
   "trecho": "Veja os looks dos famosos no tapete vermelho no Grammy Latino 2026 É ela! Anitta passou deslumbrante pelo tapete vermelho do Grammy Latino 2026, premiação que rola nesta quinta-feira (12), direto de Las Vegas, com…",
-  "credito": "",
+  "credito": "Foto: Ferlinka Borzoi (Deb West) / CC BY 2.0",
   "fonte": "Gshow",
   "categoria": "televisao",
-  "imagem": "",
+  "imagem": "https://live.staticflickr.com/7192/6913420901_dd6d597044_b.jpg",
   "data": "2026-11-13T02:50:46+00:00",
+  "busca_imagem": "red carpet event",
+  "credito_link": "https://www.flickr.com/photos/62631588@N00/6913420901",
+  "imagem_tipo": "banco"
+ },
+ {
+  "titulo": "Boho chic, vestido marrom e conjunto Adidas: os melhores looks de Jade Picon em Trancoso",
+  "link": "https://ffw.com.br/noticias/moda/boho-chic-vestido-marrom-e-conjunto-adidas-os-melhores-looks-de-jade-picon-em-trancoso/",
+  "trecho": "",
+  "fonte": "FFW",
+  "categoria": "em-alta",
+  "data": "2026-11-13T02:50:00+00:00",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Jade_Picon_at_Web_Summit_Rio_2026.jpg/1280px-Jade_Picon_at_Web_Summit_Rio_2026.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "em_alta": "jade picon · 100+ buscas",
+  "busca_imagem": "boho beach fashion",
+  "credito": "Foto: Felipe.bzra / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Jade_Picon_at_Web_Summit_Rio_2026.jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Jade Picon"
+ },
+ {
+  "titulo": "Aos 68 anos, atriz revela decisão sobre não ter filhos e surpreende com dois netos",
+  "link": "https://caras.com.br/atualidades/aos-68-anos-atriz-revela-decisao-sobre-nao-ter-filhos-e-surpreende-com-dois-netos.phtml",
+  "trecho": "Atriz, casada há mais de 30 anos, revela por que decidiu não ter filhos e conta como se tornou avó de dois netos O post Aos 68 anos, atriz revela decisão sobre não ter filhos e surpreende com dois netos apareceu…",
+  "credito": "",
+  "fonte": "Caras",
+  "categoria": "celebridades",
+  "imagem": "",
+  "data": "2026-11-13T02:48:24+00:00",
   "busca_imagem": ""
+ },
+ {
+  "titulo": "Duda Reis é sincera ao apontar motivo para não usar aliança",
+  "link": "https://www.terra.com.br/diversao/gente/duda-reis-e-sincera-ao-apontar-motivo-para-nao-usar-alianca,feeafbae4d506d11e276a6b868c29fb4bm1y9779.html",
+  "trecho": "A ausência das alianças de casamento de Duda Reis e Du Nunes chamou a atenção de seguidores nas ...",
+  "credito": "",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "",
+  "data": "2026-11-13T02:46:04+00:00",
+  "busca_imagem": ""
+ },
+ {
+  "titulo": "Nem leite nem creme de leite: uma pequena quantidade de água do cozimento pode ajudar a criar um molho cremoso para massas com queijo",
+  "link": "https://catracalivre.com.br/noticias/nem-leite-nem-creme-de-leite-uma-pequena-quantidade-de-agua-do-cozimento-pode-ajudar-a-criar-um-molho-cremoso-para-massas-com-queijo/",
+  "trecho": "Molho de queijo empelotado ou oleoso? Descubra como a água do macarrão cria a emulsão perfeita sem creme de leite. O post Nem leite nem creme de leite: uma pequena quantidade de água do cozimento pode ajudar a criar um…",
+  "credito": "Foto: RBerteig / CC BY 2.0",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "imagem": "https://live.staticflickr.com/1246/596383553_2f78dbbed3_b.jpg",
+  "data": "2026-11-13T02:44:37+00:00",
+  "busca_imagem": "pasta cooking pot water",
+  "credito_link": "https://www.flickr.com/photos/51035786238@N01/596383553",
+  "imagem_tipo": "banco"
+ },
+ {
+  "titulo": "Wanessa Camargo dá declaração sincera sobre sua vida amorosa",
+  "link": "https://www.terra.com.br/diversao/gente/wanessa-camargo-da-declaracao-sincera-sobre-sua-vida-amorosa,424b785f6b1ba6c95c2533abcd217845dzkkbgaa.html",
+  "trecho": "Wanessa Camargo comentou os desafios de colocar um ponto final em um relacionamento durante uma ...",
+  "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Wanessa_Camargo_at_De_Lado_com_a_Loba_2024_01.jpg/1280px-Wanessa_Camargo_at_De_Lado_com_a_Loba_2024_01.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "data": "2026-11-13T02:41:12+00:00",
+  "busca_imagem": "",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Wanessa_Camargo_at_De_Lado_com_a_Loba_2024_01.jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Wanessa Camargo"
  },
  {
   "titulo": "Viviane Araújo e musas marcam o samba em ensaio de rua do Salgueiro; veja fotos",
   "link": "https://gshow.globo.com/carnaval/2027/noticia/viviane-araujo-e-musas-marcam-o-samba-em-ensaio-de-rua-do-salgueiro-veja-fotos.ghtml",
-  "trecho": "Viviane Araujo mostra look para ensaio de Carnaval A rua ficou apertada para o caldeirão vermelho e branco, os brincantes do Salgueiro nesta quinta-feira (12), no Rio de Janeiro. A escola de samba tomou a via para seu…",
+  "trecho": "Viviane Araujo e musas do Salgueiro marcam presença em ensaio de rua A rua ficou apertada para o caldeirão vermelho e branco, os brincantes do Salgueiro nesta quinta-feira (12), no Rio de Janeiro. A escola de samba…",
   "credito": "Foto: Agência Brasília / CC BY 2.0, via Wikimedia Commons",
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/2023-06-23_Viviane_Ara%C3%BAjo_02.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T02:38:50+00:00",
-  "busca_imagem": "samba parade drummers street carnival",
+  "busca_imagem": "samba parade drums carnival",
   "credito_link": "https://commons.wikimedia.org/wiki/File:2023-06-23_Viviane_Ara%C3%BAjo_02.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Viviane Araújo"
+ },
+ {
+  "titulo": "Membros do Royal Blood revelam suas bandas e filmes favoritos",
+  "link": "https://www.terra.com.br/diversao/musica/meu-sonora/rock/membros-do-royal-blood-revelam-suas-bandas-e-filmes-favoritos,f1ba11c367dce13023432e617e0cc48dl14jbbmu.html",
+  "trecho": "Ben Thatcher e Mike Kerr, integrantes do Royal Blood, revelaram recentemente algumas de suas ...",
+  "credito": "Foto: chocolatedazzles / CC BY 2.0",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "https://live.staticflickr.com/65535/49396107746_28d7cf815b_b.jpg",
+  "data": "2026-11-13T02:37:55+00:00",
+  "busca_imagem": "electric guitar amplifier",
+  "credito_link": "https://www.flickr.com/photos/186095195@N02/49396107746",
+  "imagem_tipo": "banco"
+ },
+ {
+  "titulo": "Os melhores discos do TOOL segundo fãs da banda",
+  "link": "https://www.terra.com.br/diversao/musica/meu-sonora/rock/os-melhores-discos-do-tool-segundo-fas-da-banda,40c8ed104f7a9f22de09af59e56ff4a58ztw8ka6.html",
+  "trecho": "A discografia do TOOL foi recentemente avaliada por seus fãs através de uma enquete organizada ...",
+  "credito": "",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "",
+  "data": "2026-11-13T02:37:53+00:00",
+  "busca_imagem": "vinyl records collection"
+ },
+ {
+  "titulo": "Alanis Morissette faz revelação sobre sua sexualidade em podcast",
+  "link": "https://www.terra.com.br/diversao/musica/meu-sonora/rock/alanis-morissette-faz-revelacao-sobre-sua-sexualidade-em-podcast,6043715a9fdf270d42a01bd05294a7328r9gntyq.html",
+  "trecho": "Alanis Morissette falou abertamente sobre a sua orientação sexual durante uma conversa no ...",
+  "credito": "Foto: Raph_PH / CC BY 4.0, via Wikimedia Commons",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/50/Glasto_2025_%2846%29_-_Alanis_Morissette_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "data": "2026-11-13T02:34:26+00:00",
+  "busca_imagem": "",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Glasto_2025_(46)_-_Alanis_Morissette_(cropped).jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Alanis Morissette"
+ },
+ {
+  "titulo": "Aos 43 anos, Tatá Werneck transforma mansão luxuosa cercada pela natureza em refúgio da família no RJ",
+  "link": "https://caras.com.br/casa-dos-famosos/aos-43-anos-tata-werneck-transforma-mansao-luxuosa-cercada-pela-natureza-em-refugio-da-familia-no-rj.phtml",
+  "trecho": "Tatá Werneck vive com o marido e a filha em propriedade ampla com espaço reservado para resgate de animais e estúdio próprio; confira! O post Aos 43 anos, Tatá Werneck transforma mansão luxuosa cercada pela natureza em…",
+  "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons",
+  "fonte": "Caras",
+  "categoria": "celebridades",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Tat%C3%A1_Werneck_at_Lady_Night_in_2023.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "data": "2026-11-13T02:33:40+00:00",
+  "busca_imagem": "luxury mansion nature refuge",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Tat%C3%A1_Werneck_at_Lady_Night_in_2023.jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Tatá Werneck"
+ },
+ {
+  "titulo": "Kelly Key faz revelação sobre a sua vida pessoal",
+  "link": "https://www.terra.com.br/diversao/gente/kelly-key-faz-revelacao-sobre-a-sua-vida-pessoal,441b066758a66bffc6dd2c68d39c3e71vdt5f4ui.html",
+  "trecho": "Kelly Key abriu o jogo sobre as mudanças que viveu nos últimos anos após diminuir sua presença ...",
+  "credito": "Foto: Pedro Henrique / CC BY-SA 2.0, via Wikimedia Commons",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Kelly_Key_-_Odessa_10_%2823032998249%29.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "data": "2026-11-13T02:31:46+00:00",
+  "busca_imagem": "",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Kelly_Key_-_Odessa_10_(23032998249).png",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Kelly Key"
  },
  {
   "titulo": "Thalita Zampirolli explica motivo de adiar plano de ter filhos: ‘Quero ser uma mãe presente’",
@@ -175,20 +552,85 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-13T02:31:40+00:00",
-  "busca_imagem": ""
+  "busca_imagem": "pregnant woman belly ultrasound"
  },
  {
   "titulo": "Nasa tem novo plano para levar astronautas à Lua em 2028",
   "link": "https://revistagalileu.globo.com/ciencia/espaco/noticia/2026/11/nasa-tem-novo-plano-para-levar-astronautas-a-lua-em-2028.ghtml",
   "trecho": "A corrida para levar humanos de volta à Lua ganhou novos capítulos. A NASA revelou mudanças em seu programa Artemis para acelerar o retorno de astronautas à superfície lunar, previsto para 2028. Entre as novidades estão…",
-  "credito": "Foto: U.S. Space Force photo by Airman 1st Class… / Public domain, via Wikimedia Commons",
+  "credito": "Foto: jurvetson / CC BY 2.0",
   "fonte": "Galileu",
   "categoria": "curiosidades",
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/ULA%27s_Vulcan_VC2S_rocket_launch_%288192710%29.jpg/1280px-ULA%27s_Vulcan_VC2S_rocket_launch_%288192710%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imagem": "https://live.staticflickr.com/2487/3905420031_8d8104ccaa_b.jpg",
   "data": "2026-11-13T02:30:37+00:00",
-  "busca_imagem": "rocket launch moon mission",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:ULA%27s_Vulcan_VC2S_rocket_launch_(8192710).jpg",
+  "busca_imagem": "moon rocket launch night",
+  "credito_link": "https://www.flickr.com/photos/44124348109@N01/3905420031",
   "imagem_tipo": "banco"
+ },
+ {
+  "titulo": "Rosalía celebra um ano de \"Lux\" com músicas de Caetano Veloso e Elis Regina",
+  "link": "https://www.terra.com.br/diversao/musica/meu-sonora/mpb/rosalia-celebra-um-ano-de-lux-com-musicas-de-caetano-veloso-e-elis-regina,523fdc4adc68efed7ea7b126c5fc55e8f1cdbyy6.html",
+  "trecho": "Rosalía decidiu celebrar um ano do seu elogiado disco Lux, que foi lançado em 7 de novembro de ...",
+  "credito": "Foto: Fora do Eixo / CC BY-SA 2.0, via Wikimedia Commons",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Caetano_Veloso_entrevista_Haddad_%C2%B7_23-06-2022_%C2%B7_S%C3%A3o_Paulo_%28SP%29_%2852433690124%29_%28cropped%29.jpg/1280px-Caetano_Veloso_entrevista_Haddad_%C2%B7_23-06-2022_%C2%B7_S%C3%A3o_Paulo_%28SP%29_%2852433690124%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "data": "2026-11-13T02:26:10+00:00",
+  "busca_imagem": "vinyl record turntable",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Caetano_Veloso_entrevista_Haddad_%C2%B7_23-06-2022_%C2%B7_S%C3%A3o_Paulo_(SP)_(52433690124)_(cropped).jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Caetano Veloso"
+ },
+ {
+  "titulo": "Casal se conhece aos 15 e 17 anos, perde contato depois que menina se muda para outro estado e só volta a se encontrar 52 anos depois, quando um dos filhos decide procurar o antigo amor do pai",
+  "link": "https://catracalivre.com.br/noticias/casal-se-conhece-aos-15-e-17-anos-perde-contato-depois-que-menina-se-muda-para-outro-estado-e-so-volta-a-se-encontrar-52-anos-depois-quando-um-dos-filhos-decide-procurar-o-antigo-amor-do-pai/",
+  "trecho": "Casal perde contato na adolescência após mudança de cidade e volta a se encontrar 52 anos depois, graças a pistas guardadas pela família. O post Casal se conhece aos 15 e 17 anos, perde contato depois que menina se muda…",
+  "credito": "Foto: Boston Public Library / CC BY 2.0",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "imagem": "https://live.staticflickr.com/5525/14265071333_d333188909_b.jpg",
+  "data": "2026-11-13T02:24:11+00:00",
+  "busca_imagem": "old photograph couple hands",
+  "credito_link": "https://www.flickr.com/photos/24029425@N06/14265071333",
+  "imagem_tipo": "banco"
+ },
+ {
+  "titulo": "Aos 44 anos, atriz comanda sítio de 3,85 hectares na Serra da Mantiqueira com agrofloresta, cavalos e riacho que virou refúgio",
+  "link": "https://caras.com.br/atualidades/44-anos-atriz-sitio-385-hectaresa-serra-mantiqueira-agrofloresta-cavalos-riacho-refugio.phtml",
+  "trecho": "Atriz e o marido vivem em refúgio na Mantiqueira; conheça os detalhes da rotina no campo com horta própria, riacho e criação livre de animais O post Aos 44 anos, atriz comanda sítio de 3,85 hectares na Serra da…",
+  "credito": "Foto: pfly / CC BY-SA 2.0",
+  "fonte": "Caras",
+  "categoria": "celebridades",
+  "imagem": "https://live.staticflickr.com/44/175754228_cfac7a7ac8_b.jpg",
+  "data": "2026-11-13T02:22:24+00:00",
+  "busca_imagem": "farm horses mountain stream",
+  "credito_link": "https://www.flickr.com/photos/24934185@N00/175754228",
+  "imagem_tipo": "banco"
+ },
+ {
+  "titulo": "‘A Fazenda 18’: Mayk desmaia, câmera é cortada e Adriane Galisteu faz revelação: ‘Ele foi’",
+  "link": "https://contigo.com.br/noticias/a-fazenda/a-fazenda-18-mayk-desmaia-camera-e-cortada-e-adriane-galisteu-faz-revelacao-ele-foi.phtml",
+  "trecho": "DEIXOU O PROGRAMA? Mayk desmaia em A Fazenda 18 e Adriane Galisteu faz revelação O post ‘A Fazenda 18’: Mayk desmaia, câmera é cortada e Adriane Galisteu faz revelação: ‘Ele foi’ apareceu primeiro em Contigo! .",
+  "credito": "Foto: Record TV Goiás / CC BY 3.0, via Wikimedia Commons",
+  "fonte": "Contigo",
+  "categoria": "televisao",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Adriane_Galisteu.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "data": "2026-11-13T02:15:38+00:00",
+  "busca_imagem": "",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Adriane_Galisteu.png",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Adriane Galisteu"
+ },
+ {
+  "titulo": "Aos 75 anos, cantor sertanejo se casou com modelo 51 anos mais jovem em fazenda milionária no MT",
+  "link": "https://caras.com.br/casa-dos-famosos/aos-75-anos-cantor-sertanejo-se-casou-com-modelo-51-anos-mais-jovem-em-fazenda-milionaria-no-mt.phtml",
+  "trecho": "O casal celebrou a união em março de 2025 no interior de Mato Grosso, consolidando a relação em meio a uma propriedade rural avaliada em centenas de milhões O post Aos 75 anos, cantor sertanejo se casou com modelo 51…",
+  "credito": "",
+  "fonte": "Caras",
+  "categoria": "celebridades",
+  "imagem": "",
+  "data": "2026-11-13T02:13:52+00:00",
+  "busca_imagem": "cattle ranch farm sunset"
  },
  {
   "titulo": "Peneirar a farinha antes de preparar bolos e massas: quando esse cuidado realmente faz diferença e por que nem todas as receitas precisam dessa etapa",
@@ -199,7 +641,29 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-13T02:04:26+00:00",
-  "busca_imagem": "flour sifter baking ingredients"
+  "busca_imagem": "flour sifting baking ingredients"
+ },
+ {
+  "titulo": "Aos 84 e 57 anos, cantor e empresária preservam refúgio histórico e milionário com vista para o mar da Bahia",
+  "link": "https://caras.com.br/casa-dos-famosos/aos-84-e-57-anos-cantor-e-empresaria-preservam-refugio-historico-e-milionario-com-vista-para-o-mar-da-bahia.phtml",
+  "trecho": "Entre Santo Amaro e o Rio de Janeiro, os imóveis de famoso casal preservam memórias afetivas, referências culturais e a conexão com as raízes baianas O post Aos 84 e 57 anos, cantor e empresária preservam refúgio…",
+  "credito": "",
+  "fonte": "Caras",
+  "categoria": "celebridades",
+  "imagem": "",
+  "data": "2026-11-13T02:02:07+00:00",
+  "busca_imagem": "seaside house ocean view"
+ },
+ {
+  "titulo": "Juntas há 3 anos, ex-jornalista da Globo vive história de amor com arquiteta 23 anos mais jovem",
+  "link": "https://caras.com.br/atualidades/juntas-3-anos-jornalista-globo-historia-amor-arquiteta-23-jovem.phtml",
+  "trecho": "Discreta, companheira da jornalista já participou de projetos de artistas como Ludmilla, Maria Bethânia e IZA; saiba mais O post Juntas há 3 anos, ex-jornalista da Globo vive história de amor com arquiteta 23 anos mais…",
+  "credito": "",
+  "fonte": "Caras",
+  "categoria": "celebridades",
+  "imagem": "",
+  "data": "2026-11-13T02:01:30+00:00",
+  "busca_imagem": ""
  },
  {
   "titulo": "Por Você: Dalila e Peixe têm primeira noite de amor",
@@ -260,7 +724,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-13T01:47:46+00:00",
-  "busca_imagem": ""
+  "busca_imagem": "concert stage microphone lights"
  },
  {
   "titulo": "Daniel Cady relata tensão após ter celular furtado em SP e contas bancárias acessadas",
@@ -282,7 +746,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-13T01:44:54+00:00",
-  "busca_imagem": "kitchen knife sharpening whetstone"
+  "busca_imagem": "kitchen knife sharpening stone"
  },
  {
   "titulo": "CCXP26 confirma presença de mais um ator de 'O Senhor dos Anéis'; veja quem é",
@@ -304,20 +768,18 @@
   "categoria": "ultimas",
   "imagem": "",
   "data": "2026-11-13T01:43:42+00:00",
-  "busca_imagem": ""
+  "busca_imagem": "gramophone trophy award"
  },
  {
   "titulo": "Estudo brasileiro descobriu por que seu gato mia tanto quando você está por perto",
   "link": "https://revistagalileu.globo.com/ciencia/biologia/noticia/2026/11/estudo-brasileiro-descobriu-por-que-seu-gato-mia-tanto-quando-voce-esta-por-perto.ghtml",
   "trecho": "Seu gato é “chorão” ou “comunicativo”? Saiba que ele pode estar fazendo reclamações sobre suas ações. Um estudo da Universidade de São Paulo (USP) quis entender qual era a relação que os gatos domésticos estabeleciam…",
-  "credito": "Foto: Cats in trees / CC BY 2.0",
+  "credito": "",
   "fonte": "Galileu",
   "categoria": "curiosidades",
-  "imagem": "https://live.staticflickr.com/3523/3905212736_1cb46340b1_b.jpg",
+  "imagem": "",
   "data": "2026-11-13T01:43:35+00:00",
-  "busca_imagem": "cat meowing close up",
-  "credito_link": "https://www.flickr.com/photos/40200048@N07/3905212736",
-  "imagem_tipo": "banco"
+  "busca_imagem": "cat meowing indoors"
  },
  {
   "titulo": "Parcial UOL: Peões trocam de posição em enquete acirrada de 8ª Roã",
@@ -361,7 +823,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-13T01:30:31+00:00",
-  "busca_imagem": "white salt desert flooded monsoon"
+  "busca_imagem": "white salt desert flooded water"
  },
  {
   "titulo": "Bruna Marquezine aposta em vestido de crochê com transparência para pré-casamento em Noronha",
@@ -372,7 +834,6 @@
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bruna_Marquezine_2025.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T01:28:28+00:00",
-  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Bruna_Marquezine_2025.png",
   "imagem_tipo": "pessoa",
   "pessoa": "Bruna Marquezine"
@@ -386,7 +847,6 @@
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bruna_Marquezine_2025.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T01:28:06+00:00",
-  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Bruna_Marquezine_2025.png",
   "imagem_tipo": "pessoa",
   "pessoa": "Bruna Marquezine"
@@ -399,21 +859,17 @@
   "fonte": "Galileu",
   "categoria": "curiosidades",
   "imagem": "",
-  "data": "2026-11-13T01:26:13+00:00",
-  "busca_imagem": "yellow giant fish lake"
+  "data": "2026-11-13T01:26:13+00:00"
  },
  {
   "titulo": "Chefs explicam por que colocar cogumelos demais na frigideira de uma só vez pode fazer com que cozinhem na própria água em vez de dourar",
   "link": "https://catracalivre.com.br/noticias/chefs-explicam-por-que-colocar-cogumelos-demais-na-frigideira-de-uma-so-vez-pode-fazer-com-que-cozinhem-na-propria-agua-em-vez-de-dourar/",
   "trecho": "Cogumelos murchos e cheios de água? Descubra por que lotar a frigideira impede o douramento e como corrigir. O post Chefs explicam por que colocar cogumelos demais na frigideira de uma só vez pode fazer com que cozinhem…",
-  "credito": "Foto: Tobyotter / CC BY 2.0",
+  "credito": "",
   "fonte": "Catraca Livre",
   "categoria": "virais",
-  "imagem": "https://live.staticflickr.com/5147/5770153468_0a07339fa0_b.jpg",
-  "data": "2026-11-13T01:24:21+00:00",
-  "busca_imagem": "mushrooms frying pan cooking",
-  "credito_link": "https://www.flickr.com/photos/78428166@N00/5770153468",
-  "imagem_tipo": "banco"
+  "imagem": "",
+  "data": "2026-11-13T01:24:21+00:00"
  },
  {
   "titulo": "Ao lado de Shawn Mendes, Bruna Marquezine escolhe vestido vazado durante evento de amigos em Noronha",
@@ -424,7 +880,6 @@
   "categoria": "televisao",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/191125_Shawn_Mendes_at_the_2019_American_Music_Awards.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T01:24:03+00:00",
-  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:191125_Shawn_Mendes_at_the_2019_American_Music_Awards.png",
   "imagem_tipo": "pessoa",
   "pessoa": "Shawn Mendes"
@@ -437,8 +892,7 @@
   "fonte": "Galileu",
   "categoria": "curiosidades",
   "imagem": "",
-  "data": "2026-11-13T01:22:01+00:00",
-  "busca_imagem": "antidepressant pills blister pack"
+  "data": "2026-11-13T01:22:01+00:00"
  },
  {
   "titulo": "Daniel Cady, ex-marido de Ivete Sangalo, detalha momentos de tensão após ser furtado em SP; vídeo",
@@ -449,7 +903,6 @@
   "categoria": "virais",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Ivete_Sangalo_SAM_0058_%2854481946217%29_%28cropped%29.jpg/1280px-Ivete_Sangalo_SAM_0058_%2854481946217%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "data": "2026-11-13T01:21:58+00:00",
-  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Ivete_Sangalo_SAM_0058_(54481946217)_(cropped).jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Ivete Sangalo"
@@ -473,8 +926,7 @@
   "fonte": "Hugo Gloss",
   "categoria": "televisao",
   "imagem": "",
-  "data": "2026-11-13T01:17:49+00:00",
-  "busca_imagem": "brazilian northeast village sertao"
+  "data": "2026-11-13T01:17:49+00:00"
  },
  {
   "titulo": "Vai sair do ar? Chefão da Globo choca com decisão sobre ‘Lá na Minha Terra’",
@@ -484,8 +936,7 @@
   "fonte": "Contigo",
   "categoria": "celebridades",
   "imagem": "",
-  "data": "2026-11-13T01:16:35+00:00",
-  "busca_imagem": ""
+  "data": "2026-11-13T01:16:35+00:00"
  },
  {
   "titulo": "Heliponto e vista para floresta: Conheça luxos da mansão comandada por Maiara e Maraisa em Mairinque",
@@ -495,8 +946,7 @@
   "fonte": "Caras",
   "categoria": "celebridades",
   "imagem": "",
-  "data": "2026-11-13T01:16:33+00:00",
-  "busca_imagem": "helipad mansion forest view"
+  "data": "2026-11-13T01:16:33+00:00"
  },
  {
   "titulo": "Com nova vitória, Jota.pê se torna o brasileiro mais jovem a conquistar cinco Grammys",
@@ -528,8 +978,7 @@
   "fonte": "Catraca Livre",
   "categoria": "virais",
   "imagem": "",
-  "data": "2026-11-13T01:07:36+00:00",
-  "busca_imagem": "spinach lemon slices"
+  "data": "2026-11-13T01:07:36+00:00"
  },
  {
   "titulo": "Os melhores exercícios para fortalecer o abdômen sem exageros e de uma maneira que cabe facilmente na sua rotina",
@@ -539,8 +988,7 @@
   "fonte": "Catraca Livre",
   "categoria": "virais",
   "imagem": "",
-  "data": "2026-11-13T01:04:11+00:00",
-  "busca_imagem": "abdominal exercise workout mat"
+  "data": "2026-11-13T01:04:11+00:00"
  },
  {
   "titulo": "Lauana Prado chora ao levar o Grammy Latino de Melhor Álbum de Música Sertaneja",
@@ -551,7 +999,6 @@
   "categoria": "televisao",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Lauana_Prado_%28Mar_2024%29_%28cropped%29.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T01:03:14+00:00",
-  "busca_imagem": "latin grammy award trophy",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Lauana_Prado_(Mar_2024)_(cropped).png",
   "imagem_tipo": "pessoa",
   "pessoa": "Lauana Prado"
@@ -565,7 +1012,6 @@
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Lauana_Prado_%28Mar_2024%29_%28cropped%29.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T01:02:37+00:00",
-  "busca_imagem": "latin grammy award trophy",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Lauana_Prado_(Mar_2024)_(cropped).png",
   "imagem_tipo": "pessoa",
   "pessoa": "Lauana Prado"
@@ -579,7 +1025,6 @@
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/S%C3%A9rgio_Mallandro.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T01:02:24+00:00",
-  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:S%C3%A9rgio_Mallandro.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Sergio Mallandro"
@@ -628,8 +1073,7 @@
   "fonte": "Contigo",
   "categoria": "celebridades",
   "imagem": "",
-  "data": "2026-11-13T01:00:52+00:00",
-  "busca_imagem": ""
+  "data": "2026-11-13T01:00:52+00:00"
  },
  {
   "titulo": "Em Lá na Minha Terra, Severino/Cesário relembra infância, e Ismália questiona: 'Sente saudade?'",
@@ -639,8 +1083,7 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "",
-  "data": "2026-11-13T01:00:00+00:00",
-  "busca_imagem": ""
+  "data": "2026-11-13T01:00:00+00:00"
  },
  {
   "titulo": "5 perfumes do Boticário que combinam perfeitamente com dias chuvosos",
@@ -650,8 +1093,7 @@
   "fonte": "OTV Foco",
   "categoria": "televisao",
   "imagem": "",
-  "data": "2026-11-13T01:00:00+00:00",
-  "busca_imagem": "perfume bottles rainy day"
+  "data": "2026-11-13T01:00:00+00:00"
  },
  {
   "titulo": "Anitta quebra o silêncio e se manifesta sobre depressão",
@@ -679,14 +1121,11 @@
   "titulo": "Atriz Neusa Borges é internada no Rio: 'Chateada e sem previsão de alta'",
   "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/atriz-neusa-borges-e-internada-no-rio-de-janeiro.ghtml",
   "trecho": "Neusa Borges, de 84 anos, foi internada no hospital Copa D'Or, na Zona Sul do Rio de Janeiro, devido a um quadro de pneumonia. A atriz - conhecida por papéis como Rita de Escrava Isaura (1976), Dalva de O Clone, e Dona…",
-  "credito": "Foto: olavXO / CC BY 2.0",
+  "credito": "",
   "fonte": "Quem",
   "categoria": "celebridades",
-  "imagem": "https://live.staticflickr.com/5580/14774232604_50004c1341_b.jpg",
-  "data": "2026-11-13T00:49:16+00:00",
-  "busca_imagem": "hospital bed hallway",
-  "credito_link": "https://www.flickr.com/photos/77896564@N04/14774232604",
-  "imagem_tipo": "banco"
+  "imagem": "",
+  "data": "2026-11-13T00:49:16+00:00"
  },
  {
   "titulo": "Juliano Floss faz post com música da ex-Marina Sena no dia do Grammy Latino",
@@ -697,7 +1136,6 @@
   "categoria": "televisao",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Juliano_Floss_em_2026.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T00:48:57+00:00",
-  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Juliano_Floss_em_2026.png",
   "imagem_tipo": "pessoa",
   "pessoa": "Juliano Floss"
@@ -711,7 +1149,6 @@
   "categoria": "televisao",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Juliana_Salimeni.jpg/1280px-Juliana_Salimeni.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "data": "2026-11-13T00:48:52+00:00",
-  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Juliana_Salimeni.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Juju Salimeni"
@@ -1239,9 +1676,9 @@
   "data": "2026-11-12T23:30:00+00:00"
  },
  {
-  "titulo": "Grammy Latino 2026: veja lista de vencedores",
+  "titulo": "Grammy Latino 2026: Anitta ganha seu primeiro prêmio; veja lista completa de vencedores",
   "link": "https://g1.globo.com/pop-arte/musica/noticia/2026/11/12/grammy-latino-2026-veja-lista-de-vencedores.ghtml",
-  "trecho": "Grammy Latino 2026 acontece em Las Vegas (EUA) CHRIS DELMAS/AFP A cerimônia do Grammy Latino 2026 acontece nesta quinta-feira (12), em Las Vegas, nos Estados Unidos. Artistas internacionais como Rosalía, KAROL G…",
+  "trecho": "Anitta recebe o prêmio de Melhor Álbum Pop Contemporâneo em Língua Portuguesa por \"Equilibrivm\" durante a 27ª edição do Grammy Latino , em Las Vegas, Nevada REUTERS A cerimônia do Grammy Latino 2026 acontece nesta…",
   "credito": "",
   "fonte": "g1",
   "categoria": "ultimas",

@@ -988,5 +988,42 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Gracyanne_Barbosa_-_Mesacast_BBB_2025.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: Multishow / CC BY 4.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Gracyanne_Barbosa_-_Mesacast_BBB_2025.png"
+ },
+ "https://ffw.com.br/noticias/moda/boho-chic-vestido-marrom-e-conjunto-adidas-os-melhores-looks-de-jade-picon-em-trancoso/": {
+  "recusado": true,
+  "criado": "2026-11-13T03:22:09.900863+00:00"
+ },
+ "https://guaicuy.org.br/mpmg-pede-vale-parcela-de-novembro/": {
+  "recusado": true,
+  "criado": "2026-11-13T03:22:09.900863+00:00"
+ },
+ "https://www.uol.com.br/splash/noticias/2026/11/12/ultima-parcial-enquete-uol-a-fazenda-18-oitava-roca.ghtm": {
+  "publicar": true,
+  "titulo": "A Fazenda 18: Murilo aparece em último lugar em parcial da 8ª roça",
+  "linha_fina": "Daniel, Tina e Murilo disputam a eliminação, e a enquete do UOL segue praticamente empatada ao longo do dia",
+  "paragrafos": [
+   "Murilo aparece em último lugar na parcial de enquete do UOL sobre a oitava roça de A Fazenda 18, da Record. Daniel, Tina e Murilo estão na berlinda, e um deles será eliminado no programa ao vivo desta quinta-feira (12).",
+   "Ao longo do dia, a disputa ficou mais acirrada. Na primeira parcial, feita às 10h, Tina aparecia isolada na liderança, com cerca de dois pontos separando Daniel e Murilo. Na segunda, os três apareciam empatados, com Daniel na posição de eliminado. Na última parcial, quem aparecia como eliminado era Murilo, com 32.190 votos somados até aquele momento.",
+   "A formação da roça aconteceu após um empate na votação da casa. Mayk Leão indicou Murilo, e Erthal mandou Tina para a berlinda. Fran Almeida, que venceu a Prova do Fazendeiro na quarta-feira (11), ocupou o último banquinho e vetou Tina da prova.",
+   "A votação oficial da Record define o participante menos votado, que deixa o programa ao vivo. Fran escapou da roça e assumiu novamente o posto de fazendeira."
+  ],
+  "tags": [
+   "A Fazenda 18",
+   "Murilo",
+   "roça"
+  ],
+  "pessoa": "",
+  "busca_imagem": "television studio audience",
+  "criado": "2026-11-13T03:22:09.900863+00:00",
+  "slug": "a-fazenda-18-murilo-aparece-em-ultimo-lugar-em-parcial-da-8a-roca-402fa2",
+  "fonte": "UOL",
+  "link": "https://www.uol.com.br/splash/noticias/2026/11/12/ultima-parcial-enquete-uol-a-fazenda-18-oitava-roca.ghtm",
+  "categoria": "em-alta",
+  "data": "2026-11-13T01:40:00+00:00",
+  "titulo_original": "Parcial UOL: Peões trocam de posição em enquete acirrada de 8ª Roã",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/7187/6958087967_80bf947bca_b.jpg",
+  "credito": "Foto: Official GDC / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/46982319@N06/6958087967"
  }
 }

@@ -5261,5 +5261,328 @@
  "b:brazilian northeast village sertao": null,
  "b:helipad mansion forest view": null,
  "b:grammy awards trophy": null,
- "b:historic farm italian villa": null
+ "b:historic farm italian villa": null,
+ "b:white fashion red carpet": [
+  {
+   "imagem": "https://live.staticflickr.com/5115/7370774458_0344d2968c_b.jpg",
+   "credito": "Foto: Robert Stinnett / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/93732749@N00/7370774458"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/1355/1121355029_56d93f6b29_b.jpg",
+   "credito": "Foto: Joe Shlabotnik / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/40646519@N00/1121355029"
+  }
+ ],
+ "b:music award trophy stage": null,
+ "b:empty nest home living room": null,
+ "v:Gabi Martins": {
+  "descricao": "cantora e compositora brasileira",
+  "nasc": 1996,
+  "morte": null
+ },
+ "p:Gabi Martins": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Gabi_Martins.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Vovô Raul Gil Oficial / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Gabi_Martins.jpg"
+ },
+ "b:samba dancer carnival costume": null,
+ "b:shooting range target pistol": [
+  {
+   "imagem": "https://live.staticflickr.com/5487/11750724146_dffa2f6993_b.jpg",
+   "credito": "Foto: Wheeler Cowperthwaite / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/60756254@N07/11750724146"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3767/11746235855_04d030fe15_b.jpg",
+   "credito": "Foto: Wheeler Cowperthwaite / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/60756254@N07/11746235855"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2875/11749734506_47d3e734c3_b.jpg",
+   "credito": "Foto: Wheeler Cowperthwaite / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/60756254@N07/11749734506"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3784/11750291016_e5655b6208_b.jpg",
+   "credito": "Foto: Wheeler Cowperthwaite / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/60756254@N07/11750291016"
+  }
+ ],
+ "b:concert stage crowd lights": [
+  {
+   "imagem": "https://live.staticflickr.com/3080/2720494170_32123f7a35_b.jpg",
+   "credito": "Foto: Incase. / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/62021300@N00/2720494170"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/129/357386485_47ae25d034_b.jpg",
+   "credito": "Foto: bary0n / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/81231697@N00/357386485"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5190/5594387099_634db38a36_b.jpg",
+   "credito": "Foto: abulhussain / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/7678586@N06/5594387099"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8482/8160370212_eca831c986_b.jpg",
+   "credito": "Foto: marfis75 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/45409431@N00/8160370212"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2479/3748638529_0c83611cd8_b.jpg",
+   "credito": "Foto: curran.kelleher / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/10604632@N02/3748638529"
+  }
+ ],
+ "b:red carpet gala evening dress": null,
+ "v:Jennifer Aniston": {
+  "descricao": "atriz e produtora norte-americana",
+  "nasc": 1969,
+  "morte": null
+ },
+ "p:Jennifer Aniston": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/30/Jennifer_Aniston_2011_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Official White House Photo by Chuck Kennedy / Public domain, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Jennifer_Aniston_2011_(cropped).jpg"
+ },
+ "b:kitchen dish towel hanging": [
+  {
+   "imagem": "https://live.staticflickr.com/3268/2421038346_c5261293c6_b.jpg",
+   "credito": "Foto: qmnonic / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/58575431@N00/2421038346"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/54269892756_54215144b0_b.jpg",
+   "credito": "Foto: dalecruse / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/91873384@N04/54269892756"
+  }
+ ],
+ "v:Fernanda Lima": {
+  "descricao": "apresentadora, modelo, empresária e atriz brasileira",
+  "nasc": 1977,
+  "morte": null
+ },
+ "p:Fernanda Lima": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Fernanda_Lima_in_2012.jpg/1280px-Fernanda_Lima_in_2012.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Alex Carvalho from Rio de Janeiro, Brasil / CC BY-SA 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Fernanda_Lima_in_2012.jpg"
+ },
+ "b:television studio cameras": [
+  {
+   "imagem": "https://live.staticflickr.com/7033/6639410521_cc88e96c76_b.jpg",
+   "credito": "Foto: Flavio~ / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/37873897@N06/6639410521"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5012/5489670651_c7e92b3c14_b.jpg",
+   "credito": "Foto: Jeff Attaway / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/33398364@N08/5489670651"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2123/2322445722_5e09a21c4a_b.jpg",
+   "credito": "Foto: William Hook / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/83542829@N00/2322445722"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8231/8377670073_408911bd42_b.jpg",
+   "credito": "Foto: Dusty J / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/55608722@N06/8377670073"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3794/13880957485_620e98526d_b.jpg",
+   "credito": "Foto: pavlinajane / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/60291025@N05/13880957485"
+  }
+ ],
+ "b:soccer player stadium": [
+  {
+   "imagem": "https://live.staticflickr.com/8286/7794221892_2db05a6c93_b.jpg",
+   "credito": "Foto: pbkwee / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/11704829@N00/7794221892"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/92/371240270_e8c71194c7_b.jpg",
+   "credito": "Foto: Phalinn Ooi / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/17868205@N00/371240270"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8301/7986654741_c928f35251_b.jpg",
+   "credito": "Foto: wrightbrosfan / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/53497385@N07/7986654741"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4031/4567285528_a2abae6485_b.jpg",
+   "credito": "Foto: KG Sand Soccer / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/39255507@N03/4567285528"
+  }
+ ],
+ "v:Anne Hathaway": {
+  "descricao": "atriz norte-americana",
+  "nasc": 1982,
+  "morte": null
+ },
+ "p:Anne Hathaway": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Anne_Hathaway-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194764955_%28cropped%29.jpg/1280px-Anne_Hathaway-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194764955_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Ministry of culture, sports and Tourism- Lee Jeong-woo / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Anne_Hathaway-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194764955_(cropped).jpg"
+ },
+ "b:music festival stage crowd": [
+  {
+   "imagem": "https://live.staticflickr.com/3254/2722387472_a33e60021b_b.jpg",
+   "credito": "Foto: Jamiecat * / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/27330325@N08/2722387472"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3202/3003122352_539269fe95_b.jpg",
+   "credito": "Foto: wiredbike / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/35034347388@N01/3003122352"
+  }
+ ],
+ "b:red carpet event": [
+  {
+   "imagem": "https://live.staticflickr.com/5658/25370032189_93f938349c_b.jpg",
+   "credito": "Foto: DeltaNewsHub / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/142938205@N05/25370032189"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7192/6913420901_dd6d597044_b.jpg",
+   "credito": "Foto: Ferlinka Borzoi (Deb West) / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/62631588@N00/6913420901"
+  }
+ ],
+ "v:Jade Picon": {
+  "descricao": "influenciadora digital, atriz e empresária brasileira",
+  "nasc": 2001,
+  "morte": null
+ },
+ "p:Jade Picon": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Jade_Picon_at_Web_Summit_Rio_2026.jpg/1280px-Jade_Picon_at_Web_Summit_Rio_2026.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Felipe.bzra / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Jade_Picon_at_Web_Summit_Rio_2026.jpg"
+ },
+ "v:Duda Reis": {
+  "descricao": "Atriz, modelo e influenciadora digital brasileira",
+  "nasc": 2001,
+  "morte": null
+ },
+ "b:pasta cooking pot water": [
+  {
+   "imagem": "https://live.staticflickr.com/7108/7088119483_bf22e8b268_b.jpg",
+   "credito": "Foto: andrusdevelopment / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/9020344@N02/7088119483"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3173/2479742717_2aa08ed784_b.jpg",
+   "credito": "Foto: Lachlan Hardy / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/98983159@N00/2479742717"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2131/2528005054_42381ea184_b.jpg",
+   "credito": "Foto: Lachlan Hardy / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/98983159@N00/2528005054"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3557/3321865766_cf2117f9d2_b.jpg",
+   "credito": "Foto: Vegan Feast Catering / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/25128194@N02/3321865766"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/1246/596383553_2f78dbbed3_b.jpg",
+   "credito": "Foto: RBerteig / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/51035786238@N01/596383553"
+  }
+ ],
+ "b:electric guitar amplifier": [
+  {
+   "imagem": "https://live.staticflickr.com/65535/49396107746_28d7cf815b_b.jpg",
+   "credito": "Foto: chocolatedazzles / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/186095195@N02/49396107746"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3354/3534530529_6a5c140039_b.jpg",
+   "credito": "Foto: Roadside Guitars / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/32742419@N04/3534530529"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3592/3458392800_25c1379e30_b.jpg",
+   "credito": "Foto: andcav / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/37581251@N06/3458392800"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8654/16063880083_88a9c9fdea_b.jpg",
+   "credito": "Foto: TheMachinePhotography / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/47626405@N06/16063880083"
+  }
+ ],
+ "v:Kelly Key": {
+  "descricao": "Cantora, Musa Fitness e Influenciadora Digital",
+  "nasc": 1983,
+  "morte": null
+ },
+ "p:Kelly Key": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Kelly_Key_-_Odessa_10_%2823032998249%29.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Pedro Henrique / CC BY-SA 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Kelly_Key_-_Odessa_10_(23032998249).png"
+ },
+ "b:pregnant woman belly ultrasound": null,
+ "b:moon rocket launch night": [
+  {
+   "imagem": "https://live.staticflickr.com/2487/3905420031_8d8104ccaa_b.jpg",
+   "credito": "Foto: jurvetson / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/44124348109@N01/3905420031"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8152/7207505068_cbc51cdd07_b.jpg",
+   "credito": "Foto: jurvetson / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/44124348109@N01/7207505068"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3767/9685915701_231406dab6_b.jpg",
+   "credito": "Foto: NASA Goddard Photo and Video / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/24662369@N07/9685915701"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/1306/1400559286_9b12426631_b.jpg",
+   "credito": "Foto: jurvetson / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/44124348109@N01/1400559286"
+  }
+ ],
+ "b:old photograph couple hands": [
+  {
+   "imagem": "https://live.staticflickr.com/5525/14265071333_d333188909_b.jpg",
+   "credito": "Foto: Boston Public Library / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/24029425@N06/14265071333"
+  }
+ ],
+ "v:Serra da Mantiqueira": {
+  "descricao": "serra no sudeste do Brasil",
+  "nasc": null,
+  "morte": null
+ },
+ "b:farm horses mountain stream": [
+  {
+   "imagem": "https://live.staticflickr.com/44/175754228_cfac7a7ac8_b.jpg",
+   "credito": "Foto: pfly / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/24934185@N00/175754228"
+  }
+ ],
+ "b:television studio audience": [
+  {
+   "imagem": "https://live.staticflickr.com/3180/2851149575_31ccf94244_b.jpg",
+   "credito": "Foto: goodrob13 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/25030443@N03/2851149575"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7187/6958087967_80bf947bca_b.jpg",
+   "credito": "Foto: Official GDC / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/46982319@N06/6958087967"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3145/2851152051_62a32f6119_b.jpg",
+   "credito": "Foto: goodrob13 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/25030443@N03/2851152051"
+  }
+ ]
 }
