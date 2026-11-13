@@ -8615,5 +8615,390 @@
   "descricao": "atriz, dubladora e modelo brasileira",
   "nasc": 1985,
   "morte": null
- }
+ },
+ "b:couple beach sunset resort": null,
+ "v:Avril Lavigne": {
+  "descricao": "cantora e compositora do Canadá",
+  "nasc": 1984,
+  "morte": null
+ },
+ "p:Avril Lavigne": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Glaston2024_2806_300624_%28129_of_173%29_%28cropped%29.jpg/1280px-Glaston2024_2806_300624_%28129_of_173%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Raph_PH / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Glaston2024_2806_300624_(129_of_173)_(cropped).jpg"
+ },
+ "b:carnival parade samba costume": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Brazilian_Carnival_Parade.jpg/1280px-Brazilian_Carnival_Parade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: John Foxx from Washington, EUA / CC BY-SA 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Brazilian_Carnival_Parade.jpg"
+  }
+ ],
+ "b:us visa passport application": null,
+ "b:child playing piano keyboard": null,
+ "b:vintage film movie reel": null,
+ "b:television studio camera set": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Walter_Nash_and_others_in_television_studio_c1920-_c1930_%2818180645532%29.jpg/1280px-Walter_Nash_and_others_in_television_studio_c1920-_c1930_%2818180645532%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Archives New Zealand from New Zealand / CC BY-SA 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Walter_Nash_and_others_in_television_studio_c1920-_c1930_(18180645532).jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Television_news_cameras_set_up_in_an_auditorium_%2813106194975%29.jpg/1280px-Television_news_cameras_set_up_in_an_auditorium_%2813106194975%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: City of Boston Archives from West Roxbury, United… / CC BY 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Television_news_cameras_set_up_in_an_auditorium_(13106194975).jpg"
+  }
+ ],
+ "b:wildebeest migration river crossing": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Western_white-bearded_wildebeest_%28Connochaetes_taurinus_mearnsi%29_Mara_River_crossing_2b.jpg/1280px-Western_white-bearded_wildebeest_%28Connochaetes_taurinus_mearnsi%29_Mara_River_crossing_2b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Charles J. Sharp / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Western_white-bearded_wildebeest_(Connochaetes_taurinus_mearnsi)_Mara_River_crossing_2b.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Western_white-bearded_wildebeest_%28Connochaetes_taurinus_mearnsi%29_Mara_River_crossing_2d.jpg/1280px-Western_white-bearded_wildebeest_%28Connochaetes_taurinus_mearnsi%29_Mara_River_crossing_2d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Charles J. Sharp / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Western_white-bearded_wildebeest_(Connochaetes_taurinus_mearnsi)_Mara_River_crossing_2d.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Western_white-bearded_wildebeest_%28Connochaetes_taurinus_mearnsi%29_Mara_River_crossing_2c.jpg/1280px-Western_white-bearded_wildebeest_%28Connochaetes_taurinus_mearnsi%29_Mara_River_crossing_2c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Charles J. Sharp / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Western_white-bearded_wildebeest_(Connochaetes_taurinus_mearnsi)_Mara_River_crossing_2c.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Western_white-bearded_wildebeest_%28Connochaetes_taurinus_mearnsi%29_Mara_River_crossing_2f_jumping.jpg/1280px-Western_white-bearded_wildebeest_%28Connochaetes_taurinus_mearnsi%29_Mara_River_crossing_2f_jumping.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Charles J. Sharp / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Western_white-bearded_wildebeest_(Connochaetes_taurinus_mearnsi)_Mara_River_crossing_2f_jumping.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Western_white-bearded_wildebeest_%28Connochaetes_taurinus_mearnsi%29_Mara_River_crossing_2a_Zebras.jpg/1280px-Western_white-bearded_wildebeest_%28Connochaetes_taurinus_mearnsi%29_Mara_River_crossing_2a_Zebras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Charles J. Sharp / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Western_white-bearded_wildebeest_(Connochaetes_taurinus_mearnsi)_Mara_River_crossing_2a_Zebras.jpg"
+  }
+ ],
+ "b:wedding dress fitting": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Dress%2C_wedding_%28AM_5920-17%29.jpg/1280px-Dress%2C_wedding_%28AM_5920-17%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Milne & Choyce Ltd / CC BY 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Dress,_wedding_(AM_5920-17).jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Dress%2C_wedding_%28AM_5920-12%29.jpg/1280px-Dress%2C_wedding_%28AM_5920-12%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Milne & Choyce Ltd / CC BY 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Dress,_wedding_(AM_5920-12).jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Dress%2C_wedding_%28AM_5920-3%29.jpg/1280px-Dress%2C_wedding_%28AM_5920-3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Milne & Choyce Ltd / CC BY 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Dress,_wedding_(AM_5920-3).jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Dress%2C_wedding_%28AM_5920-9%29.jpg/1280px-Dress%2C_wedding_%28AM_5920-9%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Milne & Choyce Ltd / CC BY 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Dress,_wedding_(AM_5920-9).jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Dress%2C_wedding_%28AM_5920-13%29.jpg/1280px-Dress%2C_wedding_%28AM_5920-13%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Milne & Choyce Ltd / CC BY 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Dress,_wedding_(AM_5920-13).jpg"
+  }
+ ],
+ "b:miami beach sunset": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Miami_Beach_-_Sunset_Hotel_01.jpg/1280px-Miami_Beach_-_Sunset_Hotel_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Curt Teich & Co. / Public domain, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Miami_Beach_-_Sunset_Hotel_01.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Miami_Beach_-_Sunset_Hotel_02.jpg/1280px-Miami_Beach_-_Sunset_Hotel_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Curt Teich & Co. / Public domain, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Miami_Beach_-_Sunset_Hotel_02.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Miami_Beach_-_Sunset_Island.jpg/1280px-Miami_Beach_-_Sunset_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Tichnor Brothers, Boston (publisher) / Public domain, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Miami_Beach_-_Sunset_Island.jpg"
+  }
+ ],
+ "b:crochet shorts beach": null,
+ "b:deep sea creature": [
+  {
+   "imagem": "https://live.staticflickr.com/7857/46616913752_b927c2f885_b.jpg",
+   "credito": "Foto: Brickset / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/92090133@N04/46616913752"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7885/46669540311_e2b5b03a15_b.jpg",
+   "credito": "Foto: Brickset / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/92090133@N04/46669540311"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7838/45952366954_886abcd27b_b.jpg",
+   "credito": "Foto: Brickset / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/92090133@N04/45952366954"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7862/46630153432_a630752b35_b.jpg",
+   "credito": "Foto: Brickset / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/92090133@N04/46630153432"
+  }
+ ],
+ "b:television broadcast tower": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Shenyang_Television_Broadcasting_Tower_02.jpg/1280px-Shenyang_Television_Broadcasting_Tower_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Karl Osj. G / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Shenyang_Television_Broadcasting_Tower_02.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Shenyang_Television_Broadcasting_Tower_03.jpg/1280px-Shenyang_Television_Broadcasting_Tower_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Karl Osj. G / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Shenyang_Television_Broadcasting_Tower_03.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Local_broadcast_television_%281430227347%29.jpg/1280px-Local_broadcast_television_%281430227347%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Daniel McAnulty from cambridge, United States / CC BY 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Local_broadcast_television_(1430227347).jpg"
+  }
+ ],
+ "b:electronic ankle monitor": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Ankle_Electronic_tagging.jpg/1280px-Ankle_Electronic_tagging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: This Photo was taken by Adirach Toumlamoon . Feel… / CC BY 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Ankle_Electronic_tagging.jpg"
+  }
+ ],
+ "b:woman outdoor cardio workout": null,
+ "b:italian beer bottles": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Arranging_beer_bottles_at_Viela_inside_Mercado_Novo_-_Mercado_Novo_-_Centro_de_Belo_Horizonte%2C_Minas_Gerais%2C_MG%2C_BRAZIL_-_2026_-_Daniel_Guimaraes_Rego%2C_Dan_Rego%2C_Daniel_G._Rego%2C_Daniel_Rego%2C_Daniel_Guimar%C3%A3es_Rego_%281986%29_08.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Daniel G Rego / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Arranging_beer_bottles_at_Viela_inside_Mercado_Novo_-_Mercado_Novo_-_Centro_de_Belo_Horizonte,_Minas_Gerais,_MG,_BRAZIL_-_2026_-_Daniel_Guimaraes_Rego,_Dan_Rego,_Daniel_G._Rego,_Daniel_Rego,_Daniel_Guimar%C3%A3es_Rego_(1986)_08.jpg"
+  }
+ ],
+ "b:serra catarinense mountain landscape": null,
+ "b:stainless steel tumbler cup": null,
+ "v:Porto Alegre": {
+  "descricao": "município brasileiro e a capital do estado brasileiro do Rio Grande do Sul",
+  "nasc": null,
+  "morte": null
+ },
+ "c:b301e10bd48becbbac84": true,
+ "c:9c7f261f0538459c72f3": false,
+ "c:6329edd63f980b6ce264": true,
+ "c:160b545f3118cefdb559": true,
+ "c:ebea2ad14cae1a22b713": true,
+ "c:d6a020c208f894136c84": true,
+ "c:9e5daa2a68e19e414ccb": true,
+ "c:3d966d754f2369051784": false,
+ "c:8bb25ac55347606d0a2b": true,
+ "c:24e386f2fb369d35bd9d": true,
+ "c:02c4b9d9b1201493387c": true,
+ "c:311da250bb76ad09184e": false,
+ "c:d7370eb6fcb3dff2255c": true,
+ "c:f16ce2818d1c24c0d7c6": false,
+ "c:ed2e3542072dea1e9a30": false,
+ "c:d4c59427f8dcc71c895c": false,
+ "c:400bff2a678abe6dc5ad": true,
+ "c:a0ed2fb01ed5ba85f4ee": true,
+ "c:2b4ef6fc3e8c4b31b78f": true,
+ "c:ab557f2a3be24903b65d": true,
+ "c:677064b5b326e1a76115": true,
+ "c:45d5e3803c8cf5d4e2a6": true,
+ "c:1a716bb1e5ec85c2909b": true,
+ "c:720befd4a1f0145b1979": false,
+ "c:20ac6f058b4de917da7d": false,
+ "c:e4d1f6224d775b492f60": false,
+ "c:670d9ef25e00ed6cd9e8": true,
+ "c:e907f4496c23ee30b238": true,
+ "c:3e013c3e8f7b8d1a0d69": true,
+ "c:85f0c6ec26687363922f": true,
+ "c:9eeb7b9e2c1fd871c536": true,
+ "c:fda1843404b54cf863ae": true,
+ "c:a5f461af959fe62c7934": true,
+ "c:a6f79a337e9ac98ceb46": true,
+ "c:c66fe415b48b30f80a81": true,
+ "c:e4bf6e03bb9bbd52d179": true,
+ "c:fcf1af7014b9d8cbbf2b": true,
+ "c:8628dbb53cfa78944ce7": true,
+ "c:06c4e6b5a40e15e9ac97": true,
+ "c:1e9da6da00719d71fb5b": true,
+ "c:d6bc5696c33ea61a4a92": true,
+ "c:dbe7eb075f3713b70598": true,
+ "c:b11acf3353289e0e3be0": true,
+ "c:35b0d62a925f118f1cf1": true,
+ "c:45029165be8ea3ae63b7": true,
+ "c:e803aa2cb93cb26fcddb": true,
+ "c:e3fd15ee276ac9317434": true,
+ "c:9fd9f483d9cc7cc995c9": true,
+ "c:5dba67bc8c9857e37563": true,
+ "c:958513d315d62b1db5f1": true,
+ "c:7c41177d4826f31486c5": true,
+ "c:914da3b782315d6e47ca": true,
+ "c:10334a2a9fb7a3aabed1": true,
+ "c:923dd704d2a28cfdeee4": true,
+ "c:42b5557d3fe667f47587": true,
+ "c:32747674ebe98d0204e7": true,
+ "c:423fd46bb0c063fed852": true,
+ "c:f1d1e16b58646a003a34": true,
+ "c:a2fbb9c36a95e2f7ace4": true,
+ "c:70ee432b8b0cd436f1f7": true,
+ "c:f7565f9abcf24d359a75": true,
+ "c:7c4291092f08bb22cc9f": true,
+ "c:1675f4c3785e754d8c54": true,
+ "c:129a892bd8954ff7e2e4": true,
+ "c:7a75c0d897cdae671bb8": true,
+ "c:64342a2eb9d1f2fbcbc3": true,
+ "c:7a8e1e10d371e670b60b": true,
+ "c:e7c1fc50dd6936cabd53": true,
+ "c:b2601c8764e0ea3eabf4": true,
+ "c:167512290079cf75efc5": true,
+ "c:40f636e397bdd9cc10fb": true,
+ "b:south brazil countryside road": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Road_to_the_South_%2817016341415%29.jpg/1280px-Road_to_the_South_%2817016341415%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Douglas Scortegagna from Flores da Cunha, Brasil / CC BY 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Road_to_the_South_(17016341415).jpg"
+  }
+ ],
+ "b:rain falling clouds": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Rain_falling_from_cloud_near_Taitung_Seaside_Park.jpg/1280px-Rain_falling_from_cloud_near_Taitung_Seaside_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Tzuhsun Hsu / CC BY-SA 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Rain_falling_from_cloud_near_Taitung_Seaside_Park.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Rain_clouds%2C_7th_Brigade_Park_Chermside_IMGP0093.jpg/1280px-Rain_clouds%2C_7th_Brigade_Park_Chermside_IMGP0093.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: John Robert McPherson / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Rain_clouds,_7th_Brigade_Park_Chermside_IMGP0093.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Rain_clouds%2C_7th_Brigade_Park_Chermside_IMGP0091.jpg/1280px-Rain_clouds%2C_7th_Brigade_Park_Chermside_IMGP0091.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: John Robert McPherson / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Rain_clouds,_7th_Brigade_Park_Chermside_IMGP0091.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Rain_clouds%2C_7th_Brigade_Park_Chermside_IMGP0092.jpg/1280px-Rain_clouds%2C_7th_Brigade_Park_Chermside_IMGP0092.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: John Robert McPherson / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Rain_clouds,_7th_Brigade_Park_Chermside_IMGP0092.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Drawing%2C_Bamboos%2C_Vine_and_a_Young_Palm%2C_Plant%2C_and_Two_Scenes_of_Rain_Falling_from_Clouds_over_Ridges%2C_Rio_Magdalena%2C_Colombia%2C_1853%2C_probably_May_%28CH_18202319%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Frederic Edwin Church / Public domain, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Drawing,_Bamboos,_Vine_and_a_Young_Palm,_Plant,_and_Two_Scenes_of_Rain_Falling_from_Clouds_over_Ridges,_Rio_Magdalena,_Colombia,_1853,_probably_May_(CH_18202319).jpg"
+  }
+ ],
+ "v:Defesa Civil": {
+  "descricao": "conjunto de ações preventivas, de socorro, assistenciais e reconstrutivas destinadas a evitar ou minimizar os desastres naturais e os incidentes tecnológicos",
+  "nasc": null,
+  "morte": null
+ },
+ "b:heavy rain storm city": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Heavy_rain_storm_adding_to_the_flood_water_-_geograph.org.uk_-_3276457.jpg/1280px-Heavy_rain_storm_adding_to_the_flood_water_-_geograph.org.uk_-_3276457.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Richard Humphrey / CC BY-SA 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Heavy_rain_storm_adding_to_the_flood_water_-_geograph.org.uk_-_3276457.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Mudslide-Landslide_%5E_Severe_Storm_-_Caguas%2C_Puerto_Rico%2C_August_26%2C_2011_--Ricardo_Rodriguez_house_was_damage_by_the_heavy_rain_cause_by_tropical_storm_Irene._FEMA_is_in_the_Prelimi_-_DPLA_-_8ae9dce5bb899336e7ff3d9c4c8278d0.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Department of Homeland Security. Federal… / Public domain, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Mudslide-Landslide_%5E_Severe_Storm_-_Caguas,_Puerto_Rico,_August_26,_2011_--Ricardo_Rodriguez_house_was_damage_by_the_heavy_rain_cause_by_tropical_storm_Irene._FEMA_is_in_the_Prelimi_-_DPLA_-_8ae9dce5bb899336e7ff3d9c4c8278d0.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Mudslide-Landslide_%5E_Severe_Storm_-_Caguas%2C_Puerto_Rico%2C_August_26%2C_2011_--Damage_road_and_building_cause_by_heavy_rain_of_the_tropical_storm_Irene_in_San_Salvador_ward%2C_Caguas._FEM_-_DPLA_-_9c2f3bb1cccfe991b496e7ad091580e1.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Department of Homeland Security. Federal… / Public domain, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Mudslide-Landslide_%5E_Severe_Storm_-_Caguas,_Puerto_Rico,_August_26,_2011_--Damage_road_and_building_cause_by_heavy_rain_of_the_tropical_storm_Irene_in_San_Salvador_ward,_Caguas._FEM_-_DPLA_-_9c2f3bb1cccfe991b496e7ad091580e1.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Storm_Drain_Clogged_-_Mid-City_New_Orleans.jpg/1280px-Storm_Drain_Clogged_-_Mid-City_New_Orleans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Bart Everson / CC BY 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Storm_Drain_Clogged_-_Mid-City_New_Orleans.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Strongest_Rain_Storms_Trespass_the_NYC_Metro_%28CIRA_2023-09-29%29.png/1280px-Strongest_Rain_Storms_Trespass_the_NYC_Metro_%28CIRA_2023-09-29%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: JPSS imagery: CSU/CIRA & NOAA/NESDIS / Public domain, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Strongest_Rain_Storms_Trespass_the_NYC_Metro_(CIRA_2023-09-29).png"
+  }
+ ],
+ "v:Santo André": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "b:weather forecast sky clouds": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Appearance_of_sky_for_weather_forecast%2C_Dhaka%2C_Bangladesh.JPG/1280px-Appearance_of_sky_for_weather_forecast%2C_Dhaka%2C_Bangladesh.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Mohammed Tawsif Salam / CC BY-SA 3.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Appearance_of_sky_for_weather_forecast,_Dhaka,_Bangladesh.JPG"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Weather_Forecast_%2870517025%29.jpeg/1280px-Weather_Forecast_%2870517025%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Ekaterina Díaz / CC BY 3.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Weather_Forecast_(70517025).jpeg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/2019-10-12_19_01_12_Sky_and_clouds_just_after_sunset_at_the_WSR-88D_at_the_Baltimore-Washington_Weather_Forecast_Office_of_the_National_Weather_Service_in_the_Dulles_section_of_Sterling%2C_Loudoun_County%2C_Virginia.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Famartin / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:2019-10-12_19_01_12_Sky_and_clouds_just_after_sunset_at_the_WSR-88D_at_the_Baltimore-Washington_Weather_Forecast_Office_of_the_National_Weather_Service_in_the_Dulles_section_of_Sterling,_Loudoun_County,_Virginia.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/2019-10-12_19_00_49_Sky_and_clouds_just_after_sunset_at_the_WSR-88D_at_the_Baltimore-Washington_Weather_Forecast_Office_of_the_National_Weather_Service_in_the_Dulles_section_of_Sterling%2C_Loudoun_County%2C_Virginia.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Famartin / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:2019-10-12_19_00_49_Sky_and_clouds_just_after_sunset_at_the_WSR-88D_at_the_Baltimore-Washington_Weather_Forecast_Office_of_the_National_Weather_Service_in_the_Dulles_section_of_Sterling,_Loudoun_County,_Virginia.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/2019-10-13_18_53_31_Sky_and_clouds_just_after_sunset_at_the_WSR-88D_at_the_Baltimore-Washington_Weather_Forecast_Office_of_the_National_Weather_Service_in_the_Dulles_section_of_Sterling%2C_Loudoun_County%2C_Virginia.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Famartin / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:2019-10-13_18_53_31_Sky_and_clouds_just_after_sunset_at_the_WSR-88D_at_the_Baltimore-Washington_Weather_Forecast_Office_of_the_National_Weather_Service_in_the_Dulles_section_of_Sterling,_Loudoun_County,_Virginia.jpg"
+  }
+ ],
+ "b:courtroom gavel judge wooden": null,
+ "b:television audience ratings screen": null,
+ "b:vintage film clapperboard movie set": null,
+ "b:young actors theater stage": null,
+ "b:electric guitar rock stage": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/1987_Gibson_Wanderer_Custom_-_Dion_DiMucci%27s_Electric_Guitar_%28zoomed%29_-_Rock_and_Roll_Hall_of_Fame_%282014-12-30_12.21.22_by_Sam_Howzit%29.jpg/1280px-1987_Gibson_Wanderer_Custom_-_Dion_DiMucci%27s_Electric_Guitar_%28zoomed%29_-_Rock_and_Roll_Hall_of_Fame_%282014-12-30_12.21.22_by_Sam_Howzit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Sam Howzit / CC BY 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:1987_Gibson_Wanderer_Custom_-_Dion_DiMucci%27s_Electric_Guitar_(zoomed)_-_Rock_and_Roll_Hall_of_Fame_(2014-12-30_12.21.22_by_Sam_Howzit).jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Buddy_Guy%27s_Guitar_-_Rock_and_Roll_Hall_of_Fame_%282014-12-30_11.46.24_by_Sam_Howzit%29.jpg/1280px-Buddy_Guy%27s_Guitar_-_Rock_and_Roll_Hall_of_Fame_%282014-12-30_11.46.24_by_Sam_Howzit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Sam Howzit / CC BY 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Buddy_Guy%27s_Guitar_-_Rock_and_Roll_Hall_of_Fame_(2014-12-30_11.46.24_by_Sam_Howzit).jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Jimi_Hendrix_exhibit_-_Fender_Stratocaster_%28lefty%2C_white%29%2C_Tony_Zemaitis_12_string_guitar%2C_Gibson_Flying_V_with_psychedelic_painting%2C_and_stage_clothing_%28pink_on_black%29_-_Rock_and_Roll_Hall_of_Fame%2C_Cleveland_%282013-10-06_by_swimfinfan%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: swimfinfan / CC BY-SA 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Jimi_Hendrix_exhibit_-_Fender_Stratocaster_(lefty,_white),_Tony_Zemaitis_12_string_guitar,_Gibson_Flying_V_with_psychedelic_painting,_and_stage_clothing_(pink_on_black)_-_Rock_and_Roll_Hall_of_Fame,_Cleveland_(2013-10-06_by_swimfinfan).jpg"
+  }
+ ],
+ "b:exam answer sheet pencil": null,
+ "v:Ava Rocha": {
+  "descricao": "Cantora e compositora brasileiro",
+  "nasc": 1979,
+  "morte": null
+ },
+ "p:Ava Rocha": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Festival_Alambique_do_Som_-_17_08_2012_%287806158194%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Fora do Eixo / CC BY-SA 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Festival_Alambique_do_Som_-_17_08_2012_(7806158194)_(cropped).jpg"
+ },
+ "c:b9d0e8a87b9d34baf099": false,
+ "c:0b03357aa044e6ed3a3f": false,
+ "c:3ffc0e42d6298e7142bf": false,
+ "c:ff3e1c53a45a3262ef35": false,
+ "c:dfb42fdc823e6c996bef": false,
+ "c:748e7a97c516b7a887ed": false,
+ "c:a72b7ae822cd5a3bda04": false,
+ "c:91099778ac52b07a1d30": true,
+ "c:743728f34f47e4e56d6d": false,
+ "c:9fb2b4049d2bd5f55512": false,
+ "c:b18fbc469b63779e6ebf": false,
+ "c:3465c49875507abe1465": true,
+ "c:9836a43e51bad408d9cd": true,
+ "c:e9d76a98f00bf01dc305": false,
+ "c:650a268aae3c65187b9f": true,
+ "c:4a7743c9238b8c0d0c7b": true,
+ "c:ee87deaee93f076347bd": false,
+ "c:1ce0d3cad925ec25dece": true
 }
