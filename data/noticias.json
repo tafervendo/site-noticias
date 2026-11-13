@@ -1,14 +1,88 @@
 [
  {
+  "titulo": "Quem Ama Cuida: Adriana prepara exposed contra Diná",
+  "link": "https://gshow.globo.com/novelas/quem-ama-cuida/vem-por-ai/noticia/quem-ama-cuida-adriana-prepara-exposed-contra-dina.ghtml",
+  "trecho": "Em Quem Ama Cuida, Adriana (Letícia Colin) sempre teve motivos de sobra para ter Diná (Rosi Campos) na sua temida de lista da vingança. O depoimento da governanta de…",
+  "credito": "",
+  "fonte": "Gshow",
+  "categoria": "televisao",
+  "imagem": "",
+  "data": "2026-11-13T17:25:20.119115+00:00",
+  "busca_imagem": ""
+ },
+ {
+  "titulo": "Por Você: Lucas descobre aluno armado dentro da escola",
+  "link": "https://gshow.globo.com/novelas/por-voce/vem-por-ai/noticia/por-voce-lucas-descobre-aluno-armado-dentro-da-escola.ghtml",
+  "trecho": "Por Você: confira cenas do próximo capítulo, dia 13/11 Lucas (Amaury Lorenzo) vai passar por um grande susto na escola. Nos próximos capítulos de Por Você, o diretor receberá um bilhete anônimo com um aviso impactante e…",
+  "credito": "",
+  "fonte": "Gshow",
+  "categoria": "televisao",
+  "imagem": "",
+  "data": "2026-11-13T17:25:20.119115+00:00",
+  "busca_imagem": "student gun school hallway"
+ },
+ {
+  "titulo": "Estudo analisou efeito de Ozempic em 750 mil gestações; veja dados",
+  "link": "https://revistagalileu.globo.com/saude/noticia/2026/11/estudo-analisou-efeito-de-ozempic-em-750-mil-gestacoes-veja-dados.ghtml",
+  "trecho": "Medicamentos como Ozempic e Wegovy se popularizaram pelo uso no tratamento do diabetes e obesidade. Mas será que utilizá-los pouco antes de descobrir uma gravidez pode trazer riscos para o bebê? Uma pesquisa analisou…",
+  "credito": "",
+  "fonte": "Galileu",
+  "categoria": "curiosidades",
+  "imagem": "",
+  "data": "2026-11-13T17:25:20.119115+00:00",
+  "busca_imagem": "pregnancy medical research laboratory"
+ },
+ {
+  "titulo": "Pizzaria descobre que cliente usou IA para tentar reaver dinheiro por \"pizza queimada\"",
+  "link": "https://revistagalileu.globo.com/tecnologia/noticia/2026/11/pizzaria-descobre-que-cliente-usou-ia-para-tentar-reaver-dinheiro-por-pizza-queimada.ghtml",
+  "trecho": "Uma pizzaria de Los Angeles, nos Estados Unidos, identificou uma tentativa de fraude após uma cliente enviar uma imagem gerada por IA (inteligência artificial) para alegar que havia recebido uma pizza queimada e exigir…",
+  "fonte": "Galileu",
+  "categoria": "curiosidades",
+  "data": "2026-11-13T17:25:20.119115+00:00",
+  "busca_imagem": "pizza restaurant kitchen oven",
+  "vetadas": [
+   "https://live.staticflickr.com/21/30623353_a2b005c487_b.jpg",
+   "https://live.staticflickr.com/6/8037702_7505108fe2_b.jpg"
+  ],
+  "imagem": ""
+ },
+ {
+  "titulo": "Astrônomos identificam origem de sinal de rádio raro que se repete a cada 8 minutos",
+  "link": "https://revistagalileu.globo.com/ciencia/espaco/noticia/2026/11/astronomos-identificam-origem-de-sinal-de-radio-raro-que-se-repete-a-cada-8-minutos.ghtml",
+  "trecho": "Astrônomos identificaram a provável origem de um sinal misterioso de rádio que se repete a cada oito minutos: um sistema formado por uma anã branca, remanescente denso de uma estrela que morreu, e uma estrela do tipo G…",
+  "credito": "Foto: IRAM-gre / CC BY-SA 4.0, via Wikimedia Commons",
+  "fonte": "Galileu",
+  "categoria": "curiosidades",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/The_IRAM_30-meter_telescope_scanning_the_night_sky.jpg/1280px-The_IRAM_30-meter_telescope_scanning_the_night_sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "data": "2026-11-13T17:25:20.119115+00:00",
+  "busca_imagem": "radio telescope night sky",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:The_IRAM_30-meter_telescope_scanning_the_night_sky.jpg",
+  "imagem_tipo": "banco"
+ },
+ {
+  "titulo": "Avril Lavigne revela chegada de primeira filha: 'Nossa mini princesa'",
+  "link": "https://g1.globo.com/pop-arte/noticia/2026/11/13/avril-lavigne-revela-chegada-de-primeira-filha-nossa-mini-princesa.ghtml",
+  "trecho": "Avril Lavigne revela nascimento de sua primeira filha Reprodução/Instagram De surpresa, Avril Lavigne anunciou nesta sexta-feira (13) a chegada de sua primeira filha. “Nossa mini princesa chegou”, publicou a cantora no…",
+  "credito": "Foto: Raph_PH / CC BY 2.0, via Wikimedia Commons",
+  "fonte": "g1",
+  "categoria": "ultimas",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Glaston2024_2806_300624_%28129_of_173%29_%28cropped%29.jpg/1280px-Glaston2024_2806_300624_%28129_of_173%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "data": "2026-11-13T17:25:20.119115+00:00",
+  "busca_imagem": "",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Glaston2024_2806_300624_(129_of_173)_(cropped).jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Avril Lavigne"
+ },
+ {
   "titulo": "Juliana Paes conta que ainda faz bolo mágico de 'A Dona do Pedaço' para filho caçula",
   "link": "https://revistaquem.globo.com/entretenimento/tv-e-novelas/noticia/2026/11/juliana-paes-conta-que-ainda-faz-bolo-magico-de-a-dona-do-pedaco-para-filho-cacula.ghtml",
-  "trecho": "Juliana Paes, de 47 anos, gostou de saber que a novela A Dona do Pedaço (Globo, 2019) será reprisada no Vale a pena ver novo. Intérprete da protagonista Maria da Paz, uma boleira que se torna uma poderosa empresária do…",
+  "trecho": "Juliana Paes, de 47 anos, gostou de saber que a novela A Dona do Pedaço (Globo, 2019) será reprisada no Vale a Pena Ver De Novo a partir de 23 de novembro. Intérprete da protagonista Maria da Paz, uma boleira que se…",
   "credito": "Foto: Renan Katayama / CC BY-SA 2.0, via Wikimedia Commons",
   "fonte": "Quem",
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/9_-_Juliana_Paes-003_%2816925722197%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "data": "2026-11-13T16:25:39.338959+00:00",
-  "busca_imagem": "magic cake baking kitchen",
+  "data": "2026-11-13T17:25:20.119115+00:00",
+  "busca_imagem": "homemade cake baking kitchen",
   "credito_link": "https://commons.wikimedia.org/wiki/File:9_-_Juliana_Paes-003_(16925722197)_(cropped).jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Juliana Paes"
@@ -16,24 +90,24 @@
  {
   "titulo": "Beijão! Eva Pacheco, ex-BBB 25, mostra beijo técnico em aula de teatro e comenta: 'Curtindo cada etapa'",
   "link": "https://gshow.globo.com/realities/bbb/depois-do-bbb/noticia/beijao-eva-pacheco-ex-bbb-25-mostra-beijo-tecnico-em-aula-de-teatro-e-comenta-curtinho-cada-etapa.ghtml",
-  "trecho": "É beijo de novela?! Eva Pacheco registrou beijão técnico durante uma etapa de suas aulas de teatro nesta sexta-feira (13). A ex-participante do BBB 25 mostrou para os seguidores o ensaio dentro de seu apartamento e logo…",
+  "trecho": "Eva Pacheco ensaia seu primeiro beijo de cena É beijo de novela?! Eva Pacheco protagonizou um beijão técnico durante uma das etapas de suas aulas de teatro e TV nesta sexta-feira (13). A ex-participante do BBB 25…",
   "credito": "",
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "",
-  "data": "2026-11-13T16:25:39.338959+00:00",
-  "busca_imagem": ""
+  "data": "2026-11-13T17:25:20.119115+00:00",
+  "busca_imagem": "theater acting class students"
  },
  {
   "titulo": "Larissa Tomásia revela insônia após susto com bebê na reta final de gravidez: 'Não me deixa dormir'",
   "link": "https://gshow.globo.com/realities/bbb/depois-do-bbb/noticia/larissa-tomasia-revela-insonia-apos-susto-com-bebe-na-reta-final-de-gravidez.ghtml",
-  "trecho": "Ex-BBB Larissa Tomásia mostra treino pesado durante gravidez Na reta final da gravidez, Larissa Tomásia tem tido noites para lá de turbulentas. Nesta sexta-feira (13), a ex-BBB desabafou sobre um susto que a fez perder…",
+  "trecho": "Na reta final da gravidez, Larissa Tomásia revela insônia após susto com bebê Na reta final da gravidez, Larissa Tomásia tem tido noites para lá de turbulentas. Nesta sexta-feira (13), a ex-BBB desabafou sobre um susto…",
   "credito": "",
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "",
-  "data": "2026-11-13T16:25:39.338959+00:00",
-  "busca_imagem": "pregnant woman sleepless night"
+  "data": "2026-11-13T17:25:20.119115+00:00",
+  "busca_imagem": "pregnant woman insomnia bed"
  },
  {
   "titulo": "Sheron Menezzes surge deslumbrante em biquíni preto",
@@ -43,7 +117,7 @@
   "fonte": "Quem",
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Sheron_Menezzes.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "data": "2026-11-13T16:25:39.338959+00:00",
+  "data": "2026-11-13T17:25:20.119115+00:00",
   "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Sheron_Menezzes.jpg",
   "imagem_tipo": "pessoa",
@@ -57,7 +131,7 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Glaston2024_2806_300624_%28129_of_173%29_%28cropped%29.jpg/1280px-Glaston2024_2806_300624_%28129_of_173%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "data": "2026-11-13T16:25:39.338959+00:00",
+  "data": "2026-11-13T17:25:20.119115+00:00",
   "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Glaston2024_2806_300624_(129_of_173)_(cropped).jpg",
   "imagem_tipo": "pessoa",
@@ -67,12 +141,15 @@
   "titulo": "Em Noronha, Aline Becker exibe corpo sarado com Rafael Zulu: 'Sou mais bonita onde tem sol'",
   "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/em-noronha-aline-becker-exibe-corpo-sarado-com-rafael-zulu-sou-mais-bonita-onde-tem-sol.ghtml",
   "trecho": "Aline Becker e Rafael Zulu estão em Fernando de Noronha para o casamento do produtor cultural e diretor teatral Leo Fuchs com o escritor e professor universitário Gustavo Oliveira. A nutricionista e personal…",
-  "credito": "",
   "fonte": "Quem",
   "categoria": "celebridades",
-  "imagem": "",
-  "data": "2026-11-13T16:25:39.338959+00:00",
-  "busca_imagem": "tropical beach sunny coast"
+  "data": "2026-11-13T17:25:20.119115+00:00",
+  "busca_imagem": "tropical beach sunset coast",
+  "vetadas": [
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Koh_Mak_%28island%29%2C_Thailand%2C_Sunset_on_the_beach_2.jpg/1280px-Koh_Mak_%28island%29%2C_Thailand%2C_Sunset_on_the_beach_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Koh_Mak%2C_Thailand%2C_Red_sunset_on_the_beach.jpg/1280px-Koh_Mak%2C_Thailand%2C_Red_sunset_on_the_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  ],
+  "imagem": ""
  },
  {
   "titulo": "Avril Lavigne anuncia nascimento 'surpresa' da 1ª filha; fotos",
@@ -82,7 +159,7 @@
   "fonte": "Quem",
   "categoria": "celebridades",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Glaston2024_2806_300624_%28129_of_173%29_%28cropped%29.jpg/1280px-Glaston2024_2806_300624_%28129_of_173%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "data": "2026-11-13T16:25:39.338959+00:00",
+  "data": "2026-11-13T17:25:20.119115+00:00",
   "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Glaston2024_2806_300624_(129_of_173)_(cropped).jpg",
   "imagem_tipo": "pessoa",
@@ -92,13 +169,13 @@
   "titulo": "Musa da Porto da Pedra quer gastar 'mais que um carro' para Carnaval 2027: 'Bolso vai sentir'",
   "link": "https://revistaquem.globo.com/eventos/carnaval/noticia/2026/11/musa-da-porto-da-pedra-quer-gastar-mais-que-mais-que-um-carro-para-carnaval-2027-bolso-vai-sentir.ghtml",
   "trecho": "Carolane Silva começou sua trajetória na Porto da Pedra para o Carnaval 2027 mostrando que está disposta a investir na nova fase. A nova musa da escola participou de seu primeiro ensaio de quadra com o Tigre, na…",
-  "credito": "Foto: Atsme / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito": "Foto: John Foxx from Washington, EUA / CC BY-SA 2.0, via Wikimedia Commons",
   "fonte": "Quem",
   "categoria": "celebridades",
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Carnivale_parade_white_feathers_%28Atsme%29.jpg/1280px-Carnivale_parade_white_feathers_%28Atsme%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "data": "2026-11-13T16:25:39.338959+00:00",
-  "busca_imagem": "carnival parade costume feathers",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Carnivale_parade_white_feathers_(Atsme).jpg",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Brazilian_Carnival_Parade.jpg/1280px-Brazilian_Carnival_Parade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "data": "2026-11-13T17:25:20.119115+00:00",
+  "busca_imagem": "carnival parade samba costume",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Brazilian_Carnival_Parade.jpg",
   "imagem_tipo": "banco"
  },
  {
@@ -109,21 +186,21 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Claudette_Soares_by_Sandro_Coutinho_wiki.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "data": "2026-11-13T16:25:39.338959+00:00",
-  "busca_imagem": "vintage microphone stage singer",
+  "data": "2026-11-13T18:15:54+00:00",
+  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Claudette_Soares_by_Sandro_Coutinho_wiki.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Claudette Soares"
  },
  {
-  "titulo": "Duda Freire faz nova harmonização dos glúteos e samba para testar resultado: ‘test-drive do bumbum’",
+  "titulo": "Duda Freire faz nova harmonização dos glúteos e samba para testar resultado: ‘Test-drive do bumbum’",
   "link": "https://gshow.globo.com/carnaval/2027/noticia/duda-freire-faz-nova-harmonizacao-dos-gluteos-e-samba-para-testar-resultado-test-drive-do-bumbum.ghtml",
   "trecho": "estreia como musa da Vila Isabel, Duda Freire passou por uma nova sessão de harmonização glútea. A influenciadora…",
   "credito": "",
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "",
-  "data": "2026-11-13T16:25:39.338959+00:00",
+  "data": "2026-11-13T18:12:39+00:00",
   "busca_imagem": ""
  },
  {
@@ -134,8 +211,8 @@
   "fonte": "g1",
   "categoria": "ultimas",
   "imagem": "",
-  "data": "2026-11-13T16:25:39.338959+00:00",
-  "busca_imagem": "african passport visa application"
+  "data": "2026-11-13T18:04:15+00:00",
+  "busca_imagem": "miss universe pageant stage"
  },
  {
   "titulo": "Filho de Justin Bieber surge tocando teclado aos 2 anos e encanta Hailey",
@@ -145,8 +222,8 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "",
-  "data": "2026-11-13T16:25:39.338959+00:00",
-  "busca_imagem": "child playing keyboard piano"
+  "data": "2026-11-13T17:56:19+00:00",
+  "busca_imagem": ""
  },
  {
   "titulo": "Em SP, Hayley Williams canta com Seu Jorge, xinga Bolsonaro e faz show estiloso para fãs fiéis",
@@ -156,11 +233,36 @@
   "fonte": "g1",
   "categoria": "ultimas",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/ParamoreO2200423_%2858_of_88%29_%2852833506157%29_Cropped.jpg/1280px-ParamoreO2200423_%2858_of_88%29_%2852833506157%29_Cropped.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "data": "2026-11-13T16:25:39.338959+00:00",
-  "busca_imagem": "rock concert stage crowd",
+  "data": "2026-11-13T17:47:18+00:00",
+  "busca_imagem": "concert stage crowd fans",
   "credito_link": "https://commons.wikimedia.org/wiki/File:ParamoreO2200423_(58_of_88)_(52833506157)_Cropped.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Hayley Williams"
+ },
+ {
+  "titulo": "Por que guardar o pano de prato dobrado sobre a pia compromete a higiene da cozinha? Entenda a física da evaporação",
+  "link": "https://catracalivre.com.br/noticias/por-que-guardar-o-pano-de-prato-dobrado-sobre-a-pia-compromete-a-higiene-da-cozinha-entenda-a-fisica-da-evaporacao/",
+  "trecho": "Pano de prato com cheiro de azedo mesmo após lavar? Descubra por que dobrar o tecido úmido multiplica bactérias na cozinha. O post Por que guardar o pano de prato dobrado sobre a pia compromete a higiene da cozinha?…",
+  "credito": "",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "imagem": "",
+  "data": "2026-11-13T17:24:00+00:00",
+  "busca_imagem": "dish towel kitchen sink"
+ },
+ {
+  "titulo": "Avril Lavigne quebra a web ao anunciar que teve uma filha; veja como ela é",
+  "link": "https://contigo.com.br/noticias/famosos/avril-lavigne-quebra-a-web-ao-anunciar-que-teve-uma-filha-veja-como-ela-e.phtml",
+  "trecho": "Sem ao menos revelar sua gestação, Avril Lavigne choca ao anunciar o nascimento da primeira filha O post Avril Lavigne quebra a web ao anunciar que teve uma filha; veja como ela é apareceu primeiro em Contigo! .",
+  "credito": "Foto: Raph_PH / CC BY 2.0, via Wikimedia Commons",
+  "fonte": "Contigo",
+  "categoria": "virais",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Glaston2024_2806_300624_%28129_of_173%29_%28cropped%29.jpg/1280px-Glaston2024_2806_300624_%28129_of_173%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "data": "2026-11-13T17:22:50+00:00",
+  "busca_imagem": "",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Glaston2024_2806_300624_(129_of_173)_(cropped).jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Avril Lavigne"
  },
  {
   "titulo": "Morre a cantora Claudette Soares, aos 91 anos, em meio ao lançamento do álbum 'O mundo é ruim para quem não sabe esperar', sopro de vida da artista",
@@ -171,10 +273,35 @@
   "categoria": "ultimas",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Claudette_Soares_by_Sandro_Coutinho_wiki.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T17:20:06+00:00",
-  "busca_imagem": "vintage microphone stage singer",
+  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Claudette_Soares_by_Sandro_Coutinho_wiki.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Claudette Soares"
+ },
+ {
+  "titulo": "Aeroporto mais movimentado da Itália exibe obra-prima de Tintoretto",
+  "link": "https://www.terra.com.br/diversao/arte-e-cultura/aeroporto-mais-movimentado-da-italia-exibe-obra-prima-de-tintoretto,228226de213d709d2efe940080a44f484bd3oo6s.html",
+  "trecho": "O aeroporto mais movimentado da Itália colocou em exibição uma tela monumental do gênio ...",
+  "credito": "",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "",
+  "data": "2026-11-13T17:16:23+00:00",
+  "busca_imagem": "Italian airport interior artwork"
+ },
+ {
+  "titulo": "Can Yaman, galã de novelas turcas, aos 37 anos: 'Acordo, tomo café da manhã e vou para a academia por duas horas e meia'",
+  "link": "https://www.terra.com.br/diversao/tv/can-yaman-gala-de-novelas-turcas-aos-37-anos-acordo-tomo-cafe-da-manha-e-vou-para-a-academia-por-duas-horas-e-meia,42a65c0f2922bb89666ef5a91d16a8bdzgr1mkw3.html",
+  "trecho": "Quem conheceu Can Yaman como o fotógrafo de \"A Sonhadora\" talvez se surpreenda ao vê-lo de ...",
+  "credito": "Foto: Istituto Comprensivo Statale \"Giovanni XXIII - Pascoli\"… / CC BY 3.0 it, via Wikimedia Commons",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/41/Can_Yaman_Margherita_di_Savoia_2023-04-27_%281%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "data": "2026-11-13T17:16:04+00:00",
+  "busca_imagem": "",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Can_Yaman_Margherita_di_Savoia_2023-04-27_(1).jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Can Yaman"
  },
  {
   "titulo": "Morre aos 91 anos Claudette Soares, a 'Dona da Bossa', no dia do lançamento de álbum",
@@ -185,10 +312,60 @@
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Claudette_Soares_by_Sandro_Coutinho_wiki.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T17:15:56+00:00",
-  "busca_imagem": "vintage microphone stage singer",
+  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Claudette_Soares_by_Sandro_Coutinho_wiki.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Claudette Soares"
+ },
+ {
+  "titulo": "Suzanne Vega: o que faz hoje a cantora que marcou o folk?",
+  "link": "https://www.terra.com.br/diversao/musica/meu-sonora/pop-internacional/suzanne-vega-o-que-faz-hoje-a-cantora-que-marcou-o-folk,24de24ca7a47f9e799a50234adfb665dexbtitcf.html",
+  "trecho": "Nos anos 1980, quando a indústria fonográfica global apostava fortemente em sintetizadores ...",
+  "credito": "Foto: Olaf Tausch / CC BY 3.0, via Wikimedia Commons",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Suzanne_Vega_13._Inselleuchten_03_%28cropped%29.jpg/1280px-Suzanne_Vega_13._Inselleuchten_03_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "data": "2026-11-13T17:13:28+00:00",
+  "busca_imagem": "",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Suzanne_Vega_13._Inselleuchten_03_(cropped).jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Suzanne Vega"
+ },
+ {
+  "titulo": "A nova minissérie de 6 episódios que acaba de estrear em novembro: um novo thriller baseado em um famoso best-seller",
+  "link": "https://www.terra.com.br/diversao/gente/a-nova-minisserie-de-6-episodios-que-acaba-de-estrear-em-novembro-um-novo-thriller-baseado-em-um-famoso-best-seller,88431ba4eaf66a2c3d9cbd29446d0215z0k3ek96.html",
+  "trecho": "Um crime cometido dentro de uma escola faz duas irmãs voltarem a enfrentar acontecimentos ...",
+  "credito": "",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "",
+  "data": "2026-11-13T17:12:56+00:00",
+  "busca_imagem": "thriller series detective night"
+ },
+ {
+  "titulo": "Atriz de ‘Renascer’ morreu após diagnóstico de câncer de pulmão",
+  "link": "https://contigo.com.br/noticias/famosos/atriz-de-renascer-morreu-apos-diagnostico-de-cancer-de-pulmao.phtml",
+  "trecho": "Relembre! Atriz da novela 'Renascer' morreu após diagnóstico de câncer de pulmão; saiba detalhes O post Atriz de ‘Renascer’ morreu após diagnóstico de câncer de pulmão apareceu primeiro em Contigo! .",
+  "credito": "",
+  "fonte": "Contigo",
+  "categoria": "celebridades",
+  "imagem": "",
+  "data": "2026-11-13T17:12:52+00:00",
+  "busca_imagem": ""
+ },
+ {
+  "titulo": "20% de chance de sobreviver: Drica Moraes desabafa sobre diagnóstico grave",
+  "link": "https://contigo.com.br/noticias/famosos/20-de-chance-de-sobreviver-drica-moraes-desabafa-sobre-diagnostico-grave.phtml",
+  "trecho": "Atriz Drica Moraes abre o coração e relembra diagnóstico grave que recebeu em 2010; VEJA MAIS O post 20% de chance de sobreviver: Drica Moraes desabafa sobre diagnóstico grave apareceu primeiro em Contigo! .",
+  "credito": "Foto: Adriana Agostinho / CC BY-SA 4.0, via Wikimedia Commons",
+  "fonte": "Contigo",
+  "categoria": "celebridades",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Drica_Moraes.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "data": "2026-11-13T17:11:56+00:00",
+  "busca_imagem": "hospital doctor consultation",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Drica_Moraes.jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Drica Moraes"
  },
  {
   "titulo": "Isabela Garcia posa com a irmã e brinca com constante 'confusão' do público",
@@ -199,6 +376,50 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-13T17:11:34+00:00",
+  "busca_imagem": ""
+ },
+ {
+  "titulo": "Como conservar o pão caseiro por mais tempo? Veja cuidados para evitar que resseque ou mofe",
+  "link": "https://catracalivre.com.br/noticias/como-conservar-o-pao-caseiro-por-mais-tempo-veja-cuidados-para-evitar-que-resseque-ou-mofe/",
+  "trecho": "Aprenda a conservar pão caseiro, evitar mofo e ressecamento, escolher a embalagem correta e usar o congelamento para preservar sabor e maciez por mais tempo. O post Como conservar o pão caseiro por mais tempo? Veja…",
+  "credito": "",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "imagem": "",
+  "data": "2026-11-13T17:11:01+00:00",
+  "busca_imagem": "homemade bread loaf kitchen"
+ },
+ {
+  "titulo": "Proibido? Poliana Rocha impõe regra rígida e revela detalhes da festa de 50 anos",
+  "link": "https://www.terra.com.br/diversao/gente/proibido-poliana-rocha-impoe-regra-rigida-e-revela-detalhes-da-festa-de-50-anos,9be3d062d75857ec23d5beb4e879365d9dma2oma.html",
+  "trecho": "Celebrando 50 anos, Poliana Rocha está organizando uma festa luxuosa para celebrar a nova fase. ...",
+  "credito": "",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "",
+  "data": "2026-11-13T17:09:58+00:00",
+  "busca_imagem": ""
+ },
+ {
+  "titulo": "Vetou o marido! Esposa de Leonardo escolhe outros cantores para show em seu aniversário; veja quem",
+  "link": "https://www.terra.com.br/diversao/gente/vetou-o-marido-esposa-de-leonardo-escolhe-outros-cantores-para-show-em-seu-aniversario-veja-quem,bf1bb0ddcd09a212859a727fe3691a567we6hhue.html",
+  "trecho": "Os preparativos para a celebração de 50 anos da influenciadora Poliana Rocha estão a todo vapor! ...",
+  "credito": "",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "",
+  "data": "2026-11-13T17:09:49+00:00",
+  "busca_imagem": ""
+ },
+ {
+  "titulo": "'Quem Ama Cuida': Dora termina com André após tentar acordo com Ademir; veja resumo de hoje",
+  "link": "https://www.terra.com.br/diversao/tv/quem-ama-cuida-dora-termina-com-andre-apos-tentar-acordo-com-ademir-veja-resumo-de-hoje,11bc290668463823e644f5b4bccee6eed17mcujq.html",
+  "trecho": "A tentativa de Dora de proteger André acaba afetando o relacionamento dos dois em Quem Ama Cuida ...",
+  "credito": "",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "",
+  "data": "2026-11-13T17:08:22+00:00",
   "busca_imagem": ""
  },
  {
@@ -216,6 +437,106 @@
   "pessoa": "Arlete Salles"
  },
  {
+  "titulo": "Curtas e elegantes: 5 cores de esmaltes para unhas que são tendência em novembro",
+  "link": "https://tvfoco.uai.com.br/curtas-e-elegantes-5-cores-de-esmaltes-para-unhas-que-sao-tendencia-em-novembro/",
+  "trecho": "Confira 5 cores de esmalte que estão em alta em novembro e deixam as unhas curtas com um visual bonito, delicado e elegante Se tem uma coisa que muitas mulheres gostam de manter em dia é a manicure. Afinal, unhas bem…",
+  "fonte": "OTV Foco",
+  "categoria": "televisao",
+  "data": "2026-11-13T17:07:36+00:00",
+  "busca_imagem": "nail polish bottles colors",
+  "vetadas": [
+   "https://live.staticflickr.com/8141/7107443147_157d105308_b.jpg",
+   "https://live.staticflickr.com/6120/6316174086_b527a90b4f_b.jpg"
+  ],
+  "imagem": ""
+ },
+ {
+  "titulo": "Grisa convida Ava Rocha para mergulho experimental nos desejos e contradições humanas",
+  "link": "https://www.terra.com.br/diversao/musica/meu-sonora/pop-internacional/grisa-convida-ava-rocha-para-mergulho-experimental-nos-desejos-e-contradicoes-humanas,e4ad03827f990aeefa7315637df37312kgvii8fj.html",
+  "trecho": "Nesta sexta-feira, 13 de novembro, a fronteira entre o desejo e o perigo, a entrega e a ...",
+  "credito": "Foto: Fora do Eixo / CC BY-SA 2.0, via Wikimedia Commons",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Festival_Alambique_do_Som_-_17_08_2012_%287806158194%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "data": "2026-11-13T17:06:51+00:00",
+  "busca_imagem": "",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Festival_Alambique_do_Som_-_17_08_2012_(7806158194)_(cropped).jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Ava Rocha"
+ },
+ {
+  "titulo": "Em polêmica envolvendo os filhos, Bia Miranda conquista ranking em site de conteúdo adulto; veja a lista",
+  "link": "https://www.terra.com.br/diversao/gente/em-polemica-envolvendo-os-filhos-bia-miranda-conquista-ranking-em-site-de-conteudo-adulto-veja-a-lista,f2a2375e841fe3b9c75603fb378267b9kc0e9z0y.html",
+  "trecho": "A Privacy, plataforma brasileira de conteúdo por assinatura, divulgou o ranking dos dez perfis ...",
+  "credito": "",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "",
+  "data": "2026-11-13T17:06:00+00:00",
+  "busca_imagem": ""
+ },
+ {
+  "titulo": "Nem falta de ar, nem cansaço excessivo: o treino simples que pode ajudar a subir escadas com mais facilidade",
+  "link": "https://catracalivre.com.br/saude-bem-estar/nem-falta-de-ar-nem-cansaco-excessivo-o-treino-simples-que-pode-ajudar-a-subir-escadas-com-mais-facilidade/",
+  "trecho": "Sentar e levantar, subir degraus baixos e caminhar podem facilitar o uso das escadas. Veja exercícios para melhorar força e fôlego. O post Nem falta de ar, nem cansaço excessivo: o treino simples que pode ajudar a subir…",
+  "credito": "",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "imagem": "",
+  "data": "2026-11-13T17:04:26+00:00",
+  "busca_imagem": "stairs climbing exercise"
+ },
+ {
+  "titulo": "Aos 48 anos, Carla Perez choca a web ao surgir de biquíni branco na praia: ‘Não dá’",
+  "link": "https://contigo.com.br/noticias/famosos/aos-48-anos-carla-perez-choca-a-web-ao-surgir-de-biquini-branco-na-praia-nao-da.phtml",
+  "trecho": "Viagem internacional! Carla Perez choca a web ao surgir de biquíni branco na praia de Tulum, no México. Veja! O post Aos 48 anos, Carla Perez choca a web ao surgir de biquíni branco na praia: ‘Não dá’ apareceu primeiro…",
+  "credito": "Foto: Marceloju1 / CC BY-SA 4.0, via Wikimedia Commons",
+  "fonte": "Contigo",
+  "categoria": "virais",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Carla_perez1.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "data": "2026-11-13T17:04:04+00:00",
+  "busca_imagem": "",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Carla_perez1.jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Carla Perez"
+ },
+ {
+  "titulo": "Aos 54 anos, Eriberto Leão vive história de amor discretíssima há duas décadas com atriz",
+  "link": "https://caras.com.br/atualidades/aos-54-anos-eriberto-leao-vive-historia-de-amor-discretissima-ha-duas-decadas-com-atriz.phtml",
+  "trecho": "Discreto em relação à vida pessoal, o ator Eriberto Leão vive casamento duradouro e longe dos holofotes com atriz, com quem tem dois filhos O post Aos 54 anos, Eriberto Leão vive história de amor discretíssima há duas…",
+  "credito": "Foto: Patricia Figueira / CC BY-SA 2.0, via Wikimedia Commons",
+  "fonte": "Caras",
+  "categoria": "celebridades",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/53/Eribertoleao.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "data": "2026-11-13T17:03:42+00:00",
+  "busca_imagem": "",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Eribertoleao.jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Eriberto Leão"
+ },
+ {
+  "titulo": "Emissora demite comentarista após escândalo bilionário",
+  "link": "https://www.terra.com.br/diversao/emissora-demite-comentarista-apos-escandalo-bilionario,125a13ead107efc0bac6249f768626d8hfbo1906.html",
+  "trecho": "Uma investigação sobre um esquema bilionário de fraude fiscal no setor de combustíveis provocou ...",
+  "credito": "",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "",
+  "data": "2026-11-13T17:03:11+00:00",
+  "busca_imagem": "tv news studio anchor desk"
+ },
+ {
+  "titulo": "Por que os cachorros não gostam de olhar nos olhos?",
+  "link": "https://super.abril.com.br/mundo-estranho/por-que-os-cachorros-nao-gostam-de-olhar-nos-olhos/",
+  "trecho": "Não é bem isso. A questão é que eles nem sempre querem trocar olhares. Entenda por quê.",
+  "credito": "",
+  "fonte": "Superinteressante",
+  "categoria": "curiosidades",
+  "imagem": "",
+  "data": "2026-11-13T17:02:44+00:00",
+  "busca_imagem": "dog looking away closeup"
+ },
+ {
   "titulo": "Morre Christian Cousins, astro mirim de 'Um Tira no Jardim de Infância', aos 43 anos: 'Livre da dor'",
   "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/astro-mirim-de-um-tira-no-jardim-de-infancia-morre-aos-43-anos.ghtml",
   "trecho": "Christian Cousins, ex-astro mirim que brilhou ao lado do irmão gêmeo Joseph Cousins em produções como Um Tira no Jardim de Infância, morreu aos 43 anos. Jonas Roeser, outro irmão do ator, compartilhou a notícia nas…",
@@ -224,21 +545,29 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-13T17:02:11+00:00",
-  "busca_imagem": "vintage television sitcom set"
+  "busca_imagem": ""
  },
  {
   "titulo": "Vídeos do episódio de 'Mais Você' de sexta-feira, 13 de novembro de 2026",
   "link": "https://gshow.globo.com/tv/mais-voce/episodio/2026/11/13/videos-do-episodio-de-mais-voce-de-sexta-feira-13-de-novembro-de-2026.ghtml",
   "trecho": "Assista gratuitamente aos vídeos de 'Mais Você' de sexta, 13/11",
+  "credito": "",
   "fonte": "Gshow",
   "categoria": "televisao",
+  "imagem": "",
   "data": "2026-11-13T17:00:00+00:00",
-  "busca_imagem": "television studio morning show",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/WWL_TV_Morning_Show_2_June_2017_New_Orleans_LA_02.jpg/1280px-WWL_TV_Morning_Show_2_June_2017_New_Orleans_LA_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/WWL_TV_New_Orleans_Morning_Show_Kitchen_Set.jpg/1280px-WWL_TV_New_Orleans_Morning_Show_Kitchen_Set.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
-  "imagem": ""
+  "busca_imagem": "tv show studio set"
+ },
+ {
+  "titulo": "3 cremes da Nivea são aliados para suavizar rugas e estrias",
+  "link": "https://tvfoco.uai.com.br/3-cremes-da-nivea-sao-aliados-para-suavizar-rugas-e-estrias/",
+  "trecho": "Confira 3 cremes da Nivea para reduzir rugas e estrias De fato, manter a pele hidratada e com aparência saudável fica mais fácil com os cuidados certos. Nesse sentido, a Nivea conta com cremes que ajudam a suavizar…",
+  "credito": "",
+  "fonte": "OTV Foco",
+  "categoria": "televisao",
+  "imagem": "",
+  "data": "2026-11-13T17:00:00+00:00",
+  "busca_imagem": "nivea cream jar skincare"
  },
  {
   "titulo": "Maior travessia para animais do mundo abre sobre rodovia; veja primeiros vídeos",
@@ -249,7 +578,122 @@
   "categoria": "curiosidades",
   "imagem": "",
   "data": "2026-11-13T16:56:58+00:00",
-  "busca_imagem": "animal wildlife crossing bridge highway"
+  "busca_imagem": "animal crossing highway bridge"
+ },
+ {
+  "titulo": "A Dinastia Piquet: conheça os 7 filhos do tricampeão Nelson Piquet",
+  "link": "https://caras.com.br/perfil/a-dinastia-piquet-conheca-os-7-filhos-do-tricampeao-nelson-piquet.phtml",
+  "trecho": "Filhos do ex-piloto seguem caminhos entre as pistas, a moda e os negócios internacionais O post A Dinastia Piquet: conheça os 7 filhos do tricampeão Nelson Piquet apareceu primeiro em CARAS Brasil .",
+  "credito": "Foto: Agência Brasília / CC BY 2.0, via Wikimedia Commons",
+  "fonte": "Caras",
+  "categoria": "celebridades",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Cerimonia_de_entrega_da_medalha_Bras%C3%ADlia_60_anos_-_16.jpg/1280px-Cerimonia_de_entrega_da_medalha_Bras%C3%ADlia_60_anos_-_16.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "data": "2026-11-13T16:55:29+00:00",
+  "busca_imagem": "family children silhouette sunset",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Cerimonia_de_entrega_da_medalha_Bras%C3%ADlia_60_anos_-_16.jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Nelson Piquet"
+ },
+ {
+  "titulo": "Aos 50 anos, André Dias busca novos projetos e revela: ‘Tive um ano de muitos desafios’",
+  "link": "https://caras.com.br/revista/aos-50-anos-andre-dias-revela-tive-um-ano-de-muitos-desafios-e-busca-novos-projetos.phtml",
+  "trecho": "Ator celebra ritmo intenso no teatro e fala sobre transformação pessoal e profissional O post Aos 50 anos, André Dias busca novos projetos e revela: ‘Tive um ano de muitos desafios’ apareceu primeiro em CARAS Brasil .",
+  "credito": "",
+  "fonte": "Caras",
+  "categoria": "celebridades",
+  "imagem": "",
+  "data": "2026-11-13T16:51:17+00:00",
+  "busca_imagem": ""
+ },
+ {
+  "titulo": "Moldávia x Cazaquistão: onde assistir ao vivo e horário",
+  "link": "https://tmc.com.br/esporte/moldavia-x-cazaquistao-onde-assistir-uefa-nations-league-2026-2027/",
+  "trecho": "",
+  "fonte": "tmc.com.br",
+  "categoria": "em-alta",
+  "data": "2026-11-13T16:50:00+00:00",
+  "em_alta": "moldávia x cazaquistão · 200+ buscas",
+  "busca_imagem": "soccer stadium night match",
+  "vetadas": [
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Well_lit_soccer_stadium_%28Unsplash%29.jpg/1280px-Well_lit_soccer_stadium_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  ],
+  "imagem": ""
+ },
+ {
+  "titulo": "Ana Paula Renault compartilha cliques com Juliano Floss e se derrete: Charmoso demais esse meu filho",
+  "link": "https://www.estrelando.com.br/nota/2026/11/12/ana-paula-renault-compartilha-cliques-com-juliano-floss-e-se-derrete-charmoso-demais-esse-meu-filho-337764",
+  "trecho": "",
+  "fonte": "Estrelando",
+  "categoria": "em-alta",
+  "data": "2026-11-13T16:50:00+00:00",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ana_Paula_Renault_em_janeiro_de_2026.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "em_alta": "ana paula renault · 200+ buscas",
+  "busca_imagem": "",
+  "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Ana_Paula_Renault_em_janeiro_de_2026.png",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Ana Paula Renault"
+ },
+ {
+  "titulo": "Tchau, Corinthians? Time prepara negociação de 2 craques por mais de R$ 200 milhõs",
+  "link": "https://tvfoco.uai.com.br/tchau-corinthians-time-prepara-negociacao-de-2-craques-por-mais-de-r-200-milhos/",
+  "trecho": "Corinthians pode negociar dois jogadores importantes por mais de R$ 200 milhões, movimentando os planos do clube para a próxima temporada O Corinthians pode se despedir de dois nomes importantes do elenco em breve. Em…",
+  "credito": "",
+  "fonte": "OTV Foco",
+  "categoria": "televisao",
+  "imagem": "",
+  "data": "2026-11-13T16:45:00+00:00",
+  "busca_imagem": "soccer stadium fans night"
+ },
+ {
+  "titulo": "A cidade nordestina localizada em uma península que exige uma travessia de barco para chegar ao destino e reúne dunas, praias quase desertas e paisagens preservadas",
+  "link": "https://catracalivre.com.br/noticias/a-cidade-nordestina-localizada-em-uma-peninsula-que-exige-uma-travessia-de-barco-para-chegar-ao-destino-e-reune-dunas-praias-quase-desertas-e-paisagens-preservadas/",
+  "trecho": "Galinhos, no Rio Grande do Norte, fica em uma península com acesso de barco, dunas brancas, praias quase desertas e paisagens preservadas. O post A cidade nordestina localizada em uma península que exige uma travessia…",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "data": "2026-11-13T16:44:19+00:00",
+  "busca_imagem": "dunes beach boat crossing peninsula",
+  "vetadas": [
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Sunset_Coucher_de_soleil_-_Cap_Ferret_Bassin_d%27Arcachon_Ocean_Pecheur_Fisherman_Beach_Plage_Waves_Vagues_Water_Eau_Boat_Bateau_Oiseau_Birds_bleu_orange_Claouey_Aquitaine_Gironde_Bordeaux_Voile_-_Picture_Image_Photography.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  ],
+  "imagem": ""
+ },
+ {
+  "titulo": "A cidade alagoana onde piscinas naturais aparecem entre recifes durante a maré baixa e atraem visitantes para mergulhos em uma área ambientalmente protegida",
+  "link": "https://catracalivre.com.br/noticias/a-cidade-alagoana-onde-piscinas-naturais-aparecem-entre-recifes-durante-a-mare-baixa-e-atraem-visitantes-para-mergulhos-em-uma-area-ambientalmente-protegida/",
+  "trecho": "Maragogi reúne piscinas naturais entre recifes de coral na maré baixa, com águas cristalinas para mergulho em área protegida de Alagoas. O post A cidade alagoana onde piscinas naturais aparecem entre recifes durante a…",
+  "credito": "",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "imagem": "",
+  "data": "2026-11-13T16:44:10+00:00",
+  "busca_imagem": "natural pools reef low tide"
+ },
+ {
+  "titulo": "Apartamento de Rodrigo Hilbert chama atenção por varanda com vista panorâmica da cidade",
+  "link": "https://caras.com.br/casa-dos-famosos/apartamento-de-rodrigo-hilbert-chama-atencao-por-varanda-com-vista-panoramica-da-cidade.phtml",
+  "trecho": "Apresentador compartilhou registro de momento de tranquilidade em apartamento com portas francesas, piso de madeira e decoração marcada por plantas e peças de design O post Apartamento de Rodrigo Hilbert chama atenção…",
+  "fonte": "Caras",
+  "categoria": "celebridades",
+  "data": "2026-11-13T16:41:50+00:00",
+  "busca_imagem": "apartment balcony city view",
+  "vetadas": [
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/A_balcony_view_-_geograph.org.uk_-_4058206.jpg/1280px-A_balcony_view_-_geograph.org.uk_-_4058206.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  ],
+  "imagem": ""
+ },
+ {
+  "titulo": "Programa no Rio abre inscrições para curso gratuito focado no Enem",
+  "link": "https://catracalivre.com.br/educacao/programa-no-rio-abre-inscricoes-para-curso-gratuito-focado-no-enem/",
+  "trecho": "Com apoio da Ternium, curso gratuito oferece aulas presenciais, lanche, material didático e orientação vocacional para estudantes interessados nas áreas de Ciência e Tecnologia O post Programa no Rio abre inscrições…",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "data": "2026-11-13T16:40:13+00:00",
+  "busca_imagem": "students classroom studying books",
+  "vetadas": [
+   "https://live.staticflickr.com/7206/6870398473_ca5487e19b_b.jpg"
+  ],
+  "imagem": ""
  },
  {
   "titulo": "Gracyanne lamenta a morte do pai e revela que ex a ajudou em reconciliação: 'Segurou minha mão'",
@@ -263,6 +707,55 @@
   "busca_imagem": ""
  },
  {
+  "titulo": "Veja o real motivo que fez avó matar neta de 4 aninhos; internet se choca",
+  "link": "https://contigo.com.br/noticias/famosos/veja-o-real-motivo-que-fez-avo-matar-neta-de-4-aninhos-internet-se-choca.phtml",
+  "trecho": "Severina confessa o crime e choca ao não demonstrar arrependimento O post Veja o real motivo que fez avó matar neta de 4 aninhos; internet se choca apareceu primeiro em Contigo! .",
+  "credito": "",
+  "fonte": "Contigo",
+  "categoria": "celebridades",
+  "imagem": "",
+  "data": "2026-11-13T16:38:36+00:00",
+  "busca_imagem": ""
+ },
+ {
+  "titulo": "Como nossos ancestrais se limpavam quando não existia o papel higiênico?",
+  "link": "https://catracalivre.com.br/noticias/como-nossos-ancestrais-se-limpavam-quando-nao-existia-o-papel-higienico/",
+  "trecho": "Descubra como diferentes povos cuidavam da higiene íntima antes do papel higiênico, da Roma Antiga ao bidê, usando água, cerâmica, tecidos e esponjas. O post Como nossos ancestrais se limpavam quando não existia o papel…",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "data": "2026-11-13T16:32:00+00:00",
+  "busca_imagem": "ancient stone age cave life",
+  "vetadas": [
+   "https://live.staticflickr.com/5484/9839910925_b62b3113c1_b.jpg"
+  ],
+  "imagem": ""
+ },
+ {
+  "titulo": "Mega-Sena hoje, concurso 3085: Confira o resultado sorteado nesta quinta-feira (12)",
+  "link": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3085-confira-o-resultado-sorteado-nesta-quinta-feira-12/",
+  "trecho": "",
+  "fonte": "InfoMoney",
+  "categoria": "em-alta",
+  "data": "2026-11-13T16:30:00+00:00",
+  "imagem": "",
+  "em_alta": "sorteio loterias mega sena · 5000+ buscas",
+  "busca_imagem": "lottery balls draw machine"
+ },
+ {
+  "titulo": "Copa do Mundo Feminina terá ingresso a R$ 30; veja quando começa a venda",
+  "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/13/copa-do-mundo-feminina-2027-venda-de-ingressos-comeca-em-1-de-dezembro.ghtm",
+  "trecho": "",
+  "fonte": "UOL",
+  "categoria": "em-alta",
+  "data": "2026-11-13T16:30:00+00:00",
+  "em_alta": "fifa · 200+ buscas",
+  "busca_imagem": "women soccer World Cup ticket",
+  "vetadas": [
+   "https://live.staticflickr.com/8847/18387644289_484f034b66_b.jpg"
+  ],
+  "imagem": ""
+ },
+ {
   "titulo": "Juliano Cazarré celebra 15 anos de casamento com Letícia Cazarré",
   "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/juliano-cazarre-comemora-15-anos-de-casamento-com-leticia-cazarre.ghtml",
   "trecho": "Juliano Cazarré, de 46 anos, está celebrando uma data especial ao lado da esposa, Letícia Cazarré, de 42. Nesta sexta-feira (13), o ator comemorou os 15 anos de casamento com a empresária e publicou uma declaração…",
@@ -271,7 +764,6 @@
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Juliano_Cazarre_as_Alcides_in_Pantanal_%282022%29.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T16:29:50+00:00",
-  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Juliano_Cazarre_as_Alcides_in_Pantanal_(2022).png",
   "imagem_tipo": "pessoa",
   "pessoa": "Juliano Cazarré"
@@ -288,6 +780,19 @@
   "busca_imagem": "bee honeycomb close up"
  },
  {
+  "titulo": "Avril Lavigne é mãe: Filha terá acesso à fortuna milionária que foi construída desde a adolescência da cantora",
+  "link": "https://caras.com.br/musica/avril-lavigne-e-mae-filha-tera-acesso-a-fortuna-milionaria-que-foi-construida-desde-a-adolescencia-da-cantora.phtml",
+  "trecho": "Aos 42 anos, Avril Lavigne anuncia o nascimento de sua primeira herdeira para a fortuna milionária que conquistou com seu talento musical ao longo de várias décadas. Saiba mais sobre o patrimônio O post Avril Lavigne é…",
+  "credito": "Foto: Raph_PH / CC BY 2.0, via Wikimedia Commons",
+  "fonte": "Caras",
+  "categoria": "celebridades",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Glaston2024_2806_300624_%28129_of_173%29_%28cropped%29.jpg/1280px-Glaston2024_2806_300624_%28129_of_173%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "data": "2026-11-13T16:29:10+00:00",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Glaston2024_2806_300624_(129_of_173)_(cropped).jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Avril Lavigne"
+ },
+ {
   "titulo": "Neusa Borges segue internada com pneumonia; quadro é estável, sem previsão de alta",
   "link": "https://revistaquem.globo.com/saude/noticia/2026/11/neusa-borges-segue-internada-com-pneumonia-quadro-e-estavel-sem-previsao-de-alta.ghtml",
   "trecho": "A atriz Neusa Borges, de 84 anos, está internada no Hospital Copa D'Or, na Zona Sul do Rio, desde a última segunda-feira (9), devido a um quadro de pneumonia. Segundo boletim médico enviado pela assessoria de…",
@@ -296,7 +801,6 @@
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/51/Neusa_Borges_Oficial.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T16:28:56+00:00",
-  "busca_imagem": "hospital bed oxygen mask",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Neusa_Borges_Oficial.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Neusa Borges"
@@ -305,14 +809,28 @@
   "titulo": "Poucas pessoas sabem que servem os dois buracos nos prendedores de roupa e como usá-los corretamente",
   "link": "https://catracalivre.com.br/noticias/poucas-pessoas-sabem-que-servem-os-dois-buracos-nos-prendedores-de-roupa-e-como-usa-los-corretamente/",
   "trecho": "Descubra para que servem os dois buracos do prendedor de roupa, como testar o encaixe no varal e evitar marcas ou peças soltas durante a secagem. O post Poucas pessoas sabem que servem os dois buracos nos prendedores de…",
-  "credito": "Foto: Ivan Radic / CC BY 2.0",
   "fonte": "Catraca Livre",
   "categoria": "virais",
-  "imagem": "https://live.staticflickr.com/65535/49822063941_9eea1a1c89_b.jpg",
   "data": "2026-11-13T16:24:46+00:00",
-  "busca_imagem": "clothespins close up",
-  "credito_link": "https://www.flickr.com/photos/26344495@N05/49822063941",
-  "imagem_tipo": "banco"
+  "busca_imagem": "clothes pegs close up",
+  "vetadas": [
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Snuggling_clothes_pegs.jpg/1280px-Snuggling_clothes_pegs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  ],
+  "imagem": ""
+ },
+ {
+  "titulo": "Advogada perde causa, mas elogia charme e beleza de desembargador: \"estou impactada\"",
+  "link": "https://www.migalhas.com.br/quentes/468523/advogada-perde-causa-mas-elogia-charme-e-beleza-de-desembargador",
+  "trecho": "",
+  "fonte": "Migalhas",
+  "categoria": "em-alta",
+  "data": "2026-11-13T16:20:00+00:00",
+  "em_alta": "advogada elogia desembargador · 500+ buscas",
+  "busca_imagem": "judge courtroom gavel",
+  "vetadas": [
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg/1280px-Courtroom_One_Gavel_-_Flickr_-_Joe_Gratz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  ],
+  "imagem": ""
  },
  {
   "titulo": "Paris Photo: galerias do Brasil se reúnem na capital francesa para mostrar facetas diversas da Amazônia",
@@ -329,13 +847,13 @@
   "titulo": "'Rosa e Azul': a história sombria do quadro mais famoso do Masp — e o fim trágico de uma das meninas",
   "link": "https://g1.globo.com/pop-arte/noticia/2026/11/13/rosa-e-azul-a-historia-sombria-do-quadro-mais-famoso-do-masp-e-o-fim-tragico-de-uma-das-meninas.ghtml",
   "trecho": "Reprodução da tela Rosa e Azul, feito pelo impressionista francês Pierre-Auguste Renoir. João Musa/MASP Considerado um dos museus mais importantes de sua categoria, o Museu de Arte de São Paulo (Masp) recebeu 1,1 milhão…",
-  "credito": "Foto: Gary Todd / CC0, via Wikimedia Commons",
+  "credito": "Foto: Vintage Fan 5678 / CC BY-SA 4.0, via Wikimedia Commons",
   "fonte": "g1",
   "categoria": "ultimas",
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Ceramic_Tripod_Bowl_with_Fresco_Painting_of_Warrior_Holding_Obsidian_Knife_with_Heart_on_it%2C_Classic%2C_Teotihuacan_III%2C_15cm.jpg/1280px-Ceramic_Tripod_Bowl_with_Fresco_Painting_of_Warrior_Holding_Obsidian_Knife_with_Heart_on_it%2C_Classic%2C_Teotihuacan_III%2C_15cm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Ethel_Walker%27s_%27The_Breeze%27_Oil_Painting_in_Cardiff_Museum_and_Art_Gallery%27_in_2025.jpg/1280px-Ethel_Walker%27s_%27The_Breeze%27_Oil_Painting_in_Cardiff_Museum_and_Art_Gallery%27_in_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "data": "2026-11-13T16:15:34+00:00",
-  "busca_imagem": "classic painting museum gallery",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Ceramic_Tripod_Bowl_with_Fresco_Painting_of_Warrior_Holding_Obsidian_Knife_with_Heart_on_it,_Classic,_Teotihuacan_III,_15cm.jpg",
+  "busca_imagem": "painting museum art gallery",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Ethel_Walker%27s_%27The_Breeze%27_Oil_Painting_in_Cardiff_Museum_and_Art_Gallery%27_in_2025.jpg",
   "imagem_tipo": "banco"
  },
  {
@@ -353,17 +871,12 @@
   "titulo": "Debby Lagranha faz ensaio pré-wedding com o noivo e dá spoiler do casamento",
   "link": "https://revistaquem.globo.com/eventos/casamentos/noticia/2026/11/debby-lagranha-faz-ensaio-pre-wedding-com-o-noivo-e-da-spoiler-do-casamento.ghtml",
   "trecho": "Debby Lagranha, de 35 anos, realizou um ensaio pré-wedding com o noivo, o empresário Gustavo Farias. Na expectativa para o casamento, que será celebrado ainda no mês de novembro, a atriz conta que está planejando cada…",
+  "credito": "",
   "fonte": "Quem",
   "categoria": "celebridades",
+  "imagem": "",
   "data": "2026-11-13T16:13:30+00:00",
-  "busca_imagem": "wedding rings couple",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Kerala_Wedding_-_Couples_Ring_Exchange.jpg/1280px-Kerala_Wedding_-_Couples_Ring_Exchange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/A_couple_is_exchanging_wedding_rings.jpg/1280px-A_couple_is_exchanging_wedding_rings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credito": "Foto: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:A_couple_is_exchanging_wedding_rings.jpg",
-  "imagem_tipo": "banco"
+  "busca_imagem": ""
  },
  {
   "titulo": "5 shorts da Renner por até R$ 90 para renovar o visual com estilo",
@@ -374,7 +887,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-13T16:13:25+00:00",
-  "busca_imagem": "women denim shorts"
+  "busca_imagem": "women denim shorts fashion"
  },
  {
   "titulo": "'É como se eu rejuvenescesse dez ou vinte anos. É uma das maiores felicidades que há tempos não tinha': Claudette Soares estava prestes a viver um sonho antes de sua morte, aos 91 anos; cantora lançou álbum poucas horas após falecimento",
@@ -405,15 +918,14 @@
   "titulo": "Jensen Huang, ex-CEO da NVIDIA, tem terceira amante revelada e perde quantia bilionária; saiba tudo Nvidia (foto_ Bloomberg Originals)",
   "link": "https://hugogloss.uol.com.br/buzz/tech/nvidia-3-traicao/",
   "trecho": "Presidente-executivo da NVIDIA renunciou após divulgação das traições O post Jensen Huang, ex-CEO da NVIDIA, tem terceira amante revelada e perde quantia bilionária; saiba tudo apareceu primeiro em Hugo Gloss .",
+  "credito": "Foto: Anderseidesvik / CC BY-SA 4.0, via Wikimedia Commons",
   "fonte": "Hugo Gloss",
   "categoria": "celebridades",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/1280px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "data": "2026-11-13T16:10:38+00:00",
-  "busca_imagem": "nvidia graphics chip",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/1280px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://live.staticflickr.com/816/26055259417_0df6626e76_b.jpg"
-  ],
-  "imagem": ""
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Jensen Huang"
  },
  {
   "titulo": "Vídeos do episódio de 'Encontro com Patrícia Poeta' de sexta-feira, 13 de novembro de 2026",
@@ -424,7 +936,6 @@
   "categoria": "televisao",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Patr%C3%ADcia_Poeta_001_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T16:10:00+00:00",
-  "busca_imagem": "television studio talk show",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Patr%C3%ADcia_Poeta_001_(cropped).jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Patrícia Poeta"
@@ -472,14 +983,12 @@
   "titulo": "Fabiana Justus abre álbum de viagem a Miami: 'Dias deliciosos'; fotos",
   "link": "https://revistaquem.globo.com/noticias/famosos-na-praia/noticia/2026/11/fabiana-justus-posa-em-praia.ghtml",
   "trecho": "Fabiana Justus, de 40 anos, está se despedindo de Miami, nos Estados Unidos. A influenciadora, que é filha do empresário e apresentador Roberto Justus, de 71, compartilhou nesta sexta-feira (13) registros da sua viagem…",
-  "credito": "Foto: Miami Beach Casino Co. / Public domain, via Wikimedia Commons",
+  "credito": "",
   "fonte": "Quem",
   "categoria": "celebridades",
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Miami_Beach_-_Aerial_view%2C_The_Casino.jpg/1280px-Miami_Beach_-_Aerial_view%2C_The_Casino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imagem": "",
   "data": "2026-11-13T16:07:34+00:00",
-  "busca_imagem": "miami beach aerial view",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Miami_Beach_-_Aerial_view,_The_Casino.jpg",
-  "imagem_tipo": "banco"
+  "busca_imagem": ""
  },
  {
   "titulo": "Juliette aposta em minishort de crochê estilo vintage para passeio de barco em Noronha",
@@ -490,7 +999,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-13T16:06:27+00:00",
-  "busca_imagem": "crochet shorts summer fashion"
+  "busca_imagem": "crochet shorts beach boat"
  },
  {
   "titulo": "Quem é Aria Vega? Vencedora do Grammy Latino de Artista Revelação esteve no Brasil em outubro",
@@ -512,7 +1021,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-13T16:04:58+00:00",
-  "busca_imagem": "folding laundry basket wall"
+  "busca_imagem": "folding bucket laundry room"
  },
  {
   "titulo": "Longe da TV, atriz Carolina Kasting já mostrou refúgio de 200 m² no Rio; confira",
@@ -523,7 +1032,6 @@
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Carolina_Kasting_d%C3%A1_entrevista%2C_2020_%2801%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T16:03:36+00:00",
-  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Carolina_Kasting_d%C3%A1_entrevista,_2020_(01).jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Carolina Kasting"
@@ -548,7 +1056,6 @@
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sabrina_Sato_at_the_Lady_Night_in_2022_%2802%29.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T16:00:53+00:00",
-  "busca_imagem": "ivf fertility clinic lab",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Sabrina_Sato_at_the_Lady_Night_in_2022_(02).png",
   "imagem_tipo": "pessoa",
   "pessoa": "Sabrina Sato"
@@ -573,7 +1080,18 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-13T16:00:00+00:00",
-  "busca_imagem": "hair serum bottles"
+  "busca_imagem": "hair serum frizz bottle"
+ },
+ {
+  "titulo": "Ferreira: Bukele viola soberania do Haiti e faz experimento autoritário",
+  "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/13/ferreira-bukele-viola-soberania-do-haiti-e-faz-experimento-autoritario.ghtm",
+  "trecho": "",
+  "fonte": "UOL Notícias",
+  "categoria": "em-alta",
+  "data": "2026-11-13T16:00:00+00:00",
+  "imagem": "",
+  "em_alta": "haiti · 200+ buscas",
+  "busca_imagem": "Haiti flag national"
  },
  {
   "titulo": "Suzane von Richthofen: Netflix toma medida após críticas ao documentário, diz colunista; empresa se pronuncia Suzane von Richthofen: O que o Tempo Não Apaga (Reprodução/Netflix)",
@@ -584,7 +1102,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-13T15:59:01+00:00",
-  "busca_imagem": ""
+  "busca_imagem": "documentary film streaming screen"
  },
  {
   "titulo": "Filha de Leonardo ironiza hates: 'Como viajo tanto e não tenho R$ 18 mil?'",
@@ -630,20 +1148,20 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-13T15:53:04+00:00",
-  "busca_imagem": "fashion accessories flat lay"
+  "busca_imagem": "women fashion accessories handbag"
  },
  {
   "titulo": "Diabetes pode atingir pessoas magras? Caso de Ana Maria Braga chama atenção e médica explica riscos",
   "link": "https://caras.com.br/bem-estar/diabetes-pode-atingir-pessoas-magras-caso-de-ana-maria-braga-chama-atencao-e-medica-explica-riscos.phtml",
   "trecho": "Próximo ao Dia Mundial do Diabetes, a endocrinologista Kyara Ramalho explica por que o peso não é o único fator de alerta O post Diabetes pode atingir pessoas magras? Caso de Ana Maria Braga chama atenção e médica…",
+  "credito": "Foto: JeepersMedia / CC BY 2.0",
   "fonte": "Caras",
   "categoria": "celebridades",
+  "imagem": "https://live.staticflickr.com/8647/16227847426_f3624d6487_b.jpg",
   "data": "2026-11-13T15:51:47+00:00",
   "busca_imagem": "blood glucose meter test",
-  "vetadas": [
-   "https://live.staticflickr.com/8647/16227847426_f3624d6487_b.jpg"
-  ],
-  "imagem": ""
+  "credito_link": "https://www.flickr.com/photos/39160147@N03/16227847426",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Previsão do tempo em Guarulhos hoje: veja como fica o clima nesta sexta-feira",
@@ -655,9 +1173,13 @@
   "em_alta": "tempo guarulhos · 200+ buscas",
   "busca_imagem": "city weather cloudy sky",
   "vetadas": [
-   "https://live.staticflickr.com/5529/11179039083_9377e902cb_b.jpg"
+   "https://live.staticflickr.com/5529/11179039083_9377e902cb_b.jpg",
+   "https://live.staticflickr.com/7214/7118319231_6d7fa322b5_b.jpg"
   ],
-  "imagem": ""
+  "imagem": "https://live.staticflickr.com/3755/11178898976_0db9cc8fee_b.jpg",
+  "credito": "Foto: Diego3336 / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/31018257@N00/11178898976",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Morre Claudette Soares, grande voz da Bossa Nova e da MPB, aos 91 anos",
@@ -679,7 +1201,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-13T15:44:26+00:00",
-  "busca_imagem": "deep sea feather star"
+  "busca_imagem": "deep sea creature underwater"
  },
  {
   "titulo": "Decisão do governo Lula afeta SBT e provocará mudança",
@@ -704,7 +1226,6 @@
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Maur%C3%ADcio_Mattar_%2817706734599%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T15:42:34+00:00",
-  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Maur%C3%ADcio_Mattar_(17706734599).jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Maurício Mattar"
@@ -719,9 +1240,13 @@
   "em_alta": "previsão do tempo são paulo · 2000+ buscas",
   "busca_imagem": "heavy rain storm street",
   "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/HEAVY_RAIN_STORM%281-1250s%29_%282011-07-04_17-33-22%29_-_panoramio.jpg/1280px-HEAVY_RAIN_STORM%281-1250s%29_%282011-07-04_17-33-22%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/HEAVY_RAIN_STORM%281-1250s%29_%282011-07-04_17-33-22%29_-_panoramio.jpg/1280px-HEAVY_RAIN_STORM%281-1250s%29_%282011-07-04_17-33-22%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/HEAVY_RAIN_STORM%281-1250s%29_%282011-07-04_17-33-18%29_-_panoramio.jpg/1280px-HEAVY_RAIN_STORM%281-1250s%29_%282011-07-04_17-33-18%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
-  "imagem": ""
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/HEAVY_RAIN_STORM%281-1250s%29_%282011-07-04_17-31-56%29_-_panoramio.jpg/1280px-HEAVY_RAIN_STORM%281-1250s%29_%282011-07-04_17-31-56%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: NJCHCI / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:HEAVY_RAIN_STORM(1-1250s)_(2011-07-04_17-31-56)_-_panoramio.jpg",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Camarões vence Namíbia e segue invicto nas Eliminatórias da Copa Africana das Nações",
@@ -790,7 +1315,8 @@
    "https://live.staticflickr.com/3867/14871549065_4cf89e8f5f_b.jpg",
    "https://live.staticflickr.com/3455/3293872997_5b61cef61d_b.jpg",
    "https://live.staticflickr.com/2748/5749380426_40355d0286_b.jpg",
-   "https://live.staticflickr.com/3394/3624568377_f8981056f0_b.jpg"
+   "https://live.staticflickr.com/3394/3624568377_f8981056f0_b.jpg",
+   "https://live.staticflickr.com/3107/2550662580_39aa9a08dc_b.jpg"
   ],
   "imagem": ""
  },
@@ -798,14 +1324,12 @@
   "titulo": "Muito além do frio, Serra Catarinense revela um lado que poucos turistas conhecem",
   "link": "https://catracalivre.com.br/viagem-livre/muito-alem-do-frio-serra-catarinense-revela-um-lado-que-poucos-turistas-conhecem/",
   "trecho": "Serra Catarinense vai além do frio com vinícolas, hotéis-fazenda, gastronomia, cachoeiras e atrações de aventura. Conheça a região. O post Muito além do frio, Serra Catarinense revela um lado que poucos turistas…",
-  "credito": "Foto: Arthur Boppré / CC BY 2.0",
+  "credito": "",
   "fonte": "Catraca Livre",
   "categoria": "virais",
-  "imagem": "https://live.staticflickr.com/1166/542880565_844fd72ff5_b.jpg",
+  "imagem": "",
   "data": "2026-11-13T15:35:12+00:00",
-  "busca_imagem": "serra catarinense mountains fog",
-  "credito_link": "https://www.flickr.com/photos/8821710@N05/542880565",
-  "imagem_tipo": "banco"
+  "busca_imagem": "Santa Catarina mountains winter fog"
  },
  {
   "titulo": "Ofertas Black da Amazon: copo Quencher da Stanley com descontos de até 58%",
@@ -816,7 +1340,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-13T15:35:08+00:00",
-  "busca_imagem": "stainless steel tumbler cup"
+  "busca_imagem": "black friday shopping bags"
  },
  {
   "titulo": "Maskavo revisita \"Rumo ao Sul\" em nova versão e lança clipe gravado em Porto Alegre",
@@ -838,7 +1362,7 @@
   "categoria": "curiosidades",
   "imagem": "",
   "data": "2026-11-13T15:32:46+00:00",
-  "busca_imagem": "raining meat sky"
+  "busca_imagem": "red meat rain sky"
  },
  {
   "titulo": "Maurício Mattar expõe o que Angélica fez com ele enquanto lutava contra vício",
@@ -884,7 +1408,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-13T15:25:36+00:00",
-  "busca_imagem": "reality show elimination TV audience"
+  "busca_imagem": "reality show elimination audience"
  },
  {
   "titulo": "Morre Christian Cousins, ator mirim de 'Um Tira no Jardim de Infância', aos 43 anos",
@@ -940,6 +1464,17 @@
   "imagem": "",
   "data": "2026-11-13T15:24:19+00:00",
   "busca_imagem": "gazelles desert sand dunes"
+ },
+ {
+  "titulo": "Homem encontra ar-condicionado no lixo, enterra 610 metros de tubos no quintal e transforma o aparelho em uma bomba de calor geotérmica com um sistema inusitado para ligá-lo",
+  "link": "https://catracalivre.com.br/noticias/homem-encontra-ar-condicionado-no-lixo-enterra-610-metros-de-tubos-no-quintal-e-transforma-o-aparelho-em-uma-bomba-de-calor-geotermica-com-um-sistema-inusitado-para-liga-lo/",
+  "trecho": "Um inventor transformou um ar-condicionado encontrado no lixo em uma bomba de calor geotérmica usando 610 metros de tubos subterrâneos. O post Homem encontra ar-condicionado no lixo, enterra 610 metros de tubos no…",
+  "credito": "",
+  "fonte": "Catraca Livre",
+  "categoria": "curiosidades",
+  "imagem": "",
+  "data": "2026-11-13T15:24:10+00:00",
+  "busca_imagem": "old air conditioner backyard"
  },
  {
   "titulo": "Radialista da Rádio Nacional é finalista do WME Awards 2026",
@@ -1100,7 +1635,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-13T15:02:47+00:00",
-  "busca_imagem": "mansion lake aerial view"
+  "busca_imagem": "mansion with lake garden"
  },
  {
   "titulo": "Eduarda Campopiano vira alvo de abaixo-assinado após receber homenagem no Rio",
@@ -1124,7 +1659,7 @@
   "categoria": "curiosidades",
   "imagem": "",
   "data": "2026-11-13T15:02:28+00:00",
-  "busca_imagem": "heart cells laboratory microscope"
+  "busca_imagem": "heart cells microscope research"
  },
  {
   "titulo": "Poliana Rocha celebra 50 anos: 'Decidi deixar de viver à sombra e assumir o protagonismo da minha história'",
@@ -1176,7 +1711,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-13T15:00:00+00:00",
-  "busca_imagem": "olive green clothes fashion"
+  "busca_imagem": "olive green fashion clothing"
  },
  {
   "titulo": "Cabo Verde x Libéria: onde assistir, escalações e arbitragem",
@@ -1311,7 +1846,8 @@
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3859%29.jpg/1280px-De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3859%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Cooling_tower_of_the_G%C3%B6sgen_Nuclear_Power_Plant%2C_close_view%2C_D%C3%A4niken%2C_Solothurn.jpg/1280px-Cooling_tower_of_the_G%C3%B6sgen_Nuclear_Power_Plant%2C_close_view%2C_D%C3%A4niken%2C_Solothurn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "https://upload.wikimedia.org/wikipedia/commons/0/03/Cofrentes_nuclear_power_plant_cooling_towers_retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3862%29.jpg/1280px-De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3862%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3862%29.jpg/1280px-De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3862%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Cooling_towers_of_a_nuclear_power_plant.jpg/1280px-Cooling_towers_of_a_nuclear_power_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
   "imagem": ""
  },
@@ -1398,7 +1934,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-13T14:44:33+00:00",
-  "busca_imagem": "man swimming pool exercise"
+  "busca_imagem": "older adults strength training gym"
  },
  {
   "titulo": "Morre Michael John Roberts, animador e diretor de 'Bojack Horseman', aos 48 anos",
@@ -1446,7 +1982,7 @@
   "categoria": "curiosidades",
   "imagem": "",
   "data": "2026-11-13T14:40:38+00:00",
-  "busca_imagem": "frog skeleton bones fossil"
+  "busca_imagem": "ancient frog skeleton fossils"
  },
  {
   "titulo": "Claudette Soares, com 1º disco de inéditas, diz se sentir como nos anos 1960",
@@ -1483,7 +2019,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-13T14:40:00+00:00",
-  "busca_imagem": "film set camera crew"
+  "busca_imagem": ""
  },
  {
   "titulo": "Morre cantora Claudette Soares, aos 91, no dia em que lança o 1º álbum de inéditas",
@@ -1548,7 +2084,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-13T14:33:23+00:00",
-  "busca_imagem": "tired eyes skincare cream"
+  "busca_imagem": "tired eyes under eye cream"
  },
  {
   "titulo": "Juliano Floss se declara para Ana Paula Renault após BBB 26: 'Obrigado por ter aparecido na minha vida'",
@@ -1644,7 +2180,7 @@
   "categoria": "curiosidades",
   "imagem": "",
   "data": "2026-11-13T14:24:26+00:00",
-  "busca_imagem": "seabird flying over ocean"
+  "busca_imagem": "seabirds flying over ocean"
  },
  {
   "titulo": "Polícia descobre a causa da morte da influenciadora Vivi Motta, de 23 anos",
@@ -1666,14 +2202,12 @@
   "titulo": "Golden Square Shopping abre temporada de Natal com chegada do Papai Noel e um dia especial de atrações para toda a família",
   "link": "https://catracalivre.com.br/vila-mundo/golden-square-shopping-abre-temporada-de-natal-com-chegada-do-papai-noel-e-um-dia-especial-de-atracoes-para-toda-a-familia/",
   "trecho": "O espírito natalino já começa a tomar conta de São Bernardo e o Golden Square Shopping prepara um dia inteiro de atrações especiais para marcar a abertura de sua programação de Natal. No dia 14 de novembro, o…",
-  "credito": "Foto: mckaysavage / CC BY 2.0",
+  "credito": "",
   "fonte": "Catraca Livre",
   "categoria": "virais",
-  "imagem": "https://live.staticflickr.com/2005/2077712791_72911462aa_b.jpg",
+  "imagem": "",
   "data": "2026-11-13T14:15:08+00:00",
-  "busca_imagem": "shopping mall christmas decoration",
-  "credito_link": "https://www.flickr.com/photos/56796376@N00/2077712791",
-  "imagem_tipo": "banco"
+  "busca_imagem": "shopping mall christmas decorations"
  },
  {
   "titulo": "A maior lição de longevidade de Poliana Rocha, hoje aos 50 anos: 'Busco equilíbrio entre corpo e mente, mantendo hábitos saudáveis e uma rotina de exercícios'; esposa de Leonardo não dispensa tecnologias para valorizar a beleza",
@@ -1741,7 +2275,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-13T14:08:48+00:00",
-  "busca_imagem": "guitar concert stage microphone"
+  "busca_imagem": "guitar stage concert lights"
  },
  {
   "titulo": "A família de Arlete Salles: quem são os filhos da atriz de 88 anos e qual profissão cada um escolheu?",
@@ -1798,7 +2332,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-13T14:04:43+00:00",
-  "busca_imagem": "pothos houseplant watering"
+  "busca_imagem": "pothos houseplant care"
  },
  {
   "titulo": "Bem-nascidas, sedutoras, condenadas por crimes assustadores e adoradas pela mídia: o que une Suzane e Elizabeth",
@@ -1820,7 +2354,7 @@
   "categoria": "curiosidades",
   "imagem": "",
   "data": "2026-11-13T14:00:35+00:00",
-  "busca_imagem": "white hole space galaxy"
+  "busca_imagem": "black hole space"
  },
  {
   "titulo": "Quem são os Veteranos que já venceram o BBB? Relembre os campeões",
@@ -1853,7 +2387,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-13T14:00:00+00:00",
-  "busca_imagem": "nail polish manicure bottles"
+  "busca_imagem": "nail polish bottles"
  },
  {
   "titulo": "Quando estreia o 6º episódio da quarta temporada de 'Tulsa King'?",
@@ -1980,7 +2514,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-13T13:49:55+00:00",
-  "busca_imagem": "homemade collagen gelatin skincare"
+  "busca_imagem": "collagen powder jar"
  },
  {
   "titulo": "Bruna Marquezine fica aos prantos após briga com Shawn Mendes em Fernando de Noronha, diz página; web reage: 'Casal normal como qualquer outro'",
@@ -2021,7 +2555,18 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-13T13:44:49+00:00",
-  "busca_imagem": "natural hot springs pool brazil"
+  "busca_imagem": "natural hot springs pool"
+ },
+ {
+  "titulo": "A cidade da Paraíba apelidada de Roliúde Nordestina que abriga pedras gigantes de formatos curiosos e serviu de cenário para diversas produções cinematográficas",
+  "link": "https://catracalivre.com.br/noticias/a-cidade-da-paraiba-apelidada-de-roliude-nordestina-que-abriga-pedras-gigantes-de-formatos-curiosos-e-serviu-de-cenario-para-diversas-producoes-cinematograficas/",
+  "trecho": "Cabaceiras, no interior da Paraíba, reúne formações rochosas monumentais no Lajedo de Pai Mateus e cenários icônicos do cinema nacional. O post A cidade da Paraíba apelidada de Roliúde Nordestina que abriga pedras…",
+  "credito": "",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "imagem": "",
+  "data": "2026-11-13T13:44:40+00:00",
+  "busca_imagem": "giant rock formation sunset"
  },
  {
   "titulo": "Mais uma morte na conta: Pilar arma emboscada e tira a vida de personagem fundamental em Quem Ama Cuida",
@@ -2032,7 +2577,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-13T13:40:00+00:00",
-  "busca_imagem": "ambush dark alley night"
+  "busca_imagem": ""
  },
  {
   "titulo": "Ator da Globo morreu aos 31 anos no auge da carreira e obrigou novela a mudar história",
@@ -2054,7 +2599,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-13T13:36:33+00:00",
-  "busca_imagem": "soccer stadium football player"
+  "busca_imagem": "soccer stadium stands"
  },
  {
   "titulo": "Gracyanne confessa arrependimento e chora ao falar pela 1ª vez sobre morte do pai: ‘Eu o perdoei’ Gracyanne confessa arrependimento e chora ao falar pela 1ª vez sobre morte do pai: 'Estava resistente' (Reprodução/Instagram)",
@@ -2144,7 +2689,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-13T13:24:19+00:00",
-  "busca_imagem": "soccer stadium football club"
+  "busca_imagem": "soccer coach bench"
  },
  {
   "titulo": "Fazer abdominal ajuda, mas não é o único caminho para fortalecer o centro do corpo depois dos 50",
@@ -2155,7 +2700,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-13T13:24:08+00:00",
-  "busca_imagem": "older woman exercising core"
+  "busca_imagem": "core exercise mat workout"
  },
  {
   "titulo": "Instabilidades no Gov.br e na Microsoft deixam o Protocolo Digital indisponível — Agência Nacional de Mineração",
@@ -2183,12 +2728,14 @@
   "titulo": "Agente de 'Área Restrita' fala da volta da série após cancelamento da PF: 'Informar a população é o melhor'",
   "link": "https://revistaquem.globo.com/entretenimento/series-e-filmes/noticia/2026/11/agente-de-area-restrita-fala-da-volta-da-serie-apos-cancelamento-da-pf-informar-a-populacao-e-o-melhor.ghtml",
   "trecho": "Aeroporto: Área Restrita está de volta! A oitava temporada estreou na quarta-feira (11), com a novidade da exibição do trabalho da fiscalização aduaneira nas fronteiras terrestres. Auditor fiscal da Receita Federal e…",
-  "credito": "",
+  "credito": "Foto: Kidfly182 / CC BY-SA 4.0, via Wikimedia Commons",
   "fonte": "Quem",
   "categoria": "celebridades",
-  "imagem": "",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/NYPD_Crime_Scene_Tape_002.jpg/1280px-NYPD_Crime_Scene_Tape_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "data": "2026-11-13T13:14:25+00:00",
-  "busca_imagem": "police investigation folder desk"
+  "busca_imagem": "police crime scene tape",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:NYPD_Crime_Scene_Tape_002.jpg",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Vingadores: Doutor Destino | Kevin Feige esclarece se Doutor Destino será uma variante de Tony Stark",
@@ -2199,7 +2746,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-13T13:12:04+00:00",
-  "busca_imagem": "superhero comic book cover"
+  "busca_imagem": "superhero movie comic book"
  },
  {
   "titulo": "Lene Sensitiva prevê que famosa pode desaparecer assim como Eliza Samúdio: “Entrou num vespeiro”",
@@ -2287,7 +2834,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-13T13:04:26+00:00",
-  "busca_imagem": "woman breathing exercise yoga"
+  "busca_imagem": "breathing exercise yoga meditation"
  },
  {
   "titulo": "Morto há 13 anos, artista projetou refúgio com 880 m² avaliado em R$ 25 milhões e usado como cenário de programa de TV",
@@ -2330,8 +2877,7 @@
   "fonte": "OTV Foco",
   "categoria": "televisao",
   "imagem": "",
-  "data": "2026-11-13T13:00:00+00:00",
-  "busca_imagem": "scalp hair care serum"
+  "data": "2026-11-13T13:00:00+00:00"
  },
  {
   "titulo": "Gracyanne Barbosa revela ajuda do ex para perdoar o pai antes da morte: 'Foi ele quem segurou minha mão'",
@@ -2376,8 +2922,7 @@
   "fonte": "Catraca Livre",
   "categoria": "virais",
   "imagem": "",
-  "data": "2026-11-13T12:44:40+00:00",
-  "busca_imagem": "pilates studio reformer machine"
+  "data": "2026-11-13T12:44:40+00:00"
  },
  {
   "titulo": "Bruna Griphao ousa com transparência em ensaio de rua do Salgueiro e exibe shape sarado",
@@ -2474,8 +3019,7 @@
   "fonte": "OTV Foco",
   "categoria": "televisao",
   "imagem": "",
-  "data": "2026-11-13T12:24:20+00:00",
-  "busca_imagem": ""
+  "data": "2026-11-13T12:24:20+00:00"
  },
  {
   "titulo": "Fermento químico e bicarbonato de sódio parecem cumprir a mesma função nas receitas, mas especialistas explicam por que trocar um pelo outro pode alterar completamente o resultado do bolo",
@@ -2485,8 +3029,7 @@
   "fonte": "Catraca Livre",
   "categoria": "virais",
   "imagem": "",
-  "data": "2026-11-13T12:24:19+00:00",
-  "busca_imagem": "baking soda and baking powder"
+  "data": "2026-11-13T12:24:19+00:00"
  },
  {
   "titulo": "‘Lá na Minha Terra’: Vilão sem coração salvou bebê abandonada no passado e revelou lado humano",
@@ -2614,8 +3157,7 @@
   "fonte": "Hugo Gloss",
   "categoria": "virais",
   "imagem": "",
-  "data": "2026-11-13T12:05:19+00:00",
-  "busca_imagem": "stolen smartphone street"
+  "data": "2026-11-13T12:05:19+00:00"
  },
  {
   "titulo": "Subir escadas por alguns minutos parece pouco, mas transforma uma tarefa diária em um estímulo para pernas e coração",
@@ -2714,8 +3256,7 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "",
-  "data": "2026-11-13T12:00:00+00:00",
-  "busca_imagem": "movie theater popcorn christmas"
+  "data": "2026-11-13T12:00:00+00:00"
  },
  {
   "titulo": "Grávida de Luan Pereira, Victória Miranda fala do casamento e se declara: 'Noivo e papai dos sonhos!'",
@@ -2725,8 +3266,7 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "",
-  "data": "2026-11-13T12:00:00+00:00",
-  "busca_imagem": ""
+  "data": "2026-11-13T12:00:00+00:00"
  },
  {
   "titulo": "Nada de salto alto: 3 sapatos confortáveis para trabalhar com elegância",
@@ -2736,8 +3276,7 @@
   "fonte": "OTV Foco",
   "categoria": "televisao",
   "imagem": "",
-  "data": "2026-11-13T12:00:00+00:00",
-  "busca_imagem": "comfortable flat shoes women"
+  "data": "2026-11-13T12:00:00+00:00"
  },
  {
   "titulo": "Crise? Bruna Marquezine teria ficado aoss prantos em Noronha após briga com Shawn Mendes",
@@ -2829,14 +3368,11 @@
   "titulo": "Delírio dos anos 2000 voltou: 3 maneiras elegantes de usar a calça capri sem achatar a silhueta",
   "link": "https://tvfoco.uai.com.br/3-maneiras-calca-capri-sem-achatar-a-silhueta/",
   "trecho": "Do modelo de alfaiataria às versões em jeans e renda, a peça polêmica do início do milênio ganha leitura sofisticada em 2026; veja truques de proporção e sapatos ideais Amada nos anos 50 por ícones como Audrey Hepburn e…",
-  "credito": "Foto: ingermaaike2 / CC BY 2.0",
+  "credito": "",
   "fonte": "OTV Foco",
   "categoria": "televisao",
-  "imagem": "https://live.staticflickr.com/7267/6989551250_fdffc68447_b.jpg",
-  "data": "2026-11-13T11:40:00+00:00",
-  "busca_imagem": "woman wearing capri pants",
-  "credito_link": "https://www.flickr.com/photos/17293359@N07/6989551250",
-  "imagem_tipo": "banco"
+  "imagem": "",
+  "data": "2026-11-13T11:40:00+00:00"
  },
  {
   "titulo": "Internada! Saiba o real estado de saúde da atriz Neusa Borges",
@@ -5284,16 +5820,6 @@
   "busca_imagem": "urban wall graffiti texture"
  },
  {
-  "titulo": "Atriz de ‘Renascer’ morreu após diagnóstico de câncer de pulmão",
-  "link": "https://contigo.com.br/noticias/famosos/atriz-de-renascer-morreu-apos-diagnostico-de-cancer-de-pulmao.phtml",
-  "trecho": "Relembre! Atriz da novela 'Renascer' morreu após diagnóstico de câncer de pulmão; saiba detalhes O post Atriz de ‘Renascer’ morreu após diagnóstico de câncer de pulmão apareceu primeiro em Contigo! .",
-  "credito": "",
-  "fonte": "Contigo",
-  "categoria": "celebridades",
-  "imagem": "",
-  "data": "2026-11-13T01:00:52+00:00"
- },
- {
   "titulo": "Em Lá na Minha Terra, Severino/Cesário relembra infância, e Ismália questiona: 'Sente saudade?'",
   "link": "https://gshow.globo.com/novelas/la-na-minha-terra/vem-por-ai/noticia/em-la-na-minha-terra-severinocesario-relembra-infancia-e-ismalia-questiona-sente-saudade.ghtml",
   "trecho": "Lá Na Minha Terra: confira cenas do próximo capítulo, dia 13/11 Severino/Cesário (Daniel de Oliveira) relembrará um momento de seu passado, em Lá na Minha Terra. Em momento de intimidade com Ismália (Camila Morgado)…",
@@ -5640,14 +6166,13 @@
   "titulo": "Gracyanne Barbosa se pronuncia pela primeira vez após morte do pai: 'Dias difíceis, de dor'",
   "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/gracyanne-barbosa-se-pronuncia-pela-primeira-vez-apos-morte-do-pai-dias-dificeis-de-dor.ghtml",
   "trecho": "Gracyanne Barbosa, de 44 anos, se pronunciou pela primeira vez após a morte do pai, Elias Barbosa, aos 72 anos. Nesta quinta-feira (12), a influenciadora voltou às redes sociais depois de alguns dias de silêncio e…",
-  "credito": "Foto: Multishow / CC BY 4.0, via Wikimedia Commons",
   "fonte": "Quem",
   "categoria": "celebridades",
-  "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Gracyanne_Barbosa_-_Mesacast_BBB_2025.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-13T00:14:38+00:00",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Gracyanne_Barbosa_-_Mesacast_BBB_2025.png",
-  "imagem_tipo": "pessoa",
-  "pessoa": "Gracyanne Barbosa"
+  "vetadas": [
+   "https://upload.wikimedia.org/wikipedia/commons/c/c9/Gracyanne_Barbosa_-_Mesacast_BBB_2025.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  ],
+  "imagem": ""
  },
  {
   "titulo": "O que aconteceu? Anitta choca com vestido usado no Grammy: ‘Parece uma múmia’",
@@ -6585,12 +7110,10 @@
    "https://upload.wikimedia.org/wikipedia/commons/c/c7/Prison_Bars_Jail_Cell.jpg",
    "https://live.staticflickr.com/4460/36710911404_2f69ef5187_b.jpg",
    "https://live.staticflickr.com/7664/27476595630_b7330f6732_b.jpg",
-   "https://live.staticflickr.com/5468/10222919863_36472751c0_b.jpg"
+   "https://live.staticflickr.com/5468/10222919863_36472751c0_b.jpg",
+   "https://live.staticflickr.com/7400/27680527941_62e7d1acc8_b.jpg"
   ],
-  "imagem": "https://live.staticflickr.com/7400/27680527941_62e7d1acc8_b.jpg",
-  "credito": "Foto: JobsForFelonsHub / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/144110575@N07/27680527941",
-  "imagem_tipo": "banco"
+  "imagem": ""
  },
  {
   "titulo": "Fluminense disputa clássico contra o Sesc RJ Flamengo no Maracanãzinho pela Superliga Feminina",
@@ -7208,11 +7731,14 @@
   "titulo": "Qual é a profissão da filha de Nelson Piquet? Ela nasceu na Alemanha e vive em Mônaco",
   "link": "https://caras.com.br/atualidades/qual-e-a-profissao-da-filha-de-nelson-piquet-ela-nasceu-na-alemanha-e-vive-em-monaco.phtml",
   "trecho": "Filha de Nelson Piquet seguiu sua própria trajetória profissional e vive na Europa com a família que construiu com um piloto de F1 O post Qual é a profissão da filha de Nelson Piquet? Ela nasceu na Alemanha e vive em…",
-  "credito": "",
+  "credito": "Foto: Agência Brasília / CC BY 2.0, via Wikimedia Commons",
   "fonte": "Caras",
   "categoria": "celebridades",
-  "imagem": "",
-  "data": "2026-11-12T20:47:24+00:00"
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Cerimonia_de_entrega_da_medalha_Bras%C3%ADlia_60_anos_-_16.jpg/1280px-Cerimonia_de_entrega_da_medalha_Bras%C3%ADlia_60_anos_-_16.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "data": "2026-11-12T20:47:24+00:00",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Cerimonia_de_entrega_da_medalha_Bras%C3%ADlia_60_anos_-_16.jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Nelson Piquet"
  },
  {
   "titulo": "Se incomodou: Galisteu responde internauta por comparação entre affair de Virginia com piloto ao relacionamento de Xuxa e Ayrton Senna",
@@ -7335,12 +7861,10 @@
    "https://live.staticflickr.com/3708/10300798164_a1d5b62a86_b.jpg",
    "https://live.staticflickr.com/2621/4191212305_03d891444d_b.jpg",
    "https://live.staticflickr.com/7073/7224064916_7aafbe7aeb_b.jpg",
-   "https://live.staticflickr.com/3781/10300809764_4d6fb8a6e3_b.jpg"
+   "https://live.staticflickr.com/3781/10300809764_4d6fb8a6e3_b.jpg",
+   "https://live.staticflickr.com/3731/10300816444_44acef60d6_b.jpg"
   ],
-  "imagem": "https://live.staticflickr.com/3731/10300816444_44acef60d6_b.jpg",
-  "credito": "Foto: Hypnotica Studios Infinite / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/15119648@N04/10300816444",
-  "imagem_tipo": "banco"
+  "imagem": ""
  },
  {
   "titulo": "'GTA 6' supera 'Cyberpunk 2077' e bate recorde de pré-vendas nas lojas digitais",
@@ -7900,11 +8424,12 @@
   "vetadas": [
    "https://live.staticflickr.com/2415/2374741024_96984e3f1f_b.jpg",
    "https://live.staticflickr.com/3127/2870654312_3495897b6c_b.jpg",
-   "https://live.staticflickr.com/3277/2838781621_427c9efdf6_b.jpg"
+   "https://live.staticflickr.com/3277/2838781621_427c9efdf6_b.jpg",
+   "https://live.staticflickr.com/3/2588370_baee834fa7_b.jpg"
   ],
-  "imagem": "https://live.staticflickr.com/3/2588370_baee834fa7_b.jpg",
-  "credito": "Foto: Soul2Love / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/49503096721@N01/2588370",
+  "imagem": "https://live.staticflickr.com/3194/2863356834_f322f9cc2c_b.jpg",
+  "credito": "Foto: zeevveez / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/29001414@N00/2863356834",
   "imagem_tipo": "banco"
  },
  {
@@ -7940,12 +8465,10 @@
   "vetadas": [
    "https://live.staticflickr.com/4072/4719153848_38ba2f0106_b.jpg",
    "https://live.staticflickr.com/92/371240270_e8c71194c7_b.jpg",
-   "https://live.staticflickr.com/3291/3300029198_73e6fe53e4_b.jpg"
+   "https://live.staticflickr.com/3291/3300029198_73e6fe53e4_b.jpg",
+   "https://live.staticflickr.com/8286/7794221892_2db05a6c93_b.jpg"
   ],
-  "imagem": "https://live.staticflickr.com/8286/7794221892_2db05a6c93_b.jpg",
-  "credito": "Foto: pbkwee / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/11704829@N00/7794221892",
-  "imagem_tipo": "banco"
+  "imagem": ""
  },
  {
   "titulo": "Alanis Morissette alfineta Ben Affleck por comentário sobre sua sexualidade e exibe cena chocante em show; assista fotos: getty",
@@ -8726,11 +9249,12 @@
   "busca_imagem": "computer chip circuit board",
   "vetadas": [
    "https://live.staticflickr.com/198/490969069_0ff5c5147b_b.jpg",
-   "https://live.staticflickr.com/5129/5228433146_02c96cc88e_b.jpg"
+   "https://live.staticflickr.com/5129/5228433146_02c96cc88e_b.jpg",
+   "https://live.staticflickr.com/5210/5227842611_e65fa83134_b.jpg"
   ],
-  "imagem": "https://live.staticflickr.com/5210/5227842611_e65fa83134_b.jpg",
-  "credito": "Foto: Creativity103 / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/36894712@N04/5227842611",
+  "imagem": "https://live.staticflickr.com/3213/2877921712_ccd83cd5f5_b.jpg",
+  "credito": "Foto: AMagill / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/85473033@N00/2877921712",
   "imagem_tipo": "banco"
  },
  {
@@ -9229,12 +9753,10 @@
   "busca_imagem": "tv series scene",
   "vetadas": [
    "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bo%C5%BCena_Stachura_with_amateur_chosen_on_the_entertainment_casting_session_performs_the_scene_of_the_TV_series_%27M_jak_mi%C5%82o%C5%9B%C4%87%27_-_5.jpg/1280px-Bo%C5%BCena_Stachura_with_amateur_chosen_on_the_entertainment_casting_session_performs_the_scene_of_the_TV_series_%27M_jak_mi%C5%82o%C5%9B%C4%87%27_-_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Bo%C5%BCena_Stachura_with_amateur_chosen_on_the_entertainment_casting_session_performs_the_scene_of_the_TV_series_%27M_jak_mi%C5%82o%C5%9B%C4%87%27_-_6.jpg/1280px-Bo%C5%BCena_Stachura_with_amateur_chosen_on_the_entertainment_casting_session_performs_the_scene_of_the_TV_series_%27M_jak_mi%C5%82o%C5%9B%C4%87%27_-_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Bo%C5%BCena_Stachura_with_amateur_chosen_on_the_entertainment_casting_session_performs_the_scene_of_the_TV_series_%27M_jak_mi%C5%82o%C5%9B%C4%87%27_-_6.jpg/1280px-Bo%C5%BCena_Stachura_with_amateur_chosen_on_the_entertainment_casting_session_performs_the_scene_of_the_TV_series_%27M_jak_mi%C5%82o%C5%9B%C4%87%27_-_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bo%C5%BCena_Stachura_with_amateur_chosen_on_the_entertainment_casting_session_performs_the_scene_of_the_TV_series_%27M_jak_mi%C5%82o%C5%9B%C4%87%27_-_01.jpg/1280px-Bo%C5%BCena_Stachura_with_amateur_chosen_on_the_entertainment_casting_session_performs_the_scene_of_the_TV_series_%27M_jak_mi%C5%82o%C5%9B%C4%87%27_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bo%C5%BCena_Stachura_with_amateur_chosen_on_the_entertainment_casting_session_performs_the_scene_of_the_TV_series_%27M_jak_mi%C5%82o%C5%9B%C4%87%27_-_01.jpg/1280px-Bo%C5%BCena_Stachura_with_amateur_chosen_on_the_entertainment_casting_session_performs_the_scene_of_the_TV_series_%27M_jak_mi%C5%82o%C5%9B%C4%87%27_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credito": "Foto: Starscream / CC BY-SA 3.0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Bo%C5%BCena_Stachura_with_amateur_chosen_on_the_entertainment_casting_session_performs_the_scene_of_the_TV_series_%27M_jak_mi%C5%82o%C5%9B%C4%87%27_-_01.jpg",
-  "imagem_tipo": "banco"
+  "imagem": ""
  },
  {
   "titulo": "Poço subterrâneo na Índia tem sete níveis e mais de 1.500 esculturas",
@@ -9407,11 +9929,12 @@
   "data": "2026-11-12T16:56:01+00:00",
   "busca_imagem": "cinema movie theater seats",
   "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Empty_Movie_Theater_%2854280927025%29.jpg/1280px-Empty_Movie_Theater_%2854280927025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Empty_Movie_Theater_%2854280927025%29.jpg/1280px-Empty_Movie_Theater_%2854280927025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Empty_Movie_Theater_Seats_%2854279616742%29.jpg/1280px-Empty_Movie_Theater_Seats_%2854279616742%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   ],
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Empty_Movie_Theater_Seats_%2854279616742%29.jpg/1280px-Empty_Movie_Theater_Seats_%2854279616742%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credito": "Foto: Eden, Janine and Jim from New York City / CC BY 2.0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Empty_Movie_Theater_Seats_(54279616742).jpg",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Luxury_Movie_Theater_Seats.jpg/1280px-Luxury_Movie_Theater_Seats.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Author0612 / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Luxury_Movie_Theater_Seats.jpg",
   "imagem_tipo": "banco"
  },
  {
@@ -9452,14 +9975,14 @@
   "titulo": "Starbucks lança campanha de Natal com Bearista e bebidas sazonais",
   "link": "https://www.terra.com.br/diversao/starbucks-lanca-campanha-de-natal-com-bearista-e-bebidas-sazonais,93057ce5d4f7282439159b10a75044848vr62bk9.html",
   "trecho": "A Starbucks deu início à sua campanha de Natal no Brasil com uma seleção de bebidas, panettones, ...",
-  "credito": "Foto: Toa Heftiba heftiba / CC0, via Wikimedia Commons",
   "fonte": "Terra",
   "categoria": "ultimas",
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Cozy_Christmas_coffee_%28Unsplash%29.jpg/1280px-Cozy_Christmas_coffee_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "data": "2026-11-12T16:49:32+00:00",
   "busca_imagem": "coffee cup christmas decoration",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Cozy_Christmas_coffee_(Unsplash).jpg",
-  "imagem_tipo": "banco"
+  "vetadas": [
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Cozy_Christmas_coffee_%28Unsplash%29.jpg/1280px-Cozy_Christmas_coffee_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  ],
+  "imagem": ""
  },
  {
   "titulo": "Nada de passar calor: 10 looks de verão elegantes para usar no trabalho",
@@ -9508,11 +10031,14 @@
   "fonte": "tmc.com.br",
   "categoria": "em-alta",
   "data": "2026-11-12T16:40:00+00:00",
-  "imagem": "https://live.staticflickr.com/2448/3812995356_1d0e037c1d_b.jpg",
   "em_alta": "armênia x chipre · 200+ buscas",
   "busca_imagem": "soccer stadium night floodlights",
-  "credito": "Foto: joncandy / CC BY-SA 2.0",
-  "credito_link": "https://www.flickr.com/photos/37195744@N03/3812995356",
+  "vetadas": [
+   "https://live.staticflickr.com/2448/3812995356_1d0e037c1d_b.jpg"
+  ],
+  "imagem": "https://live.staticflickr.com/4028/4508887572_8f9e13f57e_b.jpg",
+  "credito": "Foto: warrenski / CC BY-SA 2.0",
+  "credito_link": "https://www.flickr.com/photos/50811886@N00/4508887572",
   "imagem_tipo": "banco"
  },
  {
@@ -9723,14 +10249,13 @@
   "titulo": "Fundador da NVIDIA renuncia ao cargo de CEO após escândalo de traição, e novo caso extraconjugal vem à tona Jensen Huang NVIDIA (Foto: getty)",
   "link": "https://hugogloss.uol.com.br/buzz/tech/nvidia-jensen-huang-renuncia/",
   "trecho": "Reviravolta fez empresa perder US$ 1,081 trilhão (cerca de R$ 6,8 trilhões) em valor de mercado O post Fundador da NVIDIA renuncia ao cargo de CEO após escândalo de traição, e novo caso extraconjugal vem à tona apareceu…",
-  "credito": "Foto: Anderseidesvik / CC BY-SA 4.0, via Wikimedia Commons",
   "fonte": "Hugo Gloss",
   "categoria": "celebridades",
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/1280px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "data": "2026-11-12T16:20:49+00:00",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg",
-  "imagem_tipo": "pessoa",
-  "pessoa": "Jensen Huang"
+  "vetadas": [
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/1280px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  ],
+  "imagem": ""
  },
  {
   "titulo": "Zanin recebe advogados de Paes em nova tentativa do PSD de reabrir eleição no Rio",
@@ -10075,12 +10600,11 @@
   "fonte": "Diario de Pernambuco",
   "categoria": "em-alta",
   "data": "2026-11-12T15:40:00+00:00",
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Bruno-rodrigues-palmeiras-internacional-sep2025-3.jpg/1280px-Bruno-rodrigues-palmeiras-internacional-sep2025-3.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "em_alta": "bruno rodrigues · 1000+ buscas",
-  "credito": "Foto: NullReason / CC BY-SA 4.0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Bruno-rodrigues-palmeiras-internacional-sep2025-3.jpg",
-  "imagem_tipo": "pessoa",
-  "pessoa": "Bruno Rodrigues"
+  "vetadas": [
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Bruno-rodrigues-palmeiras-internacional-sep2025-3.jpg/1280px-Bruno-rodrigues-palmeiras-internacional-sep2025-3.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  ],
+  "imagem": ""
  },
  {
   "titulo": "Pedrinho decreta saída de meia do Vasco, afirma jornalista",
@@ -16305,26 +16829,5 @@
   "categoria": "curiosidades",
   "imagem": "",
   "data": "2026-11-09T17:33:44+00:00"
- },
- {
-  "titulo": "Com canto bem discreto, Cézar Mendes gravita em torno do samba na refinada arquitetura do álbum 'Itapuano'",
-  "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/09/com-canto-bem-discreto-cezar-mendes-gravita-em-torno-do-samba-na-refinada-arquitetura-do-album-itapuano.ghtml",
-  "trecho": "Cézar Mendes reúne time estelar de intérpretes no segundo álbum, 'Itapuano', lançado oito anos depois do primeiro, 'Depois enfim' (2018) Bob Wolfenson / Divulgação ♫ CRÍTICA DE ÁLBUM Título: “Itapuano” Artista: Cézar…",
-  "credito": "Foto: Ivy Dawned / CC BY-SA 2.0",
-  "fonte": "g1",
-  "categoria": "ultimas",
-  "imagem": "",
-  "data": "2026-11-09T17:11:44+00:00",
-  "credito_link": "https://www.flickr.com/photos/30264437@N02/4103363780"
- },
- {
-  "titulo": "Nem todos antialérgicos são iguais, e alguns podem afetar seu cérebro mais do que você pensa",
-  "link": "https://super.abril.com.br/saude/nem-todos-antialergicos-sao-iguais-e-alguns-podem-afetar-seu-cerebro-mais-do-que-voce-pensa/",
-  "trecho": "Alguns remédios para alergia causam sonolência e diminuem a velocidade das reações, enquanto outros quase não têm efeitos colaterais. Entenda o motivo.",
-  "credito": "",
-  "fonte": "Superinteressante",
-  "categoria": "curiosidades",
-  "imagem": "",
-  "data": "2026-11-09T17:00:13+00:00"
  }
 ]
