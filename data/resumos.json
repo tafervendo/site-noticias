@@ -1633,5 +1633,44 @@
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Stand_at_the_Dumbarton_Football_Stadium_-_Home_of_Dumbarton_FC.jpg/1280px-Stand_at_the_Dumbarton_Football_Stadium_-_Home_of_Dumbarton_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credito": "Foto: Fragglerock52 / CC BY-SA 4.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Stand_at_the_Dumbarton_Football_Stadium_-_Home_of_Dumbarton_FC.jpg"
+ },
+ "https://palmeiras.com.br/noticias/palmeiras-encara-santos-no-pacaembu-pelo-jogo-de-volta-da-semifinal-do-paulista-sub-20/": {
+  "recusado": true,
+  "criado": "2026-11-13T19:28:34.057641+00:00"
+ },
+ "https://www.estadao.com.br/esportes/futebol/servia-x-alemanha-pela-nations-league-hoje-onde-assistir-ao-vivo-horario-e-escalacao-npres/": {
+  "recusado": true,
+  "criado": "2026-11-13T19:28:34.057641+00:00"
+ },
+ "https://veja.abril.com.br/politica/o-conselho-que-fachin-recebeu-sobre-o-que-fazer-com-o-caso-vorcaro-no-stf/": {
+  "publicar": true,
+  "titulo": "Fachin recebe conselho de ministros sobre relatoria do caso Vorcaro no STF",
+  "linha_fina": "Sugestão é sortear o caso entre os juízes do Plenário, excluindo Moraes, Nunes Marques e Toffoli, citados em mensagens do ex-banqueiro",
+  "paragrafos": [
+   "O presidente do STF, Edson Fachin, recebeu de colegas da Corte a sugestão de como resolver o impasse sobre quem deve relatar o caso Master, envolvendo o ex-banqueiro Daniel Vorcaro. A proposta é que o processo seja sorteado entre todos os integrantes do Plenário, deixando de fora Alexandre de Moraes, Kassio Nunes Marques e Dias Toffoli, que aparecem em mensagens encontradas no celular de Vorcaro.",
+   "A ideia, segundo a reportagem, busca tirar as investigações da relatoria de André Mendonça e da Segunda Turma, formada por Nunes Marques, Luiz Fux, Dias Toffoli e Gilmar Mendes. Todos têm nomes citados no acervo de mensagens, em graus diferentes.",
+   "Até o momento, Fachin ouviu a sugestão, mas não indicou que vai aceitá-la. A situação é complicada: segundo interlocutores, Nunes Marques disse que poderia voltar a atuar no processo, embora tenha se declarado impedido em setembro.",
+   "A defesa de Vorcaro contesta a decisão de Fachin de assumir temporariamente a condução do tema, alegando violação do princípio do juiz natural. Os advogados também pediram que Gilmar Mendes seja o relator de um pedido de liberdade, e, em outra hipótese, que a relatoria e uma eventual soltura sejam decididas pelo plenário.",
+   "Segundo a revista, Vorcaro, preso há quase oito meses em um batalhão da Polícia Militar em Brasília, acionou a Comissão Interamericana de Direitos Humanos, alegando violações de direitos humanos e manipulação de provas no seu celular."
+  ],
+  "tags": [
+   "caso Master",
+   "Edson Fachin",
+   "STF",
+   "Daniel Vorcaro"
+  ],
+  "pessoa": "Edson Fachin",
+  "busca_imagem": "supreme court building",
+  "criado": "2026-11-13T19:28:34.057641+00:00",
+  "slug": "fachin-recebe-conselho-de-ministros-sobre-relatoria-do-caso-vorcaro-no-e77bcd",
+  "fonte": "VEJA",
+  "link": "https://veja.abril.com.br/politica/o-conselho-que-fachin-recebeu-sobre-o-que-fazer-com-o-caso-vorcaro-no-stf/",
+  "categoria": "em-alta",
+  "data": "2026-11-13T18:50:00+00:00",
+  "titulo_original": "O conselho que Fachin recebeu sobre o que fazer com o caso Vorcaro no STF",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg/1280px-Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Joe Ravi / CC BY-SA 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg"
  }
 }
