@@ -1669,8 +1669,47 @@
   "data": "2026-11-13T18:50:00+00:00",
   "titulo_original": "O conselho que Fachin recebeu sobre o que fazer com o caso Vorcaro no STF",
   "post": null,
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg/1280px-Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credito": "Foto: Joe Ravi / CC BY-SA 3.0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://www.espn.com.br/futebol/artigo/_/id/17505098/escocia-x-macedonia-do-norte-ao-vivo-assista-ao-jogo-da-nations-league-de-graca-no-youtube-da-espn": {
+  "recusado": true,
+  "criado": "2026-11-13T20:28:05.468986+00:00"
+ },
+ "https://www.uol.com.br/splash/noticias/2026/11/13/eterna-monica-atriz-cresceu-e-esta-em-novela-da-globo-veja-antes-e-depois.ghtm": {
+  "publicar": true,
+  "titulo": "Giulia Benite, a Mônica do cinema, volta à TV em nova fase na Globo",
+  "linha_fina": "Aos 18 anos, atriz estreia em novelas em \"Lá na Minha Terra\", que começou a ser exibida nesta semana",
+  "paragrafos": [
+   "Giulia Benite, que ficou conhecida ainda criança ao viver a Mônica no cinema, chega à televisão em um novo momento da carreira. Aos 18 anos, ela faz parte do time de \"Lá na Minha Terra\", novela das 18h da Globo, que estreou nesta semana.",
+   "Na história escrita por Mario Teixeira, a atriz vive Alice, filha de Ismália, papel de Camila Morgado, e de Cesário, interpretado por Daniel de Oliveira. Alice pertence a um núcleo familiar em que segredos ganham espaço, e o papel representa a primeira incursão de Giulia em novelas.",
+   "Em 2019, ela alcançou fama nacional com \"Turma da Mônica: Laços\", adaptação das histórias criadas por Mauricio de Sousa. Na época com 11 anos, apareceu com o vestido vermelho característico da personagem. Depois, retomou o papel em \"Turma da Mônica: Lições\", de 2021, e na série \"Turma da Mônica: A Série\", de 2022.",
+   "Fora da franquia infantil, ela atuou na série \"Segunda Chamada\" e nos filmes \"Morando com o Crush\" e \"De Repente, Miss!\", lançados em 2024. Em \"Arcanjo Renegado\", do Globoplay, dá vida a Yasmin, jovem que enfrenta dilemas dentro da família e questões raciais; ela estreou na série em 2025 e voltou na quinta temporada, disponibilizada na véspera.",
+   "Em 2026, a atriz também esteve no longa \"Minha Melhor Amiga\" e prestou a voz à protagonista da animação \"O Bosque Selvagem\". Em coletiva de imprensa, ela comparou o ritmo das gravações de novela com o de cinema e afirmou se sentir realizada com o desafio: \"Estou muito feliz e aproveitando cada segundinho desse momento\"."
+  ],
+  "tags": [
+   "Giulia Benite",
+   "Lá na Minha Terra",
+   "Turma da Mônica",
+   "Arcanjo Renegado"
+  ],
+  "pessoa": "Giulia Benite",
+  "busca_imagem": "television studio actress",
+  "criado": "2026-11-13T20:28:05.468986+00:00",
+  "slug": "giulia-benite-a-monica-do-cinema-volta-a-tv-em-nova-fase-na-globo-cfbfdf",
+  "fonte": "UOL",
+  "link": "https://www.uol.com.br/splash/noticias/2026/11/13/eterna-monica-atriz-cresceu-e-esta-em-novela-da-globo-veja-antes-e-depois.ghtm",
+  "categoria": "em-alta",
+  "data": "2026-11-13T20:00:00+00:00",
+  "titulo_original": "Eterna Mônica, atriz cresceu e está em novela da Globo; veja antes e depois",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Giulia_Benite_%28cropped%29.jpg/1280px-Giulia_Benite_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Adriana Benite / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Giulia_Benite_(cropped).jpg"
+ },
+ "https://www.gov.br/mcom/pt-br/noticias/2026/novembro/201cser-radioamador-e-exercer-a-sua-cidadania-e-o-cidadao-deve-ser-aquele-que-esta-a-servico-do-outro201d-afirma-radioamador-de-petropolis-rj": {
+  "recusado": true,
+  "criado": "2026-11-13T20:28:05.468986+00:00"
  }
 }
