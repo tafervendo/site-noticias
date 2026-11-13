@@ -1504,5 +1504,44 @@
  "https://www.espn.com.br/futebol/sao-paulo/artigo/_/id/17509056/presidente-saf-noroeste-explica-cancelamento-amistoso-sao-paulo-sugestao-rafinha-salvar-jogo": {
   "recusado": true,
   "criado": "2026-11-13T15:15:33.891764+00:00"
+ },
+ "https://www.terra.com.br/esportes/futebol/copa-2026/eliminatorias/cabo-verde-x-liberia-onde-assistir-escalacoes-e-arbitragem,add1a819c586086004bd4ba9184ff709qj5172f3.html": {
+  "recusado": true,
+  "criado": "2026-11-13T15:25:27.284084+00:00"
+ },
+ "https://motorsport.uol.com.br/motogp/news/motogp-ducati-e-a-primeira-marca-a-revelar-data-de-lancamento-da-nova-moto-850cc/10874163/": {
+  "publicar": true,
+  "titulo": "Ducati revela data de lançamento da Desmosedici GP 2027 da nova era 850cc",
+  "linha_fina": "Apresentação da moto acontece em 18 de janeiro, em Madonna di Campiglio, na Itália, com Marc Márquez e Pedro Acosta como pilotos",
+  "paragrafos": [
+   "A Ducati já anunciou a data de apresentação da Desmosedici GP 2027, moto que inaugura a nova era de 850cc na MotoGP, antes mesmo do fim da temporada 2026.",
+   "O lançamento está marcado para segunda-feira, 18 de janeiro, em Madonna di Campiglio, na Itália, local tradicional da marca. A revelação ocorrerá durante o evento Campioni in Pista, que chega à sua quinta edição.",
+   "A nova motocicleta de 850cc substituirá a 1000cc, que se aposenta após anos de bons resultados. Será também a ocasião de apresentar a dupla de pilotos da equipe.",
+   "Marc Márquez segue na equipe após um 2025 dominante e uma recuperação notável sobre a Aprilia em 2026. Ao lado dele estará Pedro Acosta, que ocupa a vaga deixada por Francesco Bagnaia, transferido para a Aprilia ao lado de Marco Bezzecchi.",
+   "Para Acosta, a chance de disputar o título com uma equipe competitiva é a grande oportunidade, mas ele enfrentará um dos maiores nomes da história do esporte."
+  ],
+  "tags": [
+   "MotoGP",
+   "Ducati",
+   "Marc Márquez",
+   "Pedro Acosta"
+  ],
+  "pessoa": "Marc Márquez",
+  "busca_imagem": "motorcycle racing track",
+  "criado": "2026-11-13T15:25:27.284084+00:00",
+  "slug": "ducati-revela-data-de-lancamento-da-desmosedici-gp-2027-da-nova-era-85-1510d7",
+  "fonte": "MotorSport.com.br",
+  "link": "https://motorsport.uol.com.br/motogp/news/motogp-ducati-e-a-primeira-marca-a-revelar-data-de-lancamento-da-nova-moto-850cc/10874163/",
+  "categoria": "em-alta",
+  "data": "2026-11-13T15:00:00+00:00",
+  "titulo_original": "MotoGP: Ducati é a primeira marca a revelar data de lançamento da nova moto 850cc",
+  "post": {
+   "tipo": "youtube",
+   "id": "1UsGVd9UsQs",
+   "url": "https://www.youtube.com/watch?v=1UsGVd9UsQs"
+  },
+  "imagem": "https://live.staticflickr.com/5041/5317467928_0ec7a7e963_b.jpg",
+  "credito": "Foto: ell brown / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/39415781@N06/5317467928"
  }
 }
