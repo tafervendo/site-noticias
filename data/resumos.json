@@ -1291,5 +1291,46 @@
  "https://www.cnnbrasil.com.br/pop/celebridades/vera-fisher-e-mais-veja-famosas-que-ja-disputaram-a-coroa-de-miss-universo/": {
   "recusado": true,
   "criado": "2026-11-13T10:56:32.373479+00:00"
+ },
+ "https://www.terra.com.br/byte/e-uma-forma-de-criatividade-bill-gates-cofundador-da-microsoft-explica-o-que-caracteriza-uma-pessoa-inteligente,96150a93689ebb122200e3f1f56b8f2d80hny7ar.html": {
+  "recusado": true,
+  "criado": "2026-11-13T11:53:19.163272+00:00"
+ },
+ "https://www.otempo.com.br/super-noticia/famosos/2026/11/13/ex-mulher-de-empresario-morto-em-acidente-com-cantor-rick-quebra-o-silencio-e-expoe-disputa-por-heranca": {
+  "recusado": true,
+  "criado": "2026-11-13T11:53:19.163272+00:00"
+ },
+ "https://www.espn.com.br/mma/ufc/artigo/_/id/17507516/amanda-nunes-reprova-saida-de-norma-dumont-do-ufc-ir-embora-nao-e-uma-boa-decisao": {
+  "recusado": true,
+  "criado": "2026-11-13T11:53:19.163272+00:00"
+ },
+ "https://www.cnnbrasil.com.br/esportes/tenis/perdedora-de-m-sabalenka-se-revolta-apos-perder-11-games-seguidos/": {
+  "publicar": true,
+  "titulo": "Aryna Sabalenka perde 11 games seguidos e se autocritica com humor no WTA Finals",
+  "linha_fina": "Bielorrussa caiu para Mirra Andreeva por 2 sets a 0 e ainda tem chances de se classificar no torneio",
+  "paragrafos": [
+   "A tenista bielorrussa Aryna Sabalenka, número 2 do mundo, foi derrotada pela russa Mirra Andreeva no WTA Finals em uma partida de pouco mais de uma hora, com parciais de 6/4 e 6/0.",
+   "Após o jogo, Sabalenka respondeu com bom humor sobre que conselho daria a si mesma como treinadora e fez uma autocrítica em tom de brincadeira, arrancando risadas. Em seguida, falou sério e disse que o resultado não define sua preparação para os próximos compromissos.",
+   "A virada da partida veio depois de Sabalenka abrir 4/1 no primeiro set. A partir dali, Andreeva emendou 11 games consecutivos e venceu 45 dos últimos 55 pontos disputados.",
+   "Aos 19 anos, Andreeva conquistou pela primeira vez uma vaga na semifinal do WTA Finals. Sabalenka ainda pode se classificar e enfrentará a ucraniana Elina Svitolina na última rodada da fase de grupos."
+  ],
+  "tags": [
+   "Aryna Sabalenka",
+   "WTA Finals",
+   "tênis"
+  ],
+  "pessoa": "Aryna Sabalenka",
+  "busca_imagem": "tennis player court",
+  "criado": "2026-11-13T11:53:19.163272+00:00",
+  "slug": "aryna-sabalenka-perde-11-games-seguidos-e-se-autocritica-com-humor-no-44ab58",
+  "fonte": "CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/esportes/tenis/perdedora-de-m-sabalenka-se-revolta-apos-perder-11-games-seguidos/",
+  "categoria": "em-alta",
+  "data": "2026-11-13T10:40:00+00:00",
+  "titulo_original": "\"Perdedora de m...\": Sabalenka se revolta após perder 11 games seguidos",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Aryna_Sabalenka_%282023_US_Open%29_35.jpg/1280px-Aryna_Sabalenka_%282023_US_Open%29_35.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Hameltion / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Aryna_Sabalenka_(2023_US_Open)_35.jpg"
  }
 }

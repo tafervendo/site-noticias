@@ -7164,5 +7164,154 @@
   "morte": null
  },
  "b:horror movie hockey mask": null,
- "b:baking soda sugar kitchen": null
+ "b:baking soda sugar kitchen": null,
+ "b:european singer concert stage": null,
+ "v:Roberta Miranda": {
+  "descricao": "cantora brasileira",
+  "nasc": 1956,
+  "morte": null
+ },
+ "p:Roberta Miranda": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/26_Pr%C3%AAmio_da_M%C3%BAsica_Brasileira_%2818508321048%29.jpg/1280px-26_Pr%C3%AAmio_da_M%C3%BAsica_Brasileira_%2818508321048%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: 26° Prêmio da Música Brasileira / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:26_Pr%C3%AAmio_da_M%C3%BAsica_Brasileira_(18508321048).jpg"
+ },
+ "b:charity auction gavel": null,
+ "v:Raça Negra": {
+  "descricao": "grupo musical brasileiro",
+  "nasc": null,
+  "morte": null
+ },
+ "b:vintage guitar stage": null,
+ "b:big brother reality show": null,
+ "b:police investigation folder": null,
+ "b:golden trophy award night": null,
+ "b:christmas movie streaming couch": null,
+ "v:Lívia Andrade": {
+  "descricao": "atriz e apresentadora brasileira",
+  "nasc": 1983,
+  "morte": null
+ },
+ "p:Lívia Andrade": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Live_Casa_Mimosa_-_Participa%C3%A7%C3%A3o_Livia_Andrade_%28cropped%29.jpg/1280px-Live_Casa_Mimosa_-_Participa%C3%A7%C3%A3o_Livia_Andrade_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Renato Cipriano / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Live_Casa_Mimosa_-_Participa%C3%A7%C3%A3o_Livia_Andrade_(cropped).jpg"
+ },
+ "b:bird sleeping perched branch": [
+  {
+   "imagem": "https://d1lfxha3ugu3d4.cloudfront.net/images/opencollection/objects/size4/1993.56_SL1.jpg",
+   "credito": "Foto: autor desconhecido / CC BY 3.0",
+   "credito_link": "https://www.brooklynmuseum.org/opencollection/objects/149031"
+  },
+  {
+   "imagem": "https://d1lfxha3ugu3d4.cloudfront.net/images/opencollection/objects/size4/1993.56_back_PS9.jpg",
+   "credito": "Foto: autor desconhecido / CC BY 3.0",
+   "credito_link": "https://www.brooklynmuseum.org/opencollection/objects/149031"
+  },
+  {
+   "imagem": "https://d1lfxha3ugu3d4.cloudfront.net/images/opencollection/objects/size4/1993.56_detail1_PS9.jpg",
+   "credito": "Foto: autor desconhecido / CC BY 3.0",
+   "credito_link": "https://www.brooklynmuseum.org/opencollection/objects/149031"
+  },
+  {
+   "imagem": "https://d1lfxha3ugu3d4.cloudfront.net/images/opencollection/objects/size4/CUR.1993.56_bottom_bw.jpg",
+   "credito": "Foto: autor desconhecido / CC BY 3.0",
+   "credito_link": "https://www.brooklynmuseum.org/opencollection/objects/149031"
+  },
+  {
+   "imagem": "https://d1lfxha3ugu3d4.cloudfront.net/images/opencollection/objects/size4/1993.56_bottom_SL4.jpg",
+   "credito": "Foto: autor desconhecido / CC BY 3.0",
+   "credito_link": "https://www.brooklynmuseum.org/opencollection/objects/149031"
+  }
+ ],
+ "b:woman wearing capri pants": [
+  {
+   "imagem": "https://live.staticflickr.com/7267/6989551250_fdffc68447_b.jpg",
+   "credito": "Foto: ingermaaike2 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/17293359@N07/6989551250"
+  }
+ ],
+ "b:cattle farm countryside Minas": [
+  {
+   "imagem": "https://live.staticflickr.com/160/409961619_5b551d554d_b.jpg",
+   "credito": "Foto: Ramón Peco / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/25951169@N00/409961619"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5485/10834231255_f6801da314_b.jpg",
+   "credito": "Foto: Felipe.Guimarães / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/100637770@N07/10834231255"
+  }
+ ],
+ "b:latin grammy trophy gramophone": null,
+ "v:Fernando de Noronha": {
+  "descricao": "arquipélago e distrito estadual de Pernambuco, Brasil",
+  "nasc": null,
+  "morte": null
+ },
+ "b:silver leaves yellow flowers plant": null,
+ "b:elegant event hall celebration": null,
+ "b:strawberry festival fair stall": null,
+ "b:young man guitar studio": [
+  {
+   "imagem": "https://live.staticflickr.com/8264/8673804424_c980e782af_b.jpg",
+   "credito": "Foto: Steren México / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/60716270@N08/8673804424"
+  }
+ ],
+ "v:Sasha Meneghel": {
+  "descricao": "estilista e modelo brasileira",
+  "nasc": 1998,
+  "morte": null
+ },
+ "p:Sasha Meneghel": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Arezzo_Inverno_2019_com_Sasha_Meneghel_02.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Arezzo Brasil - YouTube / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Arezzo_Inverno_2019_com_Sasha_Meneghel_02.jpg"
+ },
+ "b:car crash road accident": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Bike_crash_-_road_traffic_accident.jpg/1280px-Bike_crash_-_road_traffic_accident.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Alextredz / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Bike_crash_-_road_traffic_accident.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/SUV_after_Crash_-_Car_Accident_-_Drunk_Driver_%2832660605727%29.jpg/1280px-SUV_after_Crash_-_Car_Accident_-_Drunk_Driver_%2832660605727%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Tony Webster from Minneapolis, Minnesota, United… / CC BY 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:SUV_after_Crash_-_Car_Accident_-_Drunk_Driver_(32660605727).jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Fatal_Crash_at_Coxwell_and_Danforth_Traffic_chaos_around_the_accident_scene_%282669056759%29.jpg/1280px-Fatal_Crash_at_Coxwell_and_Danforth_Traffic_chaos_around_the_accident_scene_%282669056759%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Can Pac Swire from Toronto, Canada / CC BY-SA 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Fatal_Crash_at_Coxwell_and_Danforth_Traffic_chaos_around_the_accident_scene_(2669056759).jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Yuen_Wo_Road_car_crash_20201111_1.jpg/1280px-Yuen_Wo_Road_car_crash_20201111_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Sun8908 / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Yuen_Wo_Road_car_crash_20201111_1.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Yuen_Wo_Road_car_crash_20201111_2.jpg/1280px-Yuen_Wo_Road_car_crash_20201111_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Sun8908 / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Yuen_Wo_Road_car_crash_20201111_2.jpg"
+  }
+ ],
+ "b:farmhouse countryside veranda": null,
+ "v:Rio Grande do Sul": {
+  "descricao": "unidade federativa do Brasil",
+  "nasc": null,
+  "morte": null
+ },
+ "b:canyon araucaria pine forest plateau": null,
+ "b:luxury mansion backyard trees": null,
+ "v:Aryna Sabalenka": {
+  "descricao": "tenista bielorrussa",
+  "nasc": 1998,
+  "morte": null
+ },
+ "p:Aryna Sabalenka": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Aryna_Sabalenka_%282023_US_Open%29_35.jpg/1280px-Aryna_Sabalenka_%282023_US_Open%29_35.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Hameltion / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Aryna_Sabalenka_(2023_US_Open)_35.jpg"
+ }
 }
