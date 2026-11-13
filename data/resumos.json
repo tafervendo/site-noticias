@@ -1086,5 +1086,40 @@
   "imagem": "https://live.staticflickr.com/68/429523518_df35aef719_b.jpg",
   "credito": "Foto: NMC Second Life / CC BY 2.0",
   "credito_link": "https://www.flickr.com/photos/80456686@N00/429523518"
+ },
+ "https://www1.folha.uol.com.br/mercado/2026/11/stj-garante-prazo-maior-para-desempregado-ter-direito-a-beneficio-do-inss-entenda.shtml": {
+  "recusado": true,
+  "criado": "2026-11-13T05:34:27.353085+00:00"
+ },
+ "https://www.estadao.com.br/esportes/velocidade/enzo-fittipaldi-substitui-di-grassi-em-equipe-da-formula-e-e-se-junta-a-drugovich-na-categoria/": {
+  "publicar": true,
+  "titulo": "Enzo Fittipaldi é anunciado na Lola e vai correr na Fórmula E ao lado de Shwartzman",
+  "linha_fina": "Neto de Emerson Fittipaldi assume vaga deixada por Lucas di Grassi e se junta a Felipe Drugovich na categoria elétrica",
+  "paragrafos": [
+   "O piloto brasileiro Enzo Fittipaldi, de 25 anos e neto do bicampeão de Fórmula 1 Emerson Fittipaldi, foi apresentado nesta quinta-feira, dia 12, como reforço da equipe Lola na Fórmula E. Ele ocupa o lugar de Lucas di Grassi, que saiu da competição após a última temporada.",
+   "Em declaração ao anúncio, Enzo agradeceu à escuderia pela chance e afirmou que a oportunidade representa um salto importante em sua trajetória no automobilismo. Ele vai dividir o carro com Robert Shwartzman, piloto que compete com a bandeira de Israel.",
+   "Felipe Drugovich também seguirá representando o Brasil na categoria na temporada 2026-2027, mas permanece na Andretti, equipe pela qual já competiu no ciclo atual.",
+   "Antes da Fórmula E, Enzo passou pela Fórmula 3 e pela Fórmula 2 e, em 2026, correu na Indy NXT, categoria de formação, onde terminou como vice-campeão.",
+   "A nova temporada marca a estreia de uma geração inédita de carros. A abertura acontece na Cidade do México, em 16 de janeiro, e a competição chega a São Paulo, no Anhembi, em 13 de março de 2027."
+  ],
+  "tags": [
+   "Enzo Fittipaldi",
+   "Fórmula E",
+   "Lola",
+   "Felipe Drugovich"
+  ],
+  "pessoa": "Enzo Fittipaldi",
+  "busca_imagem": "electric race car track",
+  "criado": "2026-11-13T05:34:27.353085+00:00",
+  "slug": "enzo-fittipaldi-e-anunciado-na-lola-e-vai-correr-na-formula-e-ao-lado-1de4f1",
+  "fonte": "Estadão",
+  "link": "https://www.estadao.com.br/esportes/velocidade/enzo-fittipaldi-substitui-di-grassi-em-equipe-da-formula-e-e-se-junta-a-drugovich-na-categoria/",
+  "categoria": "em-alta",
+  "data": "2026-11-13T03:50:00+00:00",
+  "titulo_original": "Enzo Fittipaldi substitui Di Grassi em equipe da Fórmula E e se junta a Drugovich na categoria",
+  "post": null,
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Enzo_Fittipaldi_Austria_2022.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: KVYTICAL / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": ""
  }
 }
