@@ -543,6 +543,110 @@ def termos_de_imagem(manchetes):
     return {x["n"]: x["busca"].strip() for x in (dados or {}).get("itens", []) if 0 <= x.get("n", -1) < len(manchetes)}
 
 
+CONFERE_IMAGEM = """Você é editor de fotografia de um site de notícias. Para cada par (manchete + foto), decida se a foto pode ilustrar ESSA manchete na capa do site.
+
+Aprove só se a foto mostrar claramente o assunto concreto da manchete: a pessoa citada (sem contradizer o título), o objeto, o lugar ou a situação de que a notícia fala.
+
+Reprove se:
+- a foto não tem relação clara com o assunto, ou é genérica demais (paisagem, textura, objeto qualquer);
+- mostra uma pessoa que contradiz a manchete (gênero, idade, época, profissão diferentes) ou várias pessoas quando a notícia é sobre uma;
+- é desenho, mapa, gráfico, documento, logotipo ou tela com texto sem relação;
+- é constrangedora, de mau gosto, violenta ou pode ofender quem aparece;
+- mostra marca, logotipo ou nome de outro veículo de imprensa.
+Na dúvida, reprove: é melhor a notícia ficar sem foto do que com uma que não combina.
+Você não precisa (nem deve) dizer quem é a pessoa da foto; avalie só se ela é coerente com a manchete."""
+
+ESQUEMA_CONFERE = {
+    "type": "object",
+    "properties": {"itens": {"type": "array", "items": {
+        "type": "object", "properties": {"n": {"type": "integer"}, "combina": {"type": "boolean"}},
+        "required": ["n", "combina"], "additionalProperties": False}}},
+    "required": ["itens"], "additionalProperties": False,
+}
+
+
+def miniatura_base64(url):
+    """Baixa a foto e reduz para 512 px (a IA vê bem e custa pouco)."""
+    import base64
+    import io
+    from PIL import Image
+    req = urllib.request.Request(url, headers={
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15"})
+    with urllib.request.urlopen(req, timeout=20) as r:
+        img = Image.open(io.BytesIO(r.read(8_000_000))).convert("RGB")
+    img.thumbnail((512, 512))
+    saida = io.BytesIO()
+    img.save(saida, "JPEG", quality=80)
+    return base64.b64encode(saida.getvalue()).decode()
+
+
+def chave_conferencia(img, titulo):
+    return "c:" + hashlib.sha1((img + "|" + titulo).encode()).hexdigest()[:20]
+
+
+APROVADAS = {}
+
+
+def foto_aprovada(img, titulo, credito=""):
+    """Só aparece no site foto que a IA conferiu com a manchete (ou da Agência Brasil, que vem da própria notícia)."""
+    if not img:
+        return False
+    if "Agência Brasil" in credito:
+        return True
+    return APROVADAS.get(chave_conferencia(img, titulo)) is True
+
+
+def conferir_imagens(noticias, limite=120):
+    """A IA olha cada foto junto com a manchete; foto que não combina sai do site."""
+    import time
+    if not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN")):
+        return
+    import anthropic
+    cache = json.loads(FOTOS.read_text(encoding="utf-8")) if FOTOS.exists() else {}
+    resumos = json.loads(RESUMOS.read_text(encoding="utf-8")) if RESUMOS.exists() else {}
+    chave = chave_conferencia
+    alvos = [("n", n, n["titulo"]) for n in noticias if n.get("imagem") and n.get("credito", "").find("Agência Brasil") < 0]
+    alvos += [("r", r, r["titulo"]) for r in resumos.values() if r.get("slug") and r.get("imagem")]
+    pendentes = [a for a in alvos if chave(a[1]["imagem"], a[2]) not in cache][:limite]
+    cliente = anthropic.Anthropic()
+    reprovadas = 0
+    for i in range(0, len(pendentes), 8):
+        lote, conteudo, validos = pendentes[i:i + 8], [], []
+        for j, (_, reg, titulo) in enumerate(lote):
+            try:
+                dado = miniatura_base64(reg["imagem"])
+            except Exception:
+                continue
+            validos.append(j)
+            conteudo += [{"type": "text", "text": f"{j}. Manchete: {titulo}"},
+                         {"type": "image", "source": {"type": "base64", "media_type": "image/jpeg", "data": dado}}]
+            time.sleep(0.5)
+        if not validos:
+            continue
+        resposta = chamar_ia(cliente, CONFERE_IMAGEM, conteudo, ESQUEMA_CONFERE, "low")
+        if resposta is None:
+            break  # IA indisponível agora: tenta na próxima rodada
+        veredito = {x["n"]: x["combina"] for x in resposta.get("itens", [])}
+        for j in validos:
+            tipo, reg, titulo = lote[j]
+            ok = veredito.get(j, False)
+            cache[chave(reg["imagem"], titulo)] = ok
+            if ok:
+                continue
+            reprovadas += 1
+            if tipo == "n":
+                reg.setdefault("vetadas", []).append(reg["imagem"])
+                for campo in ("imagem", "credito", "credito_link", "imagem_tipo", "pessoa"):
+                    reg.pop(campo, None)
+                reg["imagem"] = ""
+            else:
+                reg.update({"imagem": "", "credito": "", "credito_link": ""})
+    FOTOS.write_text(json.dumps(cache, ensure_ascii=False, indent=1), encoding="utf-8")
+    RESUMOS.write_text(json.dumps(resumos, ensure_ascii=False, indent=1), encoding="utf-8")
+    DADOS.write_text(json.dumps(noticias, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"Conferência de imagens: {len(pendentes)} conferidas, {reprovadas} reprovadas e retiradas.")
+
+
 def revisar_fotos_materias():
     """A cada rodada, a foto de pessoa das matérias próprias passa de novo pelas travas contra homônimos."""
     if not RESUMOS.exists():
@@ -611,7 +715,7 @@ def ilustrar(noticias, limite=40):
                     cache["p:" + nome] = foto_wikipedia(nome)
                 except Exception:
                     continue
-            if cache["p:" + nome]:
+            if cache["p:" + nome] and cache["p:" + nome]["imagem"] not in n.get("vetadas", []):
                 achada = {**cache["p:" + nome], "imagem_tipo": "pessoa", "pessoa": nome}
                 break
         if not achada and n.get("busca_imagem"):
@@ -625,7 +729,8 @@ def ilustrar(noticias, limite=40):
                 except Exception as e:  # limite do banco: não guarda a falha, tenta na próxima rodada
                     print(f"  ! Banco de imagens ({busca}): {e}")
                 time.sleep(1)
-            opcoes = cache.get("b:" + busca) or []
+            vetadas = set(n.get("vetadas", []))
+            opcoes = [o for o in (cache.get("b:" + busca) or []) if o["imagem"] not in vetadas]
             if opcoes:
                 achada = {**opcoes[semente % len(opcoes)], "imagem_tipo": "banco"}
         if achada:
@@ -980,6 +1085,8 @@ class Item:
         self.chamada = resumo["linha_fina"] if resumo else ""  # não reproduz texto de outros veículos
         self.imagem = (resumo or {}).get("imagem") or n.get("imagem", "")
         self.credito = (resumo or {}).get("credito") or n.get("credito", "")
+        if not foto_aprovada(self.imagem, resumo["titulo"] if resumo else n["titulo"], self.credito):
+            self.imagem, self.credito = "", ""
         self.cat, self.fonte, self.data = n["categoria"], n["fonte"], n["data"]
 
     def href(self, raiz=""):
@@ -1548,6 +1655,8 @@ def gerar(noticias, resumos):
     shutil.copy(RAIZ / "estilo.css", SAIDA / "estilo.css")
     shutil.copy(RAIZ / "favicon.svg", SAIDA / "favicon.svg")
 
+    if FOTOS.exists():
+        APROVADAS.update({k: v for k, v in json.loads(FOTOS.read_text(encoding="utf-8")).items() if k.startswith("c:")})
     itens = montar_itens(noticias, resumos)
     gerar_pessoas(itens, resumos)
     gerar_capa(itens)
@@ -1718,6 +1827,9 @@ if __name__ == "__main__":
     noticias = coletar()
     ilustrar(noticias)
     revisar_fotos_materias()
+    conferir_imagens(noticias)
+    ilustrar(noticias)
+    conferir_imagens(noticias, limite=40)
     print("Escrevendo resumos…")
     resumos = resumir_novas(noticias)
     if PREVIEW and not any(r.get("slug") for r in resumos.values()):
