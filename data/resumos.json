@@ -2355,9 +2355,9 @@
   "data": "2026-11-14T12:20:00+00:00",
   "titulo_original": "Copa América 2028: Onde será disputada, quando começa e o que já se sabe sobre o torneio",
   "post": null,
-  "imagem": "https://live.staticflickr.com/49/131954710_a17e3facac_b.jpg",
-  "credito": "Foto: Arrr! / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/84488184@N00/131954710"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www.estadao.com.br/em-alta/politica/blog-do-fausto-macedo/mae-pai-e-tio-de-deputado-desviaram-emendas-de-r-86-milhoes-com-saques-e-transportadora-diz-pf/": {
   "recusado": true,
@@ -2388,8 +2388,47 @@
   "data": "2026-11-14T12:10:00+00:00",
   "titulo_original": "Jota.pê chega a 5 Grammys Latinos e bate recorde na MPB",
   "post": null,
-  "imagem": "https://live.staticflickr.com/3947/15372331468_c8401eafe2_b.jpg",
-  "credito": "Foto: justin / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/35034345586@N01/15372331468"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://tmc.com.br/esporte/kosovo-x-israel-onde-assistir-uefa-nations-league-2026-2027/": {
+  "recusado": true,
+  "criado": "2026-11-14T13:49:06.749328+00:00"
+ },
+ "https://noticiasdatv.uol.com.br/noticia/reality-show/irene-de-quilos-mortais-hoje-saiba-como-esta-a-mulher-que-chegou-aos-273-kg-159418": {
+  "publicar": true,
+  "titulo": "Irene Walker, de Quilos Mortais, faz cirurgia bariátrica e perde peso após anos de luta",
+  "linha_fina": "Participante chegou a cerca de 224 kg antes da operação, feita após a pandemia atrasar o procedimento, segundo a Parade",
+  "paragrafos": [
+   "Irene Walker, participante do reality Quilos Mortais, passou pela cirurgia bariátrica depois de muitas dificuldades para emagrecer. Ela começou o tratamento pesando cerca de 273 kg e chegou a aproximadamente 224 kg antes da operação. Segundo a revista norte-americana Parade, o procedimento foi feito, e o episódio que acompanha o caso foi exibido nos Estados Unidos em 9 de abril de 2025.",
+   "Antes da cirurgia, Irene precisava de ajuda de familiares para tarefas do dia a dia. Como já não conseguia morar sozinha, foi viver com o filho mais velho, a sobrinha e a nora. Sua relação com a comida vinha de longe, desde a infância, e se somava a uma história marcada pela perda dos pais, pela passagem por um abrigo, pelo uso de drogas e pelo afastamento dos filhos. Depois de se livrar da dependência química, ainda precisou lidar com a compulsão alimentar, e foi a sobrinha quem a incentivou a buscar tratamento.",
+   "No acompanhamento com o doutor Now, Younan Nowzaradan, os primeiros resultados ficaram aquém da meta. Ela deveria perder cerca de 27 quilos em dois meses, mas registrou queda de aproximadamente 2,3 quilos, e na consulta seguinte, pouco mais de três. A pandemia de Covid-19 interrompeu as visitas por sete meses.",
+   "A cirurgia foi aprovada quando Irene estava perto de 243 quilos, mas só pôde ser marcada depois, por causa das restrições da pandemia. Nesse intervalo, recebeu a recomendação de seguir emagrecendo e manter a alimentação mais saudável. Segundo o programa Quilos Mortais: Como Eles Estão Agora?, exibido pelo Discovery Home & Health, a operação deu certo e ela seguiu ativa e na dieta enquanto era acompanhada.",
+   "Hoje, Irene ainda enfrenta o excesso de peso, mas está em melhor condição de saúde do que quando começou o tratamento."
+  ],
+  "tags": [
+   "Quilos Mortais",
+   "Irene Walker",
+   "cirurgia bariátrica",
+   "reality show"
+  ],
+  "pessoa": "",
+  "busca_imagem": "weight loss journey",
+  "criado": "2026-11-14T13:49:06.749328+00:00",
+  "slug": "irene-walker-de-quilos-mortais-faz-cirurgia-bariatrica-e-perde-peso-ap-37832c",
+  "fonte": "Notícias da TV",
+  "link": "https://noticiasdatv.uol.com.br/noticia/reality-show/irene-de-quilos-mortais-hoje-saiba-como-esta-a-mulher-que-chegou-aos-273-kg-159418",
+  "categoria": "em-alta",
+  "data": "2026-11-14T13:30:00+00:00",
+  "titulo_original": "Irene de Quilos Mortais hoje: Saiba como está a mulher que chegou aos 273 kg",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/William_Banting_weight_loss_journey.png/1280px-William_Banting_weight_loss_journey.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: ChatGPT / Public domain, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:William_Banting_weight_loss_journey.png"
+ },
+ "https://www.dust2.com.br/noticias/79871/apex-diz-que-nunca-esteve-tao-perdido-quanto-em-jogo-contra-furia": {
+  "recusado": true,
+  "criado": "2026-11-14T13:49:06.749328+00:00"
  }
 }
