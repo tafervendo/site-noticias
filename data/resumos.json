@@ -33,9 +33,9 @@
   "data": "2026-11-12T02:10:00+00:00",
   "titulo_original": "Henry Cavill não descarta interpretar Superman novamente após mudanças na DC",
   "post": null,
-  "imagem": "https://live.staticflickr.com/4041/4386543960_fbb5ccae75_b.jpg",
-  "credito": "Foto: JD Hancock / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/83346641@N00/4386543960"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/galipolo-e-elisa-veeck-estao-esperando-a-primeira-filha-jornalista-esta-gravida-de-quatro-meses.shtml": {
   "publicar": true,
@@ -1991,5 +1991,52 @@
  "https://tvsimbrasil.com.br/rj/rio-de-janeiro/esportes/noticia/2026/11/13/toquinho-promete-sair-na-mao-contra-galvao-revanche": {
   "recusado": true,
   "criado": "2026-11-14T03:47:45.072155+00:00"
+ },
+ "https://tenisbrasil.uol.com.br/stefani-e-dabrowski-vencem-em-tres-sets-e-se-classificam-em-1o-no-grupo.html": {
+  "recusado": true,
+  "criado": "2026-11-14T04:49:17.290017+00:00"
+ },
+ "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-em-vitoria-hoje-veja-como-fica-o-clima-nesta-sexta-feira,46167375df9712e61887364f47aadbc3rn2gz6if.html": {
+  "recusado": true,
+  "criado": "2026-11-14T04:49:17.290017+00:00"
+ },
+ "https://noticiasdatv.uol.com.br/noticia/novelas/resumo-de-por-voce-proximo-capitulo-da-novela-sabado-14-de-novembro-159255": {
+  "recusado": true,
+  "criado": "2026-11-14T04:49:17.290017+00:00"
+ },
+ "https://www1.folha.uol.com.br/mercado/2026/11/reforma-da-previdencia-completa-7-anos-e-reacende-debate-sobre-ajuste-nas-regras-da-aposentadoria-do-inss.shtml": {
+  "publicar": true,
+  "titulo": "Sete anos após reforma, Previdência volta ao centro do debate sobre nova mudança nas aposentadorias",
+  "linha_fina": "Especialistas defendem elevar a idade mínima para 67 anos, medida que manteria a despesa em torno de 10% do PIB, mas que enfrenta resistência social",
+  "paragrafos": [
+   "A reforma da Previdência completa sete anos nesta sexta-feira (13), e o país volta a discutir um novo ajuste para conter o déficit que cresce com o envelhecimento acelerado da população. Segurados do INSS enfrentam hoje regras mais rígidas para conseguir se aposentar.",
+   "Atualmente, os gastos previdenciários consomem cerca de 8% do PIB. Sem mudanças, a fatia pode chegar a 17% em 2100. Entre as propostas em discussão está a elevação da idade mínima para 67 anos, que, segundo especialistas, estabilizaria a despesa em 10% do PIB. A ideia, porém, ainda não tem boa aceitação entre a sociedade.",
+   "Para além da idade mínima, analistas apontam que será preciso debater o financiamento da Previdência a partir de 2027 e a capacidade de sustentar a proteção social no longo prazo. O ex-secretário Leonardo Rolim cita projeções do IBGE e afirma que haverá menos de dois contribuintes potenciais por idoso em 2070, número insuficiente para o modelo atual, e defende uma camada de capitalização obrigatória e a inclusão de trabalhadores de aplicativos no financiamento.",
+   "O economista Fabio Giambiagi considera desejável uma nova reforma no próximo ano, mas vê dificuldades políticas para uma mudança ampla. Ele sugere subir a idade mínima de forma gradual, chegando entre 67 e 68 anos para os homens. Já o advogado Rômulo Saraiva critica as regras de transição da reforma de 2019, e a advogada Adriane Bramante lembra que o STF derrubou a exigência de idade mínima para a aposentadoria especial.",
+   "A pesquisadora do Ipea Ana Amélia Camarano afirma que trabalhar por mais tempo não basta sem políticas que mantenham os mais velhos empregados, como qualificação e adaptação dos ambientes de trabalho. Ela alerta que a informalidade pode levar mais pessoas a depender do BPC."
+  ],
+  "tags": [
+   "reforma da Previdência",
+   "aposentadoria INSS",
+   "idade mínima",
+   "envelhecimento"
+  ],
+  "pessoa": "",
+  "busca_imagem": "elderly retirement planning",
+  "criado": "2026-11-14T04:49:17.290017+00:00",
+  "slug": "sete-anos-apos-reforma-previdencia-volta-ao-centro-do-debate-sobre-nov-7e9d34",
+  "fonte": "Folha de S.Paulo",
+  "link": "https://www1.folha.uol.com.br/mercado/2026/11/reforma-da-previdencia-completa-7-anos-e-reacende-debate-sobre-ajuste-nas-regras-da-aposentadoria-do-inss.shtml",
+  "categoria": "em-alta",
+  "data": "2026-11-13T23:30:00+00:00",
+  "titulo_original": "Reforma da Previdência completa 7 anos e reacende debate sobre ajuste nas regras da aposentadoria do INSS",
+  "post": {
+   "tipo": "youtube",
+   "id": "a1-MQQWZLWM",
+   "url": "https://www.youtube.com/watch?v=a1-MQQWZLWM"
+  },
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  }
 }
