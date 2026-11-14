@@ -1864,5 +1864,51 @@
  "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-civil-do-rio-vai-investigar-morte-da-influenciadora-vivi-motta/": {
   "recusado": true,
   "criado": "2026-11-14T00:09:02.063005+00:00"
+ },
+ "https://noticiasdatv.uol.com.br/noticia/novelas/resumo-de-quem-ama-cuida-proximo-capitulo-da-novela-sabado-14-de-novembro-159252": {
+  "recusado": true,
+  "criado": "2026-11-14T01:40:20.940068+00:00"
+ },
+ "https://tenisbrasil.uol.com.br/stefani-tenta-vaga-na-semi-nesta-sexta-sabalenka-e-svitolina-duelam.html": {
+  "recusado": true,
+  "criado": "2026-11-14T01:40:20.940068+00:00"
+ },
+ "https://www.estadao.com.br/pulsa/mente-e-cerebro/carlos-nobre-e-diagnosticado-com-ela-quais-sintomas-da-doenca-tem-cura-nprm/": {
+  "recusado": true,
+  "criado": "2026-11-14T01:40:20.940068+00:00"
+ },
+ "https://noticiasdatv.uol.com.br/noticia/novelas/a-reacao-de-dora-ao-descobrir-romance-de-fabia-com-ademir-em-quem-ama-cuida-159243": {
+  "recusado": true,
+  "criado": "2026-11-14T01:40:20.940068+00:00"
+ },
+ "https://oplanetatv.clickgratis.com.br/noticias/bastidores/globo-reduz-espaco-de-em-familia-com-eliana-e-muda-horario-no-domingo-15.html": {
+  "publicar": true,
+  "titulo": "Eliana tem programa encurtado e horário mudado pela Globo no domingo (15)",
+  "linha_fina": "Sem futebol na grade, a atração entra às 16h35, depois de duas sessões de cinema, e pode ser sua edição mais curta desde a estreia",
+  "paragrafos": [
+   "No próximo domingo (15), a Globo vai encurtar Em Família com Eliana e empurrar a atração para as 16h35, um horário fora do habitual. Se a grade for mantida, a edição terá menos de uma hora prevista e deve ser a mais curta desde a estreia, em março de 2026.",
+   "A emissora aproveita a semana sem Campeonato Brasileiro para colocar mais cinema no lugar do futebol. Antes de Eliana, a grade traz o filme Temperatura Máxima, às 12h30, e Campeões de Bilheteria, às 14h30.",
+   "O programa não foi ao ar no domingo (8), dia em que a Globo exibiu a corrida de Fórmula 1 no Autódromo de Interlagos, em São Paulo. A própria emissora já tinha avisado que a atração voltaria no dia 15. A audiência também pesa: desde que a nova fase começou, em julho, com mudanças de formato e novos quadros, os índices na Grande São Paulo costumam ficar perto de 7 pontos, e a edição de 1º de novembro teve 6,9, o pior resultado de um domingo até agora. Na estreia, em 15 de março, o programa marcou 10,9.",
+   "Mesmo com o horário diferente e o tempo reduzido, o formato segue. No dia 15, o quadro Show em Família, com apresentações musicais e histórias de participantes, terá continuidade."
+  ],
+  "tags": [
+   "Em Família com Eliana",
+   "Globo",
+   "audiência",
+   "programação dominical"
+  ],
+  "pessoa": "Eliana",
+  "busca_imagem": "television broadcast studio",
+  "criado": "2026-11-14T01:40:20.940068+00:00",
+  "slug": "eliana-tem-programa-encurtado-e-horario-mudado-pela-globo-no-domingo-1-e3c18b",
+  "fonte": "O Planeta TV",
+  "link": "https://oplanetatv.clickgratis.com.br/noticias/bastidores/globo-reduz-espaco-de-em-familia-com-eliana-e-muda-horario-no-domingo-15.html",
+  "categoria": "em-alta",
+  "data": "2026-11-14T01:10:00+00:00",
+  "titulo_original": "Globo reduz espaço de Em Família com Eliana e muda horário no domingo (15)",
+  "post": null,
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Eliana_2018.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Eliana_2018.jpg"
  }
 }
