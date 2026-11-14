@@ -2165,8 +2165,51 @@
   "data": "2026-11-14T06:10:00+00:00",
   "titulo_original": "Dino mantém prazo inicial da 5x2, mas flexibiliza regra de transição",
   "post": null,
-  "imagem": "https://live.staticflickr.com/5008/5279615626_cfbb56e52f_b.jpg",
-  "credito": "Foto: Kheel Center, Cornell University Library / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/38445726@N04/5279615626"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/nubank-recebe-aval-do-bc-para-comprar-banco-porto-real-e-da-passo-decisivo-para-ter-licenca-bancaria/": {
+  "recusado": true,
+  "criado": "2026-11-14T08:49:29.102376+00:00"
+ },
+ "https://www.netvasco.com.br/n/396267/clubes-de-portugal-e-da-espanha-demonstram-interesse-no-zagueiro-vascaino-lyncon": {
+  "recusado": true,
+  "criado": "2026-11-14T08:49:29.102376+00:00"
+ },
+ "https://bncamazonas.com.br/municipios/filho-do-secretario-da-sepror-morre-em-acidente-de-carro/": {
+  "recusado": true,
+  "criado": "2026-11-14T08:49:29.102376+00:00"
+ },
+ "https://www.nsctotal.com.br/economia/90-horas-sem-fechar-carrefour-abre-mais-de-90-lojas-sem-parar-na-black-friday-com-5-mil-ofertas": {
+  "publicar": true,
+  "titulo": "Carrefour fica 90 horas sem fechar lojas na Black Friday com mais de 5 mil ofertas",
+  "linha_fina": "Rede projeta alta de 8% a 9% nas vendas e amplia equipes em mais de 15% para a campanha de 26 a 29 de novembro",
+  "paragrafos": [
+   "O Grupo Carrefour Brasil vai manter mais de 90 hipermercados abertos por 90 horas seguidas durante a Black Friday de 2026, a partir das 6h de 26 de novembro até o dia 29. A campanha reúne mais de 5 mil ofertas em lojas das bandeiras Carrefour, Atacadão e Sam's Club, que somam cerca de 962 unidades no país.",
+   "A empresa espera crescer entre 8% e 9% nas vendas em relação ao ano anterior. Para dar conta do movimento, aumentou em mais de 15% o número de funcionários em setores estratégicos, como caixas, eletroeletrônicos e store picking, responsável por separar nas gôndolas os produtos comprados pelo site ou aplicativo. A estratégia visa diluir o pico de clientes, que costuma se concentrar de quinta-feira a sábado.",
+   "Segundo a reportagem, o consumo das famílias mudou: parte das compras de fim de ano, como panetones, vinhos e chocolates, passou a acontecer já em novembro. Hoje, esses produtos dividem a procura quase igualmente entre novembro e dezembro. Até o salmão importado do Chile vende mais na Black Friday do que às vésperas do Réveillon.",
+   "Segundo o diretor de Operações Hiper, Super e Proximidade do Carrefour, Marco Alcolezi, a demanda varia por região: televisores de telas grandes vendem mais no Sul e no Sudeste, enquanto modelos médios e bebidas como whisky têm procura maior no Nordeste. A rede usa centros de distribuição em Porto Alegre e Manaus para abastecer unidades distantes.",
+   "De acordo com a Exame, Alcolezi afirmou que existe uma guerra no mercado e que a empresa reduz margens em categorias-chave para ganhar volume. Segundo o executivo, cada oferta passa por checagem para garantir preço abaixo do praticado nos 90 dias anteriores, em acordo com o Procon."
+  ],
+  "tags": [
+   "Carrefour",
+   "Black Friday",
+   "promoções",
+   "varejo"
+  ],
+  "pessoa": "",
+  "busca_imagem": "supermarket shopping cart",
+  "criado": "2026-11-14T08:49:29.102376+00:00",
+  "slug": "carrefour-fica-90-horas-sem-fechar-lojas-na-black-friday-com-mais-de-5-cbb272",
+  "fonte": "NSC Total",
+  "link": "https://www.nsctotal.com.br/economia/90-horas-sem-fechar-carrefour-abre-mais-de-90-lojas-sem-parar-na-black-friday-com-5-mil-ofertas",
+  "categoria": "em-alta",
+  "data": "2026-11-14T08:00:00+00:00",
+  "titulo_original": "90 horas sem fechar: Carrefour abre mais de 90 lojas sem parar na Black Friday com 5 mil ofertas",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/3264/2793291799_248ae47594_b.jpg",
+  "credito": "Foto: hospi-table / CC BY-SA 2.0",
+  "credito_link": "https://www.flickr.com/photos/10800393@N06/2793291799"
  }
 }
