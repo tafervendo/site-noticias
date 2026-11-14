@@ -2640,12 +2640,55 @@
   "data": "2026-11-14T19:00:00+00:00",
   "titulo_original": "Navio atinge e vira barco de cruzeiro com 197 pessoas em Nova Orleans",
   "post": null,
-  "imagem": "https://live.staticflickr.com/4101/4899659064_299699eb06_b.jpg",
-  "credito": "Foto: Tigereon / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/45958316@N04/4899659064"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://tmc.com.br/esporte/romenia-x-polonia-onde-assistir-uefa-nations-league-2026-2027/": {
   "recusado": true,
   "criado": "2026-11-14T19:39:54.885675+00:00"
+ },
+ "https://www.estadao.com.br/em-alta/cultura/musica/entre-sermoes-de-bono-e-o-fantasma-de-dolly-parton-u2-reencontra-sua-vocacao-em-carnaval-de-luz/": {
+  "recusado": true,
+  "criado": "2026-11-14T20:35:45.628445+00:00"
+ },
+ "https://www.correiobraziliense.com.br/brasil/2026/11/7536423-como-cadastrar-celular-para-receber-os-alertas-da-defesa-civil-no-df.html": {
+  "recusado": true,
+  "criado": "2026-11-14T20:35:45.628445+00:00"
+ },
+ "https://www.cnnbrasil.com.br/pop/celebridades/shawn-mendes-e-bruna-marquezine-comparecem-em-pre-casamento-de-leo-fuchs/": {
+  "recusado": true,
+  "criado": "2026-11-14T20:35:45.628445+00:00"
+ },
+ "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/14/camisa-7-portugal-carlos-forbs-cristiano-ronaldo.ghtm": {
+  "publicar": true,
+  "titulo": "Carlos Forbs vestirá a camisa 7 de Portugal no primeiro jogo sem Cristiano Ronaldo",
+  "linha_fina": "Atacante do Club Brugge herda o número para o duelo contra a Dinamarca, segundo a imprensa portuguesa",
+  "paragrafos": [
+   "Quem vai usar a camisa 7 da seleção portuguesa, pelo menos nesta partida, é Carlos Forbs, atacante do Club Brugge. A escolha para o confronto de hoje contra a Dinamarca foi noticiada pela imprensa de Portugal, e será a primeira vez que a equipe joga sem Cristiano Ronaldo.",
+   "Forbs tem 22 anos, nasceu em Sintra e teve formação no Manchester City, antes de ser revelado pelo Ajax. Depois passou pelo Wolverhampton até chegar ao clube belga. Nesta temporada, soma cinco gols e sete assistências em 15 partidas pelo Brugge.",
+   "Pela seleção, ele tem apenas uma partida. Em novembro de 2025, entrou no segundo tempo da goleada de 9 a 1 sobre a Armênia, que deu a Portugal a vaga na Copa do Mundo de 2026, e deu uma assistência no jogo. Apesar de ter saído de Portugal cedo, defendeu praticamente todas as seleções de base do país.",
+   "A numeração é exigida pela Uefa: com 23 convocados, os números vão de 1 a 23, então alguém precisaria ficar com o 7. Na Data Fifa anterior, Rafael Leão já havia herdado o número de Ronaldo, depois que o craque deixou a concentração em meio a um desentendimento com o técnico Jorge Jesus.",
+   "A Federação Portuguesa de Futebol informou que a camisa 7 terá grafia diferente a partir deste jogo, em homenagem a Ronaldo, e que pretende organizar uma despedida para o atleta. Segundo a própria federação, o número anterior ficará reservado para eternizar a história do jogador. A partida será às 16h45, horário de Brasília."
+  ],
+  "tags": [
+   "Cristiano Ronaldo",
+   "seleção portuguesa",
+   "Carlos Forbs",
+   "Data Fifa"
+  ],
+  "pessoa": "Cristiano Ronaldo",
+  "busca_imagem": "soccer jersey stadium",
+  "criado": "2026-11-14T20:35:45.628445+00:00",
+  "slug": "carlos-forbs-vestira-a-camisa-7-de-portugal-no-primeiro-jogo-sem-crist-69ce08",
+  "fonte": "UOL",
+  "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/14/camisa-7-portugal-carlos-forbs-cristiano-ronaldo.ghtm",
+  "categoria": "em-alta",
+  "data": "2026-11-14T17:30:00+00:00",
+  "titulo_original": "Jogador que tem um jogo por Portugal usará camisa 7 em 1° jogo sem CR7",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Bryan Berlin / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg"
  }
 }
