@@ -2730,8 +2730,53 @@
   "data": "2026-11-14T20:40:00+00:00",
   "titulo_original": "Célio Rocha entra na disputa pelo comando do Conselho Deliberativo do CSA",
   "post": null,
-  "imagem": "https://live.staticflickr.com/5250/5214877167_82c48bdf0f_b.jpg",
-  "credito": "Foto: Steenbergs / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/50310535@N03/5214877167"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://diariodonordeste.verdesmares.com.br/publicidade-legal/publicidade-legal-edicao-digital-14112026-1.3805612": {
+  "recusado": true,
+  "criado": "2026-11-14T22:35:45.998621+00:00"
+ },
+ "https://centralxbox.com.br/2026/11/07/xbox-divulga-novos-precos-para-comprar-horas-do-cloud-gaming-50-horas-chega-a-r53/": {
+  "recusado": true,
+  "criado": "2026-11-14T22:35:45.998621+00:00"
+ },
+ "https://www.infomoney.com.br/mercados/jpmorgan-mantem-embraer-entre-preferidas-e-ve-acao-25-mais-barata-que-pares-globais/": {
+  "recusado": true,
+  "criado": "2026-11-14T22:35:45.998621+00:00"
+ },
+ "https://dol.com.br/esporte/esporte-para/968380/paraense-melquizael-costa-encara-norte-americano-no-ufc-334": {
+  "recusado": true,
+  "criado": "2026-11-14T22:35:45.998621+00:00"
+ },
+ "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/11/radio-itatiaia-de-rubens-menin-demite-20-profissionais-por-causa-de-proibicao-das-bets.shtml": {
+  "publicar": true,
+  "titulo": "Rádio Itatiaia, de Rubens Menin, demite cerca de 20 profissionais",
+  "linha_fina": "Emissora de Belo Horizonte diz à equipe que passa por reestruturação financeira após a proibição das bets",
+  "paragrafos": [
+   "A rádio Itatiaia, de Belo Horizonte (MG), demitiu cerca de 20 profissionais nesta terça-feira (10). A emissora pertence ao empresário Rubens Menin, dono também da CNN Brasil.",
+   "Segundo informou aos funcionários, a Itatiaia vive uma reestruturação financeira. A empresa associa a situação à proibição das bets, em referência às casas de apostas esportivas.",
+   "A matéria de origem, publicada na coluna Outro Canal, não detalha quais áreas foram afetadas nem quais serão os próximos passos da emissora."
+  ],
+  "tags": [
+   "Rádio Itatiaia",
+   "Rubens Menin",
+   "demissões",
+   "bets"
+  ],
+  "pessoa": "Rubens Menin",
+  "busca_imagem": "radio studio microphone",
+  "criado": "2026-11-14T22:35:45.998621+00:00",
+  "slug": "radio-itatiaia-de-rubens-menin-demite-cerca-de-20-profissionais-6c0778",
+  "fonte": "UOL",
+  "link": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/11/radio-itatiaia-de-rubens-menin-demite-20-profissionais-por-causa-de-proibicao-das-bets.shtml",
+  "categoria": "em-alta",
+  "data": "2026-11-14T22:00:00+00:00",
+  "titulo_original": "Outro Canal: Rádio Itatiaia, de Rubens Menin, demite 20 profissionais por causa de proibição das bets",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/09_03_2020_Cerim%C3%B4nia_de_Lan%C3%A7amento_da_CNN_Brasil_%2849642484921%29.jpg/1280px-09_03_2020_Cerim%C3%B4nia_de_Lan%C3%A7amento_da_CNN_Brasil_%2849642484921%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Vice-Presidência da República from Brasiilia, Brasil / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:09_03_2020_Cerim%C3%B4nia_de_Lan%C3%A7amento_da_CNN_Brasil_(49642484921).jpg"
  }
 }
