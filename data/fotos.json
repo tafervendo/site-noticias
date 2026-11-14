@@ -12245,5 +12245,535 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Eliana_2018.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Eliana_2018.jpg"
- }
+ },
+ "b:ceiling fan kitchen": [
+  {
+   "imagem": "https://live.staticflickr.com/7792/17336540631_8c9da2486c_b.jpg",
+   "credito": "Foto: Jeremy Levine Design / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/25186605@N04/17336540631"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3424/3752656179_8a61ef7f1b_b.jpg",
+   "credito": "Foto: .Larry Page / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/96029422@N00/3752656179"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2665/3891747822_d842a24f7e_b.jpg",
+   "credito": "Foto: Jim, the Photographer / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/72744295@N00/3891747822"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2486/3890955773_3e16547418_b.jpg",
+   "credito": "Foto: Jim, the Photographer / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/72744295@N00/3890955773"
+  }
+ ],
+ "v:Rogério Fróes": {
+  "descricao": "ator brasileiro",
+  "nasc": 1934,
+  "morte": null
+ },
+ "p:Rogério Fróes": null,
+ "b:grilling steak on pan": [
+  {
+   "imagem": "https://live.staticflickr.com/2627/3686019292_7341d590bc_b.jpg",
+   "credito": "Foto: Tobyotter / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/78428166@N00/3686019292"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2901/14292014134_17f11b542c_b.jpg",
+   "credito": "Foto: hile / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/44122310@N00/14292014134"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5307/5575591492_8c2c50f998_b.jpg",
+   "credito": "Foto: katerha / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/8489692@N03/5575591492"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3653/3583276044_b2dea26267_b.jpg",
+   "credito": "Foto: Stevie Rocco / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/98336893@N00/3583276044"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3050/5866761401_974ef7ff06_b.jpg",
+   "credito": "Foto: vastateparksstaff / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/37922399@N05/5866761401"
+  }
+ ],
+ "b:soccer ball stadium": [
+  {
+   "imagem": "https://live.staticflickr.com/8286/7794221892_2db05a6c93_b.jpg",
+   "credito": "Foto: pbkwee / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/11704829@N00/7794221892"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8301/7986654741_c928f35251_b.jpg",
+   "credito": "Foto: wrightbrosfan / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/53497385@N07/7986654741"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2304/1598499461_bb74c981ae_b.jpg",
+   "credito": "Foto: a4gpa / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/94833286@N00/1598499461"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/92/371240270_e8c71194c7_b.jpg",
+   "credito": "Foto: Phalinn Ooi / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/17868205@N00/371240270"
+  }
+ ],
+ "b:modern mansion garden terrace": [
+  {
+   "imagem": "https://live.staticflickr.com/6032/6280602787_b4436c4db8_b.jpg",
+   "credito": "Foto: ell brown / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/39415781@N06/6280602787"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/54000136514_6371444a5c_b.jpg",
+   "credito": "Foto: dalecruse / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/91873384@N04/54000136514"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/54002539418_077e278cd6_b.jpg",
+   "credito": "Foto: dalecruse / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/91873384@N04/54002539418"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/54001399147_d23830f9a6_b.jpg",
+   "credito": "Foto: dalecruse / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/91873384@N04/54001399147"
+  }
+ ],
+ "b:potatoes boiling in pot": [
+  {
+   "imagem": "https://live.staticflickr.com/2617/3897872846_577a358ee4_b.jpg",
+   "credito": "Foto: thepinkpeppercorn / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/33904751@N04/3897872846"
+  }
+ ],
+ "b:baking cake pan oven": [
+  {
+   "imagem": "https://live.staticflickr.com/2603/3684979334_fbceb09a8b_b.jpg",
+   "credito": "Foto: ginnerobot / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/78011127@N00/3684979334"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5319/5902421276_706fa09e34_b.jpg",
+   "credito": "Foto: betsyweber / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/34666709@N00/5902421276"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7067/6800496650_71e2232f9d_b.jpg",
+   "credito": "Foto: mrsdkrebs / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/56041749@N02/6800496650"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5039/5901859701_c232a5ae86_b.jpg",
+   "credito": "Foto: betsyweber / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/34666709@N00/5901859701"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6089/6118430479_fd1ebd024d_b.jpg",
+   "credito": "Foto: andrusdevelopment / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/9020344@N02/6118430479"
+  }
+ ],
+ "b:cooked rice bowl steam": [
+  {
+   "imagem": "https://live.staticflickr.com/116/305698269_7ab5752616_b.jpg",
+   "credito": "Foto: rovingI / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/70522326@N00/305698269"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3087/2779295822_e209eddbbf_b.jpg",
+   "credito": "Foto: morning_rumtea / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/19709871@N00/2779295822"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7219/7383142714_a27b9de86d_b.jpg",
+   "credito": "Foto: SodanieChea / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/41942551@N02/7383142714"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3259/3142487505_bfeb0fd6a8_b.jpg",
+   "credito": "Foto: gaku. / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/95926172@N00/3142487505"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5058/5398414094_74dfe21eac_b.jpg",
+   "credito": "Foto: Lablascovegmenu / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/35022955@N06/5398414094"
+  }
+ ],
+ "b:soccer player contract signing": [
+  {
+   "imagem": "https://live.staticflickr.com/8211/8430079552_af5919f524_b.jpg",
+   "credito": "Foto: wonker / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/94056408@N00/8430079552"
+  }
+ ],
+ "v:Tesouro Nacional": {
+  "descricao": "conjunto de bens regidos pelo Estado ou um ente público",
+  "nasc": null,
+  "morte": null
+ },
+ "b:hacker attack computer server": null,
+ "b:lost forest rescue helicopter": null,
+ "b:roasted butternut squash slices": [
+  {
+   "imagem": "https://live.staticflickr.com/5200/6913633022_4537c62393_b.jpg",
+   "credito": "Foto: jules:stonesoup / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/58367355@N00/6913633022"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7448/10062186465_a5dcd95e9e_b.jpg",
+   "credito": "Foto: Neeta Lind / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/71132408@N00/10062186465"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7406/10374844936_a93481c73e_b.jpg",
+   "credito": "Foto: Steenaire / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/58189808@N03/10374844936"
+  }
+ ],
+ "b:basketball game arena court": [
+  {
+   "imagem": "https://live.staticflickr.com/3461/3308190994_be483400fc_b.jpg",
+   "credito": "Foto: DeusXFlorida (11,059,330 views) - thanks guys! / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/8363028@N08/3308190994"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7047/6930804369_df1c6abebf_b.jpg",
+   "credito": "Foto: David Jones / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/45457437@N00/6930804369"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6046/6363313609_2e8de8fc05_b.jpg",
+   "credito": "Foto: David Jones / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/45457437@N00/6363313609"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7052/6784706634_5c0ea4aaf1_b.jpg",
+   "credito": "Foto: David Jones / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/45457437@N00/6784706634"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3464/3248107642_ca2e67215b_b.jpg",
+   "credito": "Foto: Sonnett / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/69815923@N00/3248107642"
+  }
+ ],
+ "b:medical laboratory virus test": [
+  {
+   "imagem": "https://live.staticflickr.com/5183/5645102295_e4a6279691_b.jpg",
+   "credito": "Foto: zhouxuan12345678 / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/53921113@N02/5645102295"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3933/15282850238_e23e8f11ce_b.jpg",
+   "credito": "Foto: US Army Africa / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/36281822@N08/15282850238"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8569/15834977505_e152e48829_b.jpg",
+   "credito": "Foto: DFID - UK Department for International Development / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/14214150@N02/15834977505"
+  }
+ ],
+ "v:Alan Ruschel": {
+  "descricao": "futebolista brasileiro",
+  "nasc": 1989,
+  "morte": null
+ },
+ "p:Alan Ruschel": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Alanruschel.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Sirli Freitas/Chapecoense / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Alanruschel.jpg"
+ },
+ "b:boxing gloves ring": [
+  {
+   "imagem": "https://live.staticflickr.com/247/462611643_b54ef4876a_b.jpg",
+   "credito": "Foto: neurmadic aesthetic / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/67935254@N00/462611643"
+  }
+ ],
+ "b:legal documents money contract": [
+  {
+   "imagem": "https://live.staticflickr.com/5323/17664002728_acb9354acf_b.jpg",
+   "credito": "Foto: Mcmscience Mediterranean Center of Medical Science / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/129206117@N06/17664002728"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5609/15497845930_43e4c0d22c_b.jpg",
+   "credito": "Foto: NATT-at-NKM / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/75001205@N02/15497845930"
+  }
+ ],
+ "b:kitchen sponge by sink": [
+  {
+   "imagem": "https://live.staticflickr.com/3561/3385216658_315da09fef_b.jpg",
+   "credito": "Foto: Theresa Thompson / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/22998854@N02/3385216658"
+  }
+ ],
+ "b:airplane cockpit pilot view": [
+  {
+   "imagem": "https://live.staticflickr.com/6201/6091774526_25ae5167a5_b.jpg",
+   "credito": "Foto: wbaiv / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/9998127@N06/6091774526"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4008/4415814011_79ce67495f_b.jpg",
+   "credito": "Foto: wbaiv / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/9998127@N06/4415814011"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3925/15176648459_1be8136af5_b.jpg",
+   "credito": "Foto: wbaiv / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/9998127@N06/15176648459"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7363/10210840726_8c01879002_b.jpg",
+   "credito": "Foto: wbaiv / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/9998127@N06/10210840726"
+  }
+ ],
+ "b:tennis doubles match court": [
+  {
+   "imagem": "https://live.staticflickr.com/2919/14574656305_81accbca9d_b.jpg",
+   "credito": "Foto: big-ashb / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/26673904@N00/14574656305"
+  }
+ ],
+ "c:e9c917ceed2fda6d07da": false,
+ "c:0896c03a262965fd6abb": true,
+ "c:af84d59b7f9120b73c0b": false,
+ "c:dc10d2de8f42695ffe14": true,
+ "c:015c84554086dab28246": true,
+ "c:0e8f7db43768ef14853c": false,
+ "c:b1c343041732defd4667": true,
+ "c:13bb87f79f4a66bdc577": true,
+ "c:2bf40161321872fc89f9": false,
+ "c:db7d7c511635becaf779": true,
+ "c:043206ba061ad94868be": false,
+ "c:332eedd365ff64147966": true,
+ "c:9257631ebbdacec2a443": false,
+ "c:2b168258b15bce0782f8": false,
+ "c:42613f80033364c683f6": true,
+ "c:17d2f162226e834bce4d": false,
+ "c:445a872ad8cefac31de7": false,
+ "c:a55d802b09a2e8e281e0": false,
+ "c:64a76cb1feafc06b186f": false,
+ "c:ac6d8a94e08cdba4fc01": true,
+ "c:d355d3068eeb1c8740b1": false,
+ "c:b83d5b84d2608af1db86": true,
+ "c:aa0cd49bab40c62d8bb6": true,
+ "c:9bfbb7593d576acc73e0": false,
+ "c:205a7afc8d4d4ea9ccb0": true,
+ "c:502533eddb6b979eca56": true,
+ "c:3ee54f7d03451aab6fd0": true,
+ "c:cb169c9ad58682fdbd86": true,
+ "c:5e72d86ea0c47008f706": true,
+ "c:c020018239cf97026f04": true,
+ "c:ea35281d53a8bf2f43fc": true,
+ "b:houseplants baby room": null,
+ "b:rural farm swimming pool": [
+  {
+   "imagem": "https://live.staticflickr.com/5245/5369361470_d4473dff52_b.jpg",
+   "credito": "Foto: _Kimie_ / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/58026849@N03/5369361470"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6066/6127286876_0345f1bd14_b.jpg",
+   "credito": "Foto: ednl / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/31392863@N04/6127286876"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6007/5982863504_28072e88d9_b.jpg",
+   "credito": "Foto: milan.boers / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/26234859@N07/5982863504"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6160/6137163049_32c40ef040_b.jpg",
+   "credito": "Foto: Michael Salazar / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/57207346@N06/6137163049"
+  }
+ ],
+ "b:colonial stone street brazil": [
+  {
+   "imagem": "https://live.staticflickr.com/50/138810608_6ebcbee2f5_b.jpg",
+   "credito": "Foto: Diego3336 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/31018257@N00/138810608"
+  }
+ ],
+ "b:luxury party decoration": [
+  {
+   "imagem": "https://live.staticflickr.com/7293/9863659476_0c9a91bf85_b.jpg",
+   "credito": "Foto: Robert Scoble / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/35034363287@N01/9863659476"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2601/4025104041_599b46e325_b.jpg",
+   "credito": "Foto: San Sharma / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/46336651@N00/4025104041"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2878/9641454886_2e11101f41_b.jpg",
+   "credito": "Foto: Kid's Birthday Parties / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/13698839@N00/9641454886"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3541/3831503818_b458929ebe_b.jpg",
+   "credito": "Foto: dalbera / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/72746018@N00/3831503818"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4141/4933530053_e3a642f947_b.jpg",
+   "credito": "Foto: gnuckx / domínio público",
+   "credito_link": "https://www.flickr.com/photos/34409164@N06/4933530053"
+  }
+ ],
+ "b:bread dough yeast baking": [
+  {
+   "imagem": "https://live.staticflickr.com/8059/8267257473_c34020af19_b.jpg",
+   "credito": "Foto: Mrs. Gemstone / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/21893264@N00/8267257473"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4056/5165571180_dd6208a1b1_b.jpg",
+   "credito": "Foto: jeffreyw / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/7927684@N03/5165571180"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/113/294068096_941d707b8c_b.jpg",
+   "credito": "Foto: Denna Jones / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/95267793@N00/294068096"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5027/5625343231_658e531d28_b.jpg",
+   "credito": "Foto: grongar / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/70757891@N00/5625343231"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2509/5741456145_41c23b9a4c_b.jpg",
+   "credito": "Foto: wandersick / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/20989767@N06/5741456145"
+  }
+ ],
+ "b:english countryside garden greenhouse": [
+  {
+   "imagem": "https://live.staticflickr.com/7380/9286888926_378d64c483_b.jpg",
+   "credito": "Foto: ell brown / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/39415781@N06/9286888926"
+  }
+ ],
+ "b:money cash stack": [
+  {
+   "imagem": "https://live.staticflickr.com/6093/6355364425_4c898f97f3_b.jpg",
+   "credito": "Foto: 401(K) 2013 / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/68751915@N05/6355364425"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3196/2814356978_a1e6ef33d6_b.jpg",
+   "credito": "Foto: tachyondecay / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/60206297@N00/2814356978"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7033/6757821397_ba181435ea_b.jpg",
+   "credito": "Foto: 401(K) 2013 / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/68751915@N05/6757821397"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6121/5930180368_66c78bdc76_b.jpg",
+   "credito": "Foto: Images_of_Money / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/59937401@N07/5930180368"
+  }
+ ],
+ "b:elegant clothes wardrobe": [
+  {
+   "imagem": "https://live.staticflickr.com/51/185807552_98fd5d5615_b.jpg",
+   "credito": "Foto: How can I recycle this / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/87481332@N00/185807552"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8572/16221222579_a8e9dba24a_b.jpg",
+   "credito": "Foto: Olga Kuba / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/75625814@N04/16221222579"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/47955063506_9ee4337660_b.jpg",
+   "credito": "Foto: Artem Beliaikin / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/157635012@N07/47955063506"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/48105526576_452b0c2885_b.jpg",
+   "credito": "Foto: Artem Beliaikin / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/157635012@N07/48105526576"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/47939071406_3ce22a46f0_b.jpg",
+   "credito": "Foto: Artem Beliaikin / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/157635012@N07/47939071406"
+  }
+ ],
+ "b:vegetable brush washing carrots": null,
+ "b:furniture against cold wall": null,
+ "c:1aebd84187a44a435d73": false,
+ "c:7f213c7429016bc432ac": false,
+ "c:9a85a4beb043682cf533": false,
+ "c:cdc9e08931bae0426907": false,
+ "c:84085fe20d9e5c122720": false,
+ "c:c72e973bbb1c7d66001e": false,
+ "c:a6eae59624d3526dc2aa": false,
+ "c:2fc2cc0ce28411a9fd43": false,
+ "c:bae5042c299207747deb": false,
+ "c:88b39a3ba9dba1c319e0": false,
+ "c:8c353da5da522d57d16d": false,
+ "c:0296656a65b6f98704fe": false,
+ "c:aad6d1947e31e056235a": false,
+ "c:ecf6659aaf57fcf0e5d4": false,
+ "c:d2d907a89f4965ee475f": false,
+ "c:2c57e46cbd17dafa62e3": true,
+ "c:7021dcf568103a81a142": false,
+ "c:e2d64ca044872102a8f4": true,
+ "b:data security concept": [
+  {
+   "imagem": "https://live.staticflickr.com/2888/13334080323_641e55ab35_b.jpg",
+   "credito": "Foto: Yu. Samoilov / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/110751683@N02/13334080323"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5203/5262617521_ddcb7908ce_b.jpg",
+   "credito": "Foto: Robert Scoble / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/35034363287@N01/5262617521"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4807/40015823563_d50e44484c_b.jpg",
+   "credito": "Foto: dejankrsmanovic / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/155403590@N07/40015823563"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4808/46928380982_08c44eaf1d_b.jpg",
+   "credito": "Foto: dejankrsmanovic / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/155403590@N07/46928380982"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5285/5355387300_a0a22c5960_b.jpg",
+   "credito": "Foto: vancouverfilmschool / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/38174668@N05/5355387300"
+  }
+ ],
+ "b:basketball arena night": [
+  {
+   "imagem": "https://live.staticflickr.com/5212/5411598801_bf879a358d_b.jpg",
+   "credito": "Foto: Erin Costa / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/12286015@N06/5411598801"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4140/5412150946_4d00cce25b_b.jpg",
+   "credito": "Foto: Erin Costa / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/12286015@N06/5412150946"
+  }
+ ]
 }
