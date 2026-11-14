@@ -2316,9 +2316,9 @@
   "data": "2026-11-14T11:00:00+00:00",
   "titulo_original": "Quem é André, volante titular da Seleção Brasileira contra o Japão",
   "post": null,
-  "imagem": "https://live.staticflickr.com/92/371240270_e8c71194c7_b.jpg",
-  "credito": "Foto: Phalinn Ooi / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/17868205@N00/371240270"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www.atribuna.com.br/esportes/santos-fc/neymar-esta-a-um-jogo-do-santos-de-superar-marca-expressiva-na-temporada-veja-qual-e-1.536641": {
   "recusado": true,
@@ -2327,5 +2327,69 @@
  "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/dublador-cita-pedido-de-vini-jr-a-titular-da-selecao-vai-para-o-flamengo/": {
   "recusado": true,
   "criado": "2026-11-14T11:35:03.733832+00:00"
+ },
+ "https://trivela.com.br/america-do-sul/copa-america/copa-america-2028-onde-quando-o-que-ja-se-sabe/": {
+  "publicar": true,
+  "titulo": "Copa América 2028: EUA são favoritos para sediar o torneio",
+  "linha_fina": "Conmebol ainda não anunciou oficialmente a sede, as datas nem o número de seleções da próxima edição",
+  "paragrafos": [
+   "A próxima Copa América, prevista para 2028, ainda não tem sede, datas nem formato confirmados pela Conmebol. Segundo apurações da imprensa, os Estados Unidos aparecem como favoritos para receber o torneio, que já foi disputado no país em 2016 e 2024.",
+   "Em abril, o presidente da entidade, Alejandro Domínguez, havia confirmado que o Equador estava entre os candidatos, e afirmou que a decisão caberia ao Conselho da Conmebol. Nos meses seguintes, porém, reportagens internacionais passaram a apontar os norte-americanos como a escolha encaminhada, com Argentina e Equador supostamente descartados, segundo informação atribuída ao jornal britânico The Times.",
+   "A possibilidade está ligada, entre outros fatores, à infraestrutura esportiva dos Estados Unidos e ao potencial comercial do país, além da parceria com a Concacaf. Até o momento, porém, não há anúncio oficial da confederação.",
+   "Quanto ao calendário, a edição deve ocorrer no meio do ano, provavelmente em junho e julho, mas sem datas divulgadas. Um dos desafios será conciliar o torneio com os Jogos Olímpicos de Los Angeles, marcados para julho de 2028.",
+   "Também está em discussão a ampliação do número de seleções de 16 para 20, possibilidade que ainda não foi oficializada. Até a confirmação, a sede deve ser tratada como uma definição encaminhada, e não como decisão concluída."
+  ],
+  "tags": [
+   "Copa América 2028",
+   "Conmebol",
+   "Estados Unidos",
+   "seleções sul-americanas"
+  ],
+  "pessoa": "",
+  "busca_imagem": "soccer stadium crowd",
+  "criado": "2026-11-14T12:44:22.716389+00:00",
+  "slug": "copa-america-2028-eua-sao-favoritos-para-sediar-o-torneio-674a21",
+  "fonte": "Trivela",
+  "link": "https://trivela.com.br/america-do-sul/copa-america/copa-america-2028-onde-quando-o-que-ja-se-sabe/",
+  "categoria": "em-alta",
+  "data": "2026-11-14T12:20:00+00:00",
+  "titulo_original": "Copa América 2028: Onde será disputada, quando começa e o que já se sabe sobre o torneio",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/49/131954710_a17e3facac_b.jpg",
+  "credito": "Foto: Arrr! / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/84488184@N00/131954710"
+ },
+ "https://www.estadao.com.br/em-alta/politica/blog-do-fausto-macedo/mae-pai-e-tio-de-deputado-desviaram-emendas-de-r-86-milhoes-com-saques-e-transportadora-diz-pf/": {
+  "recusado": true,
+  "criado": "2026-11-14T12:44:22.716389+00:00"
+ },
+ "https://www.uol.com.br/splash/noticias/2026/11/12/jotape-chega-a-5-grammys-latinos-e-bate-marca-na-mpb.ghtm": {
+  "publicar": true,
+  "titulo": "Jota.pê soma 5 Grammys Latinos e vira o mais jovem da MPB a chegar lá",
+  "linha_fina": "Cantor de 33 anos divide com João Gomes e Mestrinho o prêmio de Raízes pelo álbum Dominguinho Vol. 2",
+  "paragrafos": [
+   "Aos 33 anos, Jota.pê virou o brasileiro mais novo da MPB contemporânea a acumular cinco troféus do Grammy Latino, depois de sair vencedor na edição de 2026. O prêmio foi dividido com João Gomes e Mestrinho, que levaram a estatueta de Melhor Álbum de Música de Raízes em Língua Portuguesa pelo disco Dominguinho Vol. 2, anunciado na quinta-feira (12).",
+   "Segundo a matéria, Jota.pê ganhou em todas as categorias em que foi indicado ao Grammy Latino. Em 2025, ele já tinha levado o mesmo prêmio de raízes, com o primeiro volume do projeto em homenagem a Dominguinho.",
+   "Em 2024, o cantor também saiu com dois prêmios. Um deles veio pelo álbum Se o Meu Peito Fosse o Mundo, reconhecido como o melhor da MPB com influências afro-portuguesas. O outro foi pela canção Ouro Marrom, escolhida a melhor em língua portuguesa."
+  ],
+  "tags": [
+   "Jota.pê",
+   "Grammy Latino",
+   "MPB",
+   "Dominguinho"
+  ],
+  "pessoa": "Jota.pê",
+  "busca_imagem": "singer on stage concert",
+  "criado": "2026-11-14T12:44:22.716389+00:00",
+  "slug": "jota-pe-soma-5-grammys-latinos-e-vira-o-mais-jovem-da-mpb-a-chegar-la-b37181",
+  "fonte": "UOL",
+  "link": "https://www.uol.com.br/splash/noticias/2026/11/12/jotape-chega-a-5-grammys-latinos-e-bate-marca-na-mpb.ghtm",
+  "categoria": "em-alta",
+  "data": "2026-11-14T12:10:00+00:00",
+  "titulo_original": "Jota.pê chega a 5 Grammys Latinos e bate recorde na MPB",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/3947/15372331468_c8401eafe2_b.jpg",
+  "credito": "Foto: justin / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/35034345586@N01/15372331468"
  }
 }
