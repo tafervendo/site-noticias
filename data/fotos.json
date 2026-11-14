@@ -18578,5 +18578,440 @@
  "c:59b88c2935ee3ff1523d": false,
  "c:45a23768f520edec4be9": false,
  "c:6d44f245d4684924bce6": false,
- "c:144a0c62b66c3ec43f57": false
+ "c:144a0c62b66c3ec43f57": false,
+ "v:Elaine Mickely": {
+  "descricao": "actriz brasileira",
+  "nasc": 1980,
+  "morte": null
+ },
+ "v:César Filho": {
+  "descricao": "Jornalista, apresentador de televisão, radialista e ex-ator brasileiro",
+  "nasc": 1960,
+  "morte": null
+ },
+ "p:César Filho": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/27/Cesar_Filho_e_Elaine_Mickely_%2817274479183%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Renan Katayama / CC BY-SA 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Cesar_Filho_e_Elaine_Mickely_(17274479183).jpg"
+ },
+ "b:moon orbiting earth space": [
+  {
+   "imagem": "https://live.staticflickr.com/8201/8250779068_788c641958_b.jpg",
+   "credito": "Foto: NASA Goddard Photo and Video / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/24662369@N07/8250779068"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4022/4517145410_fd34d2269f_b.jpg",
+   "credito": "Foto: gideon_wright / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/27787901@N06/4517145410"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4153/4990414044_1ab8e678f9_b.jpg",
+   "credito": "Foto: NASA Goddard Photo and Video / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/24662369@N07/4990414044"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7005/6538068229_03b249bd36_b.jpg",
+   "credito": "Foto: NASA Goddard Photo and Video / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/24662369@N07/6538068229"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8065/8246892319_67089e9fe1_b.jpg",
+   "credito": "Foto: NASA Goddard Photo and Video / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/24662369@N07/8246892319"
+  }
+ ],
+ "b:bus on fire": [
+  {
+   "imagem": "https://live.staticflickr.com/779/21967269061_31a3b10437_b.jpg",
+   "credito": "Foto: joegoauk73 / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/95914901@N08/21967269061"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4375/37146668786_503a62bb1d_b.jpg",
+   "credito": "Foto: booledozer / domínio público",
+   "credito_link": "https://www.flickr.com/photos/55289779@N00/37146668786"
+  }
+ ],
+ "b:perfume bottles bathroom shelf": null,
+ "v:Zezé Polessa": {
+  "descricao": "atriz brasileira",
+  "nasc": 1953,
+  "morte": null
+ },
+ "p:Zezé Polessa": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Zez%C3%A9_Polessa.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Suzana Delaor / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Zez%C3%A9_Polessa.jpg"
+ },
+ "b:tired man desk afternoon nap": null,
+ "b:soccer stadium night game": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Toyota_Stadium_Night_Game.jpg/1280px-Toyota_Stadium_Night_Game.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: TylerDurdenXXX / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Toyota_Stadium_Night_Game.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Night_game_%40_FC_Dallas.jpg/1280px-Night_game_%40_FC_Dallas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: TylerDurdenXXX / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Night_game_@_FC_Dallas.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Hodges_Stadium_at_night.JPG/1280px-Hodges_Stadium_at_night.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: The222 ( talk ) / CC BY-SA 3.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Hodges_Stadium_at_night.JPG"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Pregame_Events%2C_Mackay_Stadium%2C_University_of_Nevada%2C_Reno%2C_Nevada_%2811142063045%29.jpg/1280px-Pregame_Events%2C_Mackay_Stadium%2C_University_of_Nevada%2C_Reno%2C_Nevada_%2811142063045%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Ken Lund from Reno, Nevada, USA / CC BY-SA 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Pregame_Events,_Mackay_Stadium,_University_of_Nevada,_Reno,_Nevada_(11142063045).jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Pregame_Events%2C_Mackay_Stadium%2C_University_of_Nevada%2C_Reno%2C_Nevada_%2811142090456%29.jpg/1280px-Pregame_Events%2C_Mackay_Stadium%2C_University_of_Nevada%2C_Reno%2C_Nevada_%2811142090456%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Ken Lund from Reno, Nevada, USA / CC BY-SA 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Pregame_Events,_Mackay_Stadium,_University_of_Nevada,_Reno,_Nevada_(11142090456).jpg"
+  }
+ ],
+ "b:soaking beans in bowl water": [
+  {
+   "imagem": "https://live.staticflickr.com/109/304486705_1100dd04f4_b.jpg",
+   "credito": "Foto: rovingI / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/70522326@N00/304486705"
+  }
+ ],
+ "b:diplomatic meeting handshake summit": null,
+ "v:Tiquinho Soares": {
+  "descricao": "futebolista brasileiro",
+  "nasc": 1991,
+  "morte": null
+ },
+ "p:Tiquinho Soares": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/da/Pe%C3%B1arol_3_Botafogo_1_-_-_241030-1195_-_Tiquinho_Soares.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Jimmy Baikovicius / CC BY-SA 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Pe%C3%B1arol_3_Botafogo_1_-_-_241030-1195_-_Tiquinho_Soares.jpg"
+ },
+ "b:black mold wall cleaning": null,
+ "v:Nova Orleans": {
+  "descricao": "cidade no estado da Luisiana, Estados Unidos",
+  "nasc": null,
+  "morte": null
+ },
+ "b:cruise ship collision harbor": [
+  {
+   "imagem": "https://live.staticflickr.com/3697/10051748113_fbddea5c78_b.jpg",
+   "credito": "Foto: sybarite48 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/26082117@N07/10051748113"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/549/19901715721_e2451c0531_b.jpg",
+   "credito": "Foto: blondinrikard / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/44093058@N06/19901715721"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2441/3808311478_f5abaeb784_b.jpg",
+   "credito": "Foto: USACE NY / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/40704398@N05/3808311478"
+  }
+ ],
+ "b:soccer match stadium floodlights": [
+  {
+   "imagem": "https://live.staticflickr.com/7363/13994724156_b5018ff605_b.jpg",
+   "credito": "Foto: Florian Christoph / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/113417287@N08/13994724156"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6040/6210008643_ecc08efa3f_b.jpg",
+   "credito": "Foto: Soft Surfaces Ltd / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/68055546@N03/6210008643"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7275/7142676073_34389a5781_b.jpg",
+   "credito": "Foto: Richard_of_England / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/57827564@N03/7142676073"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5737/21012398505_03db0c9e25_b.jpg",
+   "credito": "Foto: It's No Game / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/29057345@N04/21012398505"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3027/3003297699_1433d56f9b_b.jpg",
+   "credito": "Foto: EoinGardiner / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/18091975@N00/3003297699"
+  }
+ ],
+ "b:plastic chair hammock diy": null,
+ "b:tomato plant pruning garden": [
+  {
+   "imagem": "https://live.staticflickr.com/70/181171543_ce83006f52_b.jpg",
+   "credito": "Foto: J. Chris Vaughan / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/31171751@N00/181171543"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6003/5947578641_36472a727a_b.jpg",
+   "credito": "Foto: Mad Mod Smith / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/47036348@N02/5947578641"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6021/5947582853_64ef42cdcc_b.jpg",
+   "credito": "Foto: Mad Mod Smith / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/47036348@N02/5947582853"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6008/5947584249_d774eff558_b.jpg",
+   "credito": "Foto: Mad Mod Smith / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/47036348@N02/5947584249"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6018/5948136034_289397fa6b_b.jpg",
+   "credito": "Foto: Mad Mod Smith / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/47036348@N02/5948136034"
+  }
+ ],
+ "v:Deolane Bezerra": {
+  "descricao": "advogada, influenciadora digital e ex-cantora brasileira",
+  "nasc": 1988,
+  "morte": null
+ },
+ "p:Deolane Bezerra": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Deolane_Bezerra.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Multishow | Grupo Globo / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Deolane_Bezerra.png"
+ },
+ "b:airplane cabin window turbulence": null,
+ "b:moon surface lunar rover": [
+  {
+   "imagem": "https://live.staticflickr.com/3851/14456805762_80b384be12_b.jpg",
+   "credito": "Foto: U.S. Geological Survey / domínio público",
+   "credito_link": "https://www.flickr.com/photos/27784370@N05/14456805762"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4059/4705455692_f47b946370_b.jpg",
+   "credito": "Foto: jurvetson / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/44124348109@N01/4705455692"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/49490398662_b5e30003be_b.jpg",
+   "credito": "Foto: jurvetson / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/44124348109@N01/49490398662"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/49494749721_d015290370_b.jpg",
+   "credito": "Foto: jurvetson / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/44124348109@N01/49494749721"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/49490398542_f24199885e_b.jpg",
+   "credito": "Foto: jurvetson / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/44124348109@N01/49490398542"
+  }
+ ],
+ "b:airport passengers waiting flight delay": [
+  {
+   "imagem": "https://live.staticflickr.com/3610/5766268486_fb8ebf803d_b.jpg",
+   "credito": "Foto: ell brown / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/39415781@N06/5766268486"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6090/6126861026_4e981e25fd_b.jpg",
+   "credito": "Foto: focusc / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/72922885@N00/6126861026"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6081/6126860862_1bb065613b_b.jpg",
+   "credito": "Foto: focusc / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/72922885@N00/6126860862"
+  }
+ ],
+ "c:41fd0b6e632d4f758f10": true,
+ "c:b5a5d75e1d95178878e4": true,
+ "c:329130f97779462fc3cc": true,
+ "c:ce5c1f4b10e9ecb664c3": false,
+ "c:3e8264f872eee3ee6389": false,
+ "c:627d9e7a9539b4248e65": true,
+ "c:fbebb167f172a34d3282": true,
+ "c:5525d243785d6f707177": false,
+ "c:798e393dc6ea7bfa6955": false,
+ "c:3d62e5a9a4ad89d5714d": false,
+ "c:b6daaa2da90535e739d4": true,
+ "c:180c3a35b027b4627765": false,
+ "c:619e59d0eb99f533a5f7": false,
+ "c:140242bed90242eff996": true,
+ "c:2f2463299a9caf223c6c": false,
+ "c:1eb134757703fbf4597b": true,
+ "c:fc3910093c6b64bd376c": false,
+ "c:9cd25fcef87fb87d38a9": false,
+ "c:5512cac6399162e9922e": false,
+ "c:edfb2733f375acc4ac11": false,
+ "c:98f13effee858e21e846": false,
+ "c:dd3cbfe3ea78200fb41b": true,
+ "c:776cb8eb71fcb17ceb59": true,
+ "b:dystopian post apocalyptic desert landscape": null,
+ "b:hair dye salon coloring": [
+  {
+   "imagem": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg3OTA5NDktaW1hZ2Uta3d5b2dpcjMuanBn.jpg",
+   "credito": "Foto: autor desconhecido / domínio público",
+   "credito_link": "https://www.rawpixel.com/image/5944492/free-public-domain-cc0-photo"
+  }
+ ],
+ "b:music awards ceremony stage": [
+  {
+   "imagem": "https://live.staticflickr.com/7306/8977920571_5b4c6ba196_b.jpg",
+   "credito": "Foto: I Should Be Folding Laundry / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/54547540@N00/8977920571"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2303/2108795296_889955b0fe_b.jpg",
+   "credito": "Foto: kevin dooley / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/12836528@N00/2108795296"
+  }
+ ],
+ "b:wildlife refuge deer turkey forest": null,
+ "b:passengers boarding city bus": [
+  {
+   "imagem": "https://live.staticflickr.com/4127/4978775220_83e6f950e9_b.jpg",
+   "credito": "Foto: photosteve101 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/42931449@N07/4978775220"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8293/7852064616_c5d69969d9_b.jpg",
+   "credito": "Foto: Brett VA / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/23351990@N03/7852064616"
+  }
+ ],
+ "b:lime juice cooking sauce kitchen": [
+  {
+   "imagem": "https://live.staticflickr.com/45/128001320_b263bdf827_b.jpg",
+   "credito": "Foto: Crystl / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/10953991@N00/128001320"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/1436/5163758565_a479277b6e_b.jpg",
+   "credito": "Foto: Annie Mueller / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/39404326@N02/5163758565"
+  }
+ ],
+ "b:bed bugs mattress inspection": null,
+ "b:non stick frying pan": [
+  {
+   "imagem": "https://live.staticflickr.com/4106/5023481258_8baff1be2b_b.jpg",
+   "credito": "Foto: Cooks & Kitchens / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/53502649@N05/5023481258"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4131/5023480824_d5c1feab03_b.jpg",
+   "credito": "Foto: Cooks & Kitchens / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/53502649@N05/5023480824"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/352/31416358042_24ae7f1e19_b.jpg",
+   "credito": "Foto: Kai Hendry / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/16105436@N00/31416358042"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/49774318053_d028f13f05_b.jpg",
+   "credito": "Foto: homegets.com / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/141436406@N04/49774318053"
+  }
+ ],
+ "b:modern kitchen mansion interior": null,
+ "b:plants spaced garden air": null,
+ "b:woman painted fingernails close": [
+  {
+   "imagem": "https://live.staticflickr.com/1461/25128717624_b88d467b73_b.jpg",
+   "credito": "Foto: simpleinsomnia / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/95329455@N02/25128717624"
+  },
+  {
+   "imagem": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL2ZyaGFuZF9maW5nZXJfZmluZ2VyX3JpbmdfMS1pbWFnZS1reWJkbDJ6dC5qcGc.jpg",
+   "credito": "Foto: autor desconhecido / domínio público",
+   "credito_link": "https://www.rawpixel.com/image/6037156/photo-image-public-domain-hand-person"
+  }
+ ],
+ "b:joint mobility stretching exercise": null,
+ "b:beginner yoga mat practice": null,
+ "b:chickpeas bowl cooking water": [
+  {
+   "imagem": "https://live.staticflickr.com/4011/4284579281_497d72b9d6_b.jpg",
+   "credito": "Foto: austinevan / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/19762676@N00/4284579281"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2229/2452526216_f2749a47e3_b.jpg",
+   "credito": "Foto: rusvaplauke / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/7440954@N05/2452526216"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7178/6815671096_63735fe071_b.jpg",
+   "credito": "Foto: Lablascovegmenu / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/35022955@N06/6815671096"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2462/3618854542_e27961f831_b.jpg",
+   "credito": "Foto: Vegan Feast Catering / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/25128194@N02/3618854542"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3352/3549455774_7ea99ab18a_b.jpg",
+   "credito": "Foto: jkdjulia / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/34228140@N02/3549455774"
+  }
+ ],
+ "b:vegetable garden crop rotation": [
+  {
+   "imagem": "https://live.staticflickr.com/3789/10583234705_f5647a2718_b.jpg",
+   "credito": "Foto: USDAgov / domínio público",
+   "credito_link": "https://www.flickr.com/photos/41284017@N08/10583234705"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2817/10546359635_3dd02a0967_b.jpg",
+   "credito": "Foto: USDAgov / domínio público",
+   "credito_link": "https://www.flickr.com/photos/41284017@N08/10546359635"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2819/10547052435_790d2f9b11_b.jpg",
+   "credito": "Foto: USDAgov / domínio público",
+   "credito_link": "https://www.flickr.com/photos/41284017@N08/10547052435"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2902/14691822611_7fa44d58d0_b.jpg",
+   "credito": "Foto: Macleay Grass Man / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/73840284@N04/14691822611"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7445/10737007014_766f7362fc_b.jpg",
+   "credito": "Foto: Macleay Grass Man / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/73840284@N04/10737007014"
+  }
+ ],
+ "c:efa0bec59bcb140d8276": false,
+ "c:63c32dfd7743a265b756": true,
+ "c:ea5d18def37d5c3dc25b": true,
+ "c:80a71824cc5ecf80ef72": true,
+ "c:d6a913f3fa118c3b727b": false,
+ "c:ec0393f8c21a03e2833e": true,
+ "c:4a72698039bff2fee29e": false,
+ "c:1333395889afcdabc693": false,
+ "c:dd678ee48274e85fe258": false,
+ "c:509282eb5b59e50c6f74": false,
+ "c:d313db59109e8df9d9b1": false,
+ "c:d1d9341638dfa2d08d72": false,
+ "c:b6e56c05e243a5a774fb": true,
+ "c:6fb356109042b7f537a9": false,
+ "c:101f670594c8d54b8f47": false,
+ "c:b492662f997965b9061c": false,
+ "c:af43a0b8f30b2309f710": false,
+ "c:1e1eaf129774ca864311": true,
+ "b:river cruise boat accident": [
+  {
+   "imagem": "https://live.staticflickr.com/4101/4899659064_299699eb06_b.jpg",
+   "credito": "Foto: Tigereon / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/45958316@N04/4899659064"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3549/3505264795_907816c247_b.jpg",
+   "credito": "Foto: A.Davey / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/40595948@N00/3505264795"
+  }
+ ]
 }
