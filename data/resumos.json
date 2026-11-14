@@ -2227,5 +2227,55 @@
  "https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-retira-subvencao-extra-de-r-140-por-litro-de-diesel-importado.shtml": {
   "recusado": true,
   "criado": "2026-11-14T09:43:30.762038+00:00"
+ },
+ "https://istoedinheiro.com.br/dupla-sena-3031-resultado-premiacao": {
+  "recusado": true,
+  "criado": "2026-11-14T10:39:10.029082+00:00"
+ },
+ "https://www.espn.com.br/futebol/mercado-da-bola/artigo/_/id/17501073/nottingham-forest-estipula-preco-john-sondagens-igor-jesus": {
+  "recusado": true,
+  "criado": "2026-11-14T10:39:10.029082+00:00"
+ },
+ "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/17501397/arthur-dias-zagueiro-selecao-ancelotti-atacante-athletico-pr-nao-queria-jogar-defesa": {
+  "recusado": true,
+  "criado": "2026-11-14T10:39:10.029082+00:00"
+ },
+ "https://iclnoticias.com.br/abaixo-assinado-medalha-para-eduarda-campopiano/": {
+  "recusado": true,
+  "criado": "2026-11-14T10:39:10.029082+00:00"
+ },
+ "https://www.uol.com.br/nossa/noticias/redacao/2026/11/13/natal-chegando-e-opcoes-para-diferentes-gostos-seu-guia-de-sp-chegou.ghtm": {
+  "publicar": true,
+  "titulo": "Shows grátis em SP neste fim de semana: Zé Ramalho, Fat Family e hip hop",
+  "linha_fina": "Feriado de 15 de novembro reúne atrações gratuitas em parques, centros culturais, Sesc e Pavilhão Ibirapuera",
+  "paragrafos": [
+   "São Paulo terá uma agenda cheia de apresentações sem custo no fim de semana prolongado. Entre os nomes anunciados estão o Fat Family, Zé Ramalho, Roberta Miranda, o grupo Gilsons e artistas de destaque do hip hop, que vão se apresentar em parques, centros culturais e outros espaços da cidade.",
+   "O Fat Family abre a temporada de Natal do Parque Villa-Lobos no domingo (15), a partir das 18h, em uma programação que inclui a estreia da decoração natalina. No sábado (14), o espaço Família no Parque funciona das 10h às 22h, com brinquedos infláveis e outras atrações; a entrada é gratuita, mas os brinquedos são pagos, a partir de R$ 10.",
+   "O Festival de Cultura Tradicional Paulista ocupa o Parque do Trote, na Vila Guilherme, de quinta (12) a domingo (15), sempre a partir das 10h. O palco principal recebe Zé Ramalho, Roberta Miranda, Maria Cecília & Rodolfo, Demônios da Garoa e outros artistas, além de artesanato, culinária típica e atividades infantis.",
+   "Em Cidade Tiradentes, a Casa de Cultura Hip-Hop Leste completa mais um ano de atividades com uma festa no domingo (15), a partir das 10h, que integra o Festival da Consciência Negra. A programação tem shows de rap com KL Jay, Torya e Blenzer, além de dança e exposição.",
+   "Também há opções fora dos shows: no sábado (14), a Festa da Padroeira, em Santa Cecília, e o Pavilhão Aberto, no Ibirapuera, trazem feiras, esporte e discotecagem; e o espetáculo GinGama, no Sesc Paulista, mistura capoeira e poesia para contar a história do abolicionista Luiz Gama nos dias 14 e 15."
+  ],
+  "tags": [
+   "shows gratuitos São Paulo",
+   "feriado 15 de novembro",
+   "hip hop",
+   "fim de semana SP"
+  ],
+  "pessoa": "",
+  "busca_imagem": "outdoor park concert crowd",
+  "criado": "2026-11-14T10:39:10.029082+00:00",
+  "slug": "shows-gratis-em-sp-neste-fim-de-semana-ze-ramalho-fat-family-e-hip-hop-3f865e",
+  "fonte": "UOL",
+  "link": "https://www.uol.com.br/nossa/noticias/redacao/2026/11/13/natal-chegando-e-opcoes-para-diferentes-gostos-seu-guia-de-sp-chegou.ghtm",
+  "categoria": "em-alta",
+  "data": "2026-11-14T10:10:00+00:00",
+  "titulo_original": "Fat Family, Zé Ramalho e mais: SP tem shows gratuitos no fim de semana",
+  "post": {
+   "tipo": "instagram",
+   "url": "https://www.instagram.com/p/DfX7jUNAeZs/"
+  },
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/DSC_6184_A_large_crowd_gathers_on_the_beachfront_at_night_colorful_stage_lights_and_city_high-rises_glowing_in_the_background_as_people_enjoy_an_outdoor_concert_or_festival.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: PattayaPatrol / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:DSC_6184_A_large_crowd_gathers_on_the_beachfront_at_night_colorful_stage_lights_and_city_high-rises_glowing_in_the_background_as_people_enjoy_an_outdoor_concert_or_festival.jpg"
  }
 }
