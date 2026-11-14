@@ -2274,8 +2274,58 @@
    "tipo": "instagram",
    "url": "https://www.instagram.com/p/DfX7jUNAeZs/"
   },
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/DSC_6184_A_large_crowd_gathers_on_the_beachfront_at_night_colorful_stage_lights_and_city_high-rises_glowing_in_the_background_as_people_enjoy_an_outdoor_concert_or_festival.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credito": "Foto: PattayaPatrol / CC BY-SA 4.0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:DSC_6184_A_large_crowd_gathers_on_the_beachfront_at_night_colorful_stage_lights_and_city_high-rises_glowing_in_the_background_as_people_enjoy_an_outdoor_concert_or_festival.jpg"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://tribunadonorte.com.br/rio-grande-do-norte/teste-fisico-de-concurso-para-policial-penal-no-rn-e-adiado-apos-decisao-judicial/": {
+  "recusado": true,
+  "criado": "2026-11-14T11:35:03.733832+00:00"
+ },
+ "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/cruzeiro/quinteto-em-fim-de-contrato-apresenta-melhora-e-luta-por-permanencia-no-cruzeiro/": {
+  "recusado": true,
+  "criado": "2026-11-14T11:35:03.733832+00:00"
+ },
+ "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/inmet-emite-alerta-amarelo-para-tempestades-em-15-estados-e-no-df": {
+  "recusado": true,
+  "criado": "2026-11-14T11:35:03.733832+00:00"
+ },
+ "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/quem-e-andre-volante-titular-da-selecao-brasileira-contra-o-japao/": {
+  "publicar": true,
+  "titulo": "André, volante do Corinthians, é titular na estreia da Seleção contra o Japão",
+  "linha_fina": "Jovem de 20 anos entra no lugar de Rayan, vetado por dores no tornozelo, em amistoso neste sábado em Singapura",
+  "paragrafos": [
+   "Neste sábado (14), o volante André, de 20 anos, vai disputar sua primeira partida com a camisa da Seleção Brasileira. Ancelotti escalou o jogador no time inicial do amistoso contra o Japão, marcado para as 7h15 de Brasília, no Estádio Nacional de Singapura.",
+   "A vaga surgiu depois que Rayan ficou fora do jogo. Ele sentiu dores no tornozelo após levar uma pancada no treino de sexta-feira (13). Com isso, o técnico optou por André para ocupar a posição no meio-campo.",
+   "André está no Corinthians desde 2017, quando chegou ainda com 11 anos. Ele subiu para o profissional e logo ganhou espaço no clube, onde soma 52 jogos e oito gols. Só em 2026, disputou 40 partidas, marcou seis vezes e deu duas assistências, além de ter conquistado a Copa do Brasil.",
+   "Ainda segundo a matéria, o desempenho do meio-campista chamou a atenção de clubes italianos. Juventus, Inter de Milão e Milan teriam feito sondagens por ele. Outros jogadores do Corinthians, como Breno Bidon, Matheuzinho e Hugo Souza, também foram lembrados por Ancelotti após a Copa do Mundo."
+  ],
+  "tags": [
+   "André Corinthians",
+   "Seleção Brasileira",
+   "amistoso Japão",
+   "Carlo Ancelotti"
+  ],
+  "pessoa": "André Luiz",
+  "busca_imagem": "soccer player stadium",
+  "criado": "2026-11-14T11:35:03.733832+00:00",
+  "slug": "andre-volante-do-corinthians-e-titular-na-estreia-da-selecao-contra-o-482887",
+  "fonte": "CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/quem-e-andre-volante-titular-da-selecao-brasileira-contra-o-japao/",
+  "categoria": "em-alta",
+  "data": "2026-11-14T11:00:00+00:00",
+  "titulo_original": "Quem é André, volante titular da Seleção Brasileira contra o Japão",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/92/371240270_e8c71194c7_b.jpg",
+  "credito": "Foto: Phalinn Ooi / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/17868205@N00/371240270"
+ },
+ "https://www.atribuna.com.br/esportes/santos-fc/neymar-esta-a-um-jogo-do-santos-de-superar-marca-expressiva-na-temporada-veja-qual-e-1.536641": {
+  "recusado": true,
+  "criado": "2026-11-14T11:35:03.733832+00:00"
+ },
+ "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/dublador-cita-pedido-de-vini-jr-a-titular-da-selecao-vai-para-o-flamengo/": {
+  "recusado": true,
+  "criado": "2026-11-14T11:35:03.733832+00:00"
  }
 }
