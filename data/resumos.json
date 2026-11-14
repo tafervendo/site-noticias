@@ -912,9 +912,9 @@
   "data": "2026-11-12T02:17:50+00:00",
   "titulo_original": "Nathalia Dill reflete sobre luxo após a maternidade: 'Eu me permito não fazer nada'",
   "post": null,
-  "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Nathalia_Dill_01.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "credito": "Foto: Mundo GTV / CC BY 3.0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Nathalia_Dill_01.jpg"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://gshow.globo.com/cultura-pop/famosos/noticia/giulia-buscacio-aposta-em-look-com-pedrarias-correntes-buzios-franjas-e-penas-para-ensaio-da-vila-isabel.ghtml": {
   "recusado": true,
@@ -2489,8 +2489,42 @@
   "data": "2026-11-14T14:10:00+00:00",
   "titulo_original": "Malafaia paga R$ 15 mil a jornalista após condenação por fake news",
   "post": null,
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Wide-angle_Judge_beating_a_protester_%28Royal_Courts_of_Justice%29.jpg/1280px-Wide-angle_Judge_beating_a_protester_%28Royal_Courts_of_Justice%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credito": "Foto: Retiolus / CC0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Wide-angle_Judge_beating_a_protester_(Royal_Courts_of_Justice).jpg"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://www.olimpiadatododia.com.br/tenis-de-mesa/773241-duplas-derrotas-wtt-contender-istambul/": {
+  "recusado": true,
+  "criado": "2026-11-14T15:35:12.737985+00:00"
+ },
+ "https://www.otempo.com.br/sports/cruzeiro/2026/11/12/cruzeiro-divulga-primeira-parcial-de-ingressos-para-duelo-com-o-palmeiras-pelo-brasileirao": {
+  "publicar": true,
+  "titulo": "Cruzeiro vende 20 mil ingressos para duelo com o Palmeiras pelo Brasileirão",
+  "linha_fina": "Jogo acontece no Mineirão na próxima quarta-feira (18), às 20h30, pela 35ª rodada; ingressos seguem à venda pelo app Nação Azul e site do clube",
+  "paragrafos": [
+   "O Cruzeiro já vendeu 20 mil ingressos para o confronto contra o Palmeiras, marcado para a próxima quarta-feira (18), às 20h30, no Mineirão. A informação foi divulgada pelo próprio clube, que atingiu a marca com seis dias de antecedência.",
+   "O duelo vale pela 35ª rodada do Campeonato Brasileiro e chega em um momento importante da campanha celeste rumo à Libertadores 2027. Segundo a reportagem, o Cruzeiro precisa de mais duas vitórias para garantir vaga na fase de grupos do torneio internacional.",
+   "O bom momento do time dentro de campo, o fator casa e os desfalques do Palmeiras para a partida são apontados como motivos para a torcida acreditar em mais um triunfo diante do adversário.",
+   "Os ingressos podem ser comprados de forma on-line, pelo app Nação Azul ou pelo site oficial do Cruzeiro."
+  ],
+  "tags": [
+   "Cruzeiro",
+   "Palmeiras",
+   "Brasileirão",
+   "Mineirão"
+  ],
+  "pessoa": "",
+  "busca_imagem": "football stadium crowd",
+  "criado": "2026-11-14T15:35:12.737985+00:00",
+  "slug": "cruzeiro-vende-20-mil-ingressos-para-duelo-com-o-palmeiras-pelo-brasil-fb57cb",
+  "fonte": "O Tempo",
+  "link": "https://www.otempo.com.br/sports/cruzeiro/2026/11/12/cruzeiro-divulga-primeira-parcial-de-ingressos-para-duelo-com-o-palmeiras-pelo-brasileirao",
+  "categoria": "em-alta",
+  "data": "2026-11-14T15:00:00+00:00",
+  "titulo_original": "Cruzeiro divulga primeira parcial de ingressos para duelo com o Palmeiras, pelo Brasileirão",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/1209/871563447_575fb14a2d_b.jpg",
+  "credito": "Foto: Joe Shlabotnik / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/40646519@N00/871563447"
  }
 }
