@@ -3512,9 +3512,9 @@
   "data": "2026-11-15T16:20:00+00:00",
   "titulo_original": "Finlândia x San Marino: onde assistir ao vivo e horário",
   "post": null,
-  "imagem": "https://live.staticflickr.com/5250/5214877167_82c48bdf0f_b.jpg",
-  "credito": "Foto: Steenbergs / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/50310535@N03/5214877167"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://palmeiras.com.br/noticias/palmeiras-da-sequencia-a-preparacao-visando-cruzeiro/": {
   "publicar": true,
@@ -3544,5 +3544,43 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Audi%C3%AAncia_com_Abel_Ferreira%2C_T%C3%A9cnico_do_Palmeiras_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: Governo do Estado de São Paulo / CC BY 2.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Audi%C3%AAncia_com_Abel_Ferreira,_T%C3%A9cnico_do_Palmeiras_(cropped).jpg"
+ },
+ "https://www1.folha.uol.com.br/cotidiano/2026/11/pais-esquecem-filho-de-7-anos-a-bordo-de-aviao-apos-o-desembarque-e-piloto-avisa-torre-de-controle.shtml": {
+  "recusado": true,
+  "criado": "2026-11-15T17:33:37.527178+00:00"
+ },
+ "https://www.flamengo.com.br/noticias/futebol/no-mengocast-na-flamengo-tv-o-atacante-joaquin-freitas-fala-sobre-a-adaptacao-ao-rio-a-decisao-de-deixar-o-river-plate-e-a-disputa-pelo-brasileiro": {
+  "publicar": true,
+  "titulo": "Joaquín Freitas revela que chorou antes de deixar o River Plate e sonha com o Brasileirão",
+  "linha_fina": "Atacante argentino de 19 anos diz que título nacional seria seu primeiro como profissional, com o Flamengo com três pontos de vantagem",
+  "paragrafos": [
+   "O atacante Joaquín Freitas, de 19 anos, contou no Mengocast, programa da FlamengoTV, como foi a decisão de deixar o River Plate e se mudar para o Rio de Janeiro para defender o Flamengo, onde usa a camisa 30.",
+   "Segundo o jogador, a saída da Argentina foi marcada pela emoção. Ele afirma que já chorava no vestiário após ir ao banco no último jogo pelo River, contra o Banfield, e que passou quase a noite inteira em lágrimas ao lado da família e dos amigos.",
+   "Freitas disse que a adaptação tem sido positiva, destacando a simpatia das pessoas no Rio e a ajuda dos companheiros de língua espanhola. Ele ainda não conseguiu aproveitar as praias por causa do tempo nublado e chuvoso, e a família segue na Argentina, mas o visita com frequência.",
+   "Na entrevista, o atacante também falou sobre o Campeonato Brasileiro, que classificou como prioridade do clube, e sobre o desejo de conquistar a Libertadores. Ele pediu o apoio da torcida na reta final da competição."
+  ],
+  "tags": [
+   "Flamengo",
+   "Joaquín Freitas",
+   "Campeonato Brasileiro",
+   "Mengocast"
+  ],
+  "pessoa": "",
+  "busca_imagem": "soccer player celebrating goal",
+  "criado": "2026-11-15T17:33:37.527178+00:00",
+  "slug": "joaquin-freitas-revela-que-chorou-antes-de-deixar-o-river-plate-e-sonh-94c554",
+  "fonte": "Clube de Regatas do Flamengo",
+  "link": "https://www.flamengo.com.br/noticias/futebol/no-mengocast-na-flamengo-tv-o-atacante-joaquin-freitas-fala-sobre-a-adaptacao-ao-rio-a-decisao-de-deixar-o-river-plate-e-a-disputa-pelo-brasileiro",
+  "categoria": "em-alta",
+  "data": "2026-11-15T17:10:00+00:00",
+  "titulo_original": "No Mengocast, na FlamengoTV, o atacante Joaquín Freitas fala sobre a adaptação ao Rio, a decisão de deixar o River Plate e a disputa pelo Brasileiro",
+  "post": {
+   "tipo": "youtube",
+   "id": "FOmwNx1M5pA",
+   "url": "https://www.youtube.com/watch?v=FOmwNx1M5pA"
+  },
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Jacob_Amb%C3%A6k_celebrating_goal.jpg/1280px-Jacob_Amb%C3%A6k_celebrating_goal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: https://vilfortpark.dk / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Jacob_Amb%C3%A6k_celebrating_goal.jpg"
  }
 }
