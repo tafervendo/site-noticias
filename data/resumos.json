@@ -3713,5 +3713,43 @@
  "https://portalpopline.com.br/alok-flo-majur-nct-dream-simaria-lancamentos-semana/": {
   "recusado": true,
   "criado": "2026-11-15T21:35:10.515871+00:00"
+ },
+ "https://www1.folha.uol.com.br/colunas/painel/2026/11/cleitinho-liga-para-prefeito-que-fez-show-de-claudia-leitte-para-tirar-satisfacao.shtml": {
+  "recusado": true,
+  "criado": "2026-11-15T22:36:57.491819+00:00"
+ },
+ "https://entretetizei.com.br/no-dia-da-consciencia-negra-serie-ayo-estreia-com-historia-sobre-amor-identidade-e-protagonismo-negro/": {
+  "recusado": true,
+  "criado": "2026-11-15T22:36:57.491819+00:00"
+ },
+ "https://guiadoestudante.abril.com.br/enem/quando-sai-a-nota-da-redacao-do-enem-2026/": {
+  "publicar": true,
+  "titulo": "Quando sai a nota da redação do Enem 2026? Veja a previsão",
+  "linha_fina": "Segundo o Inep, resultados das notas devem ser divulgados em janeiro de 2027, e o espelho da redação costuma sair cerca de 60 dias depois",
+  "paragrafos": [
+   "O edital do Enem 2026 ainda não define uma data exata para a divulgação das notas da redação e das áreas do conhecimento. Segundo o Inep, a previsão é que o resultado saia em janeiro de 2027.",
+   "No Enem 2025, o resultado individual foi divulgado em 16 de janeiro, o que serve como referência para a expectativa dos candidatos.",
+   "O espelho da redação, que mostra a avaliação ponto a ponto feita pelo Inep, também não tem dia marcado no edital. O documento diz apenas que ele será publicado após o resultado oficial. Nas últimas edições, a liberação ocorreu cerca de 60 dias depois das notas finais, geralmente em março.",
+   "Cada redação é corrigida por pelo menos dois corretores, que avaliam o texto em 5 competências, com até 200 pontos em cada uma. A nota final é a média das duas avaliações. Se a diferença for maior que 100 pontos no total ou 80 em alguma competência, um terceiro corretor entra na análise e, se a discrepância persistir, o texto vai para uma banca de três professores."
+  ],
+  "tags": [
+   "Enem 2026",
+   "nota da redação",
+   "espelho da redação",
+   "Inep"
+  ],
+  "pessoa": "",
+  "busca_imagem": "students taking exam",
+  "criado": "2026-11-15T22:36:57.491819+00:00",
+  "slug": "quando-sai-a-nota-da-redacao-do-enem-2026-veja-a-previsao-846a46",
+  "fonte": "Guia do Estudante",
+  "link": "https://guiadoestudante.abril.com.br/enem/quando-sai-a-nota-da-redacao-do-enem-2026/",
+  "categoria": "em-alta",
+  "data": "2026-11-15T22:10:00+00:00",
+  "titulo_original": "Quando sai a nota da redação do Enem 2026?",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/4041/4543337971_121916b26f_b.jpg",
+  "credito": "Foto: grggrssmr / CC BY-SA 2.0",
+  "credito_link": "https://www.flickr.com/photos/24700112@N05/4543337971"
  }
 }
