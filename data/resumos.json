@@ -3299,8 +3299,44 @@
   "data": "2026-11-15T09:40:00+00:00",
   "titulo_original": "46 cidades do Ceará têm aviso de tempestade para domingo (15); veja locais",
   "post": null,
-  "imagem": "https://live.staticflickr.com/3393/3222634316_e546570b53_b.jpg",
-  "credito": "Foto: widmatt / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/10929438@N05/3222634316"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://www.terra.com.br/diversao/gente/filho-de-wanessa-camargo-paga-jantar-para-a-mae-e-web-dispara-que-menino,f986b10be9d581e8bcf64775389fa0d86ipzcsp9.html": {
+  "publicar": true,
+  "titulo": "Wanessa Camargo se diverte com jantar pago pelo filho adolescente",
+  "linha_fina": "Cantora relata que o rapaz escolheu o restaurante, insistiu em pagar a conta e já havia feito isso em outras ocasiões",
+  "paragrafos": [
+   "Na quarta-feira (11), a cantora Wanessa Camargo, de 43 anos, ganhou atenção nas redes sociais ao divulgar um jantar a dois com o filho mais velho, de 14 anos. Segundo ela, o adolescente escolheu o restaurante e fez questão de cobrir a despesa.",
+   "Em um vídeo publicado nas redes, Wanessa mostrou o momento e contou que aquela não foi a primeira vez que o filho a convidou para jantar e assumiu a conta. Ao comentar a atitude dele, ela brincou com o bom gosto do rapaz na escolha do lugar. Ao ouvir a mãe, o adolescente respondeu com carinho.",
+   "Os comentários dos seguidores seguiram o tom leve. Muitos elogiaram a educação e a iniciativa do jovem, enquanto outros fizeram piadas sobre a situação financeira da família. Uma seguidora disse que o gesto mostra atitude, independentemente de condição financeira.",
+   "Wanessa costuma dividir momentos da rotina familiar com o público. Ela é mãe de dois meninos e, segundo a matéria de origem, está separada do empresário com quem viveu por 17 anos, relação que chegou ao fim em 2022."
+  ],
+  "tags": [
+   "Wanessa Camargo",
+   "famosos",
+   "redes sociais"
+  ],
+  "pessoa": "Wanessa Camargo",
+  "busca_imagem": "restaurant dinner table",
+  "criado": "2026-11-15T11:37:08.259534+00:00",
+  "slug": "wanessa-camargo-se-diverte-com-jantar-pago-pelo-filho-adolescente-5042fe",
+  "fonte": "Terra",
+  "link": "https://www.terra.com.br/diversao/gente/filho-de-wanessa-camargo-paga-jantar-para-a-mae-e-web-dispara-que-menino,f986b10be9d581e8bcf64775389fa0d86ipzcsp9.html",
+  "categoria": "em-alta",
+  "data": "2026-11-15T11:20:00+00:00",
+  "titulo_original": "Filho de Wanessa Camargo paga jantar para a mãe e web dispara: 'Que menino'",
+  "post": {
+   "tipo": "instagram",
+   "url": "https://www.instagram.com/p/Dfn5W7zRbUj/"
+  },
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Wanessa_Camargo_at_De_Lado_com_a_Loba_2024_01.jpg/1280px-Wanessa_Camargo_at_De_Lado_com_a_Loba_2024_01.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Wanessa_Camargo_at_De_Lado_com_a_Loba_2024_01.jpg"
+ },
+ "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/15/flamengo-bustos-de-arrascaeta-e-bh.ghtm": {
+  "recusado": true,
+  "criado": "2026-11-15T11:37:08.259534+00:00"
  }
 }
