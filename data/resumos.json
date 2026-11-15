@@ -3195,5 +3195,73 @@
  "https://www1.folha.uol.com.br/opiniao/2026/11/replica-sionismo-e-racismo.shtml": {
   "recusado": true,
   "criado": "2026-11-15T08:49:48.643114+00:00"
+ },
+ "https://www.espn.com.br/mma/ufc/artigo/_/id/17510251/ufc-josh-hokit-detona-usman-nurmagomedov-por-confusao-com-merab-dvalishvili-covarde": {
+  "recusado": true,
+  "criado": "2026-11-15T09:43:52.963713+00:00"
+ },
+ "https://www.horabrasil.com.br/2026/11/14/inscricoes-abertas-para-a-especializacao-gratuita-100-online-em-gestao-publica/": {
+  "publicar": true,
+  "titulo": "Inscrições abertas para especialização gratuita e 100% online em Gestão Pública",
+  "linha_fina": "Curso da UFU via Universidade Aberta do Brasil oferece 150 vagas, com duração de 18 meses e 390 horas",
+  "paragrafos": [
+   "Estão abertas as inscrições para o processo seletivo de uma especialização gratuita em Gestão Pública, realizada totalmente a distância. O curso oferece 150 vagas e é ofertado pela Universidade Federal de Uberlândia (UFU) por meio do programa Universidade Aberta do Brasil, ligado à Capes e ao MEC.",
+   "O programa tem carga de 390 horas de pós-graduação e duração de 18 meses, período em que os alunos precisam concluir as disciplinas previstas na grade do curso.",
+   "Podem se inscrever brasileiros natos, naturalizados ou estrangeiros autorizados a viver no país, desde que tenham diploma de graduação reconhecido pelo MEC ou diploma obtido no exterior e revalidado no Brasil.",
+   "As inscrições são feitas pelo site indicado na matéria original, e a taxa de participação no processo seletivo é de R$ 150."
+  ],
+  "tags": [
+   "Gestão Pública",
+   "especialização gratuita",
+   "cursos online",
+   "UFU"
+  ],
+  "pessoa": "",
+  "busca_imagem": "online education laptop",
+  "criado": "2026-11-15T09:43:52.963713+00:00",
+  "slug": "inscricoes-abertas-para-especializacao-gratuita-e-100-online-em-gestao-646629",
+  "fonte": "Hora Brasil",
+  "link": "https://www.horabrasil.com.br/2026/11/14/inscricoes-abertas-para-a-especializacao-gratuita-100-online-em-gestao-publica/",
+  "categoria": "em-alta",
+  "data": "2026-11-15T09:20:00+00:00",
+  "titulo_original": "Inscrições abertas para a especialização gratuita 100% online em Gestão Pública",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/8398/8801651583_0b931d0bed_b.jpg",
+  "credito": "Foto: mattcornock / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/41672704@N06/8801651583"
+ },
+ "https://www.uol.com.br/vivabem/noticias/redacao/2026/11/15/masturbacao-previne-o-cancer-de-prostata-veja-o-que-a-ciencia-diz.htm": {
+  "recusado": true,
+  "criado": "2026-11-15T09:43:52.963713+00:00"
+ },
+ "https://veja.abril.com.br/brasil/investigacao-da-cgu-evita-superfaturamento-de-quase-r-90-milhoes-no-governo-lula/": {
+  "publicar": true,
+  "titulo": "CGU evita superfaturamento de quase R$ 90 milhões em licitação do Dnit em Rondônia",
+  "linha_fina": "Fiscalização preventiva apontou falhas de planejamento em contrato de manutenção de trecho da BR-364 de mais de R$ 270 milhões",
+  "paragrafos": [
+   "A Controladoria-Geral da União (CGU) identificou falhas de planejamento em uma licitação de mais de R$ 270 milhões da Superintendência do Dnit em Rondônia, que previa a contratação de uma empresa para manutenção de um trecho da BR-364. Segundo a matéria da VEJA, a fiscalização preventiva apontou um sobrepreço de quase R$ 90 milhões no projeto.",
+   "Entre os problemas listados no relatório da CGU está o fato de o edital não considerar serviços de manutenção já feitos durante a vigência do Contrato nº 752/2021, firmado no governo de Jair Bolsonaro. O órgão também citou níveis de esforço atribuídos de forma inadequada a alguns itens, o que levou ao superdimensionamento de materiais.",
+   "Após os apontamentos, o órgão recomendou ajustes no planejamento. De acordo com a CGU, o gestor responsável pela unidade do Dnit fez as mudanças necessárias para alinhar o projeto à realidade da rodovia, o que resultou em uma economia de R$ 88.334.706,21. O pregão foi lançado em 2024, e o relatório foi divulgado nesta semana.",
+   "A reportagem afirma que, apesar da correção, nenhuma medida foi tomada para responsabilizar os envolvidos nas falhas do edital."
+  ],
+  "tags": [
+   "CGU",
+   "Dnit",
+   "BR-364",
+   "licitação"
+  ],
+  "pessoa": "",
+  "busca_imagem": "highway construction road",
+  "criado": "2026-11-15T09:43:52.963713+00:00",
+  "slug": "cgu-evita-superfaturamento-de-quase-r-90-milhoes-em-licitacao-do-dnit-208458",
+  "fonte": "VEJA",
+  "link": "https://veja.abril.com.br/brasil/investigacao-da-cgu-evita-superfaturamento-de-quase-r-90-milhoes-no-governo-lula/",
+  "categoria": "em-alta",
+  "data": "2026-11-15T08:10:00+00:00",
+  "titulo_original": "Investigação da CGU evita superfaturamento de quase R$ 90 milhões no governo Lula",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/7642/16615112904_416518739c_b.jpg",
+  "credito": "Foto: NCDOTcommunications / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/39320593@N03/16615112904"
  }
 }
