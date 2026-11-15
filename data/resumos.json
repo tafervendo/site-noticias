@@ -2970,8 +2970,57 @@
   "data": "2026-11-15T01:40:00+00:00",
   "titulo_original": "PGR reforça ao STF pedido de crédito extra de R$ 324 milhões para pagar penduricalhos",
   "post": null,
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Supreme_Federal_Court_-_Statue.jpg/1280px-Supreme_Federal_Court_-_Statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credito": "Foto: Dasfour2022 / CC BY-SA 4.0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Supreme_Federal_Court_-_Statue.jpg"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://www.cnnbrasil.com.br/pop/celebridades/gloria-perez-faz-criticas-a-documentario-sobre-suzane-von-richthofen/": {
+  "recusado": true,
+  "criado": "2026-11-15T03:20:15.261282+00:00"
+ },
+ "https://www.uol.com.br/splash/noticias/2026/11/14/a-fazenda-punicao-ovelha-serginho.ghtm": {
+  "recusado": true,
+  "criado": "2026-11-15T03:20:15.261282+00:00"
+ },
+ "https://www.ufc.com.br/video/161995": {
+  "recusado": true,
+  "criado": "2026-11-15T03:20:15.261282+00:00"
+ },
+ "https://www.estadao.com.br/einvestidor/cripto/bitcoin-rompe-os-us-70-mil-apos-meses-acima-da-marca-o-pior-ainda-pode-estar-por-vir/": {
+  "recusado": true,
+  "criado": "2026-11-15T03:20:15.261282+00:00"
+ },
+ "https://viva.com.br/cultura-e-lazer/altas-horas-de-hoje-reune-marvvila-e-cantores-60-de-musicas-romanticas.html": {
+  "publicar": true,
+  "titulo": "Altas Horas tem noite de love songs com Marvvila, José Augusto e Kátia",
+  "linha_fina": "Edição deste sábado, 14 de novembro, reúne cantores de gerações diferentes que marcaram casais com músicas românticas",
+  "paragrafos": [
+   "Neste sábado, 14 de novembro, o Altas Horas exibe uma edição especial voltada às canções de amor. Batizada com o tema \"Love Songs\", a atração comandada por Serginho Groisman recebe nomes que embalaram romances de várias épocas, como José Augusto, Kátia, Ritchie, Joanna, Jane e Herondy, além do duo Mar Aberto e da cantora Marvvila.",
+   "José Augusto vai cantar sucessos como \"Sonho por Sonho\", \"Aguenta Coração\" e \"Evidências\". Ele conta como o romantismo começou a fazer parte da sua vida ainda na infância, quando acompanhava a mãe no piano, e como o amor se tornou um dos temas centrais das músicas que compôs ao longo da carreira.",
+   "Kátia apresenta \"Qualquer Jeito\" e fala da influência do padrinho, Roberto Carlos, desde os primeiros anos. Ela também comenta a regravação de \"Jogo Marcado\", composição de José Augusto. Ritchie, por sua vez, leva \"A Vida Tem Dessas Coisas\" e relembra o primeiro contato com Milton Nascimento através do álbum \"Clube da Esquina\", além de histórias do início da carreira no Brasil.",
+   "Entre os momentos de relacionamento, Jane e Herondy celebram 56 anos juntos e apresentam \"Não se Vá\". Já Gabi Luz e Thiago Mart, do Mar Aberto, lembram os 13 anos de união, a parceria musical que nasceu por meio do professor de canto de Gabi e a expectativa pela chegada de Liz, a segunda filha do casal. Marvvila encerra a programação com \"Por Tão Pouco\"."
+  ],
+  "tags": [
+   "Altas Horas",
+   "love songs",
+   "música romântica",
+   "Serginho Groisman"
+  ],
+  "pessoa": "Serginho Groisman",
+  "busca_imagem": "television studio stage",
+  "criado": "2026-11-15T03:20:15.261282+00:00",
+  "slug": "altas-horas-tem-noite-de-love-songs-com-marvvila-jose-augusto-e-katia-e1c30c",
+  "fonte": "viva.com.br",
+  "link": "https://viva.com.br/cultura-e-lazer/altas-horas-de-hoje-reune-marvvila-e-cantores-60-de-musicas-romanticas.html",
+  "categoria": "em-alta",
+  "data": "2026-11-15T02:10:00+00:00",
+  "titulo_original": "'Altas Horas' de hoje reúne Marvvila e cantores 60+ de músicas românticas",
+  "post": {
+   "tipo": "instagram",
+   "url": "https://www.instagram.com/p/Dfm_qmGCUyu/"
+  },
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/71/2023-07-17_Pr%C3%AAmio_APCA_2023%2C_026_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: amigosdaarte / Public domain, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:2023-07-17_Pr%C3%AAmio_APCA_2023,_026_(cropped).jpg"
  }
 }
