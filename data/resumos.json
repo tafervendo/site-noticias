@@ -3401,8 +3401,43 @@
   "data": "2026-11-15T12:10:00+00:00",
   "titulo_original": "G7 dribla impasse e divulga comunicado conjunto após série de encontros sem consenso",
   "post": null,
-  "imagem": "https://live.staticflickr.com/4906/45783254712_e7909db9a2_b.jpg",
-  "credito": "Foto: *rboed* / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/92082510@N04/45783254712"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://www.ihu.unisinos.br/673369-trump-diz-que-quer-acabar-com-cuba-antes-de-deixar-o-cargo-e-nao-descarta-o-uso-da-forca-militar-eu-certamente-consideraria-essa-possibilidade": {
+  "recusado": true,
+  "criado": "2026-11-15T13:50:10.763757+00:00"
+ },
+ "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/enem-2026-segundo-dia-de-provas-ocorre-neste-domingo-15": {
+  "publicar": true,
+  "titulo": "Enem 2026: segunda prova acontece neste domingo (15) com 90 questões",
+  "linha_fina": "Participantes terão 45 questões de matemática e 45 de ciências da natureza, com portões fechando às 13h",
+  "paragrafos": [
+   "Neste domingo, 15 de novembro, acontece o segundo dia de aplicação do Enem 2026. Os candidatos enfrentarão um total de 90 perguntas de múltipla escolha, divididas igualmente entre os blocos de matemática e de ciências da natureza, segundo o Governo Federal.",
+   "O horário seguido é o de Brasília. Os portões abrem às 12h e fecham em ponto às 13h, e quem chegar depois não poderá entrar. As provas começam às 13h30 e vão até as 18h30.",
+   "Ninguém pode deixar a sala antes de duas horas de permanência. Quem quiser levar o caderno de questões só pode sair de vez a partir das 18h, nos últimos 30 minutos da aplicação. Antes disso, é possível sair sem o caderno, respeitado o tempo mínimo.",
+   "Candidatos com tempo extra aprovado pelo Inep ganham 60 minutos a mais, e quem usa videoprova em Libras, quando autorizado, recebe 120 minutos adicionais. O Cartão de Confirmação, disponível na Página do Participante, traz local de prova e atendimento especial, e o Inep orienta levá-lo no dia.",
+   "Quem não conseguiu fazer as provas por problemas logísticos, doenças infectocontagiosas previstas no edital ou por desastres naturais e questões climáticas pode pedir reaplicação entre 16 e 20 de novembro, somente pela Página do Participante. A reaplicação está marcada para 15 e 16 de dezembro, e quem for aprovado refaz apenas o dia afetado."
+  ],
+  "tags": [
+   "Enem 2026",
+   "Enem",
+   "Inep",
+   "vestibular"
+  ],
+  "pessoa": "",
+  "busca_imagem": "students taking exam",
+  "criado": "2026-11-15T13:50:10.763757+00:00",
+  "slug": "enem-2026-segunda-prova-acontece-neste-domingo-15-com-90-questoes-c818e9",
+  "fonte": "Governo Federal",
+  "link": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/enem-2026-segundo-dia-de-provas-ocorre-neste-domingo-15",
+  "categoria": "em-alta",
+  "data": "2026-11-15T12:30:00+00:00",
+  "titulo_original": "Enem 2026: segundo dia de provas ocorre neste domingo (15)",
+  "post": null,
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/84/Cheating_notes_seized_from_students_taking_exams_in_Kirkuk_01.jpg",
+  "credito": "Foto: Levi Clancy / CC BY-SA 4.0",
+  "credito_link": "https://commons.wikimedia.org/w/index.php?curid=63706547"
  }
 }
