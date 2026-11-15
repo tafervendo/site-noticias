@@ -2880,9 +2880,9 @@
    "id": "ytF7Uon1bBI",
    "url": "https://www.youtube.com/watch?v=ytF7Uon1bBI"
   },
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Wilson%27s_worsted_factory_1854_Fire_-_Off_Hillgate_on_the_east_face_of_the_south_tower_of_the_Tyne_Bridge.jpg/1280px-Wilson%27s_worsted_factory_1854_Fire_-_Off_Hillgate_on_the_east_face_of_the_south_tower_of_the_Tyne_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credito": "Foto: Spudgun67 / CC BY-SA 4.0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Wilson%27s_worsted_factory_1854_Fire_-_Off_Hillgate_on_the_east_face_of_the_south_tower_of_the_Tyne_Bridge.jpg"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://noticiasdatv.uol.com.br/noticia/novelas/resumo-de-quem-ama-cuida-adriana-fareja-novo-crime-de-ademir-e-entra-em-acao-159382": {
   "publicar": true,
@@ -2912,5 +2912,66 @@
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Let%C3%ADcia_Colin_2026.jpg/1280px-Let%C3%ADcia_Colin_2026.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credito": "Foto: Globoplay Novelas / CC BY 4.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Let%C3%ADcia_Colin_2026.jpg"
+ },
+ "https://www.cnnbrasil.com.br/saude/mpox-nova-variante-que-circula-pelo-brasil-ja-causou-surto-na-africa/": {
+  "publicar": true,
+  "titulo": "Mpox: nova variante clado 1b chega a SP e RJ e já causou surto na África",
+  "linha_fina": "São Paulo tem 103 casos pela variante até sexta-feira (13); no Brasil, há 1055 registros da doença",
+  "paragrafos": [
+   "Casos da nova variante da Mpox, o clado 1b, foram identificados em São Paulo e no Rio de Janeiro neste ano de 2026. Até a sexta-feira (13), a Secretaria de Saúde paulista contabilizava 103 ocorrências, concentradas sobretudo na Região Metropolitana da capital.",
+   "No Rio, a Secretaria estadual de Saúde afirmou que, entre os casos com clado identificado no período mais recente, 30 estão ligados ao clado 1 e 11 ao clado 2. O estado também registrou uma morte causada pela doença em 2026.",
+   "Segundo a reportagem, SP e RJ concentram mais de 76% dos 1055 registros de Mpox no país, de acordo com o painel do Ministério da Saúde atualizado na mesma sexta-feira.",
+   "O clado 1b já esteve ligado a um surto na República Democrática do Congo em 2024, quando o país somou mais de 78 mil casos e mil mortes. Estudos fora do Brasil indicam maior transmissibilidade e potencial de quadros mais graves, mas o infectologista Bruno Tavares, do Hospital Alemão Oswaldo Cruz, diz que ainda não é possível saber se isso se repetirá no país.",
+   "Tavares também avalia que as vacinas tendem a proteger menos contra o clado 1b do que contra o 2b, e defende manter a vacinação para os grupos indicados e ampliar a vigilância genômica."
+  ],
+  "tags": [
+   "Mpox",
+   "clado 1b",
+   "saúde pública",
+   "vacinação"
+  ],
+  "pessoa": "",
+  "busca_imagem": "virus laboratory research",
+  "criado": "2026-11-15T02:04:03.544080+00:00",
+  "slug": "mpox-nova-variante-clado-1b-chega-a-sp-e-rj-e-ja-causou-surto-na-afric-c493ee",
+  "fonte": "CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/saude/mpox-nova-variante-que-circula-pelo-brasil-ja-causou-surto-na-africa/",
+  "categoria": "em-alta",
+  "data": "2026-11-15T01:40:00+00:00",
+  "titulo_original": "Mpox: nova variante que circula pelo Brasil já causou surto na África",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/New_research_study_may_lead_to_better_flu_virus_protection_for_warfighters%2C_public_%288166666%29.jpg/1280px-New_research_study_may_lead_to_better_flu_virus_protection_for_warfighters%2C_public_%288166666%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: U.S. Air Force AFRL by Jeremy R Dunn / Public domain, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:New_research_study_may_lead_to_better_flu_virus_protection_for_warfighters,_public_(8166666).jpg"
+ },
+ "https://www1.folha.uol.com.br/poder/2026/11/pgr-reforca-ao-stf-pedido-de-credito-extra-de-r-324-milhoes-para-pagar-penduricalhos.shtml": {
+  "publicar": true,
+  "titulo": "PGR reforça pedido ao STF de crédito extra de R$ 324 milhões para penduricalhos",
+  "linha_fina": "Verba extra de integrantes do Ministério Público ficaria fora do limite de despesas do arcabouço fiscal e aumentaria a dívida pública",
+  "paragrafos": [
+   "A Procuradoria-Geral da República reforçou ao Supremo Tribunal Federal o pedido para que o governo abra um crédito extraordinário que banque verbas extras de integrantes do Ministério Público ainda neste ano. A manifestação foi assinada na sexta-feira (13) pelo procurador-geral Paulo Gonet, que concordou com o pedido da Advocacia-Geral da União e endossou seus fundamentos.",
+   "O valor pedido é de R$ 324 milhões, que inclui também pagamentos de indenização de férias não usufruídas. O caso foi distribuído ao ministro Alexandre de Moraes. Segundo a matéria, órgãos do Judiciário e do Ministério Público alegaram em ofícios enviados à AGU no dia 3 que não têm recursos suficientes para realizar os pagamentos.",
+   "Crédito extraordinário é um instrumento previsto para despesas urgentes e imprevisíveis, como calamidade, guerra ou comoção interna. Caso seja autorizado, o gasto ficará fora do limite do arcabouço fiscal e contribuirá para o aumento da dívida pública.",
+   "O Conselho da Justiça Federal havia pedido um crédito extraordinário de R$ 208,9 milhões para magistrados, mas desistiu da solicitação no dia 10 de novembro, após o ministro Luis Felipe Salomão afirmar que o orçamento foi revisto e que as contas poderão ser pagas sem suplementação."
+  ],
+  "tags": [
+   "PGR",
+   "STF",
+   "penduricalhos",
+   "Ministério Público"
+  ],
+  "pessoa": "",
+  "busca_imagem": "supreme court building",
+  "criado": "2026-11-15T02:04:03.544080+00:00",
+  "slug": "pgr-reforca-pedido-ao-stf-de-credito-extra-de-r-324-milhoes-para-pendu-c2e137",
+  "fonte": "Folha de S.Paulo",
+  "link": "https://www1.folha.uol.com.br/poder/2026/11/pgr-reforca-ao-stf-pedido-de-credito-extra-de-r-324-milhoes-para-pagar-penduricalhos.shtml",
+  "categoria": "em-alta",
+  "data": "2026-11-15T01:40:00+00:00",
+  "titulo_original": "PGR reforça ao STF pedido de crédito extra de R$ 324 milhões para pagar penduricalhos",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Supreme_Federal_Court_-_Statue.jpg/1280px-Supreme_Federal_Court_-_Statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Dasfour2022 / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Supreme_Federal_Court_-_Statue.jpg"
  }
 }
