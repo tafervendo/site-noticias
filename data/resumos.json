@@ -3633,8 +3633,46 @@
    "tipo": "x",
    "url": "https://twitter.com/1902futebol/status/2121993943848243606"
   },
-  "imagem": "https://live.staticflickr.com/1202/5126542532_f634b417ca_b.jpg",
-  "credito": "Foto: ResoluteSupportMedia / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/29456680@N06/5126542532"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/premio-tv-brasil-petrobras-para-elas-celebra-futebol-feminino-do-pais": {
+  "recusado": true,
+  "criado": "2026-11-15T20:36:30.441793+00:00"
+ },
+ "https://metropolitanafmcaruaru.com.br/vias-no-entorno-do-lacerdao-serao-interditadas-neste-domingo-08-em-caruaru/": {
+  "recusado": true,
+  "criado": "2026-11-15T20:36:30.441793+00:00"
+ },
+ "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/14/com-homenagens-a-cr7-portugal-perde-para-a-dinamarca-na-liga-das-nacoes.ghtm": {
+  "publicar": true,
+  "titulo": "Portugal é goleado pela Dinamarca por 4 a 1 na Liga das Nações, com homenagem a Cristiano Ronaldo",
+  "linha_fina": "Dinamarca vence em Braga com dois gols de Højlund; Bernardo Silva marca o gol português no fim do jogo",
+  "paragrafos": [
+   "Portugal foi derrotado por 4 a 1 pela Dinamarca neste sábado (14), em jogo pela quinta rodada da Liga das Nações disputado no Estádio Municipal de Braga. A partida teve homenagens a Cristiano Ronaldo, que não esteve em campo.",
+   "Os dinamarqueses marcaram com Højlund, duas vezes, Andersen e Højbjerg, este de pênalti. Bernardo Silva descontou para Portugal já nos acréscimos. Antes do jogo, a seleção portuguesa, treinada por Jorge Jesus, tinha 100% de aproveitamento na competição.",
+   "Mesmo com a derrota, Portugal segue líder do Grupo A4, com 12 pontos, e já está classificado para a próxima fase. A Dinamarca chegou a nove pontos e ampliou a vantagem sobre a Noruega, terceira colocada com seis.",
+   "As duas seleções se enfrentam na última rodada, na Dinamarca, em disputa por uma vaga no mata-mata. Antes disso, Portugal encerra a fase de grupos contra o País de Gales, lanterna do grupo."
+  ],
+  "tags": [
+   "Liga das Nações",
+   "Portugal",
+   "Dinamarca",
+   "Cristiano Ronaldo"
+  ],
+  "pessoa": "Cristiano Ronaldo",
+  "busca_imagem": "soccer stadium crowd",
+  "criado": "2026-11-15T20:36:30.441793+00:00",
+  "slug": "portugal-e-goleado-pela-dinamarca-por-4-a-1-na-liga-das-nacoes-com-hom-d355be",
+  "fonte": "UOL",
+  "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/14/com-homenagens-a-cr7-portugal-perde-para-a-dinamarca-na-liga-das-nacoes.ghtm",
+  "categoria": "em-alta",
+  "data": "2026-11-15T20:10:00+00:00",
+  "titulo_original": "Com homenagens a CR7, Portugal é goleado pela Dinamarca na Liga das Nações",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Bryan Berlin / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg"
  }
 }
