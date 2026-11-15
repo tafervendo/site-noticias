@@ -3436,8 +3436,39 @@
   "data": "2026-11-15T12:30:00+00:00",
   "titulo_original": "Enem 2026: segundo dia de provas ocorre neste domingo (15)",
   "post": null,
-  "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/84/Cheating_notes_seized_from_students_taking_exams_in_Kirkuk_01.jpg",
-  "credito": "Foto: Levi Clancy / CC BY-SA 4.0",
-  "credito_link": "https://commons.wikimedia.org/w/index.php?curid=63706547"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://www.estadao.com.br/economia/negocios/fim-do-ciclo-de-ouro-do-minerio-de-ferro-afeta-mineradoras-com-menor-competitividade-no-brasil/": {
+  "publicar": true,
+  "titulo": "Fim do ciclo de ouro do minério de ferro atinge mineradoras menores no Brasil",
+  "linha_fina": "Preço abaixo de US$ 100 a tonelada e frete mais caro na rota para a Ásia levam paralisações de mineradoras independentes em Minas Gerais",
+  "paragrafos": [
+   "Os anos de bonança da mineração de ferro parecem estar chegando ao fim, segundo especialistas e executivos do setor. Depois de cerca de seis anos de preços altos, a combinação de cotações em queda e fretes marítimos mais caros passou a pressionar as operações, sobretudo as de menor qualidade e menor competitividade.",
+   "As mineradoras independentes do Quadrilátero Ferrífero, em Minas Gerais, foram as mais afetadas. Desde setembro, várias delas anunciaram paralisações por tempo indeterminado e concederam férias coletivas. Empresas maiores, como CSN Mineração e Mineração Usiminas, também cortaram frentes de produção.",
+   "Segundo a reportagem, o minério vem sendo negociado entre US$ 90 e US$ 100 por tonelada neste ano, bem abaixo dos patamares de 2021, enquanto o frete para a Ásia subiu de cerca de US$ 25 para até US$ 42 por tonelada. A Vale, maior produtora mundial, disse a investidores que cerca de 10% da produção global já opera no prejuízo.",
+   "Ainda de acordo com o Estadão, a Cedro suspendeu temporariamente a Mina do Cota, em Mariana, a partir de 9 de novembro, e a Itaminas fez uma paralisação programada que, segundo a empresa, já foi encerrada. A Cedro afirmou que a medida não está ligada aos custos de frete nem à queda de preços.",
+   "O Itaú BBA projeta alguma normalização do frete em 2027, mas avalia que a recuperação não deve ser rápida. A expectativa dos analistas é que os produtores de minérios menos valorizados sejam os primeiros a sair do mercado."
+  ],
+  "tags": [
+   "minério de ferro",
+   "mineradoras",
+   "Vale",
+   "Minas Gerais"
+  ],
+  "pessoa": "",
+  "busca_imagem": "iron ore mining site",
+  "criado": "2026-11-15T14:41:21.945698+00:00",
+  "slug": "fim-do-ciclo-de-ouro-do-minerio-de-ferro-atinge-mineradoras-menores-no-8b17e2",
+  "fonte": "Estadão",
+  "link": "https://www.estadao.com.br/economia/negocios/fim-do-ciclo-de-ouro-do-minerio-de-ferro-afeta-mineradoras-com-menor-competitividade-no-brasil/",
+  "categoria": "em-alta",
+  "data": "2026-11-15T14:00:00+00:00",
+  "titulo_original": "Fim do ‘ciclo de ouro’ do minério de ferro afeta mineradoras com menor competitividade no Brasil",
+  "post": null,
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/43/ASC_Leiden_-_F._van_der_Kraaij_Collection_-_13_-_004_-_LAMCO_J.V._A_landscape_with_open_pit_mining_for_iron_ore._Excavators_and_lorries_-_Yekepa%2C_Nimba_county%2C_Liberia_-_1976.jpg",
+  "credito": "Foto: Fred van der Kraaij / CC BY-SA 4.0",
+  "credito_link": ""
  }
 }
