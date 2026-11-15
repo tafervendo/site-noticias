@@ -3053,12 +3053,46 @@
   "data": "2026-11-15T03:20:00+00:00",
   "titulo_original": "Zeni morre em Quem Ama Cuida? Sumiço da bandida deixa Adriana em alerta",
   "post": null,
-  "imagem": "https://live.staticflickr.com/68/429523518_df35aef719_b.jpg",
-  "credito": "Foto: NMC Second Life / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/80456686@N00/429523518"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www.espn.com.br/mma/ufc/artigo/_/id/17513164/ufc-carlos-prates-diz-vai-aposentar-islam-makhachev-responde-dana-white-convite-inusitado-seria-legal": {
   "recusado": true,
   "criado": "2026-11-15T04:27:46.117387+00:00"
+ },
+ "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-domingo-chuvoso-da-lugar-a-calor-intenso-nos-proximos-dias-na-capital,8c685224806f14185f149bbede8a4c8ckn53iqsc.html": {
+  "publicar": true,
+  "titulo": "Previsão do tempo em Porto Alegre: domingo chuvoso dá lugar a calor de até 32°C",
+  "linha_fina": "Após dia de chuva e temperatura máxima de 27°C, termômetros sobem e chegam a 32°C na terça e na quarta-feira (18)",
+  "paragrafos": [
+   "Porto Alegre começa o domingo (15) com tempo instável, nuvens predominantes e chuva ao longo do dia inteiro. A mínima prevista é de 19°C e a máxima não deve passar de 27°C, com umidade do ar bastante alta, entre 70% e 100%.",
+   "Na segunda-feira (16), o céu segue nublado, mas sem chuvas relevantes. A máxima sobe para 29°C, enquanto a mínima continua em 19°C. Os ventos vêm de sudeste e leste com força moderada e algumas rajadas pontuais, que podem alterar a sensação térmica durante o dia.",
+   "A partir de terça-feira (17), o calor se intensifica, com máxima de 32°C e mínima de 18°C. Ainda há pancadas de chuva isoladas, empurradas por ventos de leste-nordeste, e a umidade mínima cai para cerca de 45%, o que deve deixar o ar mais abafado.",
+   "Na quarta-feira (18), a máxima se mantém em 32°C e a mínima sobe para 21°C. Continuam as pancadas de chuva isoladas, com ventos fracos, e a previsão indica dias alternados entre chuva e calor forte na região metropolitana."
+  ],
+  "tags": [
+   "previsão do tempo",
+   "Porto Alegre",
+   "calor",
+   "chuva"
+  ],
+  "pessoa": "",
+  "busca_imagem": "rain clouds city",
+  "criado": "2026-11-15T05:26:36.120392+00:00",
+  "slug": "previsao-do-tempo-em-porto-alegre-domingo-chuvoso-da-lugar-a-calor-de-acd6e6",
+  "fonte": "Terra",
+  "link": "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-domingo-chuvoso-da-lugar-a-calor-intenso-nos-proximos-dias-na-capital,8c685224806f14185f149bbede8a4c8ckn53iqsc.html",
+  "categoria": "em-alta",
+  "data": "2026-11-15T05:00:00+00:00",
+  "titulo_original": "Previsão do Tempo: Domingo chuvoso dá lugar a calor intenso nos próximos dias na Capital",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Clouds_containing_rain_in_Gisenyi.jpg/1280px-Clouds_containing_rain_in_Gisenyi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Rodnib / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Clouds_containing_rain_in_Gisenyi.jpg"
+ },
+ "https://blogdomagno.com.br/jones-manoel-aponta-risco-a-qualidade-da-agua-apos-concessao-de-servicos-da-compesa/": {
+  "recusado": true,
+  "criado": "2026-11-15T05:26:36.120392+00:00"
  }
 }
