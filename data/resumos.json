@@ -3226,9 +3226,9 @@
   "data": "2026-11-15T09:20:00+00:00",
   "titulo_original": "Inscrições abertas para a especialização gratuita 100% online em Gestão Pública",
   "post": null,
-  "imagem": "https://live.staticflickr.com/8398/8801651583_0b931d0bed_b.jpg",
-  "credito": "Foto: mattcornock / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/41672704@N06/8801651583"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www.uol.com.br/vivabem/noticias/redacao/2026/11/15/masturbacao-previne-o-cancer-de-prostata-veja-o-que-a-ciencia-diz.htm": {
   "recusado": true,
@@ -3260,8 +3260,47 @@
   "data": "2026-11-15T08:10:00+00:00",
   "titulo_original": "Investigação da CGU evita superfaturamento de quase R$ 90 milhões no governo Lula",
   "post": null,
-  "imagem": "https://live.staticflickr.com/7642/16615112904_416518739c_b.jpg",
-  "credito": "Foto: NCDOTcommunications / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/39320593@N03/16615112904"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://www.diariogoianiense.com.br/noticia/mpgo-avalia-interdicao-de-fabrica-que-causa-forte-odor-no-entorno": {
+  "recusado": true,
+  "criado": "2026-11-15T10:40:54.130858+00:00"
+ },
+ "https://www.brasileirao.com.br/artur-jorge-ficou-sem-jantar-em-passeio-por-causa-da-torcida-do-cruzeiro": {
+  "recusado": true,
+  "criado": "2026-11-15T10:40:54.130858+00:00"
+ },
+ "https://diariodonordeste.verdesmares.com.br/ceara/46-cidades-do-ceara-tem-aviso-de-tempestade-para-domingo-15-veja-locais-1.3805719": {
+  "publicar": true,
+  "titulo": "Inmet emite alerta de tempestade para 46 cidades do Ceará neste domingo (15)",
+  "linha_fina": "Aviso vale para todo o dia e inclui o Crato, atingido por granizo e temporal na segunda-feira (9)",
+  "paragrafos": [
+   "Neste domingo (15), 46 municípios do Ceará entram no radar de um aviso de perigo potencial para tempestades, emitido pelo Instituto Nacional de Meteorologia (Inmet). A orientação cobre as regiões Centro-Sul e Cariri e vale por todo o dia.",
+   "O Crato, no Cariri, aparece na lista. Na segunda-feira (9), a cidade já havia sido castigada por ventos fortes e granizo, que derrubaram telhados, arrancaram árvores e postes e deixaram serviços essenciais interrompidos. Segundo a Prefeitura, a situação de emergência seria decretada na quarta-feira (11).",
+   "De acordo com o alerta, a chuva pode chegar a 20 a 30 milímetros por hora, com acumulado de até 50 milímetros no dia, e os ventos podem variar entre 40 e 60 km/h. Também há possibilidade de queda de granizo.",
+   "O Inmet classifica como baixo o risco de falta de energia, perdas em lavouras, galhos caindo e alagamentos. O domingo também marca o segundo dia de provas do Enem.",
+   "Para orientações e mais informações, a recomendação é procurar a Defesa Civil ou o Corpo de Bombeiros pelo telefone 193."
+  ],
+  "tags": [
+   "previsão do tempo Ceará",
+   "Inmet alerta",
+   "Crato temporal",
+   "tempestade Ceará"
+  ],
+  "pessoa": "",
+  "busca_imagem": "storm clouds rain",
+  "criado": "2026-11-15T10:40:54.130858+00:00",
+  "slug": "inmet-emite-alerta-de-tempestade-para-46-cidades-do-ceara-neste-doming-0f69ac",
+  "fonte": "Diário do Nordeste",
+  "link": "https://diariodonordeste.verdesmares.com.br/ceara/46-cidades-do-ceara-tem-aviso-de-tempestade-para-domingo-15-veja-locais-1.3805719",
+  "categoria": "em-alta",
+  "data": "2026-11-15T09:40:00+00:00",
+  "titulo_original": "46 cidades do Ceará têm aviso de tempestade para domingo (15); veja locais",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/3393/3222634316_e546570b53_b.jpg",
+  "credito": "Foto: widmatt / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/10929438@N05/3222634316"
  }
 }
