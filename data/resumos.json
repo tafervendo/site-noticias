@@ -3482,5 +3482,67 @@
  "https://www.estadao.com.br/einvestidor/loterias/resultado-da-quina-7168-confira-as-dezenas-sorteadas-neste-domingo-15/": {
   "recusado": true,
   "criado": "2026-11-15T15:37:04.195561+00:00"
+ },
+ "https://tmc.com.br/esporte/bielorrussia-x-albania-onde-assistir-uefa-nations-league-2026-2027/": {
+  "recusado": true,
+  "criado": "2026-11-15T16:38:06.375033+00:00"
+ },
+ "https://tmc.com.br/esporte/finlandia-x-san-marino-onde-assistir-uefa-nations-league-2026-2027/": {
+  "publicar": true,
+  "titulo": "Finlândia x San Marino: onde assistir ao vivo e horário do jogo",
+  "linha_fina": "SporTV transmite a partida neste domingo, às 14h (horário de Brasília), pela Nations League",
+  "paragrafos": [
+   "O SporTV vai transmitir ao vivo o duelo entre Finlândia e San Marino neste domingo, a partir das 14h, no horário de Brasília. A partida acontece na Bolt Arena, em Helsinque, na Finlândia.",
+   "O jogo vale pela fase de grupos da UEFA Nations League 2026/27, competição de seleções europeias.",
+   "Os dois times vêm de derrotas no mesmo dia, 12 de novembro, nesta edição da competição. A Finlândia perdeu por 2 a 0 para a Albânia, fora de casa, enquanto San Marino foi derrotado por 2 a 0 pela Bielorrússia.",
+   "A matéria também divulga as escalações das duas seleções, com nomes como Hradecky, pela Finlândia, e Colombo, por San Marino, entre os titulares."
+  ],
+  "tags": [
+   "Nations League",
+   "Finlândia x San Marino",
+   "futebol ao vivo"
+  ],
+  "pessoa": "",
+  "busca_imagem": "football stadium crowd",
+  "criado": "2026-11-15T16:38:06.375033+00:00",
+  "slug": "finlandia-x-san-marino-onde-assistir-ao-vivo-e-horario-do-jogo-96fd4d",
+  "fonte": "tmc.com.br",
+  "link": "https://tmc.com.br/esporte/finlandia-x-san-marino-onde-assistir-uefa-nations-league-2026-2027/",
+  "categoria": "em-alta",
+  "data": "2026-11-15T16:20:00+00:00",
+  "titulo_original": "Finlândia x San Marino: onde assistir ao vivo e horário",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/5250/5214877167_82c48bdf0f_b.jpg",
+  "credito": "Foto: Steenbergs / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/50310535@N03/5214877167"
+ },
+ "https://palmeiras.com.br/noticias/palmeiras-da-sequencia-a-preparacao-visando-cruzeiro/": {
+  "publicar": true,
+  "titulo": "Palmeiras segue preparação para enfrentar o Cruzeiro no Mineirão",
+  "linha_fina": "Duelo pela 35ª rodada do Brasileirão acontece na quarta-feira (18), às 20h30, em Belo Horizonte; Piquerez tem lesão na coxa direita",
+  "paragrafos": [
+   "O Palmeiras realizou neste domingo (15), na Academia de Futebol, mais um treino de preparação para o jogo contra o Cruzeiro, marcado para a quarta-feira (18), às 20h30, no Mineirão, em Belo Horizonte. A partida vale pela 35ª rodada do Campeonato Brasileiro.",
+   "O treino incluiu ativação muscular e atividades técnicas em campo reduzido, com ênfases definidas pela comissão técnica comandada por Abel Ferreira, além de trabalho de faltas e pênaltis. No primeiro turno, as equipes empataram por 1 a 1, com gol do meia Felipe Anderson.",
+   "No departamento médico, o zagueiro Murilo, que trata uma lesão na coxa esquerda, avançou em seu cronograma. Já o lateral-esquerdo Piquerez sentiu um incômodo durante o amistoso entre Uruguai e Argentina, na sexta-feira (13), e foi diagnosticado com lesão na coxa direita, começando o tratamento com a equipe.",
+   "O Palmeiras tem a segunda melhor campanha da história dos pontos corridos do Brasileirão desde 2003, com 73 pontos em 34 jogos, atrás apenas de 2022, quando somou 74. A equipe também está invicta há 11 partidas no campeonato, desde a derrota para o Fluminense em agosto. Contra o Cruzeiro, o clube venceu seis dos últimos 11 confrontos e empatou quatro."
+  ],
+  "tags": [
+   "Palmeiras",
+   "Cruzeiro",
+   "Brasileirão 2024"
+  ],
+  "pessoa": "Abel Ferreira",
+  "busca_imagem": "soccer training field",
+  "criado": "2026-11-15T16:38:06.375033+00:00",
+  "slug": "palmeiras-segue-preparacao-para-enfrentar-o-cruzeiro-no-mineirao-cfe15f",
+  "fonte": "Palmeiras",
+  "link": "https://palmeiras.com.br/noticias/palmeiras-da-sequencia-a-preparacao-visando-cruzeiro/",
+  "categoria": "em-alta",
+  "data": "2026-11-15T16:20:00+00:00",
+  "titulo_original": "Palmeiras dá sequência à preparação visando Cruzeiro",
+  "post": null,
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Audi%C3%AAncia_com_Abel_Ferreira%2C_T%C3%A9cnico_do_Palmeiras_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Governo do Estado de São Paulo / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Audi%C3%AAncia_com_Abel_Ferreira,_T%C3%A9cnico_do_Palmeiras_(cropped).jpg"
  }
 }
