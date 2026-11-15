@@ -3594,5 +3594,47 @@
  "https://f5.folha.uol.com.br/celebridades/2026/11/filho-de-ivete-sangalo-e-daniel-cady-diz-ter-cancoes-prontas-para-lancar-vou-construir-minha-carreira-devagarzinho.shtml": {
   "recusado": true,
   "criado": "2026-11-15T18:40:42.534919+00:00"
+ },
+ "https://novo2026.portaldoholanda.com.br/curitiba/clima-para-amanha-em-curitiba-domingo-de-neblina-pela-manha-e-chuva-forte-ao-entardecer": {
+  "recusado": true,
+  "criado": "2026-11-15T19:41:44.742923+00:00"
+ },
+ "https://www.espn.com.br/nfl/jogo/_/jogoId/401873060": {
+  "recusado": true,
+  "criado": "2026-11-15T19:41:44.742923+00:00"
+ },
+ "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/15/pancadaria-generalizada-marca-final-do-paulista-feminino-sub-20.ghtm": {
+  "publicar": true,
+  "titulo": "Final do Paulista feminino sub-20 termina em briga generalizada e expulsões",
+  "linha_fina": "Ferroviária venceu o Corinthians por 2 a 0 em Araraquara, mas a partida foi marcada por confusão, uma atleta desacordada e expulsões",
+  "paragrafos": [
+   "A final do Paulista feminino sub-20, disputada neste domingo (15) na Fonte Luminosa, em Araraquara, entre Ferroviária e Corinthians, terminou com uma briga generalizada entre as jogadoras, com socos e tapas.",
+   "A confusão começou depois de uma dividida na qual a jogadora Miga, da Ferroviária, após perder a bola, deu um chute em uma adversária do Corinthians, e as duas passaram a se agredir. Durante a briga, a atleta corintiana Mel, que tentava separar o confronto, foi atingida por um soco, ficou desacordada e precisou de atendimento médico. Raíssa Santos, também do Corinthians, recebeu atendimento após reclamar de um impacto na cabeça em outro momento da confusão.",
+   "Miga foi expulsa após o lance. A treinadora do Corinthians, Júlia Passero, e a jogadora Emy, que estava no banco de reservas, também receberam cartão vermelho. A partida não contava com VAR.",
+   "Em nota, o Corinthians repudiou as agressões e afirmou que vai registrar boletim de ocorrência e apresentar protesto formal à Federação Paulista de Futebol, pedindo apuração dos fatos e sanções previstas no regulamento. A FPF também divulgou comunicado repudiando o ocorrido.",
+   "Com a vitória por 2 a 0, a Ferroviária conquistou o título do torneio, o terceiro da sua história."
+  ],
+  "tags": [
+   "Paulista feminino sub-20",
+   "Ferroviária",
+   "Corinthians",
+   "briga em campo"
+  ],
+  "pessoa": "",
+  "busca_imagem": "women soccer match",
+  "criado": "2026-11-15T19:41:44.742923+00:00",
+  "slug": "final-do-paulista-feminino-sub-20-termina-em-briga-generalizada-e-expu-771bf1",
+  "fonte": "UOL",
+  "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/15/pancadaria-generalizada-marca-final-do-paulista-feminino-sub-20.ghtm",
+  "categoria": "em-alta",
+  "data": "2026-11-15T19:00:00+00:00",
+  "titulo_original": "Pancadaria generalizada marca final do Paulista feminino sub-20",
+  "post": {
+   "tipo": "x",
+   "url": "https://twitter.com/1902futebol/status/2121993943848243606"
+  },
+  "imagem": "https://live.staticflickr.com/1202/5126542532_f634b417ca_b.jpg",
+  "credito": "Foto: ResoluteSupportMedia / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/29456680@N06/5126542532"
  }
 }
