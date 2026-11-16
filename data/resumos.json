@@ -4296,9 +4296,9 @@
   "data": "2026-11-16T12:50:00+00:00",
   "titulo_original": "Ingressos para jogo contra Flamengo no Nubank Parque pelo Campeonato Brasileiro",
   "post": null,
-  "imagem": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL3B4NTU5NDQ1LWltYWdlLmpwZw.jpg",
-  "credito": "Foto: autor desconhecido / domínio público",
-  "credito_link": "https://www.rawpixel.com/image/8809293/photo-image-light-person-green"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://inmagazine.ig.com.br/celebridades/natal-larissa-manoela-andre-frambach-casa": {
   "recusado": true,
@@ -4307,5 +4307,55 @@
  "https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/11/a-fazenda-18-renata-del-bianco-vence-dinamica-escolhera-possiveis-vetados-na-prova-do-fazendeiro.shtml": {
   "recusado": true,
   "criado": "2026-11-16T13:22:19.536572+00:00"
+ },
+ "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-11/brasil-registra-primeira-morte-por-mpox-de-2026": {
+  "recusado": true,
+  "criado": "2026-11-16T15:35:54.639983+00:00"
+ },
+ "https://www1.folha.uol.com.br/ilustrada/2026/11/robert-pattinson-sera-o-novo-james-bond-da-franquia-007.shtml": {
+  "recusado": true,
+  "criado": "2026-11-16T15:35:54.639983+00:00"
+ },
+ "https://www.aguasdemanaus.com.br/aguas-de-manaus-inicia-campanha-zera-divida-com-descontos-de-ate-95/": {
+  "publicar": true,
+  "titulo": "Águas de Manaus lança campanha Zera Dívida com descontos de até 95%",
+  "linha_fina": "Negociação de débitos vai até 30 de novembro, com atendimento 24 horas por telefone e WhatsApp",
+  "paragrafos": [
+   "A concessionária Águas de Manaus abriu nesta segunda-feira (16) uma nova rodada do Zera Dívida, programa que permite a clientes em atraso renegociar o que devem. Os descontos podem chegar a 95% do total devido, e a ação vai até 30 de novembro.",
+   "A proposta é tornar mais simples a regularização de pendências. Quem tem contas atrasadas pode consultar a situação e verificar quais alternativas de pagamento se aplicam ao seu caso, já que o percentual de abatimento depende dos critérios da campanha e do tipo de dívida.",
+   "Para tirar dúvidas ou negociar, a empresa mantém o número 0800 092 0195, disponível 24 horas por dia pelo WhatsApp e pelo call center. Já o atendimento presencial funciona de segunda a sexta-feira nos postos dos PACs e na loja da Avenida Eduardo Ribeiro.",
+   "Segundo a gerente comercial Carla Dutra, a intenção é ajustar as condições de pagamento à realidade financeira de cada cliente, para que ele comece o novo ano com as contas em dia."
+  ],
+  "tags": [
+   "Águas de Manaus",
+   "Zera Dívida",
+   "negociação de dívidas",
+   "conta de água"
+  ],
+  "pessoa": "",
+  "busca_imagem": "water utility bill payment",
+  "criado": "2026-11-16T15:35:54.639983+00:00",
+  "slug": "aguas-de-manaus-lanca-campanha-zera-divida-com-descontos-de-ate-95-ce617e",
+  "fonte": "Águas de Manaus",
+  "link": "https://www.aguasdemanaus.com.br/aguas-de-manaus-inicia-campanha-zera-divida-com-descontos-de-ate-95/",
+  "categoria": "em-alta",
+  "data": "2026-11-16T14:50:00+00:00",
+  "titulo_original": "Águas de Manaus inicia campanha Zera Dívida com descontos de até 95%",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/1498/24704455709_bd5a0fdbe1_b.jpg",
+  "credito": "Foto: aqua.mech / CC BY 2.0",
+  "credito_link": ""
+ },
+ "https://www.uol.com.br/carros/colunas/paula-gama/2026/11/16/gasolina-pode-disparar-veja-ate-quando-governo-consegue-segurar-preco.htm": {
+  "recusado": true,
+  "criado": "2026-11-16T15:35:54.639983+00:00"
+ },
+ "https://www.estadao.com.br/esportes/velocidade/arquibancada-gabriel-bortoleto-mais-de-20-setores-de-autodromos-da-f1-levam-nomes-de-pilotos/": {
+  "recusado": true,
+  "criado": "2026-11-16T15:35:54.639983+00:00"
+ },
+ "https://f5.folha.uol.com.br/celebridades/2026/11/eu-sou-um-banquete-brinca-patricia-abravanel-apos-ser-chamada-de-petisco-por-diogo-nogueira.shtml": {
+  "recusado": true,
+  "criado": "2026-11-16T15:35:54.639983+00:00"
  }
 }

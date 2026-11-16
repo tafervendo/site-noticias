@@ -32453,5 +32453,639 @@
  "c:f76dbe878e652e097348": false,
  "c:ab3a0f8e5436d4ce00a7": true,
  "c:16e2a4a285019da44669": false,
- "c:c3d49afe3bbc6e6b6c84": false
+ "c:c3d49afe3bbc6e6b6c84": false,
+ "v:Dan Stulbach": {
+  "descricao": "Ator brasileiro",
+  "nasc": 1969,
+  "morte": null
+ },
+ "p:Dan Stulbach": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Dan_Stulbach%2C_2016.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: A Minha Primeira Vez / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Dan_Stulbach,_2016.jpg"
+ },
+ "v:Robert Pattinson": {
+  "descricao": "ator britânico",
+  "nasc": 1986,
+  "morte": null
+ },
+ "p:Robert Pattinson": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Robert_Pattinson_Venice_Film_Festival_%28cropped%29.jpg/1280px-Robert_Pattinson_Venice_Film_Festival_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Colleen Sturtevant / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival_(cropped).jpg"
+ },
+ "v:Cintia Dicker": {
+  "descricao": "Modelo e atriz brasileira",
+  "nasc": 1986,
+  "morte": null
+ },
+ "v:Stray Kids": {
+  "descricao": "grupo masculino sul-coreano",
+  "nasc": null,
+  "morte": null
+ },
+ "b:grammy awards stage lights": [
+  {
+   "imagem": "https://live.staticflickr.com/2063/2088065998_3249be8785_b.jpg",
+   "credito": "Foto: Alan Light / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/42274165@N00/2088065998"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/2087344821_65ea79d596_b.jpg",
+   "credito": "Foto: Alan Light / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/42274165@N00/2087344821"
+  }
+ ],
+ "b:vinyl record player": [
+  {
+   "imagem": "https://live.staticflickr.com/5516/9759224905_691c071e19_b.jpg",
+   "credito": "Foto: nan palmero / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/97402086@N00/9759224905"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8162/7581040322_323cd9836c_b.jpg",
+   "credito": "Foto: Johan Lange / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/67033974@N00/7581040322"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7018/6483878031_c9b44daf32_b.jpg",
+   "credito": "Foto: @markheybo / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/45454676@N00/6483878031"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8140/29753471496_55d6ba0135_b.jpg",
+   "credito": "Foto: shankar s. / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/77742560@N06/29753471496"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/47877450061_24ac9f05db_b.jpg",
+   "credito": "Foto: bradjavernick / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/156466858@N02/47877450061"
+  }
+ ],
+ "p:Dolly Parton": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Young-Dolly-Parton_%28higher_quality_scan%29_%28cropped%29.jpg/1280px-Young-Dolly-Parton_%28higher_quality_scan%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: David Gahr / Public domain, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Young-Dolly-Parton_(higher_quality_scan)_(cropped).jpg"
+ },
+ "b:music album vinyl cover": [
+  {
+   "imagem": "https://live.staticflickr.com/8323/8388468852_9603b0d0ca_b.jpg",
+   "credito": "Foto: Marc Wathieu / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/88133570@N00/8388468852"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3298/4567982836_3f5526fb07_b.jpg",
+   "credito": "Foto: Piano Piano! / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/11076844@N00/4567982836"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2255/3540832731_bdc7ede06f_b.jpg",
+   "credito": "Foto: Vox Efx / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/39096030@N00/3540832731"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2754/4413421622_6e3f5261a0_b.jpg",
+   "credito": "Foto: Piano Piano! / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/11076844@N00/4413421622"
+  }
+ ],
+ "v:Dani Calabresa": {
+  "descricao": "atriz, comediante, roteirista, apresentadora e repórter brasileira",
+  "nasc": 1981,
+  "morte": null
+ },
+ "p:Dani Calabresa": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Dani_Calabresa_in_2021_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Dani_Calabresa_in_2021_(cropped).jpg"
+ },
+ "b:artificial intelligence brain screen": null,
+ "b:grammy awards nominee": null,
+ "b:funeral wake people mourning": null,
+ "b:japan travel mountain temple": [
+  {
+   "imagem": "https://live.staticflickr.com/4056/34763645824_eb34f124d0_b.jpg",
+   "credito": "Foto: Ray in Manila / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/21186555@N07/34763645824"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5041/5360142743_ceb85220ed_b.jpg",
+   "credito": "Foto: kubotake / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/40802894@N02/5360142743"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3077/2685034435_622a915481_b.jpg",
+   "credito": "Foto: jimg944 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/21203533@N00/2685034435"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/589/20413032288_f6d23366d7_b.jpg",
+   "credito": "Foto: Knowles Gallery / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/36224384@N08/20413032288"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8113/8713645300_4f554eb934_b.jpg",
+   "credito": "Foto: hktang / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/32054117@N02/8713645300"
+  }
+ ],
+ "b:samba dance party night": null,
+ "b:poisonous lily flower": [
+  {
+   "imagem": "https://live.staticflickr.com/7224/7260904856_6b66d5b516_b.jpg",
+   "credito": "Foto: Gnilenkov Aleksey / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/39415470@N02/7260904856"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7211/7260904506_64950b45bb_b.jpg",
+   "credito": "Foto: Gnilenkov Aleksey / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/39415470@N02/7260904506"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7231/7260904378_42b046f9c8_b.jpg",
+   "credito": "Foto: Gnilenkov Aleksey / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/39415470@N02/7260904378"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/1799/43719526942_23b851eb10_b.jpg",
+   "credito": "Foto: Kirt Edblom / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/27190564@N02/43719526942"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7384/26979552612_e3ffdbe568_b.jpg",
+   "credito": "Foto: Kirt Edblom / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/27190564@N02/26979552612"
+  }
+ ],
+ "b:stock market chart investment": [
+  {
+   "imagem": "https://live.staticflickr.com/6084/6093690339_a09493f126_b.jpg",
+   "credito": "Foto: kenteegardin / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/26373139@N08/6093690339"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5293/5537894072_c4e46bfce1_b.jpg",
+   "credito": "Foto: kenteegardin / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/26373139@N08/5537894072"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8260/28915010471_0ecbf0428a_b.jpg",
+   "credito": "Foto: investmentzen / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/144551102@N07/28915010471"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8117/8686457351_322c2e5fe0_b.jpg",
+   "credito": "Foto: airboy123 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/42478987@N07/8686457351"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5346/9052158560_47291b13b8_b.jpg",
+   "credito": "Foto: airboy123 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/42478987@N07/9052158560"
+  }
+ ],
+ "b:giraffe neck savanna": [
+  {
+   "imagem": "https://live.staticflickr.com/2016/2271387261_89629c082c_b.jpg",
+   "credito": "Foto: jrobertmoore / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/23862149@N05/2271387261"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/1062/728331198_7c1854e363_b.jpg",
+   "credito": "Foto: Kurt Thomas Hunt / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/80064349@N00/728331198"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3023/2732525112_e6b6c02826_b.jpg",
+   "credito": "Foto: ralph and jenny / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/92269745@N00/2732525112"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7198/7054397945_d997cc769f_b.jpg",
+   "credito": "Foto: Sean MacEntee / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/18090920@N07/7054397945"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3187/2639003741_a0c27e1ca1_b.jpg",
+   "credito": "Foto: Irene2005 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/89555776@N00/2639003741"
+  }
+ ],
+ "v:Leci Brandão": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "b:outdoor concert stage night": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Musician_performing_on_stage_at_night_during_an_outdoor_concert_in_a_lively_atmosphere_with_dramatic_lighting_effects.jpg/1280px-Musician_performing_on_stage_at_night_during_an_outdoor_concert_in_a_lively_atmosphere_with_dramatic_lighting_effects.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Musician_performing_on_stage_at_night_during_an_outdoor_concert_in_a_lively_atmosphere_with_dramatic_lighting_effects.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Musician_performs_on_stage_with_bass_guitar_during_live_concert_in_an_outdoor_venue_at_night.jpg/1280px-Musician_performs_on_stage_with_bass_guitar_during_live_concert_in_an_outdoor_venue_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Musician_performs_on_stage_with_bass_guitar_during_live_concert_in_an_outdoor_venue_at_night.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Musician_performs_trumpet_solo_on_stage_during_night_concert_at_outdoor_festival_with_bright_lights.jpg/1280px-Musician_performs_trumpet_solo_on_stage_during_night_concert_at_outdoor_festival_with_bright_lights.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Musician_performs_trumpet_solo_on_stage_during_night_concert_at_outdoor_festival_with_bright_lights.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Musicians_perform_during_an_outdoor_concert_at_night_with_vibrant_lighting_and_a_lively_atmosphere_in_a_natural_setting.jpg/1280px-Musicians_perform_during_an_outdoor_concert_at_night_with_vibrant_lighting_and_a_lively_atmosphere_in_a_natural_setting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Musicians_perform_during_an_outdoor_concert_at_night_with_vibrant_lighting_and_a_lively_atmosphere_in_a_natural_setting.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/DFC_3794_Thousands_gather_on_a_beachfront_at_night_for_a_large_outdoor_concert_or_festival_with_a_brightly_lit_stage_tents_and_city_high-rises_glowing_in_the_background.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: PattayaPatrol / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:DFC_3794_Thousands_gather_on_a_beachfront_at_night_for_a_large_outdoor_concert_or_festival_with_a_brightly_lit_stage_tents_and_city_high-rises_glowing_in_the_background.jpg"
+  }
+ ],
+ "b:stock market trading screens": [
+  {
+   "imagem": "https://live.staticflickr.com/2658/3970640849_3026c66ff9_b.jpg",
+   "credito": "Foto: ehnmark / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/48600108001@N01/3970640849"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3602/3448782757_5cd4c5f4b3_b.jpg",
+   "credito": "Foto: Phil Manker / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/33820070@N04/3448782757"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3303/3658326926_3d8cefde5d_b.jpg",
+   "credito": "Foto: Phil Manker / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/33820070@N04/3658326926"
+  }
+ ],
+ "b:highway truck accident wreckage": [
+  {
+   "imagem": "https://live.staticflickr.com/6098/6265791102_27e0b7e570_b.jpg",
+   "credito": "Foto: Accretion Disc / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/23642145@N00/6265791102"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5/5233578_bcb6e22551_b.jpg",
+   "credito": "Foto: Jan Tik / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/15363357@N00/5233578"
+  }
+ ],
+ "b:medical lab virus test": [
+  {
+   "imagem": "https://live.staticflickr.com/65535/49838082322_b9fbeae666_b.jpg",
+   "credito": "Foto: The National Guard / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/33252741@N08/49838082322"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/49813829583_37530549e2_b.jpg",
+   "credito": "Foto: The National Guard / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/33252741@N08/49813829583"
+  }
+ ],
+ "b:apartment living room window view": [
+  {
+   "imagem": "https://live.staticflickr.com/3598/3312117967_1c61babc4b_b.jpg",
+   "credito": "Foto: smoMashup1 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/21015483@N02/3312117967"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2027/2093926600_a794400715_b.jpg",
+   "credito": "Foto: cogdogblog / domínio público",
+   "credito_link": "https://www.flickr.com/photos/37996646802@N01/2093926600"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/75/390521391_5c9db56bc4_b.jpg",
+   "credito": "Foto: vsmoothe / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/77586727@N00/390521391"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3078/3156631237_404f825e91_b.jpg",
+   "credito": "Foto: longlostcousin / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/67469019@N00/3156631237"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3083/3312118351_56b21c4e6a_b.jpg",
+   "credito": "Foto: smoMashup1 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/21015483@N02/3312118351"
+  }
+ ],
+ "b:microwave oven door window": [
+  {
+   "imagem": "https://live.staticflickr.com/2480/4047915319_1961c0f06a_b.jpg",
+   "credito": "Foto: Mr Thinktank / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/34621580@N00/4047915319"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4073/4737568342_f99b3d049a_b.jpg",
+   "credito": "Foto: eric_in_or / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/29423454@N07/4737568342"
+  },
+  {
+   "imagem": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxMzMxNjAwLWltYWdlLWt3dnkxcDd3LmpwZw.jpg",
+   "credito": "Foto: autor desconhecido / domínio público",
+   "credito_link": "https://www.rawpixel.com/image/5924482/photo-image-light-public-domain-black"
+  }
+ ],
+ "v:Danielle Winits": {
+  "descricao": "atriz brasileira",
+  "nasc": 1973,
+  "morte": null
+ },
+ "p:Danielle Winits": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/90/Danielle_Winits_-_Mesacast_BBB_26.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Multishow / CC BY 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Danielle_Winits_-_Mesacast_BBB_26.png"
+ },
+ "c:39eb59e38ed834cb389b": true,
+ "c:b02d30303ae1b552a249": true,
+ "c:07534cb0589f6afd455e": true,
+ "c:71db7f23cbca22ad16a2": true,
+ "c:4fa165d3140671b98ec0": true,
+ "c:7f98e6fb2ab00a59254e": false,
+ "c:e9339b642a9dacbfb7f5": true,
+ "c:8463f13e185230ec2d0f": false,
+ "c:0b56c1ec0e97492c3935": true,
+ "c:6a76153bbfb4e6f2096d": false,
+ "c:af33317e3a3414ebc9db": true,
+ "c:657c39ef4583a1aeaa44": true,
+ "c:1a84611b2e4d486deb32": true,
+ "c:bb4ab9047e41c41696dc": false,
+ "c:0718cd3569d9bc17297b": true,
+ "c:7b590a3068c2cb1568a9": false,
+ "c:36db9c62a40a8f4d1e90": false,
+ "c:9c4f78b2bfcb78383275": false,
+ "c:8c2ed3fbf3fedeb2ed85": false,
+ "c:52896baaee76cbfc6c0c": false,
+ "c:09a4d018a8336cd8c0eb": true,
+ "c:ed2ae5e038d26624a6c9": false,
+ "c:c0bb1fb15c599e728d64": false,
+ "c:d782b6406dfd61fbea19": false,
+ "c:1c2a5cd73721bd5e904a": false,
+ "c:a22d55f71f5421909512": false,
+ "c:f9f20d4cd1b5b957eeba": true,
+ "c:6d073811a27198df98a9": true,
+ "c:3d1d37d704d4a4c6876e": true,
+ "c:858fef467c27bc0e0505": true,
+ "c:4ce164ade6b6eda24c7c": true,
+ "c:0971a27cad689b22cfda": true,
+ "c:170e4632a8384f6d0973": true,
+ "c:383d369ee0c00781fc51": true,
+ "c:286fa55e897f0bf1d461": true,
+ "c:d19c34548aa7f76ce025": true,
+ "c:4a1e1016f09be1ea912c": false,
+ "c:3e96437ef1d1ed3112fb": true,
+ "c:a90c7dedc1db625d23a2": true,
+ "c:35c13e72e8448c01db2d": false,
+ "c:38aab6a6bafe2bd1e30f": false,
+ "c:35313f0faf92e172b4fa": false,
+ "c:ae5e8558754ff1225a68": false,
+ "c:d0254bede2539b94e593": true,
+ "c:480ce777156bcd44a2b3": true,
+ "c:5e2c5d89e51cd7c0b05e": true,
+ "c:5ee46b050edf984d5c2c": true,
+ "c:c0b180201a0cf2b2fbfa": false,
+ "p:Cintia Dicker": null,
+ "v:Zéh Palito": {
+  "descricao": "artista visual e muralista brasileiro",
+  "nasc": 1986,
+  "morte": null
+ },
+ "v:Sesc Belenzinho": {
+  "descricao": "Centro cultural em São Paulo",
+  "nasc": null,
+  "morte": null
+ },
+ "b:art gallery installation exhibition": [
+  {
+   "imagem": "https://live.staticflickr.com/3302/4626371840_51395f61f2_b.jpg",
+   "credito": "Foto: Dominic's pics / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/64097751@N00/4626371840"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3369/4626321630_de17574826_b.jpg",
+   "credito": "Foto: Dominic's pics / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/64097751@N00/4626321630"
+  }
+ ],
+ "b:white milky nail polish": null,
+ "b:water tap faucet closeup": [
+  {
+   "imagem": "https://live.staticflickr.com/1498/24704455709_bd5a0fdbe1_b.jpg",
+   "credito": "Foto: aqua.mech / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/137169575@N04/24704455709"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/49712646198_2b269bae9c_b.jpg",
+   "credito": "Foto: homegets.com / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/141436406@N04/49712646198"
+  }
+ ],
+ "v:Alexandre Frota": {
+  "descricao": "ator, político brasileiro e Vereador de Cotia, SP",
+  "nasc": 1963,
+  "morte": null
+ },
+ "p:Alexandre Frota": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Frota_aniversario_da_constitui%C3%A7%C3%A3o_%28cropped%29.jpg/1280px-Frota_aniversario_da_constitui%C3%A7%C3%A3o_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Edilson Rodrigues/Agência Senado / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Frota_aniversario_da_constitui%C3%A7%C3%A3o_(cropped).jpg"
+ },
+ "b:gas station fuel pump": [
+  {
+   "imagem": "https://live.staticflickr.com/5109/5671314402_9b456ac95e_b.jpg",
+   "credito": "Foto: Grand Canyon NPS / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/50693818@N08/5671314402"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2147/1812114366_83373cb84d_b.jpg",
+   "credito": "Foto: Corvair Owner / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/59398780@N00/1812114366"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7203/6877682005_c8deb6810c_b.jpg",
+   "credito": "Foto: Hugo-90 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/32109282@N00/6877682005"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3797/12443400304_ea4ea3a216_b.jpg",
+   "credito": "Foto: Orange County Archives / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/30346812@N07/12443400304"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3408/3609852934_437dac4390_b.jpg",
+   "credito": "Foto: Donald Lee Pardue / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/37216036@N05/3609852934"
+  }
+ ],
+ "b:makeup brushes foundation bottle": null,
+ "b:astrology zodiac chart stars": [
+  {
+   "imagem": "https://live.staticflickr.com/1817/43975774262_839b25ecb9_b.jpg",
+   "credito": "Foto: Free Public Domain Illustrations by rawpixel / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/153584064@N07/43975774262"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/1793/42215199050_1677d5de96_b.jpg",
+   "credito": "Foto: Free Public Domain Illustrations by rawpixel / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/153584064@N07/42215199050"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/1827/43332059852_24d50a5cef_b.jpg",
+   "credito": "Foto: Free Public Domain Illustrations by rawpixel / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/153584064@N07/43332059852"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/1831/43975770742_e833173795_b.jpg",
+   "credito": "Foto: Free Public Domain Illustrations by rawpixel / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/153584064@N07/43975770742"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/1775/42215178740_a9c978c07b_b.jpg",
+   "credito": "Foto: Free Public Domain Illustrations by rawpixel / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/153584064@N07/42215178740"
+  }
+ ],
+ "b:formula one grandstand stadium": [
+  {
+   "imagem": "https://live.staticflickr.com/3573/3314247314_af5432a229_b.jpg",
+   "credito": "Foto: Mic V. / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/33756577@N08/3314247314"
+  }
+ ],
+ "b:number 13 black chalkboard": null,
+ "b:luxury mansion surrounded by nature": [
+  {
+   "imagem": "https://live.staticflickr.com/65535/54000240920_a60e88c329_b.jpg",
+   "credito": "Foto: dalecruse / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/91873384@N04/54000240920"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/53651181452_dbb127afca_b.jpg",
+   "credito": "Foto: dalecruse / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/91873384@N04/53651181452"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/53756680270_8d8f7f795f_b.jpg",
+   "credito": "Foto: dalecruse / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/91873384@N04/53756680270"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/54007819252_f0739e1d9e_b.jpg",
+   "credito": "Foto: dalecruse / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/91873384@N04/54007819252"
+  }
+ ],
+ "b:wine bottle lamp diy": [
+  {
+   "imagem": "https://live.staticflickr.com/65535/50157203501_8304015c6b_b.jpg",
+   "credito": "Foto: Most Craft / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/184923948@N06/50157203501"
+  }
+ ],
+ "v:Camila Queiroz": {
+  "descricao": "atriz, modelo e apresentadora brasileira",
+  "nasc": 1993,
+  "morte": null
+ },
+ "p:Camila Queiroz": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Camila_Queiroz_in_september_2024.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Team Comics | Kainan Medeiros / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Camila_Queiroz_in_september_2024.jpg"
+ },
+ "b:theater stage empty seats": [
+  {
+   "imagem": "https://live.staticflickr.com/6048/6299139161_ff0d59a7ec_b.jpg",
+   "credito": "Foto: Studio Sarah Lou / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/86665756@N00/6299139161"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7/6288971_713a12216a_b.jpg",
+   "credito": "Foto: cogdogblog / domínio público",
+   "credito_link": "https://www.flickr.com/photos/37996646802@N01/6288971"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/102/297820961_8e46b2ddd7_b.jpg",
+   "credito": "Foto: Jaako / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/56944727@N00/297820961"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/49/106600059_90e8b7aab6_b.jpg",
+   "credito": "Foto: uberculture / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/69745777@N00/106600059"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/1058/539694212_66fdd1dc81_b.jpg",
+   "credito": "Foto: joe.oconnell / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/81965162@N00/539694212"
+  }
+ ],
+ "v:Carinha de Anjo": {
+  "descricao": "telenovela brasileira infantojuvenil produzida e exibida pelo SBT",
+  "nasc": null,
+  "morte": null
+ },
+ "b:car wash workers vehicle": [
+  {
+   "imagem": "https://live.staticflickr.com/5133/5458953410_2f2a492c2d_b.jpg",
+   "credito": "Foto: Tobyotter / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/78428166@N00/5458953410"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5546/10784760673_f8b18397b5_b.jpg",
+   "credito": "Foto: pasa47 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/53301297@N00/10784760673"
+  }
+ ],
+ "b:farm dogs countryside ranch": [
+  {
+   "imagem": "https://live.staticflickr.com/7172/6459116473_e6dcf3e64e_b.jpg",
+   "credito": "Foto: oceanaris / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/49873808@N00/6459116473"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3549/3647771049_43c964aeb0_b.jpg",
+   "credito": "Foto: puroticorico / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/10058483@N00/3647771049"
+  },
+  {
+   "imagem": "https://images.rawpixel.com/image_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZmwzOTczOTk4NDMwMy1pbWFnZS1rcDVkZXVnNS1remVtZTU5ai5qcGc.jpg",
+   "credito": "Foto: U.S. Department of Agriculture / domínio público",
+   "credito_link": "https://www.rawpixel.com/image/3334966/free-photo-image-animals-public-domain-agriculture-man"
+  }
+ ],
+ "b:lavender plant pruning garden": null,
+ "c:7d7dea0b5c418304de13": false,
+ "c:6b63efd19319eca1facf": false,
+ "c:9d8595b55f1d165afe1d": false,
+ "c:1a46316bf89dddc110d2": false,
+ "c:3467183a319d636f940b": false,
+ "c:fe4eb14efb1f514882b7": false,
+ "c:e4a5567d26675302dbd2": false,
+ "c:2aff89b51dc8f4906960": true,
+ "c:3abf44685474d393f006": false,
+ "c:e9f48bfc3e5f7e8c1558": true,
+ "c:ad3a3e371849caafa651": false,
+ "c:db5a8b0132c0473f2528": false,
+ "c:6349fcf276ea084cb8b2": false,
+ "c:81f26ba3e13137f0e79b": false,
+ "c:1c00ddea7cfc29255b3f": true,
+ "c:f4ebc857a222f92c33d6": true,
+ "c:11206f09c59e987a3903": false,
+ "c:b8119f773e7c16de404c": false,
+ "c:450e19d07445b657ccaf": false,
+ "c:92bdf95eb2bd648b2d65": false,
+ "c:6fcdb1cb6fe79cc947e7": false,
+ "c:471ef7d3891f4b9c6b22": false,
+ "c:6a6441d714b8b920dedc": false,
+ "c:e02cbd4dc6130abd96db": true,
+ "c:6d139d896b3a3c2e76d1": false,
+ "c:3b7ae28b70eb98fbcbcb": true,
+ "c:8e5a91abae6dda60ee60": false,
+ "c:8e7215cb1fe114db581f": false,
+ "c:b57c71e566bd32369ad6": false,
+ "c:ee38d16d3abe9df9c8dd": false,
+ "b:water utility bill payment": null
 }
