@@ -4469,9 +4469,9 @@
   "data": "2026-11-16T19:10:00+00:00",
   "titulo_original": "EUA vão restringir acesso da China a chips de IA; medida inclui Brasil",
   "post": null,
-  "imagem": "https://live.staticflickr.com/2086/2389301872_fde50efc57_b.jpg",
-  "credito": "Foto: BotheredByBees / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/87273935@N00/2389301872"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://tmc.com.br/esporte/macedonia-do-norte-x-eslovenia-onde-assistir-uefa-nations-league-2026-2027/": {
   "recusado": true,
@@ -4488,5 +4488,51 @@
  "https://www.gazetadigital.com.br/editorias/policia/homem-de-balaclava-morre-apos-abordagem-da-policia-civil/865433": {
   "recusado": true,
   "criado": "2026-11-16T19:31:02.031042+00:00"
+ },
+ "https://www.espn.com.br/futebol/artigo/_/id/17523667/mae-cristiano-ronaldo-filho-ficou-triste-foi-enganado-homenagem-portugal-nao-foi-respeitado": {
+  "recusado": true,
+  "criado": "2026-11-16T20:48:09.168643+00:00"
+ },
+ "https://www1.folha.uol.com.br/mercado/2026/11/morgan-stanley-rebaixa-recomendacao-para-bolsa-brasileira-e-preve-queda-de-7.shtml": {
+  "recusado": true,
+  "criado": "2026-11-16T20:48:09.168643+00:00"
+ },
+ "https://tmc.com.br/esporte/gibraltar-x-malta-onde-assistir-uefa-nations-league-2026-2027/": {
+  "recusado": true,
+  "criado": "2026-11-16T20:48:09.168643+00:00"
+ },
+ "https://www1.folha.uol.com.br/mercado/2026/11/receita-relata-apreensao-de-r-581-milhoes-em-mercadorias-e-drogas-na-fronteira.shtml": {
+  "publicar": true,
+  "titulo": "Receita apreende R$ 581 milhões em mercadorias e drogas na Operação Fronteira",
+  "linha_fina": "Ação entre 3 e 13 de novembro teve alta de 137% em relação à edição do ano passado, com 82 prisões em flagrante",
+  "paragrafos": [
+   "A Receita Federal divulgou os resultados da última edição da Operação Fronteira, realizada entre 3 e 13 de novembro, com apreensões que somam R$ 581 milhões em mercadorias contrabandeadas e drogas. Os dados foram apresentados em entrevista coletiva nesta segunda-feira (16), e o valor representa um aumento de 137% em relação ao ano anterior.",
+   "Do total, R$ 323 milhões correspondem a mercadorias e R$ 257 milhões a entorpecentes. Foram apreendidos 273 veículos, barcos e aviões, além de 82 prisões em flagrante em 453 operações nas fronteiras terrestres, portos, aeroportos e rodovias. Entre as drogas, estavam 70 toneladas de cannabis e 240 quilos de cocaína.",
+   "A operação, criada em 2021 durante o governo Jair Bolsonaro e mantida na gestão de Luiz Inácio Lula da Silva, combate contrabando, descaminho e tráfico internacional. Segundo o coordenador-geral de combate ao contrabando da Receita, Raphael Eugênio de Souza, as rotas do Norte, que passam pela Amazônia, vêm ganhando força, enquanto a apreensão de cocaína nos portos diminuiu.",
+   "Ainda de acordo com o coordenador, a falta de estrutura e a vulnerabilidade social em alguns pontos da Amazônia facilitam o recrutamento de moradores locais pelas organizações criminosas. Drogas e vapes são destruídos após análise, veículos podem ser doados a órgãos públicos e eletrônicos costumam ir a leilão."
+  ],
+  "tags": [
+   "Receita Federal",
+   "Operação Fronteira",
+   "contrabando",
+   "apreensões"
+  ],
+  "pessoa": "",
+  "busca_imagem": "customs border inspection",
+  "criado": "2026-11-16T20:48:09.168643+00:00",
+  "slug": "receita-apreende-r-581-milhoes-em-mercadorias-e-drogas-na-operacao-fro-64817f",
+  "fonte": "Folha de S.Paulo",
+  "link": "https://www1.folha.uol.com.br/mercado/2026/11/receita-relata-apreensao-de-r-581-milhoes-em-mercadorias-e-drogas-na-fronteira.shtml",
+  "categoria": "em-alta",
+  "data": "2026-11-16T19:40:00+00:00",
+  "titulo_original": "Receita relata apreensão de R$ 581 milhões em mercadorias e drogas na fronteira - 16/11/2026 - Economia",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/U_S_Customs_and_Border_Protection_Seattle_Washington_Inspection_%285764585803%29.jpg/1280px-U_S_Customs_and_Border_Protection_Seattle_Washington_Inspection_%285764585803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: CBP Photography / Public domain, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:U_S_Customs_and_Border_Protection_Seattle_Washington_Inspection_(5764585803).jpg"
+ },
+ "https://mantosdofutebol.com.br/2026/11/camisa-titular-alemanha-nike-2027-vaza/": {
+  "recusado": true,
+  "criado": "2026-11-16T20:48:09.168643+00:00"
  }
 }
