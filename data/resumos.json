@@ -3913,5 +3913,66 @@
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Paolla_Oliveira.jpg/1280px-Paolla_Oliveira.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Paolla_Oliveira.jpg"
+ },
+ "https://fanf1.com.br/2026/11/15/fabio-henrique-sofre-infarto-e-esta-na-uti/": {
+  "recusado": true,
+  "criado": "2026-11-16T04:06:33.951764+00:00"
+ },
+ "https://www.terra.com.br/diversao/entre-telas/oscar-2027-quais-producoes-vao-disputar-o-premio-de-melhor-filme,193c7f2e48056daaf93ddf795ba89d29kbm9wtgc.html": {
+  "recusado": true,
+  "criado": "2026-11-16T04:06:33.951764+00:00"
+ },
+ "https://www.band.com.br/agro/preco-do-tomate-dispara-90-em-2026-diz-ibge": {
+  "recusado": true,
+  "criado": "2026-11-16T04:06:33.951764+00:00"
+ },
+ "https://www.gazetadopovo.com.br/republica/policia-civil-desarticula-rede-que-vendia-identidades-brasileiras-para-russos/": {
+  "recusado": true,
+  "criado": "2026-11-16T04:06:33.951764+00:00"
+ },
+ "https://noticiasdatv.uol.com.br/noticia/a-fazenda/prova-de-fogo-hoje-em-a-fazenda-18-veja-quem-venceu-e-quem-esta-na-baia-159485": {
+  "recusado": true,
+  "criado": "2026-11-16T04:06:33.951764+00:00"
+ },
+ "https://www1.folha.uol.com.br/esporte/2026/11/morre-aos-94-dino-sani-destaque-no-futebol-brasileiro-nos-anos-50-e-60.shtml": {
+  "recusado": true,
+  "criado": "2026-11-16T04:06:33.951764+00:00"
+ },
+ "https://odia.ig.com.br/rio-de-janeiro/2026/11/7322730-carro-pega-fogo-e-interdita-a-ponte-rio-niteroi.html": {
+  "recusado": true,
+  "criado": "2026-11-16T04:06:33.951764+00:00"
+ },
+ "https://www1.folha.uol.com.br/educacao/2026/11/professores-apontam-problemas-em-duas-questoes-de-matematica-do-enem-2026.shtml": {
+  "publicar": true,
+  "titulo": "Professores apontam falhas em duas questões de matemática do Enem 2026",
+  "linha_fina": "Itens 155 e 159 do caderno azul, aplicado no domingo (15), são considerados passíveis de anulação por docentes; Inep e MEC não se manifestaram",
+  "paragrafos": [
+   "Professores de matemática apontaram problemas em dois itens da prova do Enem 2026 e defendem que eles sejam anulados. Segundo a reportagem da Folha, as questões 155 e 159 estão no caderno azul, que foi aplicado no domingo (15). O Inep, responsável pelo exame, e o MEC não haviam respondido até a publicação do texto.",
+   "No item 155, há um triângulo retângulo com retângulos apoiados nos catetos e na hipotenusa. O enunciado diz que as figuras são semelhantes e pede a diferença entre suas áreas. Para Pedro Costa, do Farias Brito, o desenho pode induzir o estudante a seguir a orientação mostrada, caso em que nenhuma alternativa bate com o cálculo. Por outro lado, se o aluno puder reposicionar os lados, surgiriam diferentes resultados, o que contraria o pedido de uma resposta única.",
+   "Na questão 159, sobre um campeonato de futebol, a tabela com seis times traz dois valores ocultos, x e y. Jurandir Junior, também do Farias Brito, identificou que os gols marcados somam 150, enquanto os sofridos somam 145, uma diferença de cinco gols que, segundo ele, indica erro nos dados ou na formulação. Victor Pompêo, do Curso Anglo, afirmou que a média e a mediana levam ao resultado esperado, mas que outro caminho válido pode não levar a nenhuma alternativa.",
+   "Os professores argumentam que a existência dessas inconsistências justifica a anulação dos itens. A reportagem não informa se o Inep ou o MEC devem se pronunciar sobre o caso."
+  ],
+  "tags": [
+   "Enem 2026",
+   "prova de matemática",
+   "anulação de questões",
+   "Inep"
+  ],
+  "pessoa": "",
+  "busca_imagem": "exam answer sheet pencil",
+  "criado": "2026-11-16T04:06:33.951764+00:00",
+  "slug": "professores-apontam-falhas-em-duas-questoes-de-matematica-do-enem-2026-2ac204",
+  "fonte": "Folha de S.Paulo",
+  "link": "https://www1.folha.uol.com.br/educacao/2026/11/professores-apontam-problemas-em-duas-questoes-de-matematica-do-enem-2026.shtml",
+  "categoria": "em-alta",
+  "data": "2026-11-16T01:40:00+00:00",
+  "titulo_original": "Professores apontam problemas em duas questões de matemática do Enem 2026",
+  "post": {
+   "tipo": "instagram",
+   "url": "https://www.instagram.com/p/Dfx6p7VtJ0T/"
+  },
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  }
 }
