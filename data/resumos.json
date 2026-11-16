@@ -4011,9 +4011,9 @@
    "id": "ldGRWSkNMjY",
    "url": "https://www.youtube.com/watch?v=ldGRWSkNMjY"
   },
-  "imagem": "https://live.staticflickr.com/2147/5820173025_3c7320616f_b.jpg",
-  "credito": "Foto: Ben Sutherland / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/60179301@N00/5820173025"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://veja.abril.com.br/cultura/os-filmes-que-podem-fazer-do-oscar-2027-o-mais-gay-da-historia/": {
   "recusado": true,
@@ -4045,8 +4045,59 @@
   "data": "2026-11-16T00:30:00+00:00",
   "titulo_original": "Dança dos Famosos elimina 2 participantes de uma vez; veja quem saiu",
   "post": null,
-  "imagem": "https://live.staticflickr.com/8080/8283266934_20c368bd1e_b.jpg",
-  "credito": "Foto: Scribl Scrabl iNk / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/91226744@N08/8283266934"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://veja.abril.com.br/economia/pagamentos-do-bolsa-familia-de-novembro-comecam-nesta-segunda-16-veja-a-ordem-dos-repasses/": {
+  "recusado": true,
+  "criado": "2026-11-16T08:38:43.979487+00:00"
+ },
+ "https://www.band.com.br/esportes/futebol/jogo-aberto-ao-vivo-assista-ao-programa-agora-16-11-2026": {
+  "recusado": true,
+  "criado": "2026-11-16T08:38:43.979487+00:00"
+ },
+ "https://www.cnnbrasil.com.br/economia/money/macroeconomia/clt-pj-mei-e-autonomos-o-que-muda-na-aposentadoria-do-inss-em-2027/": {
+  "publicar": true,
+  "titulo": "Aposentadoria do INSS: o que muda em 2027 para CLT, PJ, MEI e autônomos",
+  "linha_fina": "Idade mínima sobe para 60 anos para mulheres e 65 para homens, e a regra dos pontos chega a 94 e 104",
+  "paragrafos": [
+   "A partir de janeiro de 2027, as regras de transição para a aposentadoria pelo INSS passam a ter novas exigências. A idade mínima progressiva sobe para 60 anos entre as mulheres e 65 anos entre os homens, enquanto a regra dos pontos exige 94 pontos para elas e 104 para eles. As mudanças seguem o cronograma da Reforma da Previdência, aprovada em 2019.",
+   "Quem tem direito a essas regras de transição são os trabalhadores que já pagavam ao INSS antes de a reforma começar a valer, o que aconteceu em novembro de 2019, e que ainda não tinham cumprido os requisitos para pedir o benefício. Essa condição vale para quem tem carteira assinada, autônomos, PJs que contribuem como contribuintes individuais e MEIs.",
+   "No caso de MEIs e de quem paga o plano simplificado, há uma condição extra: com a contribuição reduzida, de 5% ou 11% do salário mínimo, só é possível pedir a aposentadoria por idade. Para usar as regras por tempo de contribuição, é preciso complementar o pagamento até a alíquota de 20%.",
+   "Na comparação com 2026, a idade mínima sobe seis meses para os dois grupos. Hoje, as mulheres precisam de 59 anos e meio, e os homens, de 64 anos e meio. Em 2027, elas chegam a 60 anos com pelo menos 30 de contribuição, e eles, a 65 anos com 35 de contribuição. Para os homens, esse é o último degrau; para as mulheres, a idade continua subindo até 62 anos em 2031.",
+   "Na regra dos pontos, a exigência sobe um ponto por ano, somando idade e tempo de contribuição. Os pedágios de 50% e 100% não mudam. O INSS oferece pelo aplicativo e site Meu INSS a opção Simular Aposentadoria, que estima o que falta, mas o resultado é apenas uma projeção e a concessão depende da análise do pedido."
+  ],
+  "tags": [
+   "aposentadoria INSS",
+   "regras de transição",
+   "reforma da Previdência",
+   "MEI"
+  ],
+  "pessoa": "",
+  "busca_imagem": "retirement savings documents",
+  "criado": "2026-11-16T08:38:43.979487+00:00",
+  "slug": "aposentadoria-do-inss-o-que-muda-em-2027-para-clt-pj-mei-e-autonomos-21d112",
+  "fonte": "CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/clt-pj-mei-e-autonomos-o-que-muda-na-aposentadoria-do-inss-em-2027/",
+  "categoria": "em-alta",
+  "data": "2026-11-16T07:50:00+00:00",
+  "titulo_original": "CLT, PJ, MEI e autônomos: O que muda na aposentadoria do INSS em 2027",
+  "post": null,
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://www.diariodocentrodomundo.com.br/essencial/testemunhas-jeova-mudam-regra-transfusao/": {
+  "recusado": true,
+  "criado": "2026-11-16T08:38:43.979487+00:00"
+ },
+ "https://www.cartacapital.com.br/cartalab/chuva-forte-ameaca-o-fim-de-semana-na-bahia-e-em-sergipe/": {
+  "recusado": true,
+  "criado": "2026-11-16T08:38:43.979487+00:00"
+ },
+ "https://blogs.correiobraziliense.com.br/dribledecorpo/ancelotti-nao-era-expulso-ha-6-anos-isso-diz-muito-sobre-a-selecao/": {
+  "recusado": true,
+  "criado": "2026-11-16T08:38:43.979487+00:00"
  }
 }
