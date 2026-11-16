@@ -4637,9 +4637,9 @@
   "data": "2026-11-16T22:00:00+00:00",
   "titulo_original": "Lá na Minha Terra: confira resumo da semana de novela das seis",
   "post": null,
-  "imagem": "https://live.staticflickr.com/4/8411550_db575c8b78_b.jpg",
-  "credito": "Foto: Jeff Belmonte / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/72236935@N00/8411550"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://paranaclube.com.br/parana-divulga-promocao-de-ingressos-para-a-final-na-vila-capanema/": {
   "recusado": true,
@@ -4670,8 +4670,84 @@
   "data": "2026-11-16T21:40:00+00:00",
   "titulo_original": "Kamylinha fala pela primeira vez sobre afastamento de Hytalo Santos: 'Não guardo mágoa'",
   "post": null,
-  "imagem": "https://live.staticflickr.com/65535/49920955702_fd6d5e320b_b.jpg",
-  "credito": "Foto: markus119 / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/35850894@N08/49920955702"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://ffw.com.br/noticias/moda/camisa-branca-e-calca-cargo-renata-vasconcellos-combina-look-casual-chic-com-marido/": {
+  "publicar": true,
+  "titulo": "Renata Vasconcellos sai com o marido em look branco e casual chic",
+  "linha_fina": "Apresentadora do Jornal Nacional é vista no Leblon, no Rio, em rara aparição pública com Miguel Athayde, executivo de jornalismo da TV Globo",
+  "paragrafos": [
+   "No domingo (15), a apresentadora do Jornal Nacional Renata Vasconcellos, de 54 anos, foi flagrada em uma rara saída pública com Miguel Athayde, diretor-executivo de jornalismo da TV Globo. Os dois deixaram um restaurante do Leblon, bairro da zona sul do Rio de Janeiro.",
+   "Renata escolheu uma camisa branca de tecido leve, com as mangas parcialmente arregaçadas e um lenço estampado amarrado no pescoço, combinada a uma calça cargo bege. Os óculos de armação marcante, o coque solto e a bolsa caramelo completaram o visual.",
+   "Miguel apostou em tons claros parecidos. Ele usou uma polo branca de manga longa e caimento mais folgado, com uma calça de sarja bege-clara de corte reto, em um look casual e arrumado.",
+   "De acordo com a reportagem, a aparição foi considerada rara, já que o casal raramente aparece junto em público."
+  ],
+  "tags": [
+   "Renata Vasconcellos",
+   "Miguel Athayde",
+   "look casual",
+   "moda de famosos"
+  ],
+  "pessoa": "Renata Vasconcellos",
+  "busca_imagem": "white shirt beige pants",
+  "criado": "2026-11-16T23:40:36.115514+00:00",
+  "slug": "renata-vasconcellos-sai-com-o-marido-em-look-branco-e-casual-chic-db02c0",
+  "fonte": "FFW",
+  "link": "https://ffw.com.br/noticias/moda/camisa-branca-e-calca-cargo-renata-vasconcellos-combina-look-casual-chic-com-marido/",
+  "categoria": "em-alta",
+  "data": "2026-11-16T23:20:00+00:00",
+  "titulo_original": "Camisa branca e calça cargo: Renata Vasconcellos combina look casual chic com marido",
+  "post": null,
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/82/Renata_Vasconcellos_01_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Nathália Carvalho / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": ""
+ },
+ "https://www.oficinadanet.com.br/entretenimento/74184-nba-onde-assistir-ao-vivo-hoje-segunda-16-novembro-2026": {
+  "recusado": true,
+  "criado": "2026-11-16T23:40:36.115514+00:00"
+ },
+ "https://www.estadao.com.br/einvestidor/loterias/caixa-altera-data-do-sorteio-da-loteria-federal-veja-quando-sera-a-proxima-extracao/": {
+  "recusado": true,
+  "criado": "2026-11-16T23:40:36.115514+00:00"
+ },
+ "https://odia.ig.com.br/rio-de-janeiro/2026/11/7323030-coroas-de-flores-para-pms-vivos-sao-deixadas-na-frente-do-18-bpm.html": {
+  "recusado": true,
+  "criado": "2026-11-16T23:40:36.115514+00:00"
+ },
+ "https://www.cbf.com.br/selecao-brasileira/noticias/selecao-sub-20/a/selecao-brasileira-sub-20-enfrenta-o-peru-nesta-segunda-feira-16-em-ultimo-teste-antes-do-sul-americano": {
+  "recusado": true,
+  "criado": "2026-11-16T23:40:36.115514+00:00"
+ },
+ "https://www1.folha.uol.com.br/mercado/2026/11/esteves-do-btg-diz-que-mercado-mostra-urgencia-do-ajuste-fiscal-e-lula-entregara-o-que-se-espera.shtml": {
+  "publicar": true,
+  "titulo": "Esteves, do BTG, diz que mercado cobra urgência no ajuste fiscal e aposta em Lula",
+  "linha_fina": "Economista-chefe Mansueto Almeida defende controlar o crescimento do gasto público, sem cortes em programas sociais",
+  "paragrafos": [
+   "André Esteves, presidente do conselho de administração e sócio do BTG Pactual, afirmou nesta segunda-feira (16) que o mercado financeiro sinalizou a necessidade de equilibrar com urgência as contas públicas do país. A fala ocorreu em evento do banco, em um dia de queda dos ativos brasileiros, com dólar em alta e Ibovespa recuando quase 2%.",
+   "Esteves disse acreditar que o presidente Luiz Inácio Lula da Silva deve fazer o ajuste fiscal sem abrir mão de promessas de campanha, e que o Congresso tende a apoiar medidas nessa direção. Segundo ele, porém, é preciso que haja vontade política e liderança para conduzir o processo.",
+   "O economista-chefe do BTG, Mansueto Almeida, avaliou que a equipe econômica do governo entende os desafios, mas questionou se o presidente já foi convencido disso e afirmou que falta um plano claro. Ex-secretário do Tesouro nos governos Michel Temer e Jair Bolsonaro, ele defendeu que o foco deve ser conter o crescimento dos gastos, e não cortes em programas sociais.",
+   "Mansueto também sugeriu mudanças no Imposto de Renda da pessoa física e na política de reajuste do salário mínimo, que considera insustentável no ritmo atual de aumentos reais, e disse que a alta do mínimo poderia ser bem menor."
+  ],
+  "tags": [
+   "ajuste fiscal",
+   "BTG Pactual",
+   "gastos públicos",
+   "governo Lula"
+  ],
+  "pessoa": "André Esteves",
+  "busca_imagem": "stock market trading screen",
+  "criado": "2026-11-16T23:40:36.115514+00:00",
+  "slug": "esteves-do-btg-diz-que-mercado-cobra-urgencia-no-ajuste-fiscal-e-apost-f0580b",
+  "fonte": "Folha de S.Paulo",
+  "link": "https://www1.folha.uol.com.br/mercado/2026/11/esteves-do-btg-diz-que-mercado-mostra-urgencia-do-ajuste-fiscal-e-lula-entregara-o-que-se-espera.shtml",
+  "categoria": "em-alta",
+  "data": "2026-11-16T22:30:00+00:00",
+  "titulo_original": "Esteves, do BTG, diz que mercado mostra urgência do ajuste fiscal e Lula entregará o que se espera",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Andre_Esteves.jpg/1280px-Andre_Esteves.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: LSP Luiz Prado / CC BY-SA 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Andre_Esteves.jpg"
  }
 }
