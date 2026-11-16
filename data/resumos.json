@@ -4562,9 +4562,9 @@
   "data": "2026-11-16T21:30:00+00:00",
   "titulo_original": "PF irá entregar na quarta novos relatórios sobre ministros do STF no celular de Vorcaro",
   "post": null,
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg/1280px-Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credito": "Foto: Joe Ravi / CC BY-SA 3.0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://odia.ig.com.br/esporte/vasco/2026/11/7322970-de-saida-do-vasco-zagueiro-viaja-para-a-europa.html": {
   "recusado": true,
@@ -4581,5 +4581,97 @@
  "https://www1.folha.uol.com.br/mercado/2026/11/fim-de-subsidio-ao-diesel-importado-eleva-custo-e-preco-deve-subir-nas-bombas.shtml": {
   "recusado": true,
   "criado": "2026-11-16T21:46:00.815065+00:00"
+ },
+ "https://guaiba.com.br/defesa-civil-alerta-para-tempestades-com-vento-e-granizo-no-rs/": {
+  "publicar": true,
+  "titulo": "Defesa Civil emite alerta de atenção e prevê tempestades com vento forte e granizo no RS",
+  "linha_fina": "Rajadas podem passar de 90 km/h, e chuvas intensas entre terça e quarta podem causar alagamentos",
+  "paragrafos": [
+   "A Defesa Civil do Rio Grande do Sul atualizou, nesta segunda-feira (16), a previsão para os próximos dias e alertou para tempestades em todo o estado. O maior perigo de ventos fortes está na Região Metropolitana de Porto Alegre, na Costa Doce, nos Vales e na região Central, principalmente à tarde e à noite.",
+   "Segundo o Centro de Monitoramento da Defesa Civil (Cmdec), as rajadas podem ultrapassar 90 km/h em algumas áreas, com possibilidade de queda de granizo. Em regiões do Centro, Noroeste, Nordeste e Norte, há risco de temporais isolados, com rajadas acima de 80 km/h. No Noroeste, o acumulado de chuva pode passar de 100 mm em pontos específicos.",
+   "Entre terça-feira (17) e quarta-feira (18), a previsão é de chuvas fortes em pontos do estado, o que pode provocar alagamentos nos locais atingidos. Já os rios estão com níveis entre o alerta e a normalidade, com tendência de estabilidade ou queda.",
+   "Diante desse quadro, a Defesa Civil colocou todo o Rio Grande do Sul em nível de atenção, conforme o mapa de risco divulgado pelo órgão."
+  ],
+  "tags": [
+   "Defesa Civil RS",
+   "temporais no RS",
+   "granizo",
+   "previsão do tempo"
+  ],
+  "pessoa": "",
+  "busca_imagem": "storm clouds landscape",
+  "criado": "2026-11-16T22:44:37.781705+00:00",
+  "slug": "defesa-civil-emite-alerta-de-atencao-e-preve-tempestades-com-vento-for-cc5875",
+  "fonte": "Rádio Guaíba",
+  "link": "https://guaiba.com.br/defesa-civil-alerta-para-tempestades-com-vento-e-granizo-no-rs/",
+  "categoria": "em-alta",
+  "data": "2026-11-16T22:10:00+00:00",
+  "titulo_original": "Defesa Civil alerta para tempestades com vento e granizo no RS",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/33/59308568_ea247dffbe_b.jpg",
+  "credito": "Foto: huw-ogilvie / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/97438202@N00/59308568"
+ },
+ "https://veja.abril.com.br/cultura/la-na-minha-terra-confira-resumo-da-semana-de-novela-das-seis/": {
+  "publicar": true,
+  "titulo": "Lá na Minha Terra: veja o resumo da semana da novela das seis",
+  "linha_fina": "Lina enfrenta Raimundo, Rosenda recebe pedidos de Almerindo e Cesário é confrontado por Ismália",
+  "paragrafos": [
+   "A semana de Lá na Minha Terra, novela das seis, foi marcada por tensões no sertão envolvendo Lina, Raimundo e Damaso, que chegaram a se desentender em uma briga interrompida pela própria Lina.",
+   "Rosenda, que segue convencida de que Severino está vivo, pediu mais prazo a Almerindo para quitar o aluguel da casa e ouviu propostas dele, inclusive a de enviá-la a São Paulo, o que a deixou irritada. Almerindo também afirmou que gostaria de viver com ela.",
+   "Na cidade, Ismália proibiu Cesário de fechar um negócio com Lourdes e Elias, que chegaram a ser impedidos de entrar no escritório, enquanto Cosminha se desesperou após Padre Honório passar mal.",
+   "Entre os romances, Lina e Raimundo se beijaram novamente, mas Rosenda flagrou o casal e afastou a filha do rapaz, dando abrigo a ele. Já Socorro e Damaso passaram a se aproximar."
+  ],
+  "tags": [
+   "Lá na Minha Terra",
+   "novela das seis",
+   "resumo da semana"
+  ],
+  "pessoa": "",
+  "busca_imagem": "rural brazil countryside",
+  "criado": "2026-11-16T22:44:37.781705+00:00",
+  "slug": "la-na-minha-terra-veja-o-resumo-da-semana-da-novela-das-seis-b3e92a",
+  "fonte": "VEJA",
+  "link": "https://veja.abril.com.br/cultura/la-na-minha-terra-confira-resumo-da-semana-de-novela-das-seis/",
+  "categoria": "em-alta",
+  "data": "2026-11-16T22:00:00+00:00",
+  "titulo_original": "Lá na Minha Terra: confira resumo da semana de novela das seis",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/4/8411550_db575c8b78_b.jpg",
+  "credito": "Foto: Jeff Belmonte / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/72236935@N00/8411550"
+ },
+ "https://paranaclube.com.br/parana-divulga-promocao-de-ingressos-para-a-final-na-vila-capanema/": {
+  "recusado": true,
+  "criado": "2026-11-16T22:44:37.781705+00:00"
+ },
+ "https://www.redetv.uol.com.br/tvfama/blog/celebridades/kamylinha-fala-pela-primeira-vez-sobre-afastamento-de-hytalo-santos-nao-gua": {
+  "publicar": true,
+  "titulo": "Kamylinha quebra o silêncio e fala sobre saída da equipe de Hytalo Santos",
+  "linha_fina": "Ex-integrante diz não guardar mágoa, afirma não manter contato com a antiga turma e evita detalhes sobre a condenação na Justiça",
+  "paragrafos": [
+   "Em entrevista ao jornalista Rafael Araújo, exibida nesta segunda-feira (9), a influenciadora Kamylinha, de 18 anos, falou pela primeira vez sobre ter deixado o grupo de criadores de conteúdo comandado por Hytalo Santos.",
+   "Ela contou que não tem mais contato com quem fazia parte daquela equipe e disse que seguiu a vida em outra direção: \"tá tudo bem\".",
+   "Ao ser perguntada sobre a condenação judicial que envolve Hytalo Santos e o influenciador Euro, Kamylinha afirmou que não poderia dar detalhes por questões legais.",
+   "Ela também reconheceu que Hytalo foi importante para o início de sua carreira na internet e afirmou não guardar ressentimentos do ex-chefe, desejando sucesso a todos."
+  ],
+  "tags": [
+   "Kamylinha",
+   "Hytalo Santos",
+   "influenciadores digitais"
+  ],
+  "pessoa": "Kamylinha",
+  "busca_imagem": "social media influencer smartphone",
+  "criado": "2026-11-16T22:44:37.781705+00:00",
+  "slug": "kamylinha-quebra-o-silencio-e-fala-sobre-saida-da-equipe-de-hytalo-san-5d35bf",
+  "fonte": "RedeTV!",
+  "link": "https://www.redetv.uol.com.br/tvfama/blog/celebridades/kamylinha-fala-pela-primeira-vez-sobre-afastamento-de-hytalo-santos-nao-gua",
+  "categoria": "em-alta",
+  "data": "2026-11-16T21:40:00+00:00",
+  "titulo_original": "Kamylinha fala pela primeira vez sobre afastamento de Hytalo Santos: 'Não guardo mágoa'",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/65535/49920955702_fd6d5e320b_b.jpg",
+  "credito": "Foto: markus119 / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/35850894@N08/49920955702"
  }
 }
