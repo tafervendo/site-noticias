@@ -1021,11 +1021,19 @@ def preparar_focos(urls, limite=60):
     """Calcula o enquadramento das fotos novas (as já calculadas ficam guardadas)."""
     novas = [u for u in dict.fromkeys(urls) if u and u.startswith("https://") and u not in FOCOS][:limite]
     import time
+    recusas = 0
     for u in novas:
         try:
             FOCOS[u] = achar_foco(u)
-        except Exception as e:  # não guarda a falha: tenta de novo na próxima rodada
-            print(f"  ! Enquadramento da foto falhou ({e}); uso o padrão por enquanto")
+            recusas = 0
+        except urllib.error.HTTPError as e:
+            if e.code == 429:  # o servidor pediu calma: para nesta rodada e continua na próxima
+                recusas += 1
+                if recusas >= 2:
+                    print("  ! Servidor de fotos pediu calma; o enquadramento continua na próxima rodada.")
+                    break
+        except Exception:
+            pass  # não guarda a falha: tenta de novo na próxima rodada
         time.sleep(1.5)
     if novas:
         FOCOS_ARQ.write_text(json.dumps(FOCOS, ensure_ascii=False, indent=1), encoding="utf-8")
