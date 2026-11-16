@@ -29558,5 +29558,468 @@
  "c:cd5d35739670ab4c3428": false,
  "c:0a20bed8e333db106115": false,
  "c:4a1be6ef296a91b983f4": false,
- "c:2ec45e6932fc153a48d5": false
+ "c:2ec45e6932fc153a48d5": false,
+ "v:Grand Canyon": {
+  "descricao": "cânion de paredes íngremes escavado pelo Rio Colorado no Arizona, nos Estados Unidos",
+  "nasc": null,
+  "morte": null
+ },
+ "b:grand canyon overlook sunset": [
+  {
+   "imagem": "https://live.staticflickr.com/6087/6116030409_1608c7c5c0_b.jpg",
+   "credito": "Foto: Grand Canyon NPS / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/50693818@N08/6116030409"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6150/5919764020_54ee2a7f75_b.jpg",
+   "credito": "Foto: Grand Canyon NPS / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/50693818@N08/5919764020"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2643/5737611097_a9422bf903_b.jpg",
+   "credito": "Foto: Grand Canyon NPS / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/50693818@N08/5737611097"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5251/5446230117_d5c69749b7_b.jpg",
+   "credito": "Foto: Grand Canyon NPS / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/50693818@N08/5446230117"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5092/5446830720_fba90689ed_b.jpg",
+   "credito": "Foto: Grand Canyon NPS / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/50693818@N08/5446830720"
+  }
+ ],
+ "v:Governors Awards": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "b:gold award trophy statue": [
+  {
+   "imagem": "https://live.staticflickr.com/7307/9714837134_7d27560d06_b.jpg",
+   "credito": "Foto: USAG-Humphreys / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/31687107@N07/9714837134"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4020/4327969857_d3b84884da_b.jpg",
+   "credito": "Foto: U.S. Army Materiel Command / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/10393857@N03/4327969857"
+  }
+ ],
+ "v:Cindy Crawford": {
+  "descricao": "supermodelo e atriz norte-americana",
+  "nasc": 1966,
+  "morte": null
+ },
+ "p:Cindy Crawford": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Cindy_Crawford_at_WWD_Style_Awards_2026.jpg/1280px-Cindy_Crawford_at_WWD_Style_Awards_2026.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Kevin Paul / CC BY 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Cindy_Crawford_at_WWD_Style_Awards_2026.jpg"
+ },
+ "b:samba drummers street carnival parade": [
+  {
+   "imagem": "https://live.staticflickr.com/3579/3358545771_68c9fba237_b.jpg",
+   "credito": "Foto: sfmission.com / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/17281186@N00/3358545771"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8880/17690627874_1d3634cfb6_b.jpg",
+   "credito": "Foto: Stig Nygaard / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/10259776@N00/17690627874"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3735/9440488304_6c8f4a2cb6_b.jpg",
+   "credito": "Foto: sfmission.com / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/17281186@N00/9440488304"
+  }
+ ],
+ "b:spray bottle nozzle cleaning": null,
+ "b:perfume bottles summer": [
+  {
+   "imagem": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxNDUyOTk3LWltYWdlLWt3eXEyeGRhLmpwZw.jpg",
+   "credito": "Foto: autor desconhecido / domínio público",
+   "credito_link": "https://www.rawpixel.com/image/5954953/free-public-domain-cc0-photo"
+  }
+ ],
+ "v:Carlinhos de Jesus": {
+  "descricao": "coreógrafo e dançarino brasileiro",
+  "nasc": 1953,
+  "morte": null
+ },
+ "p:Carlinhos de Jesus": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Desfile_de_carnaval_na_Sapuca%C3%AD_08.jpg/1280px-Desfile_de_carnaval_na_Sapuca%C3%AD_08.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Raphael David/Agência Brasil / CC BY 3.0 br, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Desfile_de_carnaval_na_Sapuca%C3%AD_08.jpg"
+ },
+ "v:Dino Sani": {
+  "descricao": "futebolista brasileiro",
+  "nasc": 1932,
+  "morte": null
+ },
+ "p:Dino Sani": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Dino_Sani_01.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Antonio Cruz (cropped by tales.ebner ) / CC BY 3.0 br, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Dino_Sani_01.jpg"
+ },
+ "b:chocolate mousse dessert glass": [
+  {
+   "imagem": "https://live.staticflickr.com/120/364924647_db5073abc3_b.jpg",
+   "credito": "Foto: jaja_1985 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/25326737@N00/364924647"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/1048/867550903_0549b3cb0a_b.jpg",
+   "credito": "Foto: suavehouse113 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/94513428@N00/867550903"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8006/7472639698_28515f529d_b.jpg",
+   "credito": "Foto: Jun Seita / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/90454079@N00/7472639698"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8084/8279070715_d940c5eef7_b.jpg",
+   "credito": "Foto: Ruth and Dave / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/95142644@N00/8279070715"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5539/11370786796_bb87fcb30f_b.jpg",
+   "credito": "Foto: Meraj Chhaya / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/24215621@N08/11370786796"
+  }
+ ],
+ "b:industrial factory assembly line brazil": null,
+ "b:creamy chicken mustard skillet dish": null,
+ "b:resistance band workout home": [
+  {
+   "imagem": "https://live.staticflickr.com/65535/54117083251_a8e865d4c6_b.jpg",
+   "credito": "Foto: personaltrainertoronto / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/121183998@N08/54117083251"
+  }
+ ],
+ "b:burning car highway bridge": [
+  {
+   "imagem": "https://live.staticflickr.com/2818/12660171225_b3b6a8551d_b.jpg",
+   "credito": "Foto: ramnath bhat / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/31341155@N07/12660171225"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3129/2588159296_7fbe2df1d5_b.jpg",
+   "credito": "Foto: Geordie Hagan / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/27748447@N04/2588159296"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3180/2589124419_a232359321_b.jpg",
+   "credito": "Foto: Geordie Hagan / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/27748447@N04/2589124419"
+  }
+ ],
+ "b:math exam test paper": null,
+ "b:painter tape wall baseboard": null,
+ "b:wisteria climbing vine trellis": null,
+ "b:soccer goalkeeper gloves stadium": null,
+ "b:concert stage arena lights": [
+  {
+   "imagem": "https://live.staticflickr.com/5017/5470080370_5a1d1d2b65_b.jpg",
+   "credito": "Foto: smjbk / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/74279471@N00/5470080370"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8188/8147134510_3888fbe057_b.jpg",
+   "credito": "Foto: Darron Birgenheier / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/28502132@N05/8147134510"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3611/3537131190_13e9359664_b.jpg",
+   "credito": "Foto: miemo / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/47949918@N00/3537131190"
+  }
+ ],
+ "b:heavy rain city flooding": [
+  {
+   "imagem": "https://live.staticflickr.com/3907/14903717711_dd0f45b7c9_b.jpg",
+   "credito": "Foto: MTAPhotos / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/61135621@N03/14903717711"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5539/9822480554_f78ed47a9c_b.jpg",
+   "credito": "Foto: USFWS Mountain Prairie / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/51986662@N05/9822480554"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3855/14906782465_56a32b4040_b.jpg",
+   "credito": "Foto: MTAPhotos / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/61135621@N03/14906782465"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/1216/830981313_df82fc4729_b.jpg",
+   "credito": "Foto: gbaku / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/72105154@N00/830981313"
+  }
+ ],
+ "b:luxury mansion tropical pool": [
+  {
+   "imagem": "https://live.staticflickr.com/3831/11474372574_4d5b76194e_b.jpg",
+   "credito": "Foto: lns1122 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/57903762@N00/11474372574"
+  }
+ ],
+ "b:people walking park morning": [
+  {
+   "imagem": "https://live.staticflickr.com/3788/10099942964_c95f5b1812_b.jpg",
+   "credito": "Foto: mendhak / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/69135870@N00/10099942964"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3188/2951053783_4551264a4f_b.jpg",
+   "credito": "Foto: Sunciti _ Sundaram's Images + Messages / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/27112342@N03/2951053783"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8593/16129307762_d1ebaf8eb6_b.jpg",
+   "credito": "Foto: tim27w / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/94732963@N03/16129307762"
+  }
+ ],
+ "b:tropical beach boat turquoise water": [
+  {
+   "imagem": "https://live.staticflickr.com/7281/15977880084_4239af31ac_b.jpg",
+   "credito": "Foto: Alessandro Caproni / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/37575130@N02/15977880084"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/182/392178132_a37235daa9_b.jpg",
+   "credito": "Foto: benedict.adam / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/54032907@N00/392178132"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/1051/766795906_1085e403ac_b.jpg",
+   "credito": "Foto: ~MVI~ (warped) / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/20119750@N00/766795906"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2705/4301558598_10ace54d83_b.jpg",
+   "credito": "Foto: Horia Varlan / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/10361931@N06/4301558598"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6033/6291015837_82acce8c1a_b.jpg",
+   "credito": "Foto: travelourplanet.com / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/63503049@N03/6291015837"
+  }
+ ],
+ "b:white cotton shirt fashion": [
+  {
+   "imagem": "https://live.staticflickr.com/3140/2860454725_5e41822722_b.jpg",
+   "credito": "Foto: deb roby / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/45802332@N00/2860454725"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8344/8227708355_41aaa49160_b.jpg",
+   "credito": "Foto: Menswear Market / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/85546319@N04/8227708355"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5307/5630577041_6afe9822ba_b.jpg",
+   "credito": "Foto: The Laird of Oldham / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/13452129@N07/5630577041"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8572/16221222579_a8e9dba24a_b.jpg",
+   "credito": "Foto: Olga Kuba / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/75625814@N04/16221222579"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7423/16511714735_97127fa58c_b.jpg",
+   "credito": "Foto: Olga Kuba / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/75625814@N04/16511714735"
+  }
+ ],
+ "b:gray hair dye box": null,
+ "b:silicone baking mold cleaning": null,
+ "c:ed825262f075d50dfc69": true,
+ "c:5e2859927ff7e4638748": false,
+ "c:fecf50eb9190f0d1113a": true,
+ "c:c122fa613fafc5a84f49": false,
+ "c:69b89ccd8f237d0e8796": false,
+ "c:84f3a3ad2cdc2b908142": true,
+ "c:60629a602080ae4e0c86": true,
+ "c:94e0f3e276cba2add114": false,
+ "c:cd26d663855ab37cf22a": true,
+ "c:ae7f2c959bf17cf273ae": true,
+ "c:ad2981ec650665858368": false,
+ "c:ac9b456bdcd982748797": true,
+ "c:e69b6280d3ae31b8c622": false,
+ "c:2458e42b0270b3d82e05": false,
+ "c:66bbbe2190601084c364": false,
+ "c:50d3a8a076c68ac4d7d8": true,
+ "c:e844d2239ca47aec1548": false,
+ "c:d350fbee53455c247a20": false,
+ "c:b9691e32076b98656b68": false,
+ "c:d10039bdd8da93e02db1": false,
+ "c:cd499283848de76c0419": false,
+ "c:454a9651ce306f96368a": false,
+ "c:be11edbf60f70a3bb9fa": false,
+ "c:6b35b5b7783c8425aeef": false,
+ "c:602862762571e19f2321": true,
+ "b:clay water jug porous pottery": null,
+ "b:woman eye wrinkles skincare": null,
+ "b:dinosaur fossil excavation site": [
+  {
+   "imagem": "https://live.staticflickr.com/8692/16623014928_173b8b5d97_b.jpg",
+   "credito": "Foto: mypubliclands / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/91981596@N06/16623014928"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/49256792708_69c2971146_b.jpg",
+   "credito": "Foto: RuggyBearLA / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/21874566@N07/49256792708"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7597/16190657633_0918bbd52e_b.jpg",
+   "credito": "Foto: mypubliclands / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/91981596@N06/16190657633"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/49343309493_cdb0319116_b.jpg",
+   "credito": "Foto: RuggyBearLA / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/21874566@N07/49343309493"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8582/16623015708_9d8517b196_b.jpg",
+   "credito": "Foto: mypubliclands / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/91981596@N06/16623015708"
+  }
+ ],
+ "b:coffee grounds kitchen": [
+  {
+   "imagem": "https://live.staticflickr.com/4031/4528624762_8dbfc2348d_b.jpg",
+   "credito": "Foto: 威爾家 ♥ Will Family / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/37657742@N05/4528624762"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2768/4198676685_a9cd656950_b.jpg",
+   "credito": "Foto: avlxyz / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/10559879@N00/4198676685"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2669/4198677183_cef0bb3e11_b.jpg",
+   "credito": "Foto: avlxyz / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/10559879@N00/4198677183"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4051/4632001056_f7549d6277_b.jpg",
+   "credito": "Foto: avlxyz / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/10559879@N00/4632001056"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2865/12075787983_abfccd3538_b.jpg",
+   "credito": "Foto: ell brown / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/39415781@N06/12075787983"
+  }
+ ],
+ "b:river fish brazil seashore": [
+  {
+   "imagem": "https://live.staticflickr.com/116/251737972_35ec8e069a_b.jpg",
+   "credito": "Foto: Zemlinki! / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/78199898@N00/251737972"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3/6398516_e0ffa7b738_b.jpg",
+   "credito": "Foto: Jeff Belmonte / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/72236935@N00/6398516"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3447/3975888762_d14ea9d5f5_b.jpg",
+   "credito": "Foto: Denis Lopes / Serras Photography / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/35727299@N03/3975888762"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2582/4089408664_3745bc2257_b.jpg",
+   "credito": "Foto: Ben Sutherland / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/60179301@N00/4089408664"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4141/4939136322_c362161cb8_b.jpg",
+   "credito": "Foto: Henrique Yasuda / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/12638963@N02/4939136322"
+  }
+ ],
+ "b:perfume bottle flower vase": [
+  {
+   "imagem": "https://live.staticflickr.com/7173/6670474633_a5a7afb9ee_b.jpg",
+   "credito": "Foto: Bellafaye Garden / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/51796626@N03/6670474633"
+  }
+ ],
+ "b:elderly woman walking path": [
+  {
+   "imagem": "https://live.staticflickr.com/3753/9707625777_1a0ed92edb_b.jpg",
+   "credito": "Foto: simpleinsomnia / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/95329455@N02/9707625777"
+  }
+ ],
+ "b:front loading washing machine": [
+  {
+   "imagem": "https://live.staticflickr.com/7508/15678182687_82debbdcfa_b.jpg",
+   "credito": "Foto: David Jackmanson / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/58301516@N00/15678182687"
+  },
+  {
+   "imagem": "https://collections.museumsvictoria.com.au/content/media/34/290634-large.jpg",
+   "credito": "Foto: autor desconhecido / CC BY 4.0",
+   "credito_link": "https://collections.museumsvictoria.com.au/items/415562"
+  },
+  {
+   "imagem": "https://collections.museumsvictoria.com.au/content/media/5/163755-large.jpg",
+   "credito": "Foto: autor desconhecido / CC BY 4.0",
+   "credito_link": "https://collections.museumsvictoria.com.au/items/250584"
+  }
+ ],
+ "b:eyebrow makeup brush": [
+  {
+   "imagem": "https://live.staticflickr.com/65535/51825380981_c79266b923_b.jpg",
+   "credito": "Foto: ajay_suresh / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/83136374@N05/51825380981"
+  }
+ ],
+ "b:pillow cover laundry": null,
+ "b:triceps dumbbell workout gym": [
+  {
+   "imagem": "https://live.staticflickr.com/1838/30199295338_029de432a0_b.jpg",
+   "credito": "Foto: personaltrainertoronto / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/121183998@N08/30199295338"
+  }
+ ],
+ "b:person walking outdoor trail": null,
+ "b:kintsugi broken ceramic bowl": null,
+ "b:bachelorette party friends celebration": [
+  {
+   "imagem": "https://live.staticflickr.com/8522/8630635886_6c2ec46228_b.jpg",
+   "credito": "Foto: emily @ go haus go / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/60849758@N05/8630635886"
+  }
+ ],
+ "c:c5d2c6b63881aa78e5be": false,
+ "c:ce7ac15ae91fca4b6b8e": true,
+ "c:d7feec5acb400a5575fe": true,
+ "c:2bee7b03a401d34368bd": false,
+ "c:77d29e21561565254519": false,
+ "c:69dcb4a01b0e11d70356": false,
+ "c:dbf9afc89b3a3c4b1504": true,
+ "c:331053c8a674ff3eaff7": false,
+ "c:439588a6ea0b2f583ebd": false,
+ "c:01046b217b349fd16c4a": false,
+ "c:71cec88956244fa3ca44": false,
+ "c:c3e32e89fb4fa1cca7b8": false,
+ "c:a74fdfd8a84aecd3cd1c": false,
+ "c:dcddedce2c5d77b28614": false,
+ "c:18927017fd0a6006a2ea": false,
+ "c:dce1132b3d6c159ad73b": false,
+ "c:d0d7d3669dc6ce2a1826": true,
+ "c:79c3df827176e1887fad": false,
+ "c:81293b97f4f4bd46254a": false,
+ "c:2ad5f19e0c810b1a1ab4": true
 }
