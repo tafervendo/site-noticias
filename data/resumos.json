@@ -4227,9 +4227,9 @@
   "data": "2026-11-16T10:50:00+00:00",
   "titulo_original": "Sessão da Tarde hoje: Qual filme a Globo exibe nesta segunda-feira (16/11/2026)",
   "post": null,
-  "imagem": "https://live.staticflickr.com/7433/9277480500_b240cfa610_b.jpg",
-  "credito": "Foto: Sabatu / domínio público",
-  "credito_link": "https://www.flickr.com/photos/97453745@N02/9277480500"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://investidor10.com.br/noticias/nubank-roxo34-conquista-licenca-bancaria-no-brasil-veja-o-que-muda-123900/": {
   "publicar": true,
@@ -4258,12 +4258,54 @@
   "data": "2026-11-16T10:30:00+00:00",
   "titulo_original": "Nubank (ROXO34) conquista licença bancária no Brasil; veja o que muda",
   "post": null,
-  "imagem": "https://live.staticflickr.com/65535/49207862562_e443603411_b.jpg",
-  "credito": "Foto: Artem Beliaikin / domínio público",
-  "credito_link": "https://www.flickr.com/photos/157635012@N07/49207862562"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www1.folha.uol.com.br/colunas/painel/2026/11/da-turquia-lula-marca-conversas-com-ministeriaveis-para-a-proxima-semana.shtml": {
   "recusado": true,
   "criado": "2026-11-16T12:02:38.032232+00:00"
+ },
+ "https://www1.folha.uol.com.br/ilustrada/2026/11/grammy-2027-anuncia-indicados-ao-premio-nesta-segunda-confira.shtml": {
+  "recusado": true,
+  "criado": "2026-11-16T13:22:19.536572+00:00"
+ },
+ "https://palmeiras.com.br/noticias/ingressos-para-jogo-contra-flamengo-no-nubank-parque-pelo-campeonato-brasileiro/": {
+  "publicar": true,
+  "titulo": "Palmeiras x Flamengo: venda de ingressos começa neste sábado para sócios Avanti",
+  "linha_fina": "Venda exclusiva para sócios-torcedores a partir das 12h do dia 14, pelo site oficial; público geral compra a partir de segunda-feira, às 10h",
+  "paragrafos": [
+   "O Palmeiras divulgou as regras para a compra de ingressos do jogo contra o Flamengo, válido pela 36ª rodada do Campeonato Brasileiro, marcado para o sábado (21), às 16h30, no Nubank Parque.",
+   "Num primeiro momento, as entradas são vendidas apenas para os sócios-torcedores do Programa Avanti, a partir de sábado (14), às 12h, pelo site oficial do clube. Para aplicar o desconto do plano, o torcedor escolhe um setor contemplado e ativa o benefício durante a compra. A venda para sócios é organizada pela pontuação de rating, que vai de zero a cinco estrelas.",
+   "Os ingressos para o público em geral começam a ser vendidos na segunda-feira (16), às 10h. Sócios e donos de cadeiras cativas também podem comprar até sexta (20), às 18h, somente pela internet, já que o setor de cobrança deixou de vender ingressos físicos.",
+   "O clube também lembrou que o acesso ao estádio é feito por reconhecimento facial, que cancelamentos devem ser pedidos até 24 horas antes da partida e que a compra de comidas e bebidas usa um cartão pré-pago, com taxa de ativação de R$ 7,00. Crianças de colo de até 2 anos incompletos têm entrada gratuita, desde que sentem no colo do responsável com ingresso."
+  ],
+  "tags": [
+   "Palmeiras",
+   "Ingressos",
+   "Nubank Parque",
+   "Campeonato Brasileiro"
+  ],
+  "pessoa": "",
+  "busca_imagem": "football stadium crowd",
+  "criado": "2026-11-16T13:22:19.536572+00:00",
+  "slug": "palmeiras-x-flamengo-venda-de-ingressos-comeca-neste-sabado-para-socio-439411",
+  "fonte": "Palmeiras",
+  "link": "https://palmeiras.com.br/noticias/ingressos-para-jogo-contra-flamengo-no-nubank-parque-pelo-campeonato-brasileiro/",
+  "categoria": "em-alta",
+  "data": "2026-11-16T12:50:00+00:00",
+  "titulo_original": "Ingressos para jogo contra Flamengo no Nubank Parque pelo Campeonato Brasileiro",
+  "post": null,
+  "imagem": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL3B4NTU5NDQ1LWltYWdlLmpwZw.jpg",
+  "credito": "Foto: autor desconhecido / domínio público",
+  "credito_link": "https://www.rawpixel.com/image/8809293/photo-image-light-person-green"
+ },
+ "https://inmagazine.ig.com.br/celebridades/natal-larissa-manoela-andre-frambach-casa": {
+  "recusado": true,
+  "criado": "2026-11-16T13:22:19.536572+00:00"
+ },
+ "https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/11/a-fazenda-18-renata-del-bianco-vence-dinamica-escolhera-possiveis-vetados-na-prova-do-fazendeiro.shtml": {
+  "recusado": true,
+  "criado": "2026-11-16T13:22:19.536572+00:00"
  }
 }
