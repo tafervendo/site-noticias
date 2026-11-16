@@ -3810,5 +3810,43 @@
   "imagem": "https://live.staticflickr.com/1270/1374399932_157e1b643f_b.jpg",
   "credito": "Foto: Editor B / CC BY 2.0",
   "credito_link": "https://www.flickr.com/photos/11018968@N00/1374399932"
+ },
+ "https://www.folhavitoria.com.br/policia/tres-detentos-fugitivos-de-penitenciaria-em-viana-sao-recapturados/": {
+  "publicar": true,
+  "titulo": "Três presos que fugiram da Colônia Penal de Viana são recapturados no Universal",
+  "linha_fina": "Foragidos foram localizados no fim da tarde de domingo, no bairro Universal, após fuga de 13 detentos da unidade",
+  "paragrafos": [
+   "No fim da tarde de domingo (15), três dos detentos que escaparam da Colônia Penal Agrícola de Viana foram localizados e presos novamente no bairro Universal, também em Viana.",
+   "A Secretaria Estadual de Justiça (Sejus) confirmou a recaptura. Os três fazem parte de um grupo de 13 presos que deixaram a unidade na madrugada do mesmo domingo, depois de cortarem uma grade e saírem por uma abertura de cerca de 20 por 30 centímetros.",
+   "Segundo um policial que participou da abordagem, os homens foram encontrados caminhando pelo bairro e tentavam se misturar a moradores da região.",
+   "A matéria de origem não informa o paradeiro dos outros dez fugitivos até o momento."
+  ],
+  "tags": [
+   "fuga de presos",
+   "Viana",
+   "Colônia Penal Agrícola",
+   "Sejus"
+  ],
+  "pessoa": "",
+  "busca_imagem": "prison cell bars",
+  "criado": "2026-11-16T01:15:08.202412+00:00",
+  "slug": "tres-presos-que-fugiram-da-colonia-penal-de-viana-sao-recapturados-no-bd0b9c",
+  "fonte": "Folha Vitória",
+  "link": "https://www.folhavitoria.com.br/policia/tres-detentos-fugitivos-de-penitenciaria-em-viana-sao-recapturados/",
+  "categoria": "em-alta",
+  "data": "2026-11-16T00:50:00+00:00",
+  "titulo_original": "Três detentos fugitivos de penitenciária em Viana são recapturados no bairro Universal",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/5468/10222919863_36472751c0_b.jpg",
+  "credito": "Foto: sagesolar / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/62356799@N06/10222919863"
+ },
+ "https://www1.folha.uol.com.br/mundo/2026/11/sonho-com-uma-amazonia-que-lute-pelos-pobres-e-indigenas-diz-papa-leao-14-no-peru.shtml": {
+  "recusado": true,
+  "criado": "2026-11-16T01:15:08.202412+00:00"
+ },
+ "https://www.folhabv.com.br/cotidiano/morre-helder-girao-barreto-ex-juiz-federal-e-referencia-juridica-em-roraima/": {
+  "recusado": true,
+  "criado": "2026-11-16T01:15:08.202412+00:00"
  }
 }
