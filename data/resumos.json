@@ -5257,5 +5257,39 @@
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Carlo_Ancelotti_Brazil_V_Morocco_13_June_2026-47.jpg/1280px-Carlo_Ancelotti_Brazil_V_Morocco_13_June_2026-47.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credito": "Foto: Bryan Berlin / CC BY-SA 4.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Carlo_Ancelotti_Brazil_V_Morocco_13_June_2026-47.jpg"
+ },
+ "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-em-cascavel-pr-hoje-veja-como-fica-o-clima-nesta-terca-feira,04c05a2f28aa745ed4a2d26d305e645doao4it28.html": {
+  "publicar": true,
+  "titulo": "Previsão do tempo em Cascavel (PR): terça-feira tem chuva e temporal à noite",
+  "linha_fina": "Segundo o Climatempo, a cidade paranaense terá tempo instável, com pancadas a partir do fim da manhã e temperaturas entre 21°C e 26°C",
+  "paragrafos": [
+   "Cascavel, no Paraná, deve enfrentar tempo instável nesta terça-feira, dia 17, segundo dados do Climatempo consultados por volta das 4h58. A manhã começa com sol entre nuvens, mas a nebulosidade se intensifica aos poucos no fim do período e traz chuva para a cidade.",
+   "A temperatura mínima prevista é de 21°C e a máxima chega a 26°C, com sensação térmica entre 21°C e 24°C. A umidade relativa do ar deve permanecer alta ao longo do dia, variando de 74% a 93%, e os ventos de nordeste sopram com velocidade média estimada em 12 km/h.",
+   "Pela previsão, a madrugada e a manhã seguem com temperaturas entre 21°C e 23°C. À tarde, os termômetros sobem para a faixa de 24°C a 26°C, período em que devem ocorrer pancadas de chuva. Já durante a noite, a projeção indica de 21°C a 25°C e possibilidade de temporal.",
+   "Com a chuva prevista a partir do fim da manhã e o risco de temporal à noite, o deslocamento dos moradores pode ser afetado. O acúmulo de água nas pistas e a menor visibilidade exigem cuidado redobrado no trânsito urbano."
+  ],
+  "tags": [
+   "previsão do tempo",
+   "Cascavel",
+   "clima Paraná",
+   "chuva e temporal"
+  ],
+  "pessoa": "",
+  "busca_imagem": "rainy city street",
+  "criado": "2026-11-17T13:45:53.094954+00:00",
+  "slug": "previsao-do-tempo-em-cascavel-pr-terca-feira-tem-chuva-e-temporal-a-no-84ef41",
+  "fonte": "Terra",
+  "link": "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-em-cascavel-pr-hoje-veja-como-fica-o-clima-nesta-terca-feira,04c05a2f28aa745ed4a2d26d305e645doao4it28.html",
+  "categoria": "em-alta",
+  "data": "2026-11-17T13:20:00+00:00",
+  "titulo_original": "Previsão do tempo em Cascavel (PR) hoje: veja como fica o clima nesta terça-feira",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/1026/5180651937_4f81640fc7_b.jpg",
+  "credito": "Foto: VinothChandar / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/44345361@N06/5180651937"
+ },
+ "https://www.terra.com.br/esportes/futebol/internacional/japao-x-paraguai-onde-assistir-escalacoes-e-arbitragem,dc045e20f1d53bb443c5e98a66182d01ejj0kjig.html": {
+  "recusado": true,
+  "criado": "2026-11-17T13:45:53.094954+00:00"
  }
 }
