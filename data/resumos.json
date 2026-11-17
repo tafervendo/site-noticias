@@ -5399,5 +5399,48 @@
  "https://www1.folha.uol.com.br/ambiente/2026/11/equipes-da-funai-e-forca-nacional-sofrem-emboscada-em-terra-indigena-no-pa.shtml": {
   "recusado": true,
   "criado": "2026-11-17T16:59:11.413695+00:00"
+ },
+ "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/stj-da-90-dias-para-marco-buzzi-desocupar-apartamento-funcional-em-brasilia.shtml": {
+  "recusado": true,
+  "criado": "2026-11-17T18:00:51.500441+00:00"
+ },
+ "https://www.cnnbrasil.com.br/pop/celebridades/mulher-de-amado-batista-relata-desespero-em-voo-e-mensagem-de-despedida/": {
+  "recusado": true,
+  "criado": "2026-11-17T18:00:51.500441+00:00"
+ },
+ "https://canaltech.com.br/smartphone/proximo-iphone-pro-pode-ter-tela-com-bordas-curvas-veja-foto/": {
+  "recusado": true,
+  "criado": "2026-11-17T18:00:51.500441+00:00"
+ },
+ "https://www.infomoney.com.br/mercados/dolar-em-alta-7-fatores-trajetoria-moeda/": {
+  "publicar": true,
+  "titulo": "Dólar oscila após alta de 2,17% e mercado observa sete fatores que podem mudar o câmbio",
+  "linha_fina": "Juros nos EUA, contas públicas e commodities estão entre os pontos que influenciam a moeda, que chegou a passar de R$ 5,81 nesta terça-feira (17)",
+  "paragrafos": [
+   "Após disparar 2,17% na segunda-feira (16), o dólar ficou praticamente estável nesta terça-feira (17). Pela manhã, a cotação chegou a ultrapassar R$ 5,81, mas parte desse ganho foi devolvida e, às 11h24, a moeda subia 0,11%, cotada a R$ 5,782.",
+   "A calmaria vem depois de um fechamento em R$ 5,777 na véspera, o nível mais alto desde abril de 2025. Hoje, os investidores acompanham no Senado a análise de quatro propostas de alteração no pacote fiscal, já aprovado na semana passada, que ainda podem modificar o texto.",
+   "Segundo especialistas ouvidos pelo InfoMoney, a moeda americana também sobe por motivos externos: o índice DXY, que compara o dólar com seis moedas, subiu para perto de 103,5 pontos na segunda-feira. Decisões do Federal Reserve, a inflação e a atividade nos Estados Unidos também pesam, já que juros altos lá tornam o dólar mais atraente.",
+   "No lado brasileiro, a credibilidade das contas públicas e a definição de nomes para o Ministério da Fazenda e o Banco Central influenciam as expectativas. Preços de petróleo, soja e café e a compra de contratos de dólar por estrangeiros também entram na conta.",
+   "Na análise técnica citada na reportagem, a faixa entre R$ 5,80 e R$ 5,85 é vista como chave para a continuidade da alta, com possível correção antes de novos avanços."
+  ],
+  "tags": [
+   "dólar hoje",
+   "cotação do dólar",
+   "câmbio",
+   "Federal Reserve"
+  ],
+  "pessoa": "",
+  "busca_imagem": "currency exchange board",
+  "criado": "2026-11-17T18:00:51.500441+00:00",
+  "slug": "dolar-oscila-apos-alta-de-2-17-e-mercado-observa-sete-fatores-que-pode-cf1c37",
+  "fonte": "InfoMoney",
+  "link": "https://www.infomoney.com.br/mercados/dolar-em-alta-7-fatores-trajetoria-moeda/",
+  "categoria": "em-alta",
+  "data": "2026-11-17T17:10:00+00:00",
+  "titulo_original": "Dólar em alta: 7 fatores que podem mudar a trajetória da moeda",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Currency_Exchange_regimes.png/1280px-Currency_Exchange_regimes.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Alinor ( talk ) / CC BY-SA 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Currency_Exchange_regimes.png"
  }
 }
