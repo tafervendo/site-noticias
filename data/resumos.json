@@ -5439,8 +5439,50 @@
   "data": "2026-11-17T17:10:00+00:00",
   "titulo_original": "Dólar em alta: 7 fatores que podem mudar a trajetória da moeda",
   "post": null,
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Currency_Exchange_regimes.png/1280px-Currency_Exchange_regimes.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credito": "Foto: Alinor ( talk ) / CC BY-SA 3.0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Currency_Exchange_regimes.png"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://palmeiras.com.br/noticias/palmeiras-realiza-visita-tecnica-e-planeja-logistica-para-final-da-libertadores/": {
+  "publicar": true,
+  "titulo": "Palmeiras faz visita técnica em Montevidéu para preparar final da Libertadores",
+  "linha_fina": "Delegação alviverde fica no Albion FC nos dias 26 e 27 e treina antes da decisão contra o Estudiantes, em 28 de novembro",
+  "paragrafos": [
+   "O Palmeiras enviou representantes a Montevidéu, no Uruguai, para inspecionar as estruturas que vão receber a delegação antes da final da CONMEBOL Libertadores 2026, marcada para 28 de novembro contra o Estudiantes, da Argentina.",
+   "A comitiva foi formada pelo gerente operacional Leonardo Piffer e pelo preparador físico Thiago Maldonado. Eles conheceram o Centro de Treinamento do Albion FC, escolhido para os treinos nos dias 26 e 27, que tem quatro campos, sendo um sintético, além de academia e espaços para trabalhos preventivos.",
+   "A visita também passou pelo Estádio Centenário, palco da decisão, com atenção ao gramado e ao vestiário que será usado pelos jogadores. A agenda incluiu ainda um encontro com o embaixador do Brasil no Uruguai, Marcos Leal Raposo, que recebeu uma camisa do clube.",
+   "Segundo o clube, a visita faz parte do planejamento para antecipar possíveis necessidades operacionais e garantir boas condições de trabalho. A delegação deve desembarcar em Montevidéu no dia 25."
+  ],
+  "tags": [
+   "Palmeiras",
+   "Libertadores",
+   "final da Libertadores",
+   "Montevidéu"
+  ],
+  "pessoa": "",
+  "busca_imagem": "football stadium empty",
+  "criado": "2026-11-17T19:36:20.114806+00:00",
+  "slug": "palmeiras-faz-visita-tecnica-em-montevideu-para-preparar-final-da-libe-6394e2",
+  "fonte": "Palmeiras",
+  "link": "https://palmeiras.com.br/noticias/palmeiras-realiza-visita-tecnica-e-planeja-logistica-para-final-da-libertadores/",
+  "categoria": "em-alta",
+  "data": "2026-11-17T19:10:00+00:00",
+  "titulo_original": "Palmeiras realiza visita técnica e planeja logística para final da Libertadores",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/117/295536134_fd21925c6b_b.jpg",
+  "credito": "Foto: Joe Shlabotnik / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/40646519@N00/295536134"
+ },
+ "https://www.espn.com.br/futebol/artigo/_/id/17519867/pais-de-gales-x-portugal-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-jogo-nations-league": {
+  "recusado": true,
+  "criado": "2026-11-17T19:36:20.114806+00:00"
+ },
+ "https://www.espn.com.br/futebol/artigo/_/id/17521085/dinamarca-x-noruega-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-jogo-nations-league": {
+  "recusado": true,
+  "criado": "2026-11-17T19:36:20.114806+00:00"
+ },
+ "https://www.jornalcruzeiro.com.br/tendencias/enquanto-dono-da-cimed-tem-aeronave-de-r-420-milhoes-bilionario-por-tras-do-burger-king-usa-jato-de-r-350-milhoes/?utm_source=al_leiamais": {
+  "recusado": true,
+  "criado": "2026-11-17T19:36:20.114806+00:00"
  }
 }
