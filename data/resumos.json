@@ -5596,12 +5596,54 @@
   "data": "2026-11-17T22:10:00+00:00",
   "titulo_original": "Chile x Colômbia: escalações e arbitragem",
   "post": null,
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Well_lit_soccer_stadium_%28Unsplash%29.jpg/1280px-Well_lit_soccer_stadium_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credito": "Foto: Mario Klassen marioklassen / CC0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Well_lit_soccer_stadium_(Unsplash).jpg"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www1.folha.uol.com.br/cotidiano/2026/11/investigacao-de-bomba-em-videogame-reune-relatos-de-pressao-contra-lojistas.shtml": {
   "recusado": true,
   "criado": "2026-11-17T22:52:14.827157+00:00"
+ },
+ "https://www1.folha.uol.com.br/equilibrioesaude/2026/11/opas-anuncia-que-eua-perdem-status-de-eliminacao-do-sarampo.shtml": {
+  "recusado": true,
+  "criado": "2026-11-17T23:47:45.072963+00:00"
+ },
+ "https://www.cnnbrasil.com.br/esportes/automobilismo/fernando-alonso-tera-brasileiro-como-companheiro-no-rally-dakar-2027/": {
+  "recusado": true,
+  "criado": "2026-11-17T23:47:45.072963+00:00"
+ },
+ "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/marina-silva-e-advogadas-pressionam-lula-por-ministra-negra-no-stf.shtml": {
+  "publicar": true,
+  "titulo": "Marina Silva e juristas pressionam Lula por ministra negra no STF",
+  "linha_fina": "Movimento Mulheres na Justiça também pede três mulheres para o STJ após rejeição do nome de Jorge Messias pelo Senado",
+  "paragrafos": [
+   "Em vídeo, a ex-ministra Marina Silva, a advogada Vera Lucia Santana, a advogada Dora Cavalcanti e outros profissionais do Direito pedem que o presidente Lula escolha uma mulher negra para a vaga aberta no STF.",
+   "A campanha integra a iniciativa Mulheres na Justiça, criada pelas organizações Justa, Fórum Justiça e Themis. Segundo o vídeo, há juristas negras qualificadas e o que falta é decisão política, na avaliação de Vera Lucia Santana.",
+   "O movimento também cobra do presidente a indicação de três mulheres para o STJ. Marina Silva afirmou que as mulheres têm qualidade, quantidade e capacidade para ocupar esses espaços, e a advogada criminalista Poliana Oliveira associou a desigualdade atual à história da escravidão.",
+   "A vaga no STF surgiu com a saída de Luís Roberto Barroso. Neste ano, Lula indicou o advogado-geral da União, Jorge Messias, mas o nome foi rejeitado pelo Senado, que precisa aprovar a escolha do Executivo."
+  ],
+  "tags": [
+   "STF",
+   "Lula",
+   "Mulheres na Justiça",
+   "indicação ao STF"
+  ],
+  "pessoa": "Marina Silva",
+  "busca_imagem": "supreme court building",
+  "criado": "2026-11-17T23:47:45.072963+00:00",
+  "slug": "marina-silva-e-juristas-pressionam-lula-por-ministra-negra-no-stf-19d86a",
+  "fonte": "Folha de S.Paulo",
+  "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/marina-silva-e-advogadas-pressionam-lula-por-ministra-negra-no-stf.shtml",
+  "categoria": "em-alta",
+  "data": "2026-11-17T23:10:00+00:00",
+  "titulo_original": "Mônica Bergamo: Marina Silva e advogadas pressionam Lula por ministra negra no STF",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Marina_Silva_crop.jpg/1280px-Marina_Silva_crop.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Sir.Leo Cabral / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": ""
+ },
+ "https://www.espn.com.br/futebol/artigo/_/id/17520846/argentina-x-costa-rica-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-amistoso-internacional": {
+  "recusado": true,
+  "criado": "2026-11-17T23:47:45.072963+00:00"
  }
 }
