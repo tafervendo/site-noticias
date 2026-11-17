@@ -5356,5 +5356,40 @@
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg/1280px-Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credito": "Foto: Bryan Berlin / CC BY-SA 4.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_(cropped).jpg"
+ },
+ "https://www.uol.com.br/splash/noticias/2026/11/16/poliana-rocha-faz-50-anos-com-festa-em-goiania-e-convidados-sem-celular.ghtm": {
+  "recusado": true,
+  "criado": "2026-11-17T15:54:15.371065+00:00"
+ },
+ "https://www.migalhas.com.br/quentes/468727/stj-poupanca-usada-como-conta-corrente-nao-afasta-impenhorabilidade": {
+  "publicar": true,
+  "titulo": "STJ decide que até 40 salários mínimos na poupança são impenhoráveis",
+  "linha_fina": "Tese foi fixada em recurso repetitivo; sobras de meses anteriores em conta-corrente não têm a mesma proteção",
+  "paragrafos": [
+   "A Corte Especial do STJ definiu, em julgamento virtual concluído em 21 de outubro, que valores de até 40 salários mínimos guardados na poupança não podem ser penhorados, mesmo quando a conta também recebe depósitos e pagamentos do dia a dia. A decisão foi tomada no rito de recursos repetitivos, no Tema 1.285.",
+   "Pela tese, a proteção também pode valer para dinheiro em espécie, conta-corrente, fundos e outras aplicações, desde que funcionem como uma reserva contínua e duradoura para emergências ou imprevistos graves. Quem alegar essa proteção precisa demonstrar que o dinheiro cumpre essa função.",
+   "Já investimentos especulativos e de alto risco, como bitcoins, ficam de fora da proteção. O mesmo vale para sobras de meses anteriores que continuem em contas-correntes tradicionais ou remuneradas, mesmo que tenham origem em verbas originalmente protegidas.",
+   "A relatora, ministra Maria Thereza de Assis Moura, afirmou que a interpretação do artigo 833, inciso X, do CPC, já tinha sido examinada pela Corte em 2024, no REsp 1.660.671, e que a nova decisão reafirma esse entendimento diante das mudanças do mercado financeiro.",
+   "Com a definição das teses, os recursos especiais e agravos que estavam suspensos à espera do julgamento poderão voltar a tramitar, e os tribunais do país devem seguir a orientação em casos semelhantes. O devedor ainda pode pedir o desbloqueio de valores recebidos no próprio mês quando forem de natureza impenhorável, como salários."
+  ],
+  "tags": [
+   "impenhorabilidade",
+   "STJ",
+   "poupança",
+   "recursos repetitivos"
+  ],
+  "pessoa": "",
+  "busca_imagem": "savings bank passbook",
+  "criado": "2026-11-17T15:54:15.371065+00:00",
+  "slug": "stj-decide-que-ate-40-salarios-minimos-na-poupanca-sao-impenhoraveis-a61aa9",
+  "fonte": "Migalhas",
+  "link": "https://www.migalhas.com.br/quentes/468727/stj-poupanca-usada-como-conta-corrente-nao-afasta-impenhorabilidade",
+  "categoria": "em-alta",
+  "data": "2026-11-17T15:20:00+00:00",
+  "titulo_original": "STJ: Poupança usada como conta-corrente não afasta impenhorabilidade",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/929/41492905602_293f2c119c_b.jpg",
+  "credito": "Foto: Rawpixel Ltd / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/147875007@N03/41492905602"
  }
 }
