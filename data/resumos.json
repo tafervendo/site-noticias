@@ -5551,8 +5551,57 @@
   "data": "2026-11-17T20:30:00+00:00",
   "titulo_original": "Senado adia votação de destaques do 'plano Moretti' de ajuste nas contas",
   "post": null,
-  "imagem": "https://live.staticflickr.com/7125/7595499660_7a9552b356_b.jpg",
-  "credito": "Foto: photosteve101 / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/42931449@N07/7595499660"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://www.estadao.com.br/politica/blog-do-fausto-macedo/sem-prestacao-de-contas-a-republica-e-so-um-feriado/": {
+  "recusado": true,
+  "criado": "2026-11-17T22:52:14.827157+00:00"
+ },
+ "https://noticiasdatv.uol.com.br/noticia/celebridades/jornalista-da-globo-beatriz-castro-opera-cancer-de-mama-e-tem-alta-no-aniversario-159556": {
+  "recusado": true,
+  "criado": "2026-11-17T22:52:14.827157+00:00"
+ },
+ "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/11/band-avalia-cancelar-programa-de-luciana-gimenez-em-2027-por-baixo-interesse-comercial.shtml": {
+  "recusado": true,
+  "criado": "2026-11-17T22:52:14.827157+00:00"
+ },
+ "https://www.espn.com.br/futebol/paulista/artigo/_/id/17527182/corinthians-ferroviaria-sub-20-tribunal-denuncia-briga": {
+  "recusado": true,
+  "criado": "2026-11-17T22:52:14.827157+00:00"
+ },
+ "https://www.terra.com.br/esportes/futebol/internacional/chile/chile-x-colombia-escalacoes-e-arbitragem,827b7688612103528d2276b6cc00971ed81q97ym.html": {
+  "publicar": true,
+  "titulo": "Chile x Colômbia: escalações prováveis para amistoso em Santiago",
+  "linha_fina": "Partida será na terça-feira (17), às 20h de Brasília, no Monumental David Arellano, com mando chileno.",
+  "paragrafos": [
+   "Chile e Colômbia voltam a se enfrentar em amistoso pela Data Fifa, desta vez com o jogo marcado para a terça-feira (17), às 20h de Brasília, no estádio Monumental David Arellano, em Santiago, casa habitual do Colo-Colo. Na primeira partida, disputada na sexta-feira (13) em Cali, a seleção chilena perdeu por 1 a 0.",
+   "Para o duelo em casa, o técnico Nicolás Córdova deve manter praticamente o mesmo time que foi derrotado em Cali, e a única mudança considerada provável é a entrada do atacante Lucas Cepeda.",
+   "Já a Colômbia, comandada por Néstor Lorenzo, deve aproveitar o amistoso para observar jogadores pouco testados. Nesse cenário, o goleiro Aldair Quintana, o lateral Juan Cabal e o atacante Camilo Mena aparecem como possíveis titulares na capital chilena."
+  ],
+  "tags": [
+   "Chile",
+   "Colômbia",
+   "Data Fifa",
+   "amistoso internacional"
+  ],
+  "pessoa": "",
+  "busca_imagem": "soccer stadium night",
+  "criado": "2026-11-17T22:52:14.827157+00:00",
+  "slug": "chile-x-colombia-escalacoes-provaveis-para-amistoso-em-santiago-3d4291",
+  "fonte": "Terra",
+  "link": "https://www.terra.com.br/esportes/futebol/internacional/chile/chile-x-colombia-escalacoes-e-arbitragem,827b7688612103528d2276b6cc00971ed81q97ym.html",
+  "categoria": "em-alta",
+  "data": "2026-11-17T22:10:00+00:00",
+  "titulo_original": "Chile x Colômbia: escalações e arbitragem",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Well_lit_soccer_stadium_%28Unsplash%29.jpg/1280px-Well_lit_soccer_stadium_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Mario Klassen marioklassen / CC0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Well_lit_soccer_stadium_(Unsplash).jpg"
+ },
+ "https://www1.folha.uol.com.br/cotidiano/2026/11/investigacao-de-bomba-em-videogame-reune-relatos-de-pressao-contra-lojistas.shtml": {
+  "recusado": true,
+  "criado": "2026-11-17T22:52:14.827157+00:00"
  }
 }
