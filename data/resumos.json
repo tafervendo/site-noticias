@@ -5132,9 +5132,9 @@
   "data": "2026-11-17T09:40:00+00:00",
   "titulo_original": "Previsão do tempo em Aracaju hoje: veja como fica o clima nesta terça-feira",
   "post": null,
-  "imagem": "https://live.staticflickr.com/2235/2115979251_8281e3fe36_b.jpg",
-  "credito": "Foto: pchurch92 / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/58708751@N00/2115979251"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www.radiopampa.com.br/presidente-da-rede-pampa-projeta-xiv-forum-economico-gaucho-como-espaco-de-debate-sobre-o-desenvolvimento-do-rs-para-2027/": {
   "publicar": true,
@@ -5166,5 +5166,29 @@
   "imagem": "",
   "credito": "",
   "credito_link": ""
+ },
+ "https://www.estadao.com.br/esportes/futebol/brasil-tem-ausencias-de-raphinha-e-ancelotti-mas-rayan-volta-para-o-ultimo-compromisso-do-ano/": {
+  "recusado": true,
+  "criado": "2026-11-17T11:02:44.903803+00:00"
+ },
+ "https://www1.folha.uol.com.br/internacional/en/business/2026/11/chinese-ai-expands-in-brazil-with-cloud-prices-40-lower-and-government-contracts.shtml": {
+  "recusado": true,
+  "criado": "2026-11-17T11:02:44.903803+00:00"
+ },
+ "https://veja.abril.com.br/esporte/jogos-de-hoje-terca-17-de-novembro-onde-assistir-futebol-ao-vivo-e-horarios/": {
+  "recusado": true,
+  "criado": "2026-11-17T11:02:44.903803+00:00"
+ },
+ "https://www.band.com.br/esportes/futebol/times/sao-paulo/candidato-a-presidente-do-sao-paulo-quer-formar-um-paulo-nobre": {
+  "recusado": true,
+  "criado": "2026-11-17T11:02:44.903803+00:00"
+ },
+ "https://www1.folha.uol.com.br/esporte/2026/11/vini-jr-atribui-inicio-de-temporada-ruim-ao-impacto-emocional-da-eliminacao-na-copa.shtml": {
+  "recusado": true,
+  "criado": "2026-11-17T11:02:44.903803+00:00"
+ },
+ "https://www.cartacapital.com.br/esporte/cbf-suspende-competicao-apos-a-mp-das-bets/": {
+  "recusado": true,
+  "criado": "2026-11-17T11:02:44.903803+00:00"
  }
 }
