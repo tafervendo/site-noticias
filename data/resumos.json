@@ -4965,5 +4965,69 @@
  "https://www.uol.com.br/splash/noticias/2026/11/16/felipe-descobre-segredo-de-mau-mau-e-relacao-com-adriana-sai-do-controle-em-quem-ama-cuida-de-1611-a-2111.ghtm": {
   "recusado": true,
   "criado": "2026-11-17T05:33:57.592587+00:00"
+ },
+ "https://www.estadao.com.br/tecmundo/contador-confessa-uso-de-ia-para-fraudar-e-tirar-maior-nota-em-exame-nacional-na-coreia-do-sul/": {
+  "publicar": true,
+  "titulo": "Primeiro colocado em concurso fiscal da Coreia do Sul é investigado por usar IA",
+  "linha_fina": "Polícia de Seul diz que o investigado admitiu por escrito ter usado IA para responder as provas, e o governo planeja suspender seu título",
+  "paragrafos": [
+   "A polícia de Seul abriu uma investigação no domingo, 15, depois que um homem que liderou as duas fases de um concurso nacional para fiscais contábeis, realizado em abril e julho, admitiu por escrito, por meio do advogado, ter recorrido à inteligência artificial para chegar às respostas.",
+   "Ele havia alcançado praticamente a nota máxima na primeira fase, com um único erro entre 160 perguntas, o que levantou suspeitas de uso de óculos inteligentes. Inicialmente negou, mas depois apareceu em um vídeo publicado no canal do advogado, em que disse lamentar profundamente. Segundo seu relato, fotografou as questões com uma mini câmera, enviou as imagens a uma IA e conferiu as respostas no celular.",
+   "O advogado não quis dar mais detalhes, por receio de que outras pessoas adotem métodos semelhantes. O investigado afirmou ter enfrentado dificuldades financeiras depois de deixar o emprego para abrir o próprio negócio.",
+   "O Ministério das Finanças e da Economia informou que pretende agir rapidamente para suspender o título profissional dele. O exame é aplicado por uma agência do governo que fiscaliza as certificações nacionais."
+  ],
+  "tags": [
+   "concurso fiscal",
+   "Coreia do Sul",
+   "inteligência artificial",
+   "fraude em concurso"
+  ],
+  "pessoa": "",
+  "busca_imagem": "exam hall students",
+  "criado": "2026-11-17T07:10:42.477875+00:00",
+  "slug": "primeiro-colocado-em-concurso-fiscal-da-coreia-do-sul-e-investigado-po-51ab57",
+  "fonte": "Estadão",
+  "link": "https://www.estadao.com.br/tecmundo/contador-confessa-uso-de-ia-para-fraudar-e-tirar-maior-nota-em-exame-nacional-na-coreia-do-sul/",
+  "categoria": "em-alta",
+  "data": "2026-11-17T05:50:00+00:00",
+  "titulo_original": "Contador confessa uso de IA para fraudar e tirar maior nota em exame nacional na Coreia do Sul",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/2920/14206641923_2547ec7de2_b.jpg",
+  "credito": "Foto: comedy_nose / domínio público",
+  "credito_link": "https://www.flickr.com/photos/23408922@N07/14206641923"
+ },
+ "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-enviara-doses-adicionais-de-vacinas-contra-a-covid-19-aos-estados": {
+  "publicar": true,
+  "titulo": "Ministério da Saúde libera doses extras de vacina contra a Covid-19 para os estados",
+  "linha_fina": "São Paulo recebe mais de 500 mil doses adicionais; entregas ocorrerão de forma gradual conforme a capacidade de cada estado",
+  "paragrafos": [
+   "A pasta liberou um reforço de imunizantes contra a Covid-19 para as secretarias estaduais de Saúde, além da distribuição regular. Segundo o órgão, a iniciativa partiu do próprio ministério, que consultou todos os estados antes de oferecer os novos lotes, com o objetivo de reabastecer estoques locais e manter a vacinação dos grupos prioritários.",
+   "Pelo cronograma divulgado, São Paulo deve receber mais de 500 mil doses. O Rio de Janeiro terá 350 mil, sendo 150 mil delas destinadas diretamente à capital fluminense, e Minas Gerais, 290 mil. Rio Grande do Sul receberá 140 mil, Paraná cerca de 50 mil, Alagoas 20 mil, Piauí 20,4 mil, Mato Grosso do Sul 18 mil, Espírito Santo cerca de 17 mil e Tocantins 5 mil.",
+   "As remessas serão enviadas aos poucos, respeitando a capacidade de recebimento de cada unidade da federação. O reforço se soma à distribuição mensal, feita de acordo com os pedidos dos estados e as necessidades de cada região.",
+   "O Ministério afirma que segue, junto à Anvisa, as orientações da Organização Mundial da Saúde sobre imunização. No SUS, a vacina disponível é a Comirnaty, da Pfizer. Em 2026, já foram distribuídas mais de 22,9 milhões de doses no país e aplicadas mais de 7,6 milhões. Os casos de SRAG por Covid-19 caíram 62% e as mortes, 70%, na comparação com o mesmo período de 2025."
+  ],
+  "tags": [
+   "vacina Covid-19",
+   "Ministério da Saúde",
+   "SUS",
+   "doses extras"
+  ],
+  "pessoa": "",
+  "busca_imagem": "vaccine vial syringe",
+  "criado": "2026-11-17T07:10:42.477875+00:00",
+  "slug": "ministerio-da-saude-libera-doses-extras-de-vacina-contra-a-covid-19-pa-dfd195",
+  "fonte": "GOV.BR",
+  "link": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-enviara-doses-adicionais-de-vacinas-contra-a-covid-19-aos-estados",
+  "categoria": "em-alta",
+  "data": "2026-11-17T04:50:00+00:00",
+  "titulo_original": "Ministério da Saúde enviará doses adicionais de vacinas contra a Covid-19 aos estados",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/65535/51465910783_0ee525e864_b.jpg",
+  "credito": "Foto: f097653195031 / CC BY-SA 2.0",
+  "credito_link": "https://www.flickr.com/photos/193867666@N05/51465910783"
+ },
+ "https://www.espn.com.br/nba/artigo/_/id/17525062/nba-gui-santos-chega-milesimo-ponto": {
+  "recusado": true,
+  "criado": "2026-11-17T07:10:42.477875+00:00"
  }
 }
