@@ -4992,9 +4992,9 @@
   "data": "2026-11-17T05:50:00+00:00",
   "titulo_original": "Contador confessa uso de IA para fraudar e tirar maior nota em exame nacional na Coreia do Sul",
   "post": null,
-  "imagem": "https://live.staticflickr.com/2920/14206641923_2547ec7de2_b.jpg",
-  "credito": "Foto: comedy_nose / domínio público",
-  "credito_link": "https://www.flickr.com/photos/23408922@N07/14206641923"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-enviara-doses-adicionais-de-vacinas-contra-a-covid-19-aos-estados": {
   "publicar": true,
@@ -5029,5 +5029,78 @@
  "https://www.espn.com.br/nba/artigo/_/id/17525062/nba-gui-santos-chega-milesimo-ponto": {
   "recusado": true,
   "criado": "2026-11-17T07:10:42.477875+00:00"
+ },
+ "https://www1.folha.uol.com.br/mercado/2026/11/inss-tera-novas-regras-na-aposentadoria-a-partir-de-1o-de-janeiro-de-2027-veja-o-que-muda.shtml": {
+  "recusado": true,
+  "criado": "2026-11-17T08:38:17.603974+00:00"
+ },
+ "https://portalmakingof.com.br/a-queda-expoe-a-incompetencia/": {
+  "recusado": true,
+  "criado": "2026-11-17T08:38:17.603974+00:00"
+ },
+ "https://www.cnnbrasil.com.br/economia/money/macroeconomia/13o-salario-deve-injetar-r-399-bilhoes-na-economia-em-2026-estima-dieese/": {
+  "publicar": true,
+  "titulo": "13º salário deve movimentar R$ 399 bilhões na economia em 2026, estima Dieese",
+  "linha_fina": "Estimativa equivale a 2,9% do PIB e deve beneficiar cerca de 99,7 milhões de brasileiros, com média de R$ 3.720 por pessoa",
+  "paragrafos": [
+   "Os pagamentos do 13º salário devem somar cerca de R$ 399,1 bilhões e girar a economia do país em 2026, valor que corresponde a 2,9% do Produto Interno Bruto. A projeção é do Dieese, divulgada nesta sexta-feira (13).",
+   "Quase 100 milhões de brasileiros devem ser contemplados, cerca de 99,7 milhões, com um acréscimo médio de R$ 3.720 cada. Entre eles, 62,5 milhões são trabalhadores do mercado formal, incluindo domésticos com carteira assinada, enquanto 37,2 milhões são aposentados e pensionistas da Previdência e de regimes próprios da União, dos estados e dos municípios.",
+   "Pelas contas do instituto, os empregados formais devem ficar com aproximadamente R$ 287,4 bilhões, cerca de 72% do total, e os aposentados e pensionistas com R$ 111,6 bilhões, o restante. Só os beneficiários do INSS somam 36 milhões de pessoas, que devem receber R$ 70,8 bilhões.",
+   "Por região, o Sudeste concentra 47,8% do montante, seguido por Nordeste (16,8%), Sul (16,5%), Centro-Oeste (10,2%) e Norte (5,5%). São Paulo sozinho deve movimentar R$ 112,7 bilhões, com cerca de 25 milhões de pessoas e média de R$ 4.232. O Distrito Federal lidera a média por pessoa, com R$ 7.069, enquanto Maranhão e Piauí ficam na outra ponta, com valores de R$ 2.883 e R$ 2.901.",
+   "No recorte por setor, os serviços, incluindo a administração pública, devem concentrar 66,8% dos recursos dos trabalhadores da ativa, cerca de R$ 190,4 bilhões. A indústria vem em seguida com 15,6%, depois o comércio com 11,8%, a construção civil com 3,7% e a agropecuária com 2,1%. A média geral para os formais é de R$ 4.654."
+  ],
+  "tags": [
+   "13º salário",
+   "Dieese",
+   "economia brasileira",
+   "benefício INSS"
+  ],
+  "pessoa": "",
+  "busca_imagem": "brazilian money cash",
+  "criado": "2026-11-17T08:38:17.603974+00:00",
+  "slug": "13o-salario-deve-movimentar-r-399-bilhoes-na-economia-em-2026-estima-d-b2e733",
+  "fonte": "CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/13o-salario-deve-injetar-r-399-bilhoes-na-economia-em-2026-estima-dieese/",
+  "categoria": "em-alta",
+  "data": "2026-11-17T08:10:00+00:00",
+  "titulo_original": "13º salário deve injetar R$ 399 bilhões na economia em 2026, estima Dieese",
+  "post": {
+   "tipo": "youtube",
+   "id": "1dRY3glxD0w",
+   "url": "https://www.youtube.com/watch?v=1dRY3glxD0w"
+  },
+  "imagem": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg2NTU3MzYtaW1hZ2Uta3d5cDFlbjguanBn.jpg",
+  "credito": "Foto: autor desconhecido / domínio público",
+  "credito_link": ""
+ },
+ "https://www.bahianoticias.com.br/holofote/noticia/86244-carla-perez-celebra-49-anos-e-ganha-homenagem-de-xanddy-dia-que-deus-te-enviou-para-nos-encher-de-amor": {
+  "publicar": true,
+  "titulo": "Carla Perez completa 49 anos e ganha declaração de Xanddy Harmonia",
+  "linha_fina": "Cantor publicou mensagem afetuosa no Instagram para a esposa, com quem está casado desde 2001 e tem dois filhos",
+  "paragrafos": [
+   "Carla Perez completou 49 anos nesta segunda-feira (16). Para marcar a data, o cantor Xanddy Harmonia, seu marido, publicou uma homenagem no Instagram, acompanhada de um vídeo em que a esposa aparece rodopiando.",
+   "Na mensagem, Xanddy destacou a força, a beleza e o brilho da companheira, desejou saúde, paz e bênçãos e disse que o casal vai comemorar a vida dela. Ele também falou que a esposa ilumina todos com seu sorriso.",
+   "Carla e Xanddy são considerados um dos casais mais conhecidos do meio artístico baiano. Segundo o cantor, o relacionamento começou com um sentimento à primeira vista, em 1999, e os dois estão juntos desde 2000. A união foi oficializada em outubro de 2001, o que ganhou grande repercussão nacional.",
+   "O casal tem dois filhos: Camilly Victória, que segue a carreira de cantora como o pai, e Victor Alexandre, que atua como fisiculturista."
+  ],
+  "tags": [
+   "Carla Perez",
+   "Xanddy Harmonia",
+   "aniversário",
+   "celebridades baianas"
+  ],
+  "pessoa": "Carla Perez",
+  "busca_imagem": "birthday celebration party",
+  "criado": "2026-11-17T08:38:17.603974+00:00",
+  "slug": "carla-perez-completa-49-anos-e-ganha-declaracao-de-xanddy-harmonia-634739",
+  "fonte": "Bahia Notícias",
+  "link": "https://www.bahianoticias.com.br/holofote/noticia/86244-carla-perez-celebra-49-anos-e-ganha-homenagem-de-xanddy-dia-que-deus-te-enviou-para-nos-encher-de-amor",
+  "categoria": "em-alta",
+  "data": "2026-11-17T07:50:00+00:00",
+  "titulo_original": "Carla Perez completa 49 anos e recebe declaração apaixonada de Xanddy Harmonia",
+  "post": null,
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/73/Carla_perez1.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Marceloju1 / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": ""
  }
 }
