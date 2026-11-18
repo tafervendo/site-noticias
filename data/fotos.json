@@ -42280,5 +42280,296 @@
  "c:274478604f60f0142df4": false,
  "c:3274b96ca2d8487c6702": true,
  "c:1b23deba5099aaafb5fa": false,
- "c:e27a9d8d15af738cd0d9": false
+ "c:e27a9d8d15af738cd0d9": false,
+ "v:Jeff Bezos": {
+  "descricao": "empresário e astronauta comercial americano",
+  "nasc": 1964,
+  "morte": null
+ },
+ "p:Jeff Bezos": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/03/Jeff_Bezos_visits_LAAFB_SMC_%283908618%29_%28cropped%29.jpeg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: U.S. Space Force image by Van Ha / Public domain, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Jeff_Bezos_visits_LAAFB_SMC_(3908618)_(cropped).jpeg"
+ },
+ "v:Rita Cadillac": {
+  "descricao": "atriz, cantora e dançarina brasileira",
+  "nasc": 1954,
+  "morte": null
+ },
+ "p:Rita Cadillac": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Rita_Cadillac.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Alan Junior de Queiroz / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Rita_Cadillac.jpg"
+ },
+ "b:dog hospital veterinary clinic": null,
+ "b:gold ring jewelry lost": [
+  {
+   "imagem": "https://live.staticflickr.com/6234/6331935319_2627a8ac26_b.jpg",
+   "credito": "Foto: slgckgc / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/14771153@N04/6331935319"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2862/10842279816_4c8c29c41a_b.jpg",
+   "credito": "Foto: pavlinajane / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/60291025@N05/10842279816"
+  }
+ ],
+ "b:elderly people balance exercise": null,
+ "b:apocalypse dark sky storm": [
+  {
+   "imagem": "https://live.staticflickr.com/3207/2966030175_9807f54cbb_b.jpg",
+   "credito": "Foto: nosha / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/77316550@N00/2966030175"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2614/3912410773_a12deaedda_b.jpg",
+   "credito": "Foto: septembermess / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/57716646@N00/3912410773"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3643/3684462024_d271759179_b.jpg",
+   "credito": "Foto: nosha / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/77316550@N00/3684462024"
+  }
+ ],
+ "b:tv series episode watching": null,
+ "b:hand cream moisturizer jar": null,
+ "v:Cássia Eller": {
+  "descricao": "cantora e compositora brasileira (1962–2001)",
+  "nasc": 1962,
+  "morte": 2001
+ },
+ "v:Tim Maia": {
+  "descricao": "cantor e compositor brasileiro (1942–1998)",
+  "nasc": 1942,
+  "morte": 1998
+ },
+ "b:dog sitting roadside": null,
+ "b:fresh basil leaves refrigerator": null,
+ "b:spoon peeling ginger root": null,
+ "b:luxury farm aerial view": null,
+ "b:gardener replacing plants backyard": null,
+ "b:soccer player transfer contract signing": null,
+ "b:legal document signing desk": [
+  {
+   "imagem": "https://live.staticflickr.com/3543/3446221502_d2c97b30a8_b.jpg",
+   "credito": "Foto: Tim Pierce / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/48439369@N00/3446221502"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/1728/28861151058_f26227ac42_b.jpg",
+   "credito": "Foto: Homedust / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/159630537@N08/28861151058"
+  }
+ ],
+ "b:south korea kimchi refrigerator kitchen": null,
+ "b:undersea tunnel roundabout aerial": null,
+ "c:0e087a4b7ce011949f81": true,
+ "c:f187b09b07a01ce8376b": false,
+ "c:ccf89183e592ca64a35b": true,
+ "c:42ca5dce136fc8e447cf": true,
+ "c:e2392595b07e4d656836": false,
+ "c:d21b12c56a5a6638f766": false,
+ "c:96585d1196c9ce884786": false,
+ "c:ec90243708a07dcbb1ad": false,
+ "c:250a1a3dbcb9858e5c1d": true,
+ "c:6348fc68542d406a1b49": true,
+ "c:8b9453657d60fd6d0d6c": true,
+ "c:e1dc8c3383d532ccb385": false,
+ "c:aa2a337a64eaef051d89": false,
+ "c:7559dde0c8792cfb52d5": false,
+ "c:812f23a1820007438789": false,
+ "c:b219ab561701fcf0eb5e": true,
+ "b:man doing superman exercise": null,
+ "v:Eduardo Bolsonaro": {
+  "descricao": "ativista e político brasileiro",
+  "nasc": 1984,
+  "morte": null
+ },
+ "p:Eduardo Bolsonaro": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Eduardo_Bolsonaro_by_Gage_Skidmore.jpg/1280px-Eduardo_Bolsonaro_by_Gage_Skidmore.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Gage Skidmore / CC BY-SA 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Eduardo_Bolsonaro_by_Gage_Skidmore.jpg"
+ },
+ "b:ancient greek vase artifact": [
+  {
+   "imagem": "https://live.staticflickr.com/8650/28436451686_7c71dcbcab_b.jpg",
+   "credito": "Foto: Gary Lee Todd, Ph.D. / domínio público",
+   "credito_link": "https://www.flickr.com/photos/101561334@N08/28436451686"
+  },
+  {
+   "imagem": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL2xyL2dldHR5MTAzeWMyLWltYWdlLmpwZw.jpg",
+   "credito": "Foto: thegetty / domínio público",
+   "credito_link": "https://www.rawpixel.com/image/14271275/lamp"
+  }
+ ],
+ "b:police arrest handcuffs street": [
+  {
+   "imagem": "https://live.staticflickr.com/156/400429059_b30158bb51_b.jpg",
+   "credito": "Foto: Rob! / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/16982824@N00/400429059"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/186/400427768_cd2f07f446_b.jpg",
+   "credito": "Foto: Rob! / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/16982824@N00/400427768"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/199/458364566_497fc3325e_b.jpg",
+   "credito": "Foto: Rob! / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/16982824@N00/458364566"
+  }
+ ],
+ "b:soccer match stadium field": [
+  {
+   "imagem": "https://live.staticflickr.com/4072/4719153848_38ba2f0106_b.jpg",
+   "credito": "Foto: Celso Flores / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/17509603@N00/4719153848"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4007/4489630578_73c0948a76_b.jpg",
+   "credito": "Foto: Sean MacEntee / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/18090920@N07/4489630578"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3292/3046563471_e41b272316_b.jpg",
+   "credito": "Foto: Julian Carvajal / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/31381897@N03/3046563471"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5165/5293656547_8bf142aa2b_b.jpg",
+   "credito": "Foto: Paolo Camera / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/81265351@N00/5293656547"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4031/4567285528_a2abae6485_b.jpg",
+   "credito": "Foto: KG Sand Soccer / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/39255507@N03/4567285528"
+  }
+ ],
+ "v:Josh Homme": {
+  "descricao": "um músico norte-americano",
+  "nasc": 1973,
+  "morte": null
+ },
+ "v:Arctic Monkeys": {
+  "descricao": "Banda britânica",
+  "nasc": null,
+  "morte": null
+ },
+ "b:rock concert guitar stage": [
+  {
+   "imagem": "https://live.staticflickr.com/3838/14680128637_8a6a9777e9_b.jpg",
+   "credito": "Foto: blondinrikard / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/44093058@N06/14680128637"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3254/2722387472_a33e60021b_b.jpg",
+   "credito": "Foto: Jamiecat * / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/27330325@N08/2722387472"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5119/7051241177_9f9cab2f39_b.jpg",
+   "credito": "Foto: Incase. / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/62021300@N00/7051241177"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3474/3218954877_1acb91eeb7_b.jpg",
+   "credito": "Foto: nzgabriel / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/61181002@N00/3218954877"
+  }
+ ],
+ "b:television sitcom living room screen": null,
+ "b:snake plant pot soil": [
+  {
+   "imagem": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL2ZsMjkyMTkzMTcyOTMtaW1hZ2UuanBn.jpg",
+   "credito": "Foto: usembassynewzealand / domínio público",
+   "credito_link": "https://www.rawpixel.com/image/8753928/photo-image-flower-plant-public-domain"
+  }
+ ],
+ "v:John Mayer": {
+  "descricao": "cantor, guitarrista, compositor e produtor norte-americano.",
+  "nasc": 1977,
+  "morte": null
+ },
+ "p:John Mayer": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/41/John_Mayer_in_2010.JPG?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Christina / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:John_Mayer_in_2010.JPG"
+ },
+ "v:Billy Gibbons": {
+  "descricao": "Músico Americano",
+  "nasc": 1949,
+  "morte": null
+ },
+ "b:sleep headband brain": null,
+ "v:Praia Grande": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "b:lottery ticket money": [
+  {
+   "imagem": "https://live.staticflickr.com/4106/4958941825_54655e164f_b.jpg",
+   "credito": "Foto: DaGoaty / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/58169987@N00/4958941825"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4151/4974549044_6b65e8e990_b.jpg",
+   "credito": "Foto: danxoneil / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/36521980095@N01/4974549044"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4147/4974549220_cfd3268bfd_b.jpg",
+   "credito": "Foto: danxoneil / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/36521980095@N01/4974549220"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4240/35235522506_0fa77de40a_b.jpg",
+   "credito": "Foto: Queensland State Archives / domínio público",
+   "credito_link": "https://www.flickr.com/photos/60455048@N02/35235522506"
+  }
+ ],
+ "v:John Travolta": {
+  "descricao": "ator norte-americano",
+  "nasc": 1954,
+  "morte": null
+ },
+ "p:John Travolta": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/John_Travolta_%26_Samuel_L._Jackson%28John_Travolta%29.jpg/1280px-John_Travolta_%26_Samuel_L._Jackson%28John_Travolta%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: RON RAFFETY / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:John_Travolta_%26_Samuel_L._Jackson(John_Travolta).jpg"
+ },
+ "b:child finding fossil dinosaur": null,
+ "c:a3f22ab99d7ec22a8552": false,
+ "c:63d88b5e93a102e59d6e": true,
+ "c:4fb483cbc154fa587612": false,
+ "c:222801df63f224512a58": false,
+ "c:183d2600113061e250d7": true,
+ "c:dfd36b640bed0a5013fb": false,
+ "c:1dc52d4ffe7c9e02b3fa": false,
+ "c:a44ca4b015d1e71290a6": false,
+ "c:4b034ed1aaab38a78a70": false,
+ "c:5be85042ec57c1353cde": false,
+ "c:a635300c1c99894a649b": false,
+ "c:a4ac90e9b341a58f0246": true,
+ "c:d2a5c39c07dd52a870d4": false,
+ "c:e5f7ce51b1719cbf076a": false,
+ "b:lottery ticket numbers": [
+  {
+   "imagem": "https://live.staticflickr.com/4151/4974549044_6b65e8e990_b.jpg",
+   "credito": "Foto: danxoneil / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/36521980095@N01/4974549044"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4147/4974549220_cfd3268bfd_b.jpg",
+   "credito": "Foto: danxoneil / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/36521980095@N01/4974549220"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/119/287956700_ec80f289c9_b.jpg",
+   "credito": "Foto: wetwebwork / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/82832950@N00/287956700"
+  }
+ ]
 }
