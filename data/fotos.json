@@ -48272,5 +48272,423 @@
  "c:383ab11671b5130d31d3": false,
  "c:79b8b889a199cb5cc8e1": false,
  "c:1bca01518a62ddce1cca": true,
- "c:a4a28f26adce2c1b545b": false
+ "c:a4a28f26adce2c1b545b": false,
+ "v:Prêmio Potências": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "b:country farm cowboy hat": null,
+ "b:moon base construction astronaut": null,
+ "b:brain sleep elderly": null,
+ "b:lonely elderly person window": null,
+ "b:child tablet screen time": null,
+ "b:reggae music vinyl record": [
+  {
+   "imagem": "https://live.staticflickr.com/198/505315811_bffe677d65_b.jpg",
+   "credito": "Foto: kumar303 / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/86812298@N00/505315811"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6193/6065679284_72b732a834_b.jpg",
+   "credito": "Foto: Abaraphobia / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/52585175@N07/6065679284"
+  }
+ ],
+ "b:superhero movie poster group": null,
+ "b:dog eating grass": [
+  {
+   "imagem": "https://live.staticflickr.com/4141/4758286607_209c086cf9_b.jpg",
+   "credito": "Foto: daveynin / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/44124370018@N01/4758286607"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/1756/41671545515_a50fbb7cf6_b.jpg",
+   "credito": "Foto: Eric Kilby / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/8749778@N06/41671545515"
+  },
+  {
+   "imagem": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3B1MjM1NDc4MC1pbWFnZS1rd3Z3azQ3Ni5qcGc.jpg",
+   "credito": "Foto: autor desconhecido / domínio público",
+   "credito_link": "https://www.rawpixel.com/image/5915453/photo-image-background-public-domain-nature"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5307/5586042998_9ea2d6b296_b.jpg",
+   "credito": "Foto: Bill Allen1 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/38786587@N05/5586042998"
+  }
+ ],
+ "b:canyon green river cliffs": [
+  {
+   "imagem": "https://live.staticflickr.com/6193/6081027803_53acaa8ba2_b.jpg",
+   "credito": "Foto: Grand Canyon NPS / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/50693818@N08/6081027803"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/49910165023_642b312e28_b.jpg",
+   "credito": "Foto: Bonnie Moreland (free images) / domínio público",
+   "credito_link": "https://www.flickr.com/photos/66741228@N05/49910165023"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3066/2866145882_15e36cee08_b.jpg",
+   "credito": "Foto: trialsanderrors / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/76204898@N00/2866145882"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3773/13351575205_60cb255ea1_b.jpg",
+   "credito": "Foto: Me in ME / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/12357841@N02/13351575205"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7289/27959529902_9ee7e6ac56_b.jpg",
+   "credito": "Foto: mypubliclands / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/91981596@N06/27959529902"
+  }
+ ],
+ "v:Diogo Vilela": {
+  "descricao": "ator brasileiro",
+  "nasc": 1957,
+  "morte": null
+ },
+ "p:Diogo Vilela": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Diogo_Vilela.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Braswiki / CC BY-SA 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Diogo_Vilela.jpg"
+ },
+ "b:netflix series streaming screen": [
+  {
+   "imagem": "https://live.staticflickr.com/855/42921011804_57bb03211b_b.jpg",
+   "credito": "Foto: freestocks.org / domínio público",
+   "credito_link": "https://www.flickr.com/photos/135396164@N05/42921011804"
+  }
+ ],
+ "b:country music concert stage": [
+  {
+   "imagem": "https://live.staticflickr.com/3254/2722387472_a33e60021b_b.jpg",
+   "credito": "Foto: Jamiecat * / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/27330325@N08/2722387472"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3069/2722442570_3389db28ca_b.jpg",
+   "credito": "Foto: Jamiecat * / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/27330325@N08/2722442570"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3201/2721617713_60a7e86c09_b.jpg",
+   "credito": "Foto: Jamiecat * / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/27330325@N08/2721617713"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3243/2721371117_c9838f55a3_b.jpg",
+   "credito": "Foto: Jamiecat * / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/27330325@N08/2721371117"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3185/2721369905_53e22846e8_b.jpg",
+   "credito": "Foto: Jamiecat * / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/27330325@N08/2721369905"
+  }
+ ],
+ "b:soccer players football field": [
+  {
+   "imagem": "https://live.staticflickr.com/4031/4567285528_a2abae6485_b.jpg",
+   "credito": "Foto: KG Sand Soccer / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/39255507@N03/4567285528"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6171/6206003038_e5bfea1b33_b.jpg",
+   "credito": "Foto: USAG-Humphreys / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/31687107@N07/6206003038"
+  }
+ ],
+ "b:carnival street party crowd": [
+  {
+   "imagem": "https://live.staticflickr.com/5582/14921699396_275898a00b_b.jpg",
+   "credito": "Foto: Dimitry B / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/61533954@N00/14921699396"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3218/2816376755_afe82daa8f_b.jpg",
+   "credito": "Foto: Paul Miller / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/24928513@N00/2816376755"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/41/87489111_b6fc724062_b.jpg",
+   "credito": "Foto: charley1965 / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/34192854@N00/87489111"
+  }
+ ],
+ "b:television news studio camera": [
+  {
+   "imagem": "https://live.staticflickr.com/2092/2045073038_3dfd78ce00_b.jpg",
+   "credito": "Foto: caribb / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/87857621@N00/2045073038"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5012/5489670651_c7e92b3c14_b.jpg",
+   "credito": "Foto: Jeff Attaway / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/33398364@N08/5489670651"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3633/3423040189_7a47d1c566_b.jpg",
+   "credito": "Foto: Kupih / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/79768886@N00/3423040189"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3822/11077251365_3fc4e24442_b.jpg",
+   "credito": "Foto: Au Kirk / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/64441474@N06/11077251365"
+  }
+ ],
+ "v:Luiz Bacci": {
+  "descricao": "jornalista e apresentador brasileiro",
+  "nasc": 1984,
+  "morte": null
+ },
+ "p:Luiz Bacci": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Luiz_Bacci.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Igor Leandro / CC BY-SA 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Luiz_Bacci.jpg"
+ },
+ "c:e76247f86a6c06f55cb7": true,
+ "c:325ea08f45e06d3b6d02": false,
+ "c:272830294385a5359423": false,
+ "c:62068811a0072e552f5d": false,
+ "c:81c2cb84d564d7c5c91b": false,
+ "c:cc181b4287c0f16899ed": true,
+ "c:5e071c74ef331844f060": false,
+ "c:a2d74b098a71270f1044": false,
+ "c:00cf1f033b980fe5b2fc": false,
+ "c:4b0c544bd0f376c384ed": false,
+ "c:3c4cc48aba288b9b991a": true,
+ "c:feca52247e00c8517926": false,
+ "c:960419768c9d9eb19278": false,
+ "c:ea1c995460a93f74a0ef": false,
+ "c:300ba51ff8d98cc95ab9": true,
+ "c:c8634d0bb0889b827355": false,
+ "c:1149bbfb3a03c6b32450": true,
+ "c:f1b9c6a344769e812220": false,
+ "c:5c9e90e82352d6a21033": true,
+ "c:84cf04da4d5807f162b5": true,
+ "c:2ab544562b76ffa57479": false,
+ "c:a9d21e085ae6d9cff2a6": false,
+ "c:604ffc413a74cee70012": false,
+ "c:a0e493bb8706bab6a7e3": false,
+ "c:e835c16820ae88d81352": false,
+ "c:c8cd6a965c0d904e7e0d": false,
+ "c:0397b0c78c0481f0e6f4": false,
+ "c:ebd18cbbbe2696778f7b": false,
+ "c:0880d01fb490ad4b4581": false,
+ "c:feb0adb57e62c068794e": false,
+ "c:8d21b025bef2cc92940b": false,
+ "c:277c0b5cdc727b0a358f": false,
+ "c:f2d18caf6f883ef8c59a": false,
+ "c:979665d44aac22bbd87a": false,
+ "c:449f48fe3e61af9e561b": false,
+ "b:soccer stadium fans championship": [
+  {
+   "imagem": "https://live.staticflickr.com/5165/5293656547_8bf142aa2b_b.jpg",
+   "credito": "Foto: Paolo Camera / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/81265351@N00/5293656547"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4007/4489630578_73c0948a76_b.jpg",
+   "credito": "Foto: Sean MacEntee / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/18090920@N07/4489630578"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2076/2487740918_0a39e271e2_b.jpg",
+   "credito": "Foto: Lawrie Cate / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/24298372@N04/2487740918"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4089/5219349188_0b6a10db9a_b.jpg",
+   "credito": "Foto: martha_chapa95 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/56192190@N05/5219349188"
+  }
+ ],
+ "v:Mauro Cezar Pereira": {
+  "descricao": "jornalista brasileiro",
+  "nasc": 1963,
+  "morte": null
+ },
+ "p:Mauro Cezar Pereira": null,
+ "b:soccer ball on grass": [
+  {
+   "imagem": "https://live.staticflickr.com/1349/841569706_762fbfed4b_b.jpg",
+   "credito": "Foto: whiteafrican / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/18288598@N00/841569706"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7376/16438823702_a54a499c83_b.jpg",
+   "credito": "Foto: DyosEL / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/131042142@N05/16438823702"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3127/2592014018_d8b0c630e6_b.jpg",
+   "credito": "Foto: TheBusyBrain / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/26176646@N04/2592014018"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/1010/1217925851_a8716a0a06_b.jpg",
+   "credito": "Foto: shawnzrossi / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/19517696@N00/1217925851"
+  }
+ ],
+ "b:anime drawings sketchbook pencils": null,
+ "b:hummingbird feeding red flower": [
+  {
+   "imagem": "https://live.staticflickr.com/4154/4991823358_d14580947b_b.jpg",
+   "credito": "Foto: photofarmer / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/62528187@N00/4991823358"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8804/17470177059_889bab8912_b.jpg",
+   "credito": "Foto: Upupa4me / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/40650891@N02/17470177059"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7276/7426020288_740ca371fe_b.jpg",
+   "credito": "Foto: cuatrok77 / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/69573851@N06/7426020288"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7247/7426018702_b38d711e0a_b.jpg",
+   "credito": "Foto: cuatrok77 / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/69573851@N06/7426018702"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5323/7426023748_014ca6a75e_b.jpg",
+   "credito": "Foto: cuatrok77 / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/69573851@N06/7426023748"
+  }
+ ],
+ "b:country house fireplace living room": [
+  {
+   "imagem": "https://live.staticflickr.com/6192/6056602293_3375b03417_b.jpg",
+   "credito": "Foto: ell brown / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/39415781@N06/6056602293"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6186/6056609061_9f96717f33_b.jpg",
+   "credito": "Foto: ell brown / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/39415781@N06/6056609061"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6190/6065540454_7be71d4c0a_b.jpg",
+   "credito": "Foto: ell brown / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/39415781@N06/6065540454"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7099/7301154886_b3448b4554_b.jpg",
+   "credito": "Foto: Bryn Pinzgauer / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/12394349@N06/7301154886"
+  }
+ ],
+ "b:lightning storm rain city": [
+  {
+   "imagem": "https://live.staticflickr.com/3393/3222634316_e546570b53_b.jpg",
+   "credito": "Foto: widmatt / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/10929438@N05/3222634316"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3112/3161660942_2735d4c827_b.jpg",
+   "credito": "Foto: stevoarnold / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/13420717@N05/3161660942"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3428/3997624484_32b1e30e91_b.jpg",
+   "credito": "Foto: rooymans2000 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/30962832@N00/3997624484"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3084/2573076568_5e9933382a_b.jpg",
+   "credito": "Foto: veggiefrog / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/72139255@N00/2573076568"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3244/3046092893_7f8fec8891_b.jpg",
+   "credito": "Foto: Burning Image / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/19365670@N04/3046092893"
+  }
+ ],
+ "v:Alexandre de Moraes": {
+  "descricao": "jurista, magistrado e político brasileiro, ministro do Supremo Tribunal Federal (STF) desde 2017",
+  "nasc": 1968,
+  "morte": null
+ },
+ "p:Alexandre de Moraes": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Sess%C3%A3o_da_Primeira_Turma_do_STF_-_30062026_%28cropped_2%29.jpg/1280px-Sess%C3%A3o_da_Primeira_Turma_do_STF_-_30062026_%28cropped_2%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Supremo Tribunal Federal STF / Public domain, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Sess%C3%A3o_da_Primeira_Turma_do_STF_-_30062026_(cropped_2).jpg"
+ },
+ "v:Christina Ricci": {
+  "descricao": "Atriz americana",
+  "nasc": 1980,
+  "morte": null
+ },
+ "p:Christina Ricci": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Christina_Ricci_at_Los_Angeles_Comic_Con_2024-2.jpg/1280px-Christina_Ricci_at_Los_Angeles_Comic_Con_2024-2.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Kevin Paul / CC BY 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Christina_Ricci_at_Los_Angeles_Comic_Con_2024-2.jpg"
+ },
+ "b:football stadium referee whistle": null,
+ "v:John Malkovich": {
+  "descricao": "ator norte-americano",
+  "nasc": 1953,
+  "morte": null
+ },
+ "b:stack of gold coins": [
+  {
+   "imagem": "https://live.staticflickr.com/7/8228640_921246eaa3_b.jpg",
+   "credito": "Foto: Jeff Belmonte / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/72236935@N00/8228640"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6084/6093690339_a09493f126_b.jpg",
+   "credito": "Foto: kenteegardin / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/26373139@N08/6093690339"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5293/5474201631_87f3d62def_b.jpg",
+   "credito": "Foto: Images_of_Money / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/59937401@N07/5474201631"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5138/5475057314_1f0df376cb_b.jpg",
+   "credito": "Foto: Images_of_Money / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/59937401@N07/5475057314"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8219/8437358973_6702b28b38_b.jpg",
+   "credito": "Foto: austinevan / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/19762676@N00/8437358973"
+  }
+ ],
+ "c:dc8f689e9fdec8f9b53b": false,
+ "c:eeb70f78eb5446ad6738": false,
+ "c:9d4579c5774b217a5328": false,
+ "c:77e1598cb4d4136eed51": false,
+ "c:579caeea2730ece120e6": false,
+ "c:e347307fd978447e8637": false,
+ "c:3ea97e8cc2638a9cc941": false,
+ "c:2d9250a6dc5bf9833cad": false,
+ "c:a113a24e199b75dd12d4": false,
+ "c:47ccb97660e10d6ccbcd": false,
+ "c:4d7d15185e0e38df6438": false,
+ "c:5649d882a89d4e1daac5": true,
+ "c:675a9cbb97d3f1c13b73": false,
+ "c:e08667f8040765b82e10": false,
+ "c:1e0329bc0a844e6e35b1": false,
+ "c:8bf656306bcb5d5fec05": true,
+ "c:106fd129e70910c2891d": true,
+ "c:402eaa7dda9026d21756": false,
+ "c:34262e23e5992dd8c858": false,
+ "c:f7959d9f6a51b375d5d9": false,
+ "c:743da9e325546ee7d84f": false,
+ "c:d445f91b322847ca2e4c": false,
+ "c:23798c078ff3359d157e": false,
+ "c:ac58b731fcb8ebe3ef91": false,
+ "c:6822ad58d94dead0075e": false,
+ "c:c5a7be93f95fd7538829": false
 }
