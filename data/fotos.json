@@ -44239,5 +44239,314 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Xuxa_no_Bar_do_Gog%C3%B3_em_2024.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Xuxa_no_Bar_do_Gog%C3%B3_em_2024.png"
- }
+ },
+ "v:Frida Kahlo": {
+  "descricao": "pintora mexicana (1907–1954)",
+  "nasc": 1907,
+  "morte": 1954
+ },
+ "b:auction gavel art painting": null,
+ "v:José Condessa": {
+  "descricao": "Ator português",
+  "nasc": 1997,
+  "morte": null
+ },
+ "p:José Condessa": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Jos%C3%A9_Condessa_-_Entrevista_em_Mar%C3%A7o_de_2020_%2802%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Portal ArteBlitz - YouTube / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Condessa_-_Entrevista_em_Mar%C3%A7o_de_2020_(02).jpg"
+ },
+ "v:Ariana Grande": {
+  "descricao": "cantora, compositora e atriz norte-americana",
+  "nasc": 1993,
+  "morte": null
+ },
+ "p:Ariana Grande": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ariana_Grande_promoting_Wicked_%282024%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Barbie Simons / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Ariana_Grande_promoting_Wicked_(2024).jpg"
+ },
+ "v:Lucas Leto": {
+  "descricao": "ator brasileiro",
+  "nasc": 1999,
+  "morte": null
+ },
+ "p:Lucas Leto": null,
+ "v:Nação Zumbi": {
+  "descricao": "banda musical brasileira de rock",
+  "nasc": null,
+  "morte": null
+ },
+ "b:premature newborn incubator": [
+  {
+   "imagem": "https://live.staticflickr.com/1171/956656823_ca34e817f7_b.jpg",
+   "credito": "Foto: César Rincón / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/10702665@N03/956656823"
+  }
+ ],
+ "b:pregnancy test stick": null,
+ "b:black history month celebration": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/National_African_American_History_Month_Celebration_%2831943110854%29.jpg/1280px-National_African_American_History_Month_Celebration_%2831943110854%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: U.S. Customs and Border Protection / Public domain, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:National_African_American_History_Month_Celebration_(31943110854).jpg"
+  }
+ ],
+ "b:stuffed eggs zucchini dish": [
+  {
+   "imagem": "https://live.staticflickr.com/3640/3614305271_5f9d56e4c4_b.jpg",
+   "credito": "Foto: eekim / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/63669472@N00/3614305271"
+  }
+ ],
+ "v:Maria Bethânia": {
+  "descricao": "cantora, compositora e poetisa brasileira",
+  "nasc": 1946,
+  "morte": null
+ },
+ "p:Maria Bethânia": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/02/04.10.2025_-_Show_Maria_Bethania_em_S%C3%A3o_Paulo_%2854834138366%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Lula Oficial / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:04.10.2025_-_Show_Maria_Bethania_em_S%C3%A3o_Paulo_(54834138366)_(cropped).jpg"
+ },
+ "b:video game console store": [
+  {
+   "imagem": "https://live.staticflickr.com/4320/35859001482_58237108f6_b.jpg",
+   "credito": "Foto: davidmulder61 / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/113026679@N03/35859001482"
+  }
+ ],
+ "v:Sala São Paulo": {
+  "descricao": "casa de concerto em São Paulo, Brasil",
+  "nasc": null,
+  "morte": null
+ },
+ "b:concert hall architecture interior": [
+  {
+   "imagem": "https://live.staticflickr.com/3541/3550741931_c90c7e9879_b.jpg",
+   "credito": "Foto: seier+seier / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/94852245@N00/3550741931"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3379/3539168964_030ff65d01_b.jpg",
+   "credito": "Foto: dbking / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/65193799@N00/3539168964"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3560/3823795542_667675270f_b.jpg",
+   "credito": "Foto: CthulhuWho1 (Will Hart) / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/41340252@N08/3823795542"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4041/4405208774_85fc9daa71_b.jpg",
+   "credito": "Foto: greg westfall. / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/37129284@N02/4405208774"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5125/5214340071_8afe83c412_b.jpg",
+   "credito": "Foto: Ken Lund / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/75683070@N00/5214340071"
+  }
+ ],
+ "b:vintage boxing gloves ring": null,
+ "b:paleontology museum dinosaur fossils": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Hadrosaurine_dinosaur_fossil_specimen_-_Canadian_Museum_of_Nature_%282010%29.jpg/1280px-Hadrosaurine_dinosaur_fossil_specimen_-_Canadian_Museum_of_Nature_%282010%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Salwa Farwaneh Dameh / CC0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Hadrosaurine_dinosaur_fossil_specimen_-_Canadian_Museum_of_Nature_(2010).jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Feathered_theropod_dinosaur_model_-_Canadian_Museum_of_Nature_%282010%29.jpg/1280px-Feathered_theropod_dinosaur_model_-_Canadian_Museum_of_Nature_%282010%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Salwa Farwaneh Dameh / CC0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Feathered_theropod_dinosaur_model_-_Canadian_Museum_of_Nature_(2010).jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Fossil_Exhibits_at_Morian_Hall_of_Paleontology_at_the_Houston_Museum_of_Natural_Science.JPG/1280px-Fossil_Exhibits_at_Morian_Hall_of_Paleontology_at_the_Houston_Museum_of_Natural_Science.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Agsftw / CC BY-SA 3.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Fossil_Exhibits_at_Morian_Hall_of_Paleontology_at_the_Houston_Museum_of_Natural_Science.JPG"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Dromaeosaurus_albertensis_fossils%2C_Tellus_Science_Museum_2.jpg/1280px-Dromaeosaurus_albertensis_fossils%2C_Tellus_Science_Museum_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: JJonahJackalope / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Dromaeosaurus_albertensis_fossils,_Tellus_Science_Museum_2.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Dinosaur_Exhibit_at_Houston_Museum_of_Natural_Science_-_Dec_2013.JPG/1280px-Dinosaur_Exhibit_at_Houston_Museum_of_Natural_Science_-_Dec_2013.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Agsftw / CC BY-SA 3.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Dinosaur_Exhibit_at_Houston_Museum_of_Natural_Science_-_Dec_2013.JPG"
+  }
+ ],
+ "b:goats alpacas farm pasture": null,
+ "b:vintage vinyl records turntable": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Enjoying_classic_records_on_a_vintage_turntable_in_a_cozy_room_with_warm_wooden_accents.jpg/1280px-Enjoying_classic_records_on_a_vintage_turntable_in_a_cozy_room_with_warm_wooden_accents.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Enjoying_classic_records_on_a_vintage_turntable_in_a_cozy_room_with_warm_wooden_accents.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Turntable_On_Vintage_Chest_Standing_On_Matt_%28247221445%29.jpeg/1280px-Turntable_On_Vintage_Chest_Standing_On_Matt_%28247221445%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Gordon Chavez / CC BY 3.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Turntable_On_Vintage_Chest_Standing_On_Matt_(247221445).jpeg"
+  }
+ ],
+ "b:gym weight training legs": [
+  {
+   "imagem": "https://live.staticflickr.com/1780/42218883420_0e1aebc92a_b.jpg",
+   "credito": "Foto: Semtrio / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/163837264@N07/42218883420"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/54580056297_96bdcfb914_b.jpg",
+   "credito": "Foto: nenad53 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/202780880@N02/54580056297"
+  }
+ ],
+ "c:0e9f1f84ba984c066214": true,
+ "c:0bb8d54a5b95907ad249": true,
+ "c:aeadd49d3056bf7d9527": true,
+ "c:d30a05e9038c85acd10e": false,
+ "c:ef9000a31c170f48b390": false,
+ "c:e275d16e54646896e03c": false,
+ "c:f9fe192a397a3d8060d4": true,
+ "c:ba64eb75220d7c148a3f": false,
+ "c:ee11e5dcd3f3f0ae1100": true,
+ "c:9c6d614c6630d5393f0a": true,
+ "c:88bd9c8a8dad89b716b2": false,
+ "c:0f0abadf720744e60c17": false,
+ "c:420890f40c0599c0d39c": false,
+ "c:b215343371255e2715a8": false,
+ "c:bdfb4021ece7f8814c75": false,
+ "c:65fc7e37d2c026a5f516": false,
+ "c:13fdbbd01756083b785a": true,
+ "c:ef0b22088e0742b7bd99": true,
+ "c:fbc54157ab03ee8f5643": true,
+ "c:ce972f31dd392d26cfa6": true,
+ "c:01940da1bab58f12319d": true,
+ "b:ankle monitor electronic bracelet": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Ankle_Electronic_tagging.jpg/1280px-Ankle_Electronic_tagging.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: This Photo was taken by Adirach Toumlamoon . Feel… / CC BY 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Ankle_Electronic_tagging.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Ankle_bracelet.JPG/1280px-Ankle_bracelet.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Erinamukuta / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Ankle_bracelet.JPG"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ankle_Bracelet.JPG/1280px-Ankle_Bracelet.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Bukulu Steven / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Ankle_Bracelet.JPG"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Brooklyn_Museum_2006.66.9_Leg_Piece_Ankle_Bracelet.jpg/1280px-Brooklyn_Museum_2006.66.9_Leg_Piece_Ankle_Bracelet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Unknown author Unknown author / CC BY 3.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_2006.66.9_Leg_Piece_Ankle_Bracelet.jpg"
+  }
+ ],
+ "b:public exam application form": null,
+ "b:thermometer fever test": null,
+ "b:concealer under eye tired": null,
+ "b:soccer players training field": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Soldiers_attend_soccer_clinic_held_by_professional_players_at_Pabrad%C4%97_Training_Area_%289796141%29.jpg/1280px-Soldiers_attend_soccer_clinic_held_by_professional_players_at_Pabrad%C4%97_Training_Area_%289796141%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: U.S. Army photo by Sgt. Nicodemus Taylor / Public domain, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Soldiers_attend_soccer_clinic_held_by_professional_players_at_Pabrad%C4%97_Training_Area_(9796141).jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Soldiers_attend_soccer_clinic_held_by_professional_players_at_Pabrad%C4%97_Training_Area_%289796135%29.jpg/1280px-Soldiers_attend_soccer_clinic_held_by_professional_players_at_Pabrad%C4%97_Training_Area_%289796135%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: U.S. Army photo by Sgt. Nicodemus Taylor / Public domain, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Soldiers_attend_soccer_clinic_held_by_professional_players_at_Pabrad%C4%97_Training_Area_(9796135).jpg"
+  }
+ ],
+ "v:Astrid Fontenelle": {
+  "descricao": "jornalista e apresentadora de televisão brasileira, além de ter sido VJ da MTV Brasil",
+  "nasc": 1961,
+  "morte": null
+ },
+ "p:Astrid Fontenelle": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Astrid_Fontenelle_2018.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Brasil Paralelo / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Astrid_Fontenelle_2018.jpg"
+ },
+ "b:carnivorous plant sand dune": null,
+ "b:soccer player injury bench": null,
+ "b:empty tv studio stage": null,
+ "b:lipstick colors set makeup": null,
+ "b:crashed car forest rescue": null,
+ "b:rice pudding cooking pot": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Black_Sea_rice_pudding.jpg/1280px-Black_Sea_rice_pudding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: E4024 / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Black_Sea_rice_pudding.jpg"
+  }
+ ],
+ "b:ship sailing ocean storm": [
+  {
+   "imagem": "https://live.staticflickr.com/7568/15735650210_ba0517e094_b.jpg",
+   "credito": "Foto: Fabrice Le Coq / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/125339497@N03/15735650210"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5243/5321606864_22fc5ef638_b.jpg",
+   "credito": "Foto: jinterwas / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/32135758@N02/5321606864"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4107/4981629569_4dfeee8bb0_b.jpg",
+   "credito": "Foto: The Wolf / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/56658705@N00/4981629569"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8609/16409248737_cafdec96d4_b.jpg",
+   "credito": "Foto: D-Stanley / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/79721788@N00/16409248737"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3478/3905233900_c0a5147220_b.jpg",
+   "credito": "Foto: BotheredByBees / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/87273935@N00/3905233900"
+  }
+ ],
+ "b:breast self examination hand": null,
+ "b:tied silk scarf fashion": null,
+ "b:hidden bookcase secret door": null,
+ "c:eaf1dadadfe4ee3f303d": false,
+ "c:7b971646deda74faaadd": false,
+ "c:9b041f5cf1f0d13831b5": false,
+ "c:9d0e4c300dc83066c84b": false,
+ "c:8df17e28ec8f15bd2856": false,
+ "c:1ecee3b4583234129623": false,
+ "c:5f3c655533f2cb9b7c88": true,
+ "c:6f7ac0ef869adeb927b8": false,
+ "c:7eb1ba4847f5b3a94bf0": false,
+ "c:2310493cf16f93b3b966": false,
+ "b:video game streaming setup": null,
+ "b:covid rapid test kit": [
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/NHS_COVID-19_Rapid_Antigen_Test_Kit_2.jpg/1280px-NHS_COVID-19_Rapid_Antigen_Test_Kit_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Marc Auledas / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:NHS_COVID-19_Rapid_Antigen_Test_Kit_2.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/NHS_COVID-19_Rapid_Antigen_Test_Kit_3.jpg/1280px-NHS_COVID-19_Rapid_Antigen_Test_Kit_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Marc Auledas / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:NHS_COVID-19_Rapid_Antigen_Test_Kit_3.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/NHS_COVID-19_Rapid_Antigen_Test_Kit_1.jpg/1280px-NHS_COVID-19_Rapid_Antigen_Test_Kit_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Marc Auledas / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:NHS_COVID-19_Rapid_Antigen_Test_Kit_1.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Covid_test_kit_2022.jpg/1280px-Covid_test_kit_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Downtowngal / CC BY-SA 4.0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:Covid_test_kit_2022.jpg"
+  },
+  {
+   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/COVID-19_Genetic_Test_Kit_at_optician_shop_in_Shinjuku.jpg/1280px-COVID-19_Genetic_Test_Kit_at_optician_shop_in_Shinjuku.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credito": "Foto: Syced / CC0, via Wikimedia Commons",
+   "credito_link": "https://commons.wikimedia.org/wiki/File:COVID-19_Genetic_Test_Kit_at_optician_shop_in_Shinjuku.jpg"
+  }
+ ]
 }
