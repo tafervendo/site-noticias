@@ -6215,9 +6215,9 @@
   "data": "2026-11-18T14:00:00+00:00",
   "titulo_original": "MasterChef Profissionais: culinária japonesa de boteco e fogo cruzado na cozinha",
   "post": null,
-  "imagem": "https://live.staticflickr.com/2926/32918513303_480c3fe8c2_b.jpg",
-  "credito": "Foto: Go-tea 郭天 / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/131814204@N04/32918513303"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www.cuiaba.mt.gov.br/noticias/centro-integrado-e-montado-na-arena-pantanal-para-coordenar-atendimentos-apos-chuva-em-cuiaba": {
   "recusado": true,
@@ -6230,5 +6230,56 @@
  "https://noticiasdatv.uol.com.br/noticia/televisao/cadela-de-ana-maria-braga-destroi-salto-de-jornalista-da-globo-no-mais-voce-159627": {
   "recusado": true,
   "criado": "2026-11-18T14:51:50.595546+00:00"
+ },
+ "https://www.estadao.com.br/jornal-do-carro/marcas-e-estrategias/picape-do-toyota-corolla-sera-produzia-no-brasil/": {
+  "recusado": true,
+  "criado": "2026-11-18T15:56:59.203643+00:00"
+ },
+ "https://www1.folha.uol.com.br/opiniao/2026/11/petistas-flertam-com-cenario-dilma-2.shtml": {
+  "recusado": true,
+  "criado": "2026-11-18T15:56:59.203643+00:00"
+ },
+ "https://investidor10.com.br/noticias/nubank-xp-inter-e-jbs-podem-entrar-no-ibov-na-2-grande-mudanca-desde-1968-123950/": {
+  "publicar": true,
+  "titulo": "Ibovespa pode incluir BDRs de Nubank, XP, Inter e JBS em mudança histórica",
+  "linha_fina": "Segunda grande reformulação do índice desde 1968 terá implementação gradual, com início previsto para maio de 2027",
+  "paragrafos": [
+   "A B3 prepara uma reformulação do Ibovespa, principal índice da bolsa brasileira, para incluir recibos (BDRs) de empresas do país que têm ações listadas no exterior. Será a segunda grande mudança no índice desde a sua criação, em 1968. JBS, Nubank, XP e Banco Inter aparecem entre as candidatas.",
+   "Segundo Luiz Masagão, diretor de produtos da B3, o mercado recebeu bem a proposta, que busca levar ao índice companhias com operações relevantes no Brasil e que escolheram captar fora do país. A saída da JBS no ano passado deixou um vazio de R$ 421 milhões nas negociações diárias da bolsa. O Mercado Livre foi citado, mas não se enquadra, pois é tratado como empresa americana.",
+   "Para decidir se uma companhia pode ser considerada brasileira, a B3 analisará cinco critérios, entre eles a origem da maior parte da receita, a concentração de ativos no país e a presença relevante de executivos e funcionários aqui. A classificação não é permanente e será revisada todo ano.",
+   "A entrada será feita aos poucos para não afetar fundos que usam o índice como referência. Em maio de 2027, as novas regras começam com metade do peso previsto; em setembro do mesmo ano, os BDRs elegíveis passam a ter peso integral, dentro dos limites de participação definidos pela bolsa.",
+   "Os BDRs só podiam ser negociados por investidores qualificados até outubro de 2020, quando uma mudança regulatória liberou o acesso a pessoas físicas. A B3 afirma que a liquidez desses papéis mais que dobra a cada ano. Segundo a bolsa, os BDRs que já cumprem os requisitos mínimos de negociação terão seu peso na carteira teórica definido pela liquidez e pelo free float de cada um."
+  ],
+  "tags": [
+   "Ibovespa",
+   "BDRs",
+   "B3",
+   "bolsa brasileira"
+  ],
+  "pessoa": "",
+  "busca_imagem": "stock market chart",
+  "criado": "2026-11-18T15:56:59.203643+00:00",
+  "slug": "ibovespa-pode-incluir-bdrs-de-nubank-xp-inter-e-jbs-em-mudanca-histori-8fbbd3",
+  "fonte": "Investidor10",
+  "link": "https://investidor10.com.br/noticias/nubank-xp-inter-e-jbs-podem-entrar-no-ibov-na-2-grande-mudanca-desde-1968-123950/",
+  "categoria": "em-alta",
+  "data": "2026-11-18T15:20:00+00:00",
+  "titulo_original": "Nubank, XP, Inter e JBS podem entrar no IBOV na 2ª grande mudança desde 1968",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/5293/5537894072_c4e46bfce1_b.jpg",
+  "credito": "Foto: kenteegardin / CC BY-SA 2.0",
+  "credito_link": "https://www.flickr.com/photos/26373139@N08/5537894072"
+ },
+ "https://guiadoestudante.abril.com.br/enem/quem-pode-usar-nota-enem-conseguir-certificado-ensino-medio/": {
+  "recusado": true,
+  "criado": "2026-11-18T15:56:59.203643+00:00"
+ },
+ "https://www.uol.com.br/splash/noticias/2026/11/18/lembra-dele-gala-que-fez-sucesso-na-globo-reaparece-em-quem-ama-cuida.ghtm": {
+  "recusado": true,
+  "criado": "2026-11-18T15:56:59.203643+00:00"
+ },
+ "https://motor1.uol.com.br/news/815743/contran-nova-regra-vistoria-transferencia/": {
+  "recusado": true,
+  "criado": "2026-11-18T15:56:59.203643+00:00"
  }
 }
