@@ -5808,5 +5808,40 @@
  "https://livemarketing.com.br/hm-inaugura-loja-shopping-tijuca-ativacoes": {
   "recusado": true,
   "criado": "2026-11-18T04:57:53.802158+00:00"
+ },
+ "https://www.infomoney.com.br/business/como-o-gta-6-pode-turbinar-a-roblox-e-inspirar-uma-nova-onda-de-jogos/": {
+  "recusado": true,
+  "criado": "2026-11-18T06:02:37.831279+00:00"
+ },
+ "https://www.infomoney.com.br/politica/o-que-esta-em-jogo-na-votacao-que-pode-desidratar-o-ajuste-fiscal-de-lula/": {
+  "publicar": true,
+  "titulo": "Senado vota destaques que podem mudar ajuste fiscal de Lula",
+  "linha_fina": "Votação decide se compensações de créditos tributários e repasses da Lei Kandir ficam no texto que segue para a Câmara",
+  "paragrafos": [
+   "O Senado analisa nesta terça-feira (17) quatro pedidos de alteração no pacote de ajuste fiscal do governo Lula. O texto-base já havia sido aprovado na semana anterior, por 45 votos a 31, e os destaques podem retirar fontes de arrecadação previstas para 2027 e mudar as regras de contenção de despesas.",
+   "O ponto mais disputado é a autorização para restringir o uso de créditos tributários por empresas. O Ministério da Fazenda estima que a medida renda entre R$ 12,8 bilhões e R$ 18,3 bilhões em 2027, mas 119 entidades empresariais, como a CNI, a CNA e a Fiesp, pedem sua retirada integral. O senador Alan Rick (Republicanos-AC) apresentou emenda nesse sentido.",
+   "Também estão em discussão a redução temporária dos repasses da Lei Kandir a estados e municípios e um teto anual para compensações previdenciárias. O Comsefaz diz que a mudança na Lei Kandir tiraria R$ 12 bilhões dos governos regionais até 2030, enquanto a Confederação Nacional de Municípios calcula perda superior a R$ 20 bilhões no mesmo período.",
+   "A oposição, liderada por Rogério Marinho (PL-RN), propõe regras de despesa mais duras, com limite de crescimento real de 0,6% em vez dos 2% previstos no relatório de Eduardo Braga (MDB-AM). Se algum destaque for aprovado, o texto muda antes de seguir para a Câmara dos Deputados, onde ainda pode ser alterado.",
+   "Para ser aprovado como lei complementar, o projeto precisa de maioria absoluta: 41 senadores e 257 deputados. O resultado definirá quanto do ajuste será mantido e quais setores absorverão os efeitos a partir de 2027."
+  ],
+  "tags": [
+   "ajuste fiscal",
+   "Senado",
+   "Lula",
+   "arcabouço fiscal"
+  ],
+  "pessoa": "Luiz Inácio Lula da Silva",
+  "busca_imagem": "government building congress",
+  "criado": "2026-11-18T06:02:37.831279+00:00",
+  "slug": "senado-vota-destaques-que-podem-mudar-ajuste-fiscal-de-lula-f8a4f9",
+  "fonte": "InfoMoney",
+  "link": "https://www.infomoney.com.br/politica/o-que-esta-em-jogo-na-votacao-que-pode-desidratar-o-ajuste-fiscal-de-lula/",
+  "categoria": "em-alta",
+  "data": "2026-11-17T15:40:00+00:00",
+  "titulo_original": "O que está em jogo na votação que pode desidratar o ajuste fiscal de Lula?",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/4015/4698749110_7e47815e8d_b.jpg",
+  "credito": "Foto: ttarasiuk / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/20026607@N07/4698749110"
  }
 }
