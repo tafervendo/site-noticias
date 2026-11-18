@@ -6512,9 +6512,9 @@
   "data": "2026-11-18T21:30:00+00:00",
   "titulo_original": "Palmeiras vence Operário-PR e sai na frente por vaga na final da Copa do Brasil Sub-20",
   "post": null,
-  "imagem": "https://live.staticflickr.com/4072/4719153848_38ba2f0106_b.jpg",
-  "credito": "Foto: Celso Flores / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/17509603@N00/4719153848"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://farmnews.com.br/mercado/preco-futuro-do-boi-gordo-no-menor-patamar-de-novembro/": {
   "recusado": true,
@@ -6550,5 +6550,13 @@
   "imagem": "",
   "credito": "",
   "credito_link": ""
+ },
+ "https://www.estadao.com.br/cultura/musica/geraldo-vandre-faz-rara-aparicao-em-espetaculo-em-sua-homenagem-na-paraiba-nprec/": {
+  "recusado": true,
+  "criado": "2026-11-18T22:50:33.820570+00:00"
+ },
+ "https://www.moneytimes.com.br/atencao-clientes-do-banco-do-brasil-bb-identifica-acesso-indevido-a-dados-e-alerta-para-risco-de-novos-golpes-miql/": {
+  "recusado": true,
+  "criado": "2026-11-18T22:50:33.820570+00:00"
  }
 }
