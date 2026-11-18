@@ -6411,9 +6411,9 @@
   "data": "2026-11-18T17:40:00+00:00",
   "titulo_original": "CCJ do Senado eleva pena para motorista que mata sob álcool ou drogas",
   "post": null,
-  "imagem": "https://live.staticflickr.com/4151/5082074277_08f02d13c6_b.jpg",
-  "credito": "Foto: Schlüsselbein2007 / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/23860276@N05/5082074277"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www.radiofandango.com.br/2026/11/17/governo-federal-preve-reposicao-de-apenas-53-para-aposentados-acima-do-salario-minimo/": {
   "publicar": true,
@@ -6440,8 +6440,38 @@
   "data": "2026-11-18T17:30:00+00:00",
   "titulo_original": "Governo Federal prevê reposição de apenas 5,3% para aposentados acima do salário mínimo",
   "post": null,
-  "imagem": "https://live.staticflickr.com/8061/8215661184_440006ca8d_b.jpg",
-  "credito": "Foto: ccPixs.com / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/86530412@N02/8215661184"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-em-campinas-hoje-veja-como-fica-o-clima-nesta-quarta-feira,09ca338ff04958d4b9ee76ca1069454dt0w3u5l6.html": {
+  "publicar": true,
+  "titulo": "Previsão do tempo em Campinas nesta quarta-feira: sol cedo e chuva à tarde",
+  "linha_fina": "Máxima de 30°C é prevista para o período da tarde, com 84% de probabilidade de pancadas de chuva",
+  "paragrafos": [
+   "Campinas, no interior de São Paulo, deve ter uma quarta-feira de sol no começo do dia, com nebulosidade crescente e pancadas de chuva a partir da tarde, segundo dados do Climatempo consultados na madrugada.",
+   "As temperaturas devem variar entre a mínima de 18°C, no início do dia, e a máxima de 30°C no período da tarde. A sensação térmica deve ficar entre 19°C e 26°C, e a umidade do ar pode cair a 57% nas horas mais quentes e subir a 95% quando as nuvens se intensificarem.",
+   "A previsão indica acúmulo de chuva de cerca de 3,8 milímetros, com probabilidade de 84% de precipitação nos períodos da tarde e da noite. Os ventos devem soprar de leste-sudeste, com velocidade média de 7 km/h.",
+   "Com a chuva prevista para o fim do expediente, o trânsito pode ficar mais lento nas vias urbanas e rodovias da região. Quem vai a pé deve levar capa ou guarda-chuva."
+  ],
+  "tags": [
+   "previsão do tempo",
+   "Campinas",
+   "clima hoje",
+   "chuva"
+  ],
+  "pessoa": "",
+  "busca_imagem": "rain city clouds",
+  "criado": "2026-11-18T19:30:48.054150+00:00",
+  "slug": "previsao-do-tempo-em-campinas-nesta-quarta-feira-sol-cedo-e-chuva-a-ta-d330d8",
+  "fonte": "Terra",
+  "link": "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-em-campinas-hoje-veja-como-fica-o-clima-nesta-quarta-feira,09ca338ff04958d4b9ee76ca1069454dt0w3u5l6.html",
+  "categoria": "em-alta",
+  "data": "2026-11-18T19:10:00+00:00",
+  "titulo_original": "Previsão do tempo em Campinas hoje: veja como fica o clima nesta quarta-feira",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/5011/5451174264_6cd1d7ee17_b.jpg",
+  "credito": "Foto: Ömer Ünlü / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/55293400@N07/5451174264"
  }
 }
