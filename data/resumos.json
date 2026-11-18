@@ -6316,9 +6316,9 @@
   "data": "2026-11-18T16:30:00+00:00",
   "titulo_original": "Símbolo do Planeta Atlântida, Armandinho avisa: \"Vou encarar o festival deste ano como uma lua de mel\"",
   "post": null,
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Live_band_performing_on_stage_at_night_during_a_music_festival_in_an_outdoor_venue.jpg/1280px-Live_band_performing_on_stage_at_night_during_a_music_festival_in_an_outdoor_venue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credito": "Foto: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Live_band_performing_on_stage_at_night_during_a_music_festival_in_an_outdoor_venue.jpg"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www.tjac.jus.br/2026/11/projeto-cidadao-celebra-casamento-coletivo-com-cidadania-na-terra-indigena-nukini/": {
   "publicar": true,
@@ -6381,5 +6381,67 @@
   "imagem": "",
   "credito": "",
   "credito_link": ""
+ },
+ "https://www.dust2.com.br/noticias/80042/kscerato-jl-e-mais-jogadores-mostram-stickers-negados": {
+  "recusado": true,
+  "criado": "2026-11-18T18:19:23.591868+00:00"
+ },
+ "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/ccj-do-senado-eleva-pena-para-motorista-que-mata-sob-alcool-ou-drogas": {
+  "publicar": true,
+  "titulo": "Senado aprova projeto que endurece pena para motorista que mata sob efeito de álcool",
+  "linha_fina": "Texto prevê de seis a dez anos de reclusão e segue direto para a Câmara dos Deputados, sem votação no plenário",
+  "paragrafos": [
+   "Na quarta-feira (18), a comissão responsável por temas constitucionais e de justiça do Senado deu aval a um projeto que eleva a punição para quem causa a morte de alguém ao dirigir após consumir álcool ou outras drogas capazes de prejudicar a condução do veículo. Pelo texto, a prisão passa a variar de seis a dez anos, no lugar dos atuais cinco a oito.",
+   "O PL 4.668/2020 também amplia a pena para lesões corporais graves ou gravíssimas provocadas por motoristas sob efeito dessas substâncias, que sobe de dois a cinco anos para três a seis anos de reclusão.",
+   "A relatora, senadora Professora Dorinha Seabra (União-TO), citou dados do Mapa da Segurança Pública de 2025, que apontam alta de 8,9% nas mortes no trânsito entre 2023 e 2025, com 26,1 mil vítimas só no último ano. Ela também mencionou mais de 200 mil internações por acidentes de trânsito no país, com cerca de 80 mil feridos.",
+   "Como a votação foi terminativa na comissão, a proposta vai para a Câmara dos Deputados sem passar pelo plenário do Senado, a não ser que haja recurso contra essa decisão. A ideia original, do senador Zequinha Marinho (Podemos-PA), previa ainda a prisão preventiva nesses casos, mas a relatora considerou que essa medida não se encaixa em crimes culposos, em que não há intenção de matar."
+  ],
+  "tags": [
+   "Código de Trânsito",
+   "embriaguez ao volante",
+   "Senado"
+  ],
+  "pessoa": "",
+  "busca_imagem": "car traffic road night",
+  "criado": "2026-11-18T18:19:23.591868+00:00",
+  "slug": "senado-aprova-projeto-que-endurece-pena-para-motorista-que-mata-sob-ef-e856d1",
+  "fonte": "Agência Brasil",
+  "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/ccj-do-senado-eleva-pena-para-motorista-que-mata-sob-alcool-ou-drogas",
+  "categoria": "em-alta",
+  "data": "2026-11-18T17:40:00+00:00",
+  "titulo_original": "CCJ do Senado eleva pena para motorista que mata sob álcool ou drogas",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/4151/5082074277_08f02d13c6_b.jpg",
+  "credito": "Foto: Schlüsselbein2007 / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/23860276@N05/5082074277"
+ },
+ "https://www.radiofandango.com.br/2026/11/17/governo-federal-preve-reposicao-de-apenas-53-para-aposentados-acima-do-salario-minimo/": {
+  "publicar": true,
+  "titulo": "Governo prevê correção de 5,3% para aposentados acima do mínimo em 2027",
+  "linha_fina": "Benefícios acima do piso terão apenas a inflação, enquanto o salário mínimo estimado chega a R$ 1.741",
+  "paragrafos": [
+   "Segundo o Projeto de Lei Orçamentária Anual de 2027, a previsão do governo federal é que aposentados e pensionistas do INSS que ganham mais que o piso tenham seus benefícios corrigidos em 5,3% no próximo ano.",
+   "O percentual equivale à inflação projetada para 2026 pelo INPC, o mesmo índice que serve de base para o reajuste do salário mínimo. Para os benefícios acima do piso, a correção considera o INPC acumulado até dezembro e não inclui nenhum ganho real.",
+   "Já quem recebe exatamente um salário mínimo segue outra regra: a inflação medida pelo INPC até novembro, somada a um ganho real de 2,3%, que leva em conta o crescimento do PIB de 2025 e os limites legais de valorização.",
+   "Com essa fórmula, o mínimo estimado para 2027 é de R$ 1.741, alta de 7,4% em relação aos atuais R$ 1.621. O novo valor ainda depende de decreto presidencial e passa a valer a partir de 1º de janeiro, com pagamentos reajustados a partir de fevereiro."
+  ],
+  "tags": [
+   "aposentadoria INSS",
+   "salário mínimo 2027",
+   "reajuste previdenciário"
+  ],
+  "pessoa": "",
+  "busca_imagem": "retirement savings money",
+  "criado": "2026-11-18T18:19:23.591868+00:00",
+  "slug": "governo-preve-correcao-de-5-3-para-aposentados-acima-do-minimo-em-2027-a6706c",
+  "fonte": "Rádio Fandango",
+  "link": "https://www.radiofandango.com.br/2026/11/17/governo-federal-preve-reposicao-de-apenas-53-para-aposentados-acima-do-salario-minimo/",
+  "categoria": "em-alta",
+  "data": "2026-11-18T17:30:00+00:00",
+  "titulo_original": "Governo Federal prevê reposição de apenas 5,3% para aposentados acima do salário mínimo",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/8061/8215661184_440006ca8d_b.jpg",
+  "credito": "Foto: ccPixs.com / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/86530412@N02/8215661184"
  }
 }
