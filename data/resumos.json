@@ -6883,5 +6883,40 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Raniele_2026.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: TV Central do Timão / CC BY 4.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Raniele_2026.jpg"
+ },
+ "https://www.estadao.com.br/opiniao/o-rito-dos-oportunistas/": {
+  "publicar": true,
+  "titulo": "Motta e Alcolumbre cobram STF sobre Lei da Dosimetria após seis meses",
+  "linha_fina": "Presidentes da Câmara e do Senado pedem julgamento da lei que pode reduzir penas de condenados do 8 de Janeiro, incluindo Bolsonaro",
+  "paragrafos": [
+   "Os presidentes da Câmara, Hugo Motta, e do Senado, Davi Alcolumbre, cobraram publicamente o Supremo Tribunal Federal a análise da Lei da Dosimetria, que pode diminuir a pena do ex-presidente Jair Bolsonaro e de outros condenados pelos atos de 8 de Janeiro. O pedido foi feito anteontem, em uma nota conjunta após reunião com o ministro Alexandre de Moraes.",
+   "Segundo o artigo, a demora de seis meses para fazer a cobrança indica que o movimento tem motivação política, já que os dois buscam a recondução aos cargos. Para o veículo, o objetivo seria enfraquecer o discurso bolsonarista na disputa interna pelo comando do Congresso.",
+   "A lei foi aprovada em dezembro do ano passado, vetada integralmente pelo presidente Luiz Inácio Lula da Silva e depois parcialmente derrubada pelo Congresso. Alcolumbre promulgou o texto em 8 de maio. Logo após, a defesa de uma condenada pediu revisão da pena, e Moraes suspendeu a aplicação da norma no caso.",
+   "Para o veículo, o ministro concentrou a decisão sobre quando o plenário do STF deve analisar as ações de inconstitucionalidade, o que prolongou a espera. A nota conjunta dos presidentes diz apenas que Moraes ouviu os argumentos e dará retorno assim que possível.",
+   "O texto de opinião critica tanto o Supremo quanto o Congresso por usarem as instituições conforme sua conveniência, e afirma que a cobrança só ganhou força por interesses eleitorais."
+  ],
+  "tags": [
+   "Lei da Dosimetria",
+   "Hugo Motta",
+   "Davi Alcolumbre",
+   "STF"
+  ],
+  "pessoa": "",
+  "busca_imagem": "supreme court building",
+  "criado": "2026-11-19T08:42:16.327279+00:00",
+  "slug": "motta-e-alcolumbre-cobram-stf-sobre-lei-da-dosimetria-apos-seis-meses-5ddf74",
+  "fonte": "Estadão",
+  "link": "https://www.estadao.com.br/opiniao/o-rito-dos-oportunistas/",
+  "categoria": "em-alta",
+  "data": "2026-11-19T08:20:00+00:00",
+  "titulo_original": "O rito dos oportunistas",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg/1280px-Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Joe Ravi / CC BY-SA 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg"
+ },
+ "https://iclnoticias.com.br/metropoles-escandalo-imprensa-crise-estrutural/": {
+  "recusado": true,
+  "criado": "2026-11-19T08:42:16.327279+00:00"
  }
 }
