@@ -7035,8 +7035,47 @@
   "data": "2026-11-19T10:20:00+00:00",
   "titulo_original": "USF São Bento leva orientações e serviços de saúde ao Clube do Idoso",
   "post": null,
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Community_center_hosts_Valentine%27s_Day_workshop_120214-F-BS505-053.jpg/1280px-Community_center_hosts_Valentine%27s_Day_workshop_120214-F-BS505-053.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credito": "Foto: Senior Airman Clayton Lenhardt / Public domain, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Community_center_hosts_Valentine%27s_Day_workshop_120214-F-BS505-053.jpg"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://www.diariodebalsas.com.br/noticias/moto-de-graaca-detran-ma-faraa-sorteio-de-396-motos-80-para-balsas-29475.html": {
+  "recusado": true,
+  "criado": "2026-11-19T12:20:25.146676+00:00"
+ },
+ "https://www.estadao.com.br/em-alta/tecmundo/produto-e-review/dobradica-do-iphone-duo-tem-sinais-de-desgaste-apos-450-mil-dobras-mostra-teste/": {
+  "recusado": true,
+  "criado": "2026-11-19T12:20:25.146676+00:00"
+ },
+ "https://gauchazh.clicrbs.com.br/colunistas/humberto-trezzi/noticia/2026/11/pf-mira-conselheiro-do-tribunal-de-contas-do-estado-em-acao-contra-corrupcao-cmwndknpt00ie01cxachpkn6f.html": {
+  "publicar": true,
+  "titulo": "Edson Brum, vice-presidente do TCE-RS, é alvo de operação da PF",
+  "linha_fina": "Polícia Federal apura suspeitas de tráfico de influência em contratações de prefeituras gaúchas; defesa nega acusação formal",
+  "paragrafos": [
+   "Nesta quinta-feira (19), a Polícia Federal deflagrou a Operação Circuito Paralelo, que apura suspeitas de corrupção, tráfico de influência e associação criminosa envolvendo o vice-presidente do Tribunal de Contas gaúcho, Edson Brum. Ele é investigado, sem condenação.",
+   "Segundo a investigação, Brum teria usado o cargo e antigas ligações políticas para intermediar negócios de empresas com prefeituras do estado. A suspeita é de que cobrasse um percentual sobre contratos de 2024 para venda de telas interativas e kits pedagógicos a escolas públicas.",
+   "A ação é conduzida pela Delegacia de Repressão à Corrupção e Crimes Financeiros da PF gaúcha, com buscas em Porto Alegre, Lajeado e Guaporé, inclusive na casa do conselheiro e na sede do tribunal. Os mandados foram autorizados pelo STJ, já que Brum tem foro especial. Segundo a PF, cerca de R$ 72 mil foram encontrados na residência dele e não há decisão de afastá-lo do cargo.",
+   "Brum foi deputado estadual pelo MDB de 2006 a 2022 e presidiu a Assembleia Legislativa entre 2015 e 2016. Está no TCE desde 2022, em um tribunal em que a maioria das vagas de conselheiro é ocupada por políticos aposentados.",
+   "Em nota, o advogado Alexandre Wünderlich afirmou que o conselheiro está à disposição das autoridades, que não há acusação contra ele e que sua trajetória é marcada pela honestidade e pela defesa do interesse público."
+  ],
+  "tags": [
+   "Tribunal de Contas RS",
+   "Operação Circuito Paralelo",
+   "Polícia Federal",
+   "corrupção"
+  ],
+  "pessoa": "Edson Brum",
+  "busca_imagem": "government office building",
+  "criado": "2026-11-19T12:20:25.146676+00:00",
+  "slug": "edson-brum-vice-presidente-do-tce-rs-e-alvo-de-operacao-da-pf-83a79a",
+  "fonte": "GZH",
+  "link": "https://gauchazh.clicrbs.com.br/colunistas/humberto-trezzi/noticia/2026/11/pf-mira-conselheiro-do-tribunal-de-contas-do-estado-em-acao-contra-corrupcao-cmwndknpt00ie01cxachpkn6f.html",
+  "categoria": "em-alta",
+  "data": "2026-11-19T11:10:00+00:00",
+  "titulo_original": "PF mira conselheiro do Tribunal de Contas do Estado em ação contra corrupção",
+  "post": null,
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Deputado_Edson_Brum_durante_uma_entrevista_no_TVE_RS.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: TVE RS / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Deputado_Edson_Brum_durante_uma_entrevista_no_TVE_RS.png"
  }
 }
