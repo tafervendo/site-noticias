@@ -1612,9 +1612,17 @@ def pessoa_confirmada(nome, cache):
                 and not info.get("morte"))
 
 
+PESSOAS_ARQ = RAIZ / "data" / "pessoas.json"
+
+
 def gerar_pessoas(itens, resumos):
-    """Uma página por famoso com pelo menos 2 notícias: aparece em buscas como "Fulana notícias"."""
+    """Uma página por famoso com pelo menos 2 notícias: aparece em buscas como "Fulana notícias".
+
+    Página criada nunca some (sumir vira erro 404 no Google): o registro guarda as notícias
+    de cada famoso, e a página continua no ar mesmo quando as manchetes saem da capa.
+    """
     cache = json.loads(FOTOS.read_text(encoding="utf-8")) if FOTOS.exists() else {}
+    registro = json.loads(PESSOAS_ARQ.read_text(encoding="utf-8")) if PESSOAS_ARQ.exists() else {}
     grupos = {}
     for i in itens:
         nomes = {i.r.get("pessoa")} if i.r and i.r.get("pessoa") else set()
@@ -1623,12 +1631,33 @@ def gerar_pessoas(itens, resumos):
         for nome in nomes:
             if nome and pessoa_confirmada(nome, cache):
                 grupos.setdefault(nome, []).append(i)
+    # junta o que está na capa agora com o que já estava guardado
     for nome, lista in grupos.items():
-        lista = sorted({id(i): i for i in lista}.values(), key=lambda i: (not i.r, i.data), reverse=False)
-        lista = sorted(lista, key=lambda i: i.data, reverse=True)
-        if len(lista) < 2:
-            continue
         slug = slugify(nome)
+        reg = registro.setdefault(slug, {"nome": nome, "itens": []})
+        vistos = {x["link"] for x in reg["itens"]}
+        for i in lista:
+            if i.n["link"] not in vistos:
+                vistos.add(i.n["link"])
+                reg["itens"].append({k: i.n.get(k, "") for k in
+                                     ("titulo", "link", "fonte", "categoria", "data", "imagem", "credito")})
+        reg["itens"] = sorted(reg["itens"], key=lambda x: x["data"], reverse=True)[:60]
+    por_link = {r["link"]: r for r in resumos.values() if r.get("slug") and not removido(r)}
+    for slug, reg in registro.items():
+        if len(reg["itens"]) < 2 and slug not in PAGINAS_PESSOAS_ANTIGAS(registro):
+            continue
+        nome = reg["nome"]
+        lista = []
+        for x in reg["itens"]:
+            if removido(x):
+                continue
+            r = por_link.get(x["link"])
+            lista.append(Item(x, r))
+        extra = ""
+        if not lista:  # sem notícia recente do famoso: a página fica no ar com as últimas de celebridades
+            lista = [i for i in itens if i.cat == "celebridades"][:12]
+            extra = f'<p class="intro-cat">Sem notícias novas de {E(nome)} no momento. Veja as últimas de celebridades:</p>'
+        reg["publicada"] = True
         PAGINAS_PESSOAS[slug] = nome
         descricao = (cache.get("v:" + nome) or {}).get("descricao", "")
         foto_p = cache.get("p:" + nome) or {}
@@ -1641,10 +1670,16 @@ def gerar_pessoas(itens, resumos):
                         ensure_ascii=False).replace("</", "<\\/")
         conteudo = (f'<main><div class="pessoa-topo">{retrato}<div><div class="bloco-topo grande cat-celebridades">'
                     f'<h1>{E(nome)}</h1></div><p class="intro-cat">{E(intro)}</p></div></div>'
-                    f'{anuncio()}{grade(lista[:40], "../")}</main>')
+                    f'{extra}{anuncio()}{grade(lista[:40], "../")}</main>')
         pagina(f"pessoa/{slug}.html", f"{nome}: últimas notícias", conteudo, ativo="celebridades",
                descricao=intro, imagem=foto_p.get("imagem", ""),
                extra_head=f'<script type="application/ld+json">{ld}</script>')
+    PESSOAS_ARQ.write_text(json.dumps(registro, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
+def PAGINAS_PESSOAS_ANTIGAS(registro):
+    """Famosos cuja página já foi publicada alguma vez: continuam no ar."""
+    return {s for s, r in registro.items() if r.get("publicada")}
 
 
 def gerar_arquivo(resumos):
