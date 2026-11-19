@@ -7399,9 +7399,9 @@
   "data": "2026-11-19T21:30:00+00:00",
   "titulo_original": "Previsão do tempo em Florianópolis hoje: veja como fica o clima nesta quinta-feira",
   "post": null,
-  "imagem": "https://live.staticflickr.com/4076/4926859771_e83d097edd_b.jpg",
-  "credito": "Foto: flatworldsedge / CC BY-SA 2.0",
-  "credito_link": "https://www.flickr.com/photos/53196512@N07/4926859771"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://webvolei.com.br/cris-pede-olhar-mais-critico-para-evolucao-do-volei-renata/": {
   "recusado": true,
@@ -7438,8 +7438,46 @@
   "data": "2026-11-19T21:20:00+00:00",
   "titulo_original": "No radar do Grêmio, Raí Silva superou problema de saúde antes de brilhar no Juventude",
   "post": null,
-  "imagem": "https://live.staticflickr.com/3431/3925631300_ac226afe16_b.jpg",
-  "credito": "Foto: artwork_rebel / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/24092012@N03/3925631300"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://motorsport.uol.com.br/motogp/news/gp-de-portugal-de-motogp-horarios-e-como-assistir-a-etapa-de-portimao-com-match-point-de-marquez-e-/10875092/": {
+  "publicar": true,
+  "titulo": "Marc Márquez tem match point no GP de Portugal de MotoGP em Portimão",
+  "linha_fina": "Campeonato pode ser decidido neste fim de semana, e Diogo Moreira aparece em 15º com 78 pontos",
+  "paragrafos": [
+   "A MotoGP retorna à Europa neste fim de semana com o GP de Portugal, em Portimão, penúltima etapa da temporada 2026. Marc Márquez pode garantir já na sprint de sábado o oitavo título da classe principal e o décimo do Mundial de Motovelocidade.",
+   "Restam três pilotos na disputa. Márquez lidera com 431 pontos, seguido por Jorge Martín, com 371, e Marco Bezzecchi, com 357. Para ser campeão na sprint, Márquez precisa apenas marcar dois pontos a mais que Martín, da Aprilia, na prova curta.",
+   "Pedro Acosta vem em quarto, com 309 pontos. Na sequência, Ai Ogura aparece em quinto, somando 294, e Diogo Moreira, brasileiro, ocupa a 15ª posição com 78, sendo a melhor Honda atrás de Luca Marini, em 13º com 117.",
+   "Na Moto2, Manu González lidera com 286,5 pontos, à frente de Izan Guevara, com 273, e os dois são os únicos ainda na briga pelo título. Na Moto3, Máximo Quiles já é campeão com 392 pontos, e a disputa pelo vice, liderada por David Almansa com 253, pode ser decidida neste fim de semana."
+  ],
+  "tags": [
+   "MotoGP",
+   "Marc Márquez",
+   "GP de Portugal",
+   "Diogo Moreira"
+  ],
+  "pessoa": "Marc Márquez",
+  "busca_imagem": "motorcycle racing track",
+  "criado": "2026-11-19T22:47:17.856564+00:00",
+  "slug": "marc-marquez-tem-match-point-no-gp-de-portugal-de-motogp-em-portimao-5b9cc6",
+  "fonte": "Motorsport.com - Fórmula 1, NASCAR, MotoGP, Fórmula Indy",
+  "link": "https://motorsport.uol.com.br/motogp/news/gp-de-portugal-de-motogp-horarios-e-como-assistir-a-etapa-de-portimao-com-match-point-de-marquez-e-/10875092/",
+  "categoria": "em-alta",
+  "data": "2026-11-19T22:20:00+00:00",
+  "titulo_original": "GP de Portugal de MotoGP: Horários e como assistir à etapa de Portimão, com match point de Márquez e Moreira",
+  "post": {
+   "tipo": "youtube",
+   "id": "n52uZYYXPAg",
+   "url": "https://www.youtube.com/watch?v=n52uZYYXPAg"
+  },
+  "imagem": "https://live.staticflickr.com/3035/2576476731_5841c68fae_b.jpg",
+  "credito": "Foto: Brady O'Brien / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/7982661@N05/2576476731"
+ },
+ "https://www.estadao.com.br/internacional/apos-prisao-nos-eua-policia-filipina-pede-indiciamento-do-pai-de-meghan-markle-npr/": {
+  "recusado": true,
+  "criado": "2026-11-19T22:47:17.856564+00:00"
  }
 }
