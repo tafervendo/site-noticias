@@ -1,17 +1,55 @@
 [
  {
+  "titulo": "Neymar dança 'Alô, Virginia' em campo em meio a rumores de affair; vídeo",
+  "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/neymar-danca-alo-virginia-em-campo-em-meio-a-rumores-de-affair-assista.ghtml",
+  "trecho": "Neymar viralizou na web, na noite dessa quarta-feira (18), ao aparecer dançando a música Alô, Virginia, do grupo Turma do Pagode e feita em homenagem à empresária e influenciadora Virginia Fonseca. O momento rolou em…",
+  "fonte": "Quem",
+  "categoria": "virais",
+  "data": "2026-11-19T04:37:18.306656+00:00",
+  "busca_imagem": "football stadium pitch night",
+  "vetadas": [
+   "https://live.staticflickr.com/2433/3953902382_16f1e683b7_b.jpg",
+   "https://live.staticflickr.com/4074/4853700161_1be2e5bb4f_b.jpg"
+  ],
+  "imagem": ""
+ },
+ {
+  "titulo": "Mesmo vice no Miss Universo, Natália Guimarães fala de dificuldade de reconhecer a própria beleza",
+  "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/mesmo-vice-no-miss-universo-natalia-guimaraes-fala-de-dificuldade-de-reconhecer-a-propria-beleza.ghtml",
+  "trecho": "Natália Guimarães, de 41 anos de idade, a Miss Brasil 2007 e segunda colocada no Miss Universo daquele ano, mesmo após conquistar o segundo lugar na disputa de mulher mais bonita do mundo, revelou que enfrentava…",
+  "credito": "",
+  "fonte": "Quem",
+  "categoria": "celebridades",
+  "imagem": "",
+  "data": "2026-11-19T04:37:18.306656+00:00",
+  "busca_imagem": "beauty pageant stage crown"
+ },
+ {
+  "titulo": "Pierce Brosnan celebra escolha de Robert Pattinson como novo 007: 'Será magnífico'",
+  "link": "https://gshow.globo.com/cultura-pop/filmes/noticia/pierce-brosnan-celebra-escolha-de-robert-pattinson-como-novo-007-sera-magnifico.ghtml",
+  "trecho": "Robert Pattinson é confirmado como o novo James Bond Robert Pattinson foi confirmado como o novo 007 dos cinemas na última segunda-feira (17), e Pierce Brosnan fez questão de celebrar a escolha do ator! O irlandês, que…",
+  "credito": "Foto: Sebaso / CC BY-SA 3.0, via Wikimedia Commons",
+  "fonte": "Gshow",
+  "categoria": "televisao",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Pierce_Brosnan_Berlinale_2014_-_02_%28cropped%29.jpg/1280px-Pierce_Brosnan_Berlinale_2014_-_02_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "data": "2026-11-19T04:37:18.306656+00:00",
+  "busca_imagem": "james bond tuxedo gun",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Pierce_Brosnan_Berlinale_2014_-_02_(cropped).jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Pierce Brosnan"
+ },
+ {
   "titulo": "480 milhões de cópias, 212 GB e 816 atores: a história do 'GTA' em números",
   "link": "https://g1.globo.com/pop-arte/games/noticia/2026/11/19/480-milhoes-de-copias-212-gb-e-816-atores-a-historia-do-gta-em-numeros.ghtml",
   "trecho": "O que explica o hype do GTA VI \"Grand Theft Auto VI\", novo capítulo da franquia de jogos de ação da Rockstar, tem seu lançamento oficial na quinta-feira (19), uma nova etapa para a série, criada em 1997. Confira os…",
+  "credito": "Foto: joo0ey / CC BY 2.0",
   "fonte": "g1",
   "categoria": "ultimas",
-  "data": "2026-11-19T03:30:04.176294+00:00",
-  "busca_imagem": "video game controller console",
-  "vetadas": [
-   "https://live.staticflickr.com/4147/5006956785_b71066fe01_b.jpg",
-   "https://live.staticflickr.com/4066/4619759343_d71de4c7a8_b.jpg"
-  ],
-  "imagem": ""
+  "imagem": "https://live.staticflickr.com/4147/5006956785_b71066fe01_b.jpg",
+  "data": "2026-11-19T04:37:18.306656+00:00",
+  "busca_imagem": "video game console controller",
+  "credito_link": "https://www.flickr.com/photos/37238219@N00/5006956785",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Sepultura eterniza turnê de despedida em álbum ao vivo previsto para 2027",
@@ -21,7 +59,7 @@
   "fonte": "g1",
   "categoria": "ultimas",
   "imagem": "https://live.staticflickr.com/8288/7882443122_8b69f977c1_b.jpg",
-  "data": "2026-11-19T03:30:04.176294+00:00",
+  "data": "2026-11-19T04:37:18.306656+00:00",
   "busca_imagem": "heavy metal concert stage",
   "credito_link": "https://www.flickr.com/photos/10222491@N06/7882443122",
   "imagem_tipo": "banco"
@@ -30,15 +68,12 @@
   "titulo": "Dólar a R$ 2,20, morte de Chorão e novo Papa: como era mundo no ano de lançamento do último 'GTA'",
   "link": "https://g1.globo.com/pop-arte/noticia/2026/11/19/dolar-a-r-220-morte-de-chorao-e-novo-papa-como-era-mundo-no-ano-de-lancamento-do-ultimo-gta.ghtml",
   "trecho": "GTA VI chega amanhã: veja tudo que você precisa saber sobre o jogo Com a chegada de \"GTA 6\" ao Brasil a partir da 0h desta quinta-feira (19), a franquia da Rockstar Games encerra um hiato de 13 anos. Quando \"Grand Theft…",
+  "credito": "",
   "fonte": "g1",
   "categoria": "ultimas",
-  "data": "2026-11-19T03:30:04.176294+00:00",
-  "busca_imagem": "vintage dollar banknotes",
-  "vetadas": [
-   "https://live.staticflickr.com/37/125073784_2a1a4f7cbc_b.jpg",
-   "https://live.staticflickr.com/4106/5198357764_7704bb979e_b.jpg"
-  ],
-  "imagem": ""
+  "imagem": "",
+  "data": "2026-11-19T04:37:18.306656+00:00",
+  "busca_imagem": "vintage 1990s newspaper stack"
  },
  {
   "titulo": "Hugo Souza, do Corinthians, será pai de duas meninas; conheça as mulheres que estão grávidas do goleiro",
@@ -48,8 +83,8 @@
   "fonte": "Quem",
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/09/Hugo_Souza_2025_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "data": "2026-11-19T03:30:04.176294+00:00",
-  "busca_imagem": "",
+  "data": "2026-11-19T04:37:18.306656+00:00",
+  "busca_imagem": "goalkeeper gloves football field",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Hugo_Souza_2025_(cropped).jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Hugo Souza"
@@ -62,8 +97,8 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "",
-  "data": "2026-11-19T03:30:04.176294+00:00",
-  "busca_imagem": "vintage 2013 television newspaper"
+  "data": "2026-11-19T04:37:18.306656+00:00",
+  "busca_imagem": "vintage 2013 calendar desk"
  },
  {
   "titulo": "GTA 6 rouba as paradas: como o jogo virou vitrine de hits, de ídolos do rap a medalhões turbinados",
@@ -71,11 +106,11 @@
   "trecho": "Travis Scott (à esquerda), Fuerza Regida (ao centro) e Keith Richards (à direita) fazem parte do álbum do GTA 6. Reprodução Mesmo antes de qualquer fã jogar o primeiro minuto de GTA 6, muita gente já sabia músicas da…",
   "fonte": "g1",
   "categoria": "ultimas",
-  "data": "2026-11-19T03:30:04.176294+00:00",
-  "busca_imagem": "video game console gaming",
+  "data": "2026-11-19T04:37:18.306656+00:00",
+  "busca_imagem": "video game city street",
   "vetadas": [
-   "https://live.staticflickr.com/4037/4529592666_dfc3a00101_b.jpg",
-   "https://live.staticflickr.com/7128/7012995463_00a05d3e35_b.jpg"
+   "https://live.staticflickr.com/4151/4971529234_e5bdf96243_b.jpg",
+   "https://live.staticflickr.com/8082/8410358301_272aba95f1_b.jpg"
   ],
   "imagem": ""
  },
@@ -83,12 +118,15 @@
   "titulo": "Atual Miss Bumbum diz que já foi repreendida por fazer yoga nua em praia",
   "link": "https://revistaquem.globo.com/noticias/famosos-na-praia/noticia/2026/11/atual-miss-bumbum-diz-que-ja-foi-repreendida-por-fazer-yoga-nua-em-praia.ghtml",
   "trecho": "Miss Bumbum Brasil 2026, Mel Breia é adepta a uma rotina de naked yoga, prática de yoga sem roupas. A carioca, de 24 anos, afirma que já foi repreendida por uma pessoa enquanto fazia os exercícios nua numa praia do Rio…",
-  "credito": "",
   "fonte": "Quem",
   "categoria": "celebridades",
-  "imagem": "",
-  "data": "2026-11-19T03:30:04.176294+00:00",
-  "busca_imagem": ""
+  "data": "2026-11-19T04:37:18.306656+00:00",
+  "busca_imagem": "beach yoga sunset",
+  "vetadas": [
+   "https://live.staticflickr.com/3641/3421883952_1d1dac11c3_b.jpg",
+   "https://live.staticflickr.com/5201/5298659591_c82dce9e33_b.jpg"
+  ],
+  "imagem": ""
  },
  {
   "titulo": "Entenda o que é braquioplastia, procedimento feito por Thais Carla",
@@ -96,10 +134,10 @@
   "trecho": "Thais Carla, de 35 anos, passou seis horas dentro de um centro cirúrgico, esta semana, realizando algumas cirurgias reparadoras, entre elas a braquioplastia. A intervenção acontece após a influenciadora eliminar 131…",
   "fonte": "Quem",
   "categoria": "celebridades",
-  "data": "2026-11-19T03:30:04.176294+00:00",
-  "busca_imagem": "plastic surgery operating room",
+  "data": "2026-11-19T04:37:18.306656+00:00",
+  "busca_imagem": "plastic surgery medical consultation",
   "vetadas": [
-   "https://live.staticflickr.com/65535/52502141346_9cb9dc0941_b.jpg"
+   "https://live.staticflickr.com/65535/49553119178_36f789e848_b.jpg"
   ],
   "imagem": ""
  },
@@ -107,12 +145,15 @@
   "titulo": "Influenciadora diz que seios funcionaram como 'airbags naturais' em acidente doméstico",
   "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/influenciadora-diz-que-seios-funcionaram-como-airbags-naturais-em-acidente-domestico.ghtml",
   "trecho": "A influenciadora Alê Gaúcha, de 21 anos, diz que seus seios naturais de tamanho GG funcionaram como “airbags naturais” em um acidente doméstico. Segundo ela, o volume amorteceu a queda e evitou que batesse o rosto…",
-  "credito": "",
   "fonte": "Quem",
   "categoria": "virais",
-  "imagem": "",
-  "data": "2026-11-19T03:30:04.176294+00:00",
-  "busca_imagem": ""
+  "data": "2026-11-19T04:37:18.306656+00:00",
+  "busca_imagem": "home accident kitchen floor",
+  "vetadas": [
+   "https://live.staticflickr.com/8657/16664701698_07e5a69b66_b.jpg",
+   "https://live.staticflickr.com/4049/4433053365_a914631443_b.jpg"
+  ],
+  "imagem": ""
  },
  {
   "titulo": "Ex de Collor e amor da adolescência: conheça namorada de Roberto de Carvalho, viúvo de Rita Lee",
@@ -122,7 +163,7 @@
   "fonte": "Quem",
   "categoria": "celebridades",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Roberto-de-Carvalho.jpg/1280px-Roberto-de-Carvalho.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "data": "2026-11-19T03:30:04.176294+00:00",
+  "data": "2026-11-19T04:37:18.306656+00:00",
   "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Roberto-de-Carvalho.jpg",
   "imagem_tipo": "pessoa",
@@ -136,8 +177,8 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bela_Gil%2C_February_2022.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "data": "2026-11-19T03:30:04.176294+00:00",
-  "busca_imagem": "television studio talk show set",
+  "data": "2026-11-19T05:35:10+00:00",
+  "busca_imagem": "television studio set talk show",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Bela_Gil,_February_2022.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Bela Gil"
@@ -150,8 +191,8 @@
   "fonte": "Quem",
   "categoria": "celebridades",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Gaby_Amarantos_at_Web_Summit_Rio_2025.jpg/1280px-Gaby_Amarantos_at_Web_Summit_Rio_2025.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "data": "2026-11-19T03:30:04.176294+00:00",
-  "busca_imagem": "glamorous sequin dress stage",
+  "data": "2026-11-19T05:33:10+00:00",
+  "busca_imagem": "sequin feather gown dress",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Gaby_Amarantos_at_Web_Summit_Rio_2025.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Gaby Amarantos"
@@ -164,11 +205,82 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Arezzo_Inverno_2020_por_Deborah_Secco_-_28.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "data": "2026-11-19T03:30:04.176294+00:00",
+  "data": "2026-11-19T05:30:31+00:00",
   "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Arezzo_Inverno_2020_por_Deborah_Secco_-_28.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Deborah Secco"
+ },
+ {
+  "titulo": "Tá rolando? Após encontro, Jordana revela se vive romance com Alberto Cowboy: ‘Sensibilidade’",
+  "link": "https://contigo.com.br/noticias/famosos/ta-rolando-apos-encontro-jordana-revela-se-vive-romance-com-alberto-cowboy-sensibilidade.phtml",
+  "trecho": "É NAMORO? Jordana fala sobre encontro com Alberto Cowboy em seu apartamento O post Tá rolando? Após encontro, Jordana revela se vive romance com Alberto Cowboy: ‘Sensibilidade’ apareceu primeiro em Contigo! .",
+  "credito": "Foto: Mídia promocional do programa Diverso (TV Brasil) / CC BY 3.0 br, via Wikimedia Commons",
+  "fonte": "Contigo",
+  "categoria": "celebridades",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Diverso_alberto_cowboy_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "data": "2026-11-19T04:25:30+00:00",
+  "busca_imagem": "",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Diverso_alberto_cowboy_(cropped).jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Alberto Cowboy"
+ },
+ {
+  "titulo": "Onde moram os trigêmeos de Fátima Bernardes e William Bonner atualmente? Jovens surpreendem com rumos diferentes",
+  "link": "https://caras.com.br/atualidades/onde-moram-os-trigemeos-de-fatima-bernardes-e-william-bonner-atualmente-jovens-surpreendem-com-rumos-diferentes.phtml",
+  "trecho": "Fátima Bernardes e William Bonner têm trigêmeos de 29 anos que seguiram caminhos distintos pelo mundo O post Onde moram os trigêmeos de Fátima Bernardes e William Bonner atualmente? Jovens surpreendem com rumos…",
+  "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons",
+  "fonte": "Caras",
+  "categoria": "celebridades",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/99/F%C3%A1tima_Bernardes_no_Lady_Night_5_%28cropped%29.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "data": "2026-11-19T04:24:09+00:00",
+  "busca_imagem": "triplets children playing home",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:F%C3%A1tima_Bernardes_no_Lady_Night_5_(cropped).png",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Fátima Bernardes"
+ },
+ {
+  "titulo": "242 pessoas embarcaram naquele voo, mas apenas uma saiu andando dos destroços e o assento onde ela estava chama atenção",
+  "link": "https://catracalivre.com.br/noticias/242-pessoas-embarcaram-naquele-voo-mas-apenas-uma-saiu-andando-dos-destrocos-e-o-assento-onde-ela-estava-chama-atencao/",
+  "trecho": "O voo AI171 caiu logo após decolar na Índia, deixando um único sobrevivente entre 242 pessoas. Entenda quem estava no assento 11A e como saiu. O post 242 pessoas embarcaram naquele voo, mas apenas uma saiu andando dos…",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "data": "2026-11-19T04:24:01+00:00",
+  "busca_imagem": "airplane wreckage debris field",
+  "vetadas": [
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/National_Transportation_Safety_Board_investigators_documenting_the_Guardian_Flight_wreckage_of_a_Pilatus_PC-12_airplane_at_the_February_24th_crash_site_in_Dayton%2C_Nevada_on_February_26%2C_2023_04.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  ],
+  "imagem": ""
+ },
+ {
+  "titulo": "Aos 65 anos, estrela investe em mansão de luxo e vende refúgio por R$ 99 milhões",
+  "link": "https://caras.com.br/casa-dos-famosos/aos-65-anos-estrela-investe-em-mansao-de-luxo-e-vende-refugio-por-r-99-milhoes.phtml",
+  "trecho": "Apaixonada por arquitetura, a atriz ampliou o refúgio em quase 3 mil pés quadrados e faturou milhões com a venda O post Aos 65 anos, estrela investe em mansão de luxo e vende refúgio por R$ 99 milhões apareceu primeiro…",
+  "fonte": "Caras",
+  "categoria": "celebridades",
+  "data": "2026-11-19T04:21:14+00:00",
+  "busca_imagem": "luxury mansion modern villa",
+  "vetadas": [
+   "https://live.staticflickr.com/7424/8726581953_b4902d80ff_b.jpg"
+  ],
+  "imagem": "https://live.staticflickr.com/8222/8424954097_05763b938b_b.jpg",
+  "credito": "Foto: aturkus / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/76345376@N00/8424954097",
+  "imagem_tipo": "banco"
+ },
+ {
+  "titulo": "Aos 43 anos, Adam Driver investe US$ 11,5 milhões em refúgio de luxo e amplia patrimônio",
+  "link": "https://caras.com.br/casa-dos-famosos/aos-43-anos-adam-driver-investe-us-115-milhoes-em-refugio-de-luxo-e-amplia-patrimonio.phtml",
+  "trecho": "Adam Driver amplia seus investimentos imobiliários em Nova York com três apartamentos de luxo em condomínio que se destaca como refúgio exclusivo O post Aos 43 anos, Adam Driver investe US$ 11,5 milhões em refúgio de…",
+  "credito": "Foto: Bryan Berlin / CC BY-SA 4.0, via Wikimedia Commons",
+  "fonte": "Caras",
+  "categoria": "celebridades",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Adam_Driver_at_the_2026_New_York_Film_Festival-084_%28cropped_II%29.jpg/1280px-Adam_Driver_at_the_2026_New_York_Film_Festival-084_%28cropped_II%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "data": "2026-11-19T04:18:40+00:00",
+  "busca_imagem": "luxury mountain retreat house",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Adam_Driver_at_the_2026_New_York_Film_Festival-084_(cropped_II).jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Adam Driver"
  },
  {
   "titulo": "Grávida de Hugo Souza, influencer fala de repercussão: 'Preservar minha saúde mental'",
@@ -182,6 +294,34 @@
   "busca_imagem": ""
  },
  {
+  "titulo": "O que é o peixe-leão e por que essa espécie invasora preocupa os ecossistemas marinhos brasileiros?",
+  "link": "https://catracalivre.com.br/noticias/o-que-e-o-peixe-leao-e-por-que-essa-especie-invasora-preocupa-os-ecossistemas-marinhos-brasileiros/",
+  "trecho": "Peixe-leão no Brasil: conheça as características desse predador invasor, os riscos para os recifes e os cuidados ao encontrar a espécie no litoral. O post O que é o peixe-leão e por que essa espécie invasora preocupa os…",
+  "credito": "Foto: laszlo-photo / CC BY 2.0",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "imagem": "https://live.staticflickr.com/8185/8373523786_6e2e16bfdf_b.jpg",
+  "data": "2026-11-19T04:04:19+00:00",
+  "busca_imagem": "lionfish underwater coral reef",
+  "credito_link": "https://www.flickr.com/photos/40467171@N00/8373523786",
+  "imagem_tipo": "banco"
+ },
+ {
+  "titulo": "Flamengo dá largada na Black Friday com live na FlamengoTV: ofertas exclusivas para a Nação",
+  "link": "https://www.flamengo.com.br/noticias/institucional/flamengo-da-largada-na-black-friday-com-live-na-flamengo-tv-ofertas-exclusivas-para-a-nacao",
+  "trecho": "",
+  "fonte": "Clube de Regatas do Flamengo",
+  "categoria": "em-alta",
+  "data": "2026-11-19T04:00:00+00:00",
+  "em_alta": "quando é a black friday · 100+ buscas",
+  "busca_imagem": "black friday shopping bags",
+  "vetadas": [
+   "https://live.staticflickr.com/65535/51708163105_05be7143ea_b.jpg",
+   "https://live.staticflickr.com/65535/51707550378_d9437b2e3a_b.jpg"
+  ],
+  "imagem": ""
+ },
+ {
   "titulo": "Giullia Buscacio escolhe look inspirado em personagem de Camila Pitanga para ensaio da Vila Isabel",
   "link": "https://gshow.globo.com/carnaval/2027/noticia/giullia-buscacio-escolhe-look-inspirado-em-personagem-de-camila-pitanga-para-ensaio-da-vila-isabel.ghtml",
   "trecho": "Giullia Buscaccio comenta retorno ao Carnaval como musa da Vila Isabel Giullia Buscacio escolheu um look para lá de especial para o ensaio da Unidos de Vila Isabel desta quarta-feira (18)! Se preparando para o Carnaval…",
@@ -190,7 +330,7 @@
   "categoria": "televisao",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Entrevista_-_Giullia_Buscacio_03.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-19T03:59:31+00:00",
-  "busca_imagem": "carnival samba parade costume",
+  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Entrevista_-_Giullia_Buscacio_03.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Giullia Buscacio"
@@ -199,15 +339,53 @@
   "titulo": "Vídeos do capítulo de 'Quem Ama Cuida' de quarta-feira, 18 de novembro de 2026",
   "link": "https://gshow.globo.com/novelas/quem-ama-cuida/capitulo/2026/11/18/videos-do-capitulo-de-quem-ama-cuida-de-quarta-feira-18-de-novembro-de-2026.ghtml",
   "trecho": "Assista gratuitamente aos vídeos de 'Quem Ama Cuida' de quarta, 18/11",
+  "credito": "",
   "fonte": "Gshow",
   "categoria": "televisao",
+  "imagem": "",
   "data": "2026-11-19T03:50:00+00:00",
-  "busca_imagem": "television remote control tv",
+  "busca_imagem": "television streaming remote couch"
+ },
+ {
+  "titulo": "Comissão de Caciques critica presença da polícia em aldeia após aproximação de indígenas isolados",
+  "link": "https://www.estadao.com.br/brasil/comissao-de-caciques-critica-presenca-da-policia-apos-aproximacao-de-indigenas-isolados-no-ma-npr/",
+  "trecho": "",
+  "fonte": "Estadão",
+  "categoria": "em-alta",
+  "data": "2026-11-19T03:50:00+00:00",
+  "imagem": "",
+  "em_alta": "aldeia · 100+ buscas",
+  "busca_imagem": "indigenous village forest aerial"
+ },
+ {
+  "titulo": "Bela Gil anuncia ao vivo saída do 'Saia Justa' e Juliette chora: 'Eu não tô feliz'",
+  "link": "https://www.terra.com.br/diversao/tv/bela-gil-anuncia-ao-vivo-saida-do-saia-justa-e-juliette-chora-eu-nao-to-feliz,6c29c242e16de4d75127416fe6324ac8qgby00oi.html",
+  "trecho": "Na noite desta quarta-feira (18), Bela Gil anunciou ao vivo no Saia Justa que está deixando o ...",
+  "credito": "Foto: Lula Oficial / CC BY-SA 4.0, via Wikimedia Commons",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bela_Gil%2C_February_2022.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "data": "2026-11-19T03:49:42+00:00",
+  "busca_imagem": "",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Bela_Gil,_February_2022.jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Bela Gil"
+ },
+ {
+  "titulo": "Ele saiu para remar com o pai no fim do mundo, mas o que emergiu da água o fez viver uma cena bíblica",
+  "link": "https://catracalivre.com.br/noticias/ele-saiu-para-remar-com-o-pai-no-fim-do-mundo-mas-o-que-emergiu-da-agua-o-fez-viver-uma-cena-biblica/",
+  "trecho": "Uma baleia-jubarte emergiu sob o bote de Adrián Simancas no Chile e o envolveu com a boca por instantes. Veja como ele escapou com ajuda do pai. O post Ele saiu para remar com o pai no fim do mundo, mas o que emergiu da…",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "data": "2026-11-19T03:44:03+00:00",
+  "busca_imagem": "fisherman paddleboard ocean sunset",
   "vetadas": [
-   "https://live.staticflickr.com/5211/5728486437_1f69302183_b.jpg",
-   "https://live.staticflickr.com/2111/5728485497_b635ba27e3_b.jpg"
+   "https://live.staticflickr.com/3793/14284615191_76e86826d3_b.jpg"
   ],
-  "imagem": ""
+  "imagem": "https://live.staticflickr.com/6019/6264349337_fecefe3cb0_b.jpg",
+  "credito": "Foto: daspader / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/62492448@N05/6264349337",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Quem Ama Cuida: Diná chantageia Pilar após ser exposta por Adriana",
@@ -229,20 +407,45 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-19T03:20:55+00:00",
-  "busca_imagem": "reality show tv screen"
+  "busca_imagem": "reality show elimination vote"
+ },
+ {
+  "titulo": "Vale a pena jogar GTA 6 via nuvem no Xbox One? Confira os preços",
+  "link": "https://www.estadao.com.br/tecmundo/voxel/vale-a-pena-jogar-gta-6-via-nuvem-no-xbox-one-confira-os-precos/",
+  "trecho": "",
+  "fonte": "Estadão",
+  "categoria": "em-alta",
+  "data": "2026-11-19T03:20:00+00:00",
+  "imagem": "https://live.staticflickr.com/8046/8440887221_b5a0641bfc_b.jpg",
+  "em_alta": "xbox cloud · 100+ buscas",
+  "busca_imagem": "video game console controller",
+  "credito": "Foto: Skakerman (Archive) / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/27482959@N08/8440887221",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Paul McCartney e Chrissie Hynde cantarão em show beneficente para Ucrânia",
   "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/paul-mccartney-e-chrissie-hynde-estarao-em-show-beneficente-pra-ucrania.ghtml",
   "trecho": "O concerto beneficente Songs of Freedom vai ter nomes de peso da música para arrecadar fundos para mulheres e crianças da Ucrânia, país em guerra com a Rússia desde 2022. O evento acontece no dia 3 de fevereiro de 2027…",
+  "credito": "Foto: khelvan / CC BY 2.0",
   "fonte": "Quem",
   "categoria": "celebridades",
+  "imagem": "https://live.staticflickr.com/7017/6539369561_ce115fda89_b.jpg",
   "data": "2026-11-19T03:17:56+00:00",
   "busca_imagem": "charity concert stage microphone",
-  "vetadas": [
-   "https://live.staticflickr.com/7017/6539369561_ce115fda89_b.jpg"
-  ],
-  "imagem": ""
+  "credito_link": "https://www.flickr.com/photos/34829264@N03/6539369561",
+  "imagem_tipo": "banco"
+ },
+ {
+  "titulo": "Leonor Corrêa, irmã de Faustão, é demitida do SBT",
+  "link": "https://www.terra.com.br/diversao/gente/leonor-correa-irma-de-faustao-e-demitida-do-sbt,4e16c14502dd3011452d7c7057dcabb5ebmb40rd.html",
+  "trecho": "Leonor Corrêa, irmã do apresentador Fausto Silva, o Faustão, foi demitida do SBT nesta quarta- ...",
+  "credito": "",
+  "fonte": "Terra",
+  "categoria": "televisao",
+  "imagem": "",
+  "data": "2026-11-19T03:16:09+00:00",
+  "busca_imagem": ""
  },
  {
   "titulo": "INSS adotará prazo maior para análise de pedidos de BPC e outros benefícios; entenda",
@@ -255,7 +458,9 @@
   "busca_imagem": "social security office building",
   "vetadas": [
    "https://live.staticflickr.com/3746/14298418103_e480f2f9c6_b.jpg",
-   "https://live.staticflickr.com/3648/3324258649_e985d07eef_b.jpg"
+   "https://live.staticflickr.com/3648/3324258649_e985d07eef_b.jpg",
+   "https://live.staticflickr.com/7743/18008661489_19813edf96_b.jpg",
+   "https://live.staticflickr.com/6098/6375564377_fe19a06976_b.jpg"
   ],
   "imagem": ""
  },
@@ -282,20 +487,18 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-19T03:05:21+00:00",
-  "busca_imagem": ""
+  "busca_imagem": "beauty pageant stage curtain"
  },
  {
   "titulo": "Melhor vinhedo do mundo fica em um destino pouco óbvio",
   "link": "https://catracalivre.com.br/viagem-livre/melhor-vinhedo-do-mundo-fica-em-um-destino-pouco-obvio/",
   "trecho": "Conheça os 50 melhores vinhedos do mundo em 2026, segundo ranking internacional que avalia experiências de enoturismo, gastronomia e hospitalidade. O post Melhor vinhedo do mundo fica em um destino pouco óbvio apareceu…",
-  "credito": "Foto: stefano lubiana wines / CC BY 2.0",
+  "credito": "",
   "fonte": "Catraca Livre",
   "categoria": "virais",
-  "imagem": "https://live.staticflickr.com/4154/5043216505_92b7abb6c9_b.jpg",
+  "imagem": "",
   "data": "2026-11-19T03:04:38+00:00",
-  "busca_imagem": "vineyard rows mountain landscape",
-  "credito_link": "https://www.flickr.com/photos/50979249@N06/5043216505",
-  "imagem_tipo": "banco"
+  "busca_imagem": "vineyard rows hillside sunset"
  },
  {
   "titulo": "Na Itália, uma fonte oferece vinho gratuitamente todos os dias e foi criada para acolher peregrinos que percorrem um antigo caminho religioso",
@@ -306,21 +509,20 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-19T03:04:01+00:00",
-  "busca_imagem": "wine fountain italy stone"
+  "busca_imagem": "italian wine fountain village"
  },
  {
   "titulo": "Julio Rocha e Karoline Kleine: família superou perdas e construiu uma nova vida em mansão sustentável",
   "link": "https://caras.com.br/atualidades/julio-rocha-karoline-kleine-familia-mansao-sustentavel.phtml",
   "trecho": "Após perda gestacional em 2025, Karoline Kleine e Julio Rocha receberam a quarta filha e se mudaram para uma casa sustentável em Indaiatuba O post Julio Rocha e Karoline Kleine: família superou perdas e construiu uma…",
+  "credito": "Foto: Jeremy Levine Design / CC BY 2.0",
   "fonte": "Caras",
   "categoria": "celebridades",
+  "imagem": "https://live.staticflickr.com/3618/3508271182_50b1ef1d5f_b.jpg",
   "data": "2026-11-19T03:03:23+00:00",
-  "busca_imagem": "modern sustainable house solar panels",
-  "vetadas": [
-   "https://live.staticflickr.com/3618/3508271182_50b1ef1d5f_b.jpg",
-   "https://live.staticflickr.com/3035/2903371575_e194d2243e_b.jpg"
-  ],
-  "imagem": ""
+  "busca_imagem": "sustainable modern house solar panels",
+  "credito_link": "https://www.flickr.com/photos/25186605@N04/3508271182",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Enquete A Fazenda 18: Votação aponta quem sai e mostra favorito em parcial",
@@ -333,7 +535,9 @@
   "busca_imagem": "ballot box voting vote",
   "vetadas": [
    "https://live.staticflickr.com/2189/2462581488_5ec35d93c2_b.jpg",
-   "https://live.staticflickr.com/7503/15298483204_48f3b9c488_b.jpg"
+   "https://live.staticflickr.com/7503/15298483204_48f3b9c488_b.jpg",
+   "https://live.staticflickr.com/3181/2931790897_52bc9a852c_b.jpg",
+   "https://live.staticflickr.com/2019/2461779607_77a8678fc8_b.jpg"
   ],
   "imagem": ""
  },
@@ -352,12 +556,14 @@
   "titulo": "Repórter da Globo tira barata do corpo de cinegrafista ao vivo: 'Já ouvi o grito'",
   "link": "https://www.terra.com.br/diversao/tv/reporter-da-globo-tira-barata-do-corpo-de-cinegrafista-ao-vivo-ja-ouvi-o-grito,faa159c72c61283a8ad3772af983b60ds5zuy5t9.html",
   "trecho": "Nesta quarta-feira (18), uma situação inusitada aconteceu no MGTV, informativo local da TV Globo ...",
-  "credito": "",
   "fonte": "Terra",
   "categoria": "ultimas",
-  "imagem": "",
   "data": "2026-11-19T02:51:08+00:00",
-  "busca_imagem": "cockroach on shoulder"
+  "busca_imagem": "cockroach close up insect",
+  "vetadas": [
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Malphigian_tubules_of_a_dissected_cockroach_Close_up.tif/lossy-page1-960px-Malphigian_tubules_of_a_dissected_cockroach_Close_up.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  ],
+  "imagem": ""
  },
  {
   "titulo": "Raniele usa expressão popular para definir Corinthians e manda indireta",
@@ -377,10 +583,10 @@
   "fonte": "Catraca Livre",
   "categoria": "virais",
   "data": "2026-11-19T02:44:07+00:00",
-  "busca_imagem": "river rainforest aerial view",
+  "busca_imagem": "river forest tree roots",
   "vetadas": [
-   "https://live.staticflickr.com/3911/14844095122_d8034a1bec_b.jpg",
-   "https://live.staticflickr.com/4077/4751805872_a6b4160515_b.jpg"
+   "https://live.staticflickr.com/2856/11597545285_39f19af27c_b.jpg",
+   "https://live.staticflickr.com/3781/9217757953_fc0f3d7828_b.jpg"
   ],
   "imagem": ""
  },
@@ -393,7 +599,7 @@
   "categoria": "celebridades",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Fernanda_Lima_in_2012.jpg/1280px-Fernanda_Lima_in_2012.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "data": "2026-11-19T02:43:38+00:00",
-  "busca_imagem": "rustic farmhouse country garden",
+  "busca_imagem": "rustic country house garden",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Fernanda_Lima_in_2012.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Fernanda Lima"
@@ -407,7 +613,7 @@
   "categoria": "televisao",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Karol_Conk%C3%A1_-_TVZ_2024.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-19T02:42:06+00:00",
-  "busca_imagem": "music awards stage concert",
+  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Karol_Conk%C3%A1_-_TVZ_2024.png",
   "imagem_tipo": "pessoa",
   "pessoa": "Karol Conká"
@@ -427,29 +633,25 @@
   "titulo": "Morta aos 75 anos, cantora transformou sítio no interior de SP em refúgio com jardins, piscina e animais",
   "link": "https://caras.com.br/casa-dos-famosos/rita-lee-sitio-vida-simples-natureza.phtml",
   "trecho": "Cantora escolheu uma vida discreta ao lado do marido, cercada por jardins, piscina e diversos bichos no sítio onde enfrentou a doença O post Morta aos 75 anos, cantora transformou sítio no interior de SP em refúgio com…",
+  "credito": "Foto: BalukuBrian / CC BY-SA 4.0, via Wikimedia Commons",
   "fonte": "Caras",
   "categoria": "celebridades",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Pool_tables_at_Rwekishokye_farm_in_Mbarara_Uganda_on_a_sunny_day.jpg/1280px-Pool_tables_at_Rwekishokye_farm_in_Mbarara_Uganda_on_a_sunny_day.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "data": "2026-11-19T02:32:57+00:00",
   "busca_imagem": "country farm swimming pool",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Pool_tables_at_Rwekishokye_farm_in_Mbarara_Uganda_on_a_sunny_day.jpg/1280px-Pool_tables_at_Rwekishokye_farm_in_Mbarara_Uganda_on_a_sunny_day.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Swimming_pools_at_Rwekishokye_farm_in_Mbarara_Uganda.jpg/1280px-Swimming_pools_at_Rwekishokye_farm_in_Mbarara_Uganda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
-  "imagem": ""
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Pool_tables_at_Rwekishokye_farm_in_Mbarara_Uganda_on_a_sunny_day.jpg",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Vídeos do capítulo de 'Por Você' de quarta-feira, 18 de novembro de 2026",
   "link": "https://gshow.globo.com/novelas/por-voce/capitulo/2026/11/18/videos-do-capitulo-de-por-voce-de-quarta-feira-18-de-novembro-de-2026.ghtml",
   "trecho": "Assista gratuitamente aos vídeos de 'Por Você' de quarta, 18/11",
+  "credito": "",
   "fonte": "Gshow",
   "categoria": "televisao",
+  "imagem": "",
   "data": "2026-11-19T02:30:00+00:00",
-  "busca_imagem": "television studio camera set",
-  "vetadas": [
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Walter_Nash_and_others_in_television_studio_c1920-_c1930_%2818180645532%29.jpg/1280px-Walter_Nash_and_others_in_television_studio_c1920-_c1930_%2818180645532%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Television_news_cameras_set_up_in_an_auditorium_%2813106194975%29.jpg/1280px-Television_news_cameras_set_up_in_an_auditorium_%2813106194975%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  ],
-  "imagem": ""
+  "busca_imagem": ""
  },
  {
   "titulo": "Musa fitness se inspira em Sabrina Sato em treinos: 'Chegar no verão com aquele shape'",
@@ -460,7 +662,7 @@
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sabrina_Sato_at_the_Lady_Night_in_2022_%2802%29.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-19T02:29:37+00:00",
-  "busca_imagem": "fitness gym workout dumbbells",
+  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Sabrina_Sato_at_the_Lady_Night_in_2022_(02).png",
   "imagem_tipo": "pessoa",
   "pessoa": "Sabrina Sato"
@@ -469,14 +671,12 @@
   "titulo": "Cachorro transforma mania de retirar tampinhas de garrafas em um novo recorde mundial",
   "link": "https://catracalivre.com.br/noticias/cachorro-transforma-mania-de-retirar-tampinhas-de-garrafas-em-um-novo-recorde-mundial/",
   "trecho": "Jerry, um dachshund do Texas, entrou para o Guinness após retirar 11 tampinhas de garrafas em um minuto. A habilidade nasceu de brincadeiras. O post Cachorro transforma mania de retirar tampinhas de garrafas em um novo…",
-  "credito": "Foto: cogdogblog / CC BY 2.0",
+  "credito": "",
   "fonte": "Catraca Livre",
   "categoria": "curiosidades",
-  "imagem": "https://live.staticflickr.com/4128/5098185777_a6594db173_b.jpg",
+  "imagem": "",
   "data": "2026-11-19T02:24:47+00:00",
-  "busca_imagem": "dog bottle caps",
-  "credito_link": "https://www.flickr.com/photos/37996646802@N01/5098185777",
-  "imagem_tipo": "banco"
+  "busca_imagem": "dog playing bottle caps"
  },
  {
   "titulo": "Provocação? Reação de Neymar com música de Virginia chama atenção; assista",
@@ -496,10 +696,9 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "data": "2026-11-19T02:14:51+00:00",
-  "busca_imagem": "countryside farm ranch sunset",
+  "busca_imagem": "country ranch cowboy hat",
   "vetadas": [
-   "https://live.staticflickr.com/87/205148914_01add93723_b.jpg",
-   "https://live.staticflickr.com/61/215330730_128c4d3d52_b.jpg"
+   "https://live.staticflickr.com/671/22319512642_e0ecf20017_b.jpg"
   ],
   "imagem": ""
  },
@@ -553,7 +752,7 @@
   "categoria": "virais",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Andressa_Urach_IMG_1686_%2824560607221%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-19T02:05:43+00:00",
-  "busca_imagem": "surgery operating room scalpel",
+  "busca_imagem": "plastic surgery operating room",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Andressa_Urach_IMG_1686_(24560607221)_(cropped).jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Andressa Urach"
@@ -562,28 +761,25 @@
   "titulo": "Nem óleo nem manteiga: o truque de reservar um pouco da água do cozimento do macarrão para deixar o molho mais cremoso e envolver melhor a massa",
   "link": "https://catracalivre.com.br/noticias/nem-oleo-nem-manteiga-o-truque-de-reservar-um-pouco-da-agua-do-cozimento-do-macarrao-para-deixar-o-molho-mais-cremoso-e-envolver-melhor-a-massa/",
   "trecho": "Reservar meia xícara da água do cozimento do macarrão deixa o molho mais cremoso e ajuda a envolver a massa sem usar óleo ou manteiga. O post Nem óleo nem manteiga: o truque de reservar um pouco da água do cozimento do…",
+  "credito": "Foto: RBerteig / CC BY 2.0",
   "fonte": "Catraca Livre",
   "categoria": "virais",
+  "imagem": "https://live.staticflickr.com/1246/596383553_2f78dbbed3_b.jpg",
   "data": "2026-11-19T02:04:43+00:00",
-  "busca_imagem": "pasta water pot boiling",
-  "vetadas": [
-   "https://live.staticflickr.com/2131/2347718246_9066990814_b.jpg",
-   "https://live.staticflickr.com/2131/2528005054_42381ea184_b.jpg"
-  ],
-  "imagem": ""
+  "busca_imagem": "pasta cooking water pot",
+  "credito_link": "https://www.flickr.com/photos/51035786238@N01/596383553",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "NASA quer ajuda para criar base na Lua - e vai pagar US$ 1 milhão por isso",
   "link": "https://revistagalileu.globo.com/ciencia/espaco/noticia/2026/11/nasa-quer-ajuda-para-criar-base-na-lua-e-vai-pagar-us-1-milhao-por-isso.ghtml",
   "trecho": "Construir uma base humana na Lua não significa apenas encontrar um lugar para instalar paredes e um teto. É preciso pensar em como produzir energia, garantir água e ar para os moradores, proteger os astronautas das…",
-  "credito": "Foto: NASA Goddard Photo and Video / CC BY 2.0",
+  "credito": "",
   "fonte": "Galileu",
   "categoria": "curiosidades",
-  "imagem": "https://live.staticflickr.com/4104/5063392410_171f23ef25_b.jpg",
+  "imagem": "",
   "data": "2026-11-19T02:03:37+00:00",
-  "busca_imagem": "moon base lunar surface",
-  "credito_link": "https://www.flickr.com/photos/24662369@N07/5063392410",
-  "imagem_tipo": "banco"
+  "busca_imagem": "moon base construction astronaut"
  },
  {
   "titulo": "Envelhecer atrapalha sistema de limpeza do cérebro durante sono",
@@ -594,7 +790,7 @@
   "categoria": "curiosidades",
   "imagem": "",
   "data": "2026-11-19T02:00:35+00:00",
-  "busca_imagem": "brain sleep neuroscience illustration"
+  "busca_imagem": "brain sleep neurons illustration"
  },
  {
   "titulo": "Em Por Você, Peixe dá anel para Dalila e explica atitude: ‘Meu tudo’",
@@ -605,20 +801,18 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-19T02:00:00+00:00",
-  "busca_imagem": ""
+  "busca_imagem": "engagement ring diamond box"
  },
  {
   "titulo": "Leonardo suspende álcool por 30 dias após alteração em exame; médico explica riscos",
   "link": "https://caras.com.br/bem-estar/leonardo-suspende-alcool-por-30-dias-apos-alteracao-em-exame-medico-explica-riscos.phtml",
   "trecho": "Leonardo suspendeu o álcool por 30 dias após apresentar triglicérides elevados. Médico explica os riscos e os cuidados necessários O post Leonardo suspende álcool por 30 dias após alteração em exame; médico explica…",
-  "credito": "Foto: Goleisureintl / CC BY 4.0, via Wikimedia Commons",
+  "credito": "",
   "fonte": "Caras",
   "categoria": "celebridades",
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/NABL_Accredited_Pathology_Lab_and_Diagnostic_Centre_in_Kharghar%2C_Navi_Mumbai_-_Full_Body_Checkup%2C_CBC%2C_Thyroid_Blood_Test_and_Home_Blood_Collection.jpg/1280px-NABL_Accredited_Pathology_Lab_and_Diagnostic_Centre_in_Kharghar%2C_Navi_Mumbai_-_Full_Body_Checkup%2C_CBC%2C_Thyroid_Blood_Test_and_Home_Blood_Collection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imagem": "",
   "data": "2026-11-19T01:54:22+00:00",
-  "busca_imagem": "medical exam blood test laboratory",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:NABL_Accredited_Pathology_Lab_and_Diagnostic_Centre_in_Kharghar,_Navi_Mumbai_-_Full_Body_Checkup,_CBC,_Thyroid_Blood_Test_and_Home_Blood_Collection.jpg",
-  "imagem_tipo": "banco"
+  "busca_imagem": "alcohol bottle blood test"
  },
  {
   "titulo": "De faixa a coroa: A seis dias da final, Miss Brasil passa mal e se afasta da agenda do Miss Universo 2026",
@@ -662,7 +856,7 @@
   "categoria": "virais",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Paolla_Oliveira.jpg/1280px-Paolla_Oliveira.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "data": "2026-11-19T01:47:42+00:00",
-  "busca_imagem": "samba drum percussion instrument",
+  "busca_imagem": "samba drummers carnival parade",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Paolla_Oliveira.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Paolla Oliveira"
@@ -671,14 +865,12 @@
   "titulo": "Como tirar manchas vermelhas dos recipientes Tupperware?",
   "link": "https://catracalivre.com.br/noticias/como-tirar-manchas-vermelhas-dos-recipientes-tupperware/",
   "trecho": "Aprenda a remover manchas vermelhas da Tupperware com bicarbonato, vinagre branco e luz solar, sem riscar o plástico nem deixar resíduos ou odores. O post Como tirar manchas vermelhas dos recipientes Tupperware?…",
+  "credito": "",
   "fonte": "Catraca Livre",
   "categoria": "virais",
+  "imagem": "",
   "data": "2026-11-19T01:44:02+00:00",
-  "busca_imagem": "plastic food container kitchen",
-  "vetadas": [
-   "https://live.staticflickr.com/4117/4749527311_26bc585593_b.jpg"
-  ],
-  "imagem": ""
+  "busca_imagem": "red stained plastic container"
  },
  {
   "titulo": "'A Clínica': Diretora revela o que fez médico envolvido no caso Ryan Gracie quebrar o silêncio após anos",
@@ -711,7 +903,7 @@
   "categoria": "curiosidades",
   "imagem": "",
   "data": "2026-11-19T01:29:50+00:00",
-  "busca_imagem": "child tablet screen time"
+  "busca_imagem": "child using tablet screen"
  },
  {
   "titulo": "Por que algumas pessoas sentem dor na mandíbula ao acordar? O hábito noturno pode estar relacionado",
@@ -722,7 +914,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-19T01:24:45+00:00",
-  "busca_imagem": "jaw pain morning bedroom"
+  "busca_imagem": "man jaw pain waking"
  },
  {
   "titulo": "Aos 46 anos, cantora descansa dos palcos em fazenda com passeios a cavalo na Bahia",
@@ -733,7 +925,9 @@
   "data": "2026-11-19T01:22:09+00:00",
   "busca_imagem": "horse riding farm countryside",
   "vetadas": [
-   "https://live.staticflickr.com/2936/14206113947_307d036e90_b.jpg"
+   "https://live.staticflickr.com/2936/14206113947_307d036e90_b.jpg",
+   "https://live.staticflickr.com/3923/14369925506_3257904985_b.jpg",
+   "https://live.staticflickr.com/5515/14206029339_2b7359d8f2_b.jpg"
   ],
   "imagem": ""
  },
@@ -746,7 +940,6 @@
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/53/26_-_Seu_Jorge-002_%2817133102915%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-19T01:20:31+00:00",
-  "busca_imagem": "music awards trophy stage",
   "credito_link": "https://commons.wikimedia.org/wiki/File:26_-_Seu_Jorge-002_(17133102915).jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Seu Jorge"
@@ -760,7 +953,6 @@
   "categoria": "televisao",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Luiz_Bacci.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-19T01:19:33+00:00",
-  "busca_imagem": "television studio microphone broadcast",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Luiz_Bacci.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Luiz Bacci"
@@ -769,14 +961,14 @@
   "titulo": "Bom Jardim da Serra (SC), onde a paisagem dita o ritmo da viagem",
   "link": "https://catracalivre.com.br/viagem-livre/bom-jardim-da-serra-sc-onde-a-paisagem-dita-o-ritmo-da-viagem/",
   "trecho": "Descubra Bom Jardim da Serra, na Serra Catarinense, entre cânions, cachoeiras, as curvas da Serra do Rio do Rastro, gastronomia e hospedagens em meio à natureza. O post Bom Jardim da Serra (SC), onde a paisagem dita o…",
-  "credito": "Foto: Doug Scortegagna / CC BY 2.0",
   "fonte": "Catraca Livre",
   "categoria": "virais",
-  "imagem": "https://live.staticflickr.com/8617/15657086144_dfa881f3f2_b.jpg",
   "data": "2026-11-19T01:16:37+00:00",
-  "busca_imagem": "mountain landscape Santa Catarina Brazil",
-  "credito_link": "https://www.flickr.com/photos/56551021@N06/15657086144",
-  "imagem_tipo": "banco"
+  "busca_imagem": "mountain village landscape brazil",
+  "vetadas": [
+   "https://live.staticflickr.com/3349/5773123236_00b8c9f922_b.jpg"
+  ],
+  "imagem": ""
  },
  {
   "titulo": "Ator de ‘Grey’s Anatomy’ assume novo relacionamento 1 mês após revelar morte da esposa",
@@ -809,7 +1001,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-19T01:04:49+00:00",
-  "busca_imagem": "man sleeping pillows shortness breath"
+  "busca_imagem": "woman shortness of breath lying"
  },
  {
   "titulo": "Larissa Manoela chocou ao anunciar fim do relacionamento; veja a causa",
@@ -881,7 +1073,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-19T00:58:31+00:00",
-  "busca_imagem": "bride wedding dress bouquet"
+  "busca_imagem": ""
  },
  {
   "titulo": "Anne Hathaway passeia sorridente com terceiro filho, uma menina; sexo foi revelado por acidente",
@@ -937,12 +1129,14 @@
   "titulo": "As primeiras impressões do 'GTA 6' pelo mundo",
   "link": "https://g1.globo.com/pop-arte/games/noticia/2026/11/18/as-primeiras-impressoes-do-gta-vi-pelo-mundo.ghtml",
   "trecho": "O que explica o hype do GTA VI Após 13 anos de espera, diversos vazamentos e dois adiamentos, os primeiros jogadores começaram, por fim, a experimentar o \"GTA VI\", o jogo eletrônico mais caro já criado e com as melhores…",
-  "credito": "",
+  "credito": "Foto: rdenubila / CC BY-SA 2.0",
   "fonte": "g1",
   "categoria": "ultimas",
-  "imagem": "",
+  "imagem": "https://live.staticflickr.com/4066/4619759343_d71de4c7a8_b.jpg",
   "data": "2026-11-19T00:43:28+00:00",
-  "busca_imagem": ""
+  "busca_imagem": "video game console controller",
+  "credito_link": "https://www.flickr.com/photos/29551889@N08/4619759343",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Quem Ama Cuida: Mau Mau é flagrado com Felipe e toma atitude decisiva após ameaça de Otoniel (Foto: Globo/ Beatriz Damy/ Angélica Goudinho)",
@@ -970,14 +1164,12 @@
   "titulo": "Vídeos do capítulo de 'Lá na Minha Terra' de quarta-feira, 18 de novembro de 2026",
   "link": "https://gshow.globo.com/novelas/la-na-minha-terra/capitulo/2026/11/18/videos-do-capitulo-de-la-na-minha-terra-de-quarta-feira-18-de-novembro-de-2026.ghtml",
   "trecho": "Assista gratuitamente aos vídeos de 'Lá na Minha Terra' de quarta, 18/11",
+  "credito": "",
   "fonte": "Gshow",
   "categoria": "televisao",
+  "imagem": "",
   "data": "2026-11-19T00:40:00+00:00",
-  "busca_imagem": "tv television remote couch",
-  "vetadas": [
-   "https://live.staticflickr.com/2719/4501126718_71249601cc_b.jpg"
-  ],
-  "imagem": ""
+  "busca_imagem": ""
  },
  {
   "titulo": "Flamengo x Palmeiras: informações sobre ingressos para a partida pelo Brasileirão",
@@ -1076,14 +1268,12 @@
   "titulo": "IZA usa vestido preto com transparências para lançar novo álbum de reggae",
   "link": "https://revistaquem.globo.com/entretenimento/musica/pop/noticia/2026/11/iza-usa-vestido-preto-com-transparencias-para-lancar-novo-album-de-reggae.ghtml",
   "trecho": "Lá vem ela! IZA reuniu a imprensa em um cinema nesta quarta-feira (18) para mostrar uma prévia de seu novo projeto musical, o álbum ZAZA. O trabalho, previsto para ser divulgado ao público na sexta-feira (20), é o…",
-  "credito": "Foto: kumar303 / CC BY-SA 2.0",
+  "credito": "",
   "fonte": "Quem",
   "categoria": "celebridades",
-  "imagem": "https://live.staticflickr.com/198/505315811_bffe677d65_b.jpg",
+  "imagem": "",
   "data": "2026-11-19T00:36:03+00:00",
-  "busca_imagem": "reggae music vinyl record",
-  "credito_link": "https://www.flickr.com/photos/86812298@N00/505315811",
-  "imagem_tipo": "banco"
+  "busca_imagem": ""
  },
  {
   "titulo": "Saiba a real causa da morte de atriz de ‘Mulheres Apaixonadas’",
@@ -1159,14 +1349,14 @@
   "titulo": "Adeus, Flamengo? Bap se prepara para venda de Lino e +1 para garantir R$200M",
   "link": "https://tvfoco.uai.com.br/adeus-flamengo-bap-se-prepara-para-venda-de-lino-e-1-para-garantir-r200m/",
   "trecho": "Bap se prepara para negociar Lino e mais um jogador do Flamengo em movimentação que pode render R$ 200 milhões aos cofres do clube O Flamengo já começou a se movimentar nos bastidores para organizar as contas de 2027 e…",
-  "credito": "Foto: Haruhi8 / CC0, via Wikimedia Commons",
   "fonte": "OTV Foco",
   "categoria": "televisao",
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Championship-Soccer-Stadium-SE-Field-View-2024-08-03.jpg/1280px-Championship-Soccer-Stadium-SE-Field-View-2024-08-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "data": "2026-11-19T00:30:00+00:00",
-  "busca_imagem": "soccer stadium football field",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Championship-Soccer-Stadium-SE-Field-View-2024-08-03.jpg",
-  "imagem_tipo": "banco"
+  "busca_imagem": "soccer stadium night",
+  "vetadas": [
+   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Toyota_Stadium_Night_Game.jpg/1280px-Toyota_Stadium_Night_Game.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  ],
+  "imagem": ""
  },
  {
   "titulo": "Um mês após anunciar morte da esposa, ator revela nova namorada",
@@ -1197,14 +1387,12 @@
   "titulo": "Na Coreia do Sul, muitas famílias utilizam uma geladeira feita especialmente para conservar um único tipo de alimento: por que esse eletrodoméstico se tornou tão importante",
   "link": "https://catracalivre.com.br/noticias/na-coreia-do-sul-muitas-familias-utilizam-uma-geladeira-feita-especialmente-para-conservar-um-unico-tipo-de-alimento-por-que-esse-eletrodomestico-se-tornou-tao-importante/",
   "trecho": "Na Coreia do Sul, muitas famílias usam uma geladeira exclusiva para conservar o kimchi, controlar a fermentação e preservar o sabor. O post Na Coreia do Sul, muitas famílias utilizam uma geladeira feita especialmente…",
-  "credito": "Foto: anokarina / CC BY-SA 2.0",
+  "credito": "",
   "fonte": "Catraca Livre",
   "categoria": "virais",
-  "imagem": "https://live.staticflickr.com/7167/6848330049_c6ec6eb220_b.jpg",
+  "imagem": "",
   "data": "2026-11-19T00:24:43+00:00",
-  "busca_imagem": "korean kimchi refrigerator",
-  "credito_link": "https://www.flickr.com/photos/30760976@N04/6848330049",
-  "imagem_tipo": "banco"
+  "busca_imagem": "kimchi refrigerator kitchen"
  },
  {
   "titulo": "Vídeos do capítulo de 'Avenida Brasil - Vale a Pena Ver de Novo - 2026' de quarta-feira, 18 de novembro de 2026",
@@ -1215,7 +1403,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-19T00:20:00+00:00",
-  "busca_imagem": "vintage television remote couch"
+  "busca_imagem": ""
  },
  {
   "titulo": "As 100 maiores estrelas de cinema de todos os tempos, segundo a 'Variety'",
@@ -1284,7 +1472,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-19T00:04:29+00:00",
-  "busca_imagem": "dental teeth smile dentist"
+  "busca_imagem": "dental braces teeth close-up"
  },
  {
   "titulo": "\"Fiz o melhor que pude\": Jennifer Lopez quebra o silêncio com desabafo comovente sobre divórcio de Ben Affleck",
@@ -1369,20 +1557,18 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-18T23:46:38+00:00",
-  "busca_imagem": "superhero comic book heroes"
+  "busca_imagem": "superhero movie poster display"
  },
  {
   "titulo": "Cachorro come grama para provocar vômito ou existe outra explicação?",
   "link": "https://catracalivre.com.br/noticias/cachorro-come-grama-para-provocar-vomito-ou-existe-outra-explicacao/",
   "trecho": "Cachorro come grama para vomitar? Pesquisas mostram que nem sempre. Entenda outros motivos do hábito e quando ele oferece riscos à saúde. O post Cachorro come grama para provocar vômito ou existe outra explicação?…",
-  "credito": "Foto: autor desconhecido / domínio público",
+  "credito": "",
   "fonte": "Catraca Livre",
   "categoria": "virais",
-  "imagem": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3B1MjM1NDc4MC1pbWFnZS1rd3Z3azQ3Ni5qcGc.jpg",
+  "imagem": "",
   "data": "2026-11-18T23:44:49+00:00",
-  "busca_imagem": "dog eating grass",
-  "credito_link": "https://www.rawpixel.com/image/5915453/photo-image-background-public-domain-nature",
-  "imagem_tipo": "banco"
+  "busca_imagem": "dog eating grass outdoors"
  },
  {
   "titulo": "Estreia da ex-BBB Alane Dias em ‘Lá na Minha Terra’ dá o que falar: ‘Ela tem’",
@@ -1421,7 +1607,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-18T23:39:22+00:00",
-  "busca_imagem": "muscular man gym workout"
+  "busca_imagem": "man fitness workout gym"
  },
  {
   "titulo": "Influenciadora anuncia gestação com Hugo Souza, do Corinthians; ex-noiva do goleiro também está grávida dele: 'Cumpre o papel de pai'",
@@ -1490,14 +1676,14 @@
   "titulo": "TV Globo, Multishow e Globoplay exibem última etapa do Circuito Sertanejo 2026 neste fim de semana",
   "link": "https://gshow.globo.com/festivais/circuito-sertanejo/noticia/tv-globo-multishow-e-globoplay-exibem-ultima-etapa-do-circuito-sertanejo-2026-neste-fim-de-semana.ghtml",
   "trecho": "Wesley Safadão fala sobre emoção de se apresentar no Circuito Sertanejo O sertanejo volta a agitar as telas da Globo no sábado (21). Multishow e Globoplay (aberto para não assinantes) transmitem ao vivo a 6ª e última…",
-  "credito": "Foto: Jamiecat * / CC BY 2.0",
   "fonte": "Gshow",
   "categoria": "televisao",
-  "imagem": "https://live.staticflickr.com/3201/2721617713_60a7e86c09_b.jpg",
   "data": "2026-11-18T23:30:51+00:00",
-  "busca_imagem": "country music concert stage",
-  "credito_link": "https://www.flickr.com/photos/27330325@N08/2721617713",
-  "imagem_tipo": "banco"
+  "busca_imagem": "sertanejo music concert stage",
+  "vetadas": [
+   "https://live.staticflickr.com/2942/15233404928_cbcb93de5b_b.jpg"
+  ],
+  "imagem": ""
  },
  {
   "titulo": "Fora de Flamengo x Athletico, Viveros visita Neymar e agradece: “Abençoado”",
@@ -1745,7 +1931,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-18T23:09:38+00:00",
-  "busca_imagem": "anime character drawing colorful"
+  "busca_imagem": "anime and cartoon drawings"
  },
  {
   "titulo": "Alexisonfire anuncia novo disco e lança a inédita \"Push The River\"",
@@ -1772,7 +1958,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-18T23:04:01+00:00",
-  "busca_imagem": "hummingbird feeding flower garden"
+  "busca_imagem": "hummingbird feeding red flowers"
  },
  {
   "titulo": "Aos 61 anos, atriz comanda sítio milionário em Petrópolis com lareira e quadra esportiva que virou refúgio rural da família",
@@ -1827,12 +2013,14 @@
   "titulo": "Unhas dos pés: 5 cores de esmalte para combinar com rasteirinhas coloridas",
   "link": "https://tvfoco.uai.com.br/unhas-dos-pes-esmaltes-rasteirinhas-coloridas/",
   "trecho": "Confira 5 cores de esmalte para usar com rasteirinha Com a chegada da primavera, as rasteirinhas coloridas ganham espaço nos looks e se tornam uma das apostas para deixar as produções mais leves, frescas e estilosas…",
-  "credito": "",
+  "credito": "Foto: Erin Costa / CC BY 2.0",
   "fonte": "OTV Foco",
   "categoria": "televisao",
-  "imagem": "",
+  "imagem": "https://live.staticflickr.com/6120/6316174086_b527a90b4f_b.jpg",
   "data": "2026-11-18T23:00:00+00:00",
-  "busca_imagem": "painted toenails colorful nail polish"
+  "busca_imagem": "colorful nail polish bottles",
+  "credito_link": "https://www.flickr.com/photos/12286015@N06/6316174086",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Vidente prevê captura de Lula e Alexandre de Moraes em operação militar e alerta para possível guerra",
@@ -1918,7 +2106,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-18T22:47:09+00:00",
-  "busca_imagem": "wicker basket weaving handicraft"
+  "busca_imagem": "wicker basket weaving craft"
  },
  {
   "titulo": "Messi aciona Justiça contra cúpula da Associação do Futebol Argentino, diz jornal; saiba o motivo (Foto: Getty)",
@@ -1929,7 +2117,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-18T22:46:57+00:00",
-  "busca_imagem": "football stadium empty night"
+  "busca_imagem": "football stadium argentina flag"
  },
  {
   "titulo": "Vidente surpreende ao expor previsão para Virginia e Leonardo: ‘Vai ter’",
@@ -1953,7 +2141,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-18T22:44:28+00:00",
-  "busca_imagem": "ancient gold coin close up"
+  "busca_imagem": "old coins close-up macro"
  },
  {
   "titulo": "SBT demite irmã de Faustão após projeto de novela enfrentar impasse nos bastidores",
@@ -2256,7 +2444,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-18T22:16:23+00:00",
-  "busca_imagem": "brain thinking decision crossroads"
+  "busca_imagem": "compass and brain decision"
  },
  {
   "titulo": "Ingressos à venda para Sesi Franca vs Caxias; expectativa é de um bom público",
@@ -2408,7 +2596,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-18T22:04:56+00:00",
-  "busca_imagem": "thermometer room temperature indoor"
+  "busca_imagem": "thermometer office room temperature"
  },
  {
   "titulo": "Uma cidade subterrânea na Turquia possui túneis, poços e sistemas de ventilação construídos séculos atrás para proteger moradores que precisavam se esconder de ameaças externas",
@@ -2419,7 +2607,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-18T22:04:13+00:00",
-  "busca_imagem": "underground cave tunnels carved rock"
+  "busca_imagem": "underground city tunnels Turkey"
  },
  {
   "titulo": "Viúvo de Rita Lee, Roberto de Carvalho celebra aniversário com a nova namorada, ex de Collor",
@@ -2539,13 +2727,13 @@
   "titulo": "GTA 6 já foi lançado? Entenda quando o game chega ao Brasil",
   "link": "https://g1.globo.com/pop-arte/games/noticia/2026/11/18/gta-6-ja-lancou-entenda-quando-o-game-chega-ao-brasil.ghtml",
   "trecho": "GTA 6 já lançou? Divulgação/Rockstar Games Afinal, GTA 6 já lançou? A resposta é: sim, em alguns países. O novo jogo da Rockstar Games começou a ser disponibilizado nesta quarta-feira (18) em regiões com fuso horário…",
-  "credito": "Foto: Matthew Paul Argall / Public domain, via Wikimedia Commons",
+  "credito": "Foto: Skakerman (Archive) / CC BY 2.0",
   "fonte": "g1",
   "categoria": "ultimas",
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Nintendo_Wii_Video_Game_Console_Pal.JPG/1280px-Nintendo_Wii_Video_Game_Console_Pal.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imagem": "https://live.staticflickr.com/8046/8440887221_b5a0641bfc_b.jpg",
   "data": "2026-11-18T21:45:22+00:00",
-  "busca_imagem": "video game console release",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Nintendo_Wii_Video_Game_Console_Pal.JPG",
+  "busca_imagem": "video game console controller",
+  "credito_link": "https://www.flickr.com/photos/27482959@N08/8440887221",
   "imagem_tipo": "banco"
  },
  {
@@ -2557,7 +2745,7 @@
   "categoria": "curiosidades",
   "imagem": "",
   "data": "2026-11-18T21:44:48+00:00",
-  "busca_imagem": "aluminum can recycling pile"
+  "busca_imagem": "child collecting aluminum cans recycling"
  },
  {
   "titulo": "A mala de viagem tem um detalhe que pode ajudar a identificar se ela foi aberta durante o transporte",
@@ -2699,7 +2887,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-18T21:30:00+00:00",
-  "busca_imagem": "thin hair volume care"
+  "busca_imagem": "thinning hair scalp close-up"
  },
  {
   "titulo": "Os 7 melhores filmes de todos os tempos, segundo Leonardo DiCaprio",
@@ -3055,7 +3243,7 @@
   "categoria": "curiosidades",
   "imagem": "",
   "data": "2026-11-18T21:00:08+00:00",
-  "busca_imagem": "mars crater glacier cliff"
+  "busca_imagem": "mars crater surface terrain"
  },
  {
   "titulo": "Rasteira em Leila? Lamacchia mira contratação de grande nome do Palmeiras ao Vasco",
@@ -3066,7 +3254,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-18T21:00:00+00:00",
-  "busca_imagem": ""
+  "busca_imagem": "soccer player transfer contract signing"
  },
  {
   "titulo": "Beatriz Vitória foi enterrada viva após sessão de tortura e detalhes cruéis do crime vêm à tona",
@@ -3286,12 +3474,14 @@
   "titulo": "Linhas de expressão: 3 cuidados essenciais para uma pele lisa e uniforme",
   "link": "https://tvfoco.uai.com.br/linhas-de-expressao-3-cuidados-para-uma-pele-lisa/",
   "trecho": "Confira 3 cuidados para reduzir linhas de expressão Manter a pele lisa, hidratada e com aparência uniforme vai muito além de investir em cremes caros. Alguns hábitos simples podem fazer toda a diferença na aparência do…",
-  "credito": "",
   "fonte": "OTV Foco",
   "categoria": "televisao",
-  "imagem": "",
   "data": "2026-11-18T20:30:00+00:00",
-  "busca_imagem": "smooth skin facial care"
+  "busca_imagem": "facial skin care serum",
+  "vetadas": [
+   "https://live.staticflickr.com/1787/43206316182_d784d6f153_b.jpg"
+  ],
+  "imagem": ""
  },
  {
   "titulo": "007: Robert Pattinson teria recebido US$ 1 milhão para fazer teste de James Bond, segundo site",
@@ -3521,14 +3711,12 @@
   "titulo": "Por que GTA 6 é mais do que apenas um jogo?",
   "link": "https://g1.globo.com/pop-arte/games/noticia/2026/11/18/por-que-gta-6-e-mais-do-que-apenas-um-jogo.ghtml",
   "trecho": "Lucia Caminos, personagem de GTA ¨6 divulgação Às vésperas do lançamento de \"Grand Theft Auto 6\", milhões de pessoas ao redor do mundo aguardam para, finalmente, poder jogá-lo. Título mobiliza diferentes gerações e já…",
-  "credito": "Foto: Skakerman (Archive) / CC BY 2.0",
+  "credito": "",
   "fonte": "g1",
   "categoria": "ultimas",
-  "imagem": "https://live.staticflickr.com/8046/8440887221_b5a0641bfc_b.jpg",
+  "imagem": "",
   "data": "2026-11-18T20:15:01+00:00",
-  "busca_imagem": "video game controller console",
-  "credito_link": "https://www.flickr.com/photos/27482959@N08/8440887221",
-  "imagem_tipo": "banco"
+  "busca_imagem": ""
  },
  {
   "titulo": "Arroz soltinho sem panela elétrica: como acertar a água e o tempo na panela comum",
@@ -3682,7 +3870,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-18T20:00:00+00:00",
-  "busca_imagem": "collagen skin treatment needles-free"
+  "busca_imagem": "collagen skin treatment device"
  },
  {
   "titulo": "Thais Carla passa por nova cirurgia após perder 131 kg e faz revelação sobre transformação do corpo",
@@ -3783,7 +3971,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-18T19:41:45+00:00",
-  "busca_imagem": "fashion designer sewing clothes"
+  "busca_imagem": ""
  },
  {
   "titulo": "MasterChef Profissionais: descubra quem é o ex-casal eliminado com uma semana de diferença",
@@ -3800,14 +3988,12 @@
   "titulo": "Sucesso LGBT+ 'Hoje Eu Quero Voltar Sozinho' será adaptado para o teatro em formato musical",
   "link": "https://revistaquem.globo.com/entretenimento/teatro/noticia/2026/11/sucesso-lgbt-hoje-eu-quero-voltar-sozinho-sera-adptado-para-o-teatro-em-formato-musical.ghtml",
   "trecho": "Um dos maiores sucessos do cinema nacional com temática LGBTQIAPN+ vai virar musical. A adaptação teatral de Hoje Eu Quero Voltar Sozinho (2014) está em desenvolvimento pelo cineasta Daniel Ribeiro, diretor do filme…",
-  "credito": "Foto: be creator / CC BY 2.0",
+  "credito": "",
   "fonte": "Quem",
   "categoria": "celebridades",
-  "imagem": "https://live.staticflickr.com/3835/14554982216_0871a2a9c4_b.jpg",
+  "imagem": "",
   "data": "2026-11-18T19:36:16+00:00",
-  "busca_imagem": "musical theater stage performance",
-  "credito_link": "https://www.flickr.com/photos/119678691@N02/14554982216",
-  "imagem_tipo": "banco"
+  "busca_imagem": "theater stage musical performance"
  },
  {
   "titulo": "Henrique reage após boatos de que Virginia foi barrada em show: ‘Sabendo’",
@@ -3846,12 +4032,14 @@
   "titulo": "Como usar camisa social: 3 ideias para tirar o look do óbvio e inovar",
   "link": "https://tvfoco.uai.com.br/como-usar-camisa-social-3-ideias-para-tirar-o-look-do-obvio/",
   "trecho": "Confira como transformar a camisa social Primeiramente, a camisa social ganhou destaque nas passarelas das semanas de moda de Nova York, Londres e Milão. Versáteis e atemporais, as peças aparecem como uma das grandes…",
-  "credito": "",
+  "credito": "Foto: markus119 / CC BY 2.0",
   "fonte": "OTV Foco",
   "categoria": "televisao",
-  "imagem": "",
+  "imagem": "https://live.staticflickr.com/65535/50562757386_86f17a9a65_b.jpg",
   "data": "2026-11-18T19:30:00+00:00",
-  "busca_imagem": "men white dress shirt style"
+  "busca_imagem": "men white dress shirt fashion",
+  "credito_link": "https://www.flickr.com/photos/35850894@N08/50562757386",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Mais de 11 anos após morte de Cristiano Araújo, disputa entre familiares vai parar na Justiça e expõe conflito por herança",
@@ -4565,7 +4753,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-18T18:00:00+00:00",
-  "busca_imagem": "eyebrow shaping closeup"
+  "busca_imagem": "eyebrow shaping makeup closeup"
  },
  {
   "titulo": "Três jogadores da FURIA entram na seleção da BLAST Rivals",
@@ -4912,7 +5100,8 @@
   "fonte": "OTV Foco",
   "categoria": "televisao",
   "imagem": "",
-  "data": "2026-11-18T17:30:00+00:00"
+  "data": "2026-11-18T17:30:00+00:00",
+  "busca_imagem": "embellished rhinestone shoes"
  },
  {
   "titulo": "Ela cresceu! Filha de Manu Gavassi surge em foto inédita com os pais",
@@ -11240,12 +11429,10 @@
   "vetadas": [
    "https://live.staticflickr.com/1349/841569706_762fbfed4b_b.jpg",
    "https://live.staticflickr.com/3127/2592014018_d8b0c630e6_b.jpg",
-   "https://live.staticflickr.com/7376/16438823702_a54a499c83_b.jpg"
+   "https://live.staticflickr.com/7376/16438823702_a54a499c83_b.jpg",
+   "https://live.staticflickr.com/1010/1217925851_a8716a0a06_b.jpg"
   ],
-  "imagem": "https://live.staticflickr.com/1010/1217925851_a8716a0a06_b.jpg",
-  "credito": "Foto: shawnzrossi / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/19517696@N00/1217925851",
-  "imagem_tipo": "banco"
+  "imagem": ""
  },
  {
   "titulo": "Unhas após os 50: O que muda e quais tratamentos ajudam a evitar quebras",
@@ -31578,99 +31765,5 @@
   "imagem": "",
   "data": "2026-11-15T04:40:00+00:00",
   "busca_imagem": ""
- },
- {
-  "titulo": "Shawn Mendes canta em festa de casamento: 'Eiro, eiro, eiro, Shawn é brasileiro!'; vídeos",
-  "link": "https://revistaquem.globo.com/eventos/casamentos/noticia/2026/11/shawn-mendes-canta-em-festa-de-casamento-de-leo-fuchs-shawn-e-brasileiro.ghtml",
-  "trecho": "Shawn Mendes, de 29 anos de idade, mostrou que já está mais do que pronto pra receber seu CPF brasileiro! O cantor canadense, namorado de Bruna Marquezine, soltou a voz, empolgadíssimo, na festa de casamento de Leo…",
-  "credito": "Foto: Cosmopolitan UK / CC BY 3.0, via Wikimedia Commons",
-  "fonte": "Quem",
-  "categoria": "celebridades",
-  "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/191125_Shawn_Mendes_at_the_2019_American_Music_Awards.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "data": "2026-11-15T04:32:01+00:00",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:191125_Shawn_Mendes_at_the_2019_American_Music_Awards.png",
-  "imagem_tipo": "pessoa",
-  "pessoa": "Shawn Mendes"
- },
- {
-  "titulo": "Jones Manoel aponta risco à qualidade da água após concessão de serviços da Compesa",
-  "link": "https://blogdomagno.com.br/jones-manoel-aponta-risco-a-qualidade-da-agua-apos-concessao-de-servicos-da-compesa/",
-  "trecho": "",
-  "fonte": "Blog do Magno",
-  "categoria": "em-alta",
-  "data": "2026-11-15T04:20:00+00:00",
-  "imagem": "",
-  "em_alta": "jones manoel · 100+ buscas",
-  "busca_imagem": "water tap glass drinking"
- },
- {
-  "titulo": "Opinião - Breno Altman e Jones Manoel: Réplica: Sionismo é racismo",
-  "link": "https://www1.folha.uol.com.br/opiniao/2026/11/replica-sionismo-e-racismo.shtml",
-  "trecho": "",
-  "fonte": "Folha de S.Paulo",
-  "categoria": "em-alta",
-  "data": "2026-11-15T04:20:00+00:00",
-  "imagem": "",
-  "em_alta": "jones manoel · 100+ buscas",
-  "busca_imagem": "political debate microphone"
- },
- {
-  "titulo": "Especialistas recomendam misturar azeite com creme Nivea na embalagem azul: porquê e para que serve",
-  "link": "https://catracalivre.com.br/saude-bem-estar/especialistas-recomendam-misturar-azeite-com-creme-nivea-na-embalagem-azul-porque-e-para-que-serve/",
-  "trecho": "Misturar creme Nivea azul com azeite pode suavizar áreas ressecadas, mas exige cautela. Entenda os efeitos, riscos e a forma segura de aplicar na pele. O post Especialistas recomendam misturar azeite com creme Nivea na…",
-  "credito": "",
-  "fonte": "Catraca Livre",
-  "categoria": "virais",
-  "imagem": "",
-  "data": "2026-11-15T04:14:45+00:00",
-  "busca_imagem": "blue cream jar olive oil"
- },
- {
-  "titulo": "Três novas plantas foram descobertas na Mata Atlântica, e duas já preocupam pesquisadores",
-  "link": "https://catracalivre.com.br/noticias/tres-novas-plantas-foram-descobertas-na-mata-atlantica-e-duas-ja-preocupam-pesquisadores/",
-  "trecho": "Três plantas desconhecidas pela ciência foram identificadas na Mata Atlântica, mas duas já preocupam pesquisadores pelo risco de extinção. O post Três novas plantas foram descobertas na Mata Atlântica, e duas já…",
-  "credito": "Foto: europeanspaceagency / CC BY-SA 2.0",
-  "fonte": "Catraca Livre",
-  "categoria": "virais",
-  "imagem": "https://live.staticflickr.com/65535/51753910195_211ca56865_b.jpg",
-  "data": "2026-11-15T04:04:14+00:00",
-  "busca_imagem": "atlantic forest plants",
-  "credito_link": "https://www.flickr.com/photos/37472264@N04/51753910195",
-  "imagem_tipo": "banco"
- },
- {
-  "titulo": "Vídeos do capítulo de 'Quem Ama Cuida' de sábado, 14 de novembro de 2026",
-  "link": "https://gshow.globo.com/novelas/quem-ama-cuida/capitulo/2026/11/14/videos-do-capitulo-de-quem-ama-cuida-de-sabado-14-de-novembro-de-2026.ghtml",
-  "trecho": "Assista gratuitamente aos vídeos de 'Quem Ama Cuida' de sábado, 14/11",
-  "credito": "",
-  "fonte": "Gshow",
-  "categoria": "televisao",
-  "imagem": "",
-  "data": "2026-11-15T04:00:00+00:00",
-  "busca_imagem": ""
- },
- {
-  "titulo": "Yousri Belgaroui | Fine-Tuned By The Best",
-  "link": "https://www.ufc.com.br/news/yousri-belgaroui-fine-tuned-best-polymarket-ufc-334",
-  "trecho": "",
-  "fonte": "UFC.com.br",
-  "categoria": "em-alta",
-  "data": "2026-11-15T04:00:00+00:00",
-  "imagem": "",
-  "em_alta": "belgaroui · 200+ buscas",
-  "busca_imagem": ""
- },
- {
-  "titulo": "Ex-casal, Marisa Monte e Nando Reis cantam juntos em encerramento de turnê da cantora",
-  "link": "https://revistaquem.globo.com/entretenimento/musica/noticia/2026/11/ex-casal-marisa-monte-e-nando-reis-cantam-juntos-em-encerramento-de-turne-da-cantora.ghtml",
-  "trecho": "Marisa Monte encerrou sua turnê Phonica - Marisa Monte & Orquesta Ao Vivo neste sábado (14), com um show no Nubank Parque, em São Paulo, para mais de 40 mil pessoas, e com uma participação daquelas no palco: o…",
-  "credito": "Foto: TSE - Tribunal Superior Eleitoral / Public domain, via Wikimedia Commons",
-  "fonte": "Quem",
-  "categoria": "celebridades",
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Marisa_Monte_TSE_2025.jpg/1280px-Marisa_Monte_TSE_2025.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "data": "2026-11-15T03:39:57+00:00",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Marisa_Monte_TSE_2025.jpg",
-  "imagem_tipo": "pessoa",
-  "pessoa": "Marisa Monte"
  }
 ]
