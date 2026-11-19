@@ -6703,8 +6703,46 @@
    "tipo": "instagram",
    "url": "https://www.instagram.com/p/DfkCOJPjQiN/"
   },
-  "imagem": "https://live.staticflickr.com/2123/2322445722_5e09a21c4a_b.jpg",
-  "credito": "Foto: William Hook / CC BY-SA 2.0",
-  "credito_link": "https://www.flickr.com/photos/83542829@N00/2322445722"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://www1.folha.uol.com.br/mercado/2026/11/inss-adotara-prazo-maior-para-analise-de-pedidos-de-bpc-e-outros-beneficios-entenda.shtml": {
+  "recusado": true,
+  "criado": "2026-11-19T03:30:04.176294+00:00"
+ },
+ "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17527843/vitoria-bragantino-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-jogo-brasileirao": {
+  "recusado": true,
+  "criado": "2026-11-19T03:30:04.176294+00:00"
+ },
+ "https://noticiasdatv.uol.com.br/noticia/a-fazenda/enquete-a-fazenda-18-votacao-aponta-quem-sai-e-mostra-favorito-em-parcial-159687": {
+  "publicar": true,
+  "titulo": "A Fazenda 18: Alfredo, Darlin e Lucas disputam a 9ª roça",
+  "linha_fina": "Ana Bruna venceu a Prova do Fazendeiro e os três roceiros agora correm risco de eliminação no reality rural",
+  "paragrafos": [
+   "Alfredo Amaral, Darlin Ferrattry e Lucas Bissoli foram escalados para a 9ª roça de A Fazenda 18 nesta quarta-feira (18), após a vitória de Ana Bruna Avila na Prova do Fazendeiro.",
+   "Somente Ana Bruna, Darlin e Lucas entraram na disputa pelo chapéu de fazendeiro. Alfredo ficou de fora dessa atividade, porque foi impedido de competir na terça-feira (17), quando a berlinda estava sendo formada.",
+   "A prova combinou velocidade, força e equilíbrio. Primeiro, os peões tinham de cavar com as mãos em um tanque de areia para achar pepitas de ouro. Depois, levavam o material em um carrinho de mineração por um trajeto cheio de obstáculos. Na última fase, empurravam as pepitas com os pés, subindo um paredão com prateleiras móveis até um reservatório. Quem juntou mais pepitas até o fim do tempo venceu.",
+   "Durante o programa ao vivo, os três roceiros fizeram suas defesas para continuar na briga pelo prêmio em dinheiro. Alfredo pediu votos e disse que seu jogo é diferente. Lucas afirmou que está feliz com a própria trajetória e que nunca foi de grupo. Darlin lembrou os 17 anos no programa e pediu que o público o mantenha na casa."
+  ],
+  "tags": [
+   "A Fazenda 18",
+   "roça",
+   "reality show",
+   "eliminação"
+  ],
+  "pessoa": "",
+  "busca_imagem": "farm field countryside",
+  "criado": "2026-11-19T03:30:04.176294+00:00",
+  "slug": "a-fazenda-18-alfredo-darlin-e-lucas-disputam-a-9a-roca-a624ec",
+  "fonte": "Notícias da TV",
+  "link": "https://noticiasdatv.uol.com.br/noticia/a-fazenda/enquete-a-fazenda-18-votacao-aponta-quem-sai-e-mostra-favorito-em-parcial-159687",
+  "categoria": "em-alta",
+  "data": "2026-11-19T03:00:00+00:00",
+  "titulo_original": "Enquete A Fazenda 18: Votação aponta quem sai e mostra favorito em parcial",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/4122/4827213752_115129b9ed_b.jpg",
+  "credito": "Foto: OLC Fiber / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/28738199@N03/4827213752"
  }
 }
