@@ -7472,12 +7472,50 @@
    "id": "n52uZYYXPAg",
    "url": "https://www.youtube.com/watch?v=n52uZYYXPAg"
   },
-  "imagem": "https://live.staticflickr.com/3035/2576476731_5841c68fae_b.jpg",
-  "credito": "Foto: Brady O'Brien / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/7982661@N05/2576476731"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www.estadao.com.br/internacional/apos-prisao-nos-eua-policia-filipina-pede-indiciamento-do-pai-de-meghan-markle-npr/": {
   "recusado": true,
   "criado": "2026-11-19T22:47:17.856564+00:00"
+ },
+ "https://guia.folha.uol.com.br/cinema/2026/11/com-retorno-de-jennifer-lawrence-jogos-vorazes-amanhecer-na-colheita-estreia-nos-cinemas.shtml": {
+  "recusado": true,
+  "criado": "2026-11-19T23:41:43.290737+00:00"
+ },
+ "https://www.terra.com.br/esportes/futebol/mercado-da-bola/flamengo-entra-na-briga-com-o-vasco-por-volante-do-goias,ebfbd3cfe897f41245370074f798b8693lj2h2he.html": {
+  "publicar": true,
+  "titulo": "Lucas Rodrigues: Flamengo faz oferta de R$ 42,2 milhões e disputa com Vasco",
+  "linha_fina": "Proposta do Rubro-Negro para ficar com 70% dos direitos econômicos do volante de 19 anos mira a temporada 2027, enquanto o rival está em negociação avançada",
+  "paragrafos": [
+   "O Flamengo apresentou uma proposta ao Goiás pelo volante Lucas Rodrigues, de 19 anos, que também integra a Seleção Brasileira Sub-20. A oferta, segundo o jornalista Venê Casagrande, foi divulgada nesta quinta-feira (19/11) e pensa na temporada de 2027.",
+   "O valor citado é de 6,5 milhões de euros, o equivalente a R$ 42,2 milhões na cotação atual, por 70% dos direitos econômicos do jogador. O pacote inclui bônus ligados a desempenho e uma cláusula que permite ao clube comprar mais 10% dos direitos por 700 mil euros, cerca de R$ 4,5 milhões.",
+   "Há, porém, concorrência direta. Segundo a mesma publicação, o Vasco já mantém conversas avançadas com o empresário do atleta e tem reunião marcada com a diretoria do Goiás para fechar o negócio. No caso do clube cruz-maltino, os valores ainda estão em discussão.",
+   "O meio-campista também chama atenção de clubes estrangeiros. Ele tem cinco partidas pela Seleção Sub-20, todas em 2026, e marcou um gol na goleada por 4 a 1 sobre a Dinamarca, em 28/9. Pelo Goiás, clube onde se formou, já soma 37 jogos, sendo 34 neste ano, com seis gols e uma assistência. A equipe terminou a Série B em oitavo lugar e segue no torneio em 2027."
+  ],
+  "tags": [
+   "Lucas Rodrigues",
+   "Flamengo",
+   "Vasco",
+   "Goiás"
+  ],
+  "pessoa": "Lucas Rodrigues",
+  "busca_imagem": "soccer midfielder action",
+  "criado": "2026-11-19T23:41:43.290737+00:00",
+  "slug": "lucas-rodrigues-flamengo-faz-oferta-de-r-42-2-milhoes-e-disputa-com-va-9da5ff",
+  "fonte": "Terra",
+  "link": "https://www.terra.com.br/esportes/futebol/mercado-da-bola/flamengo-entra-na-briga-com-o-vasco-por-volante-do-goias,ebfbd3cfe897f41245370074f798b8693lj2h2he.html",
+  "categoria": "em-alta",
+  "data": "2026-11-19T23:20:00+00:00",
+  "titulo_original": "Flamengo entra na briga com o Vasco por volante do Goiás",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/2466/3925632034_ba746def7a_b.jpg",
+  "credito": "Foto: artwork_rebel / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/24092012@N03/3925632034"
+ },
+ "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/11/tv-de-ratinho-acaba-com-programa-e-demite-15-profissionais-para-cortar-custos.shtml": {
+  "recusado": true,
+  "criado": "2026-11-19T23:41:43.290737+00:00"
  }
 }
