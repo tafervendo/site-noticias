@@ -6948,9 +6948,9 @@
   "data": "2026-11-19T09:30:00+00:00",
   "titulo_original": "Previsão do tempo em Montes Claros hoje: veja como fica o clima nesta quinta-feira",
   "post": null,
-  "imagem": "https://live.staticflickr.com/3183/2813333247_a3617035f6_b.jpg",
-  "credito": "Foto: kevin dooley / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/12836528@N00/2813333247"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www.estadao.com.br/em-alta/einvestidor/onde-investir/rede-dor-se-desfaz-de-negocio-milionario-em-acordo-com-a-blackrock-citi-ve-ganhos-estrategicos/": {
   "recusado": true,
@@ -6992,5 +6992,51 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bela_Gil%2C_February_2022.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: Lula Oficial / CC BY-SA 4.0, via Wikimedia Commons",
   "credito_link": ""
+ },
+ "https://www.diariodocentrodomundo.com.br/vagabundo-o-argumento-de-lucas-pavanato-em-processo-movido-por-caetano-veloso/": {
+  "recusado": true,
+  "criado": "2026-11-19T11:04:07.429209+00:00"
+ },
+ "https://crfce.org.br/2026/11/19/calendario-19-de-novembro-dia-internacional-do-homem-2/": {
+  "recusado": true,
+  "criado": "2026-11-19T11:04:07.429209+00:00"
+ },
+ "https://www.cnnbrasil.com.br/nacional/sudeste/sp/suspeita-de-chefiar-esquema-de-fraude-fiscal-de-r-13-bi-e-presa-em-sp/": {
+  "recusado": true,
+  "criado": "2026-11-19T11:04:07.429209+00:00"
+ },
+ "https://revistaforum.com.br/politica/nuvem-willer-flavio-bolsonaro/": {
+  "recusado": true,
+  "criado": "2026-11-19T11:04:07.429209+00:00"
+ },
+ "https://noticias.sorocaba.sp.gov.br/usf-sao-bento-leva-orientacoes-e-servicos-de-saude-ao-clube-do-idoso/": {
+  "publicar": true,
+  "titulo": "USF São Bento leva atendimento de saúde e bate-papo ao Clube do Idoso em Sorocaba",
+  "linha_fina": "Ação reuniu mais de 50 idosos com testes rápidos de ISTs, auriculoterapia e roda de conversa sobre envelhecimento ativo",
+  "paragrafos": [
+   "Nesta quarta-feira (18), a equipe da Unidade de Saúde da Família do Parque São Bento levou serviços de saúde e uma conversa sobre envelhecimento ao Clube do Idoso, no bairro Pinheiros. A iniciativa é da Prefeitura de Sorocaba, por meio das secretarias da Saúde e da Cidadania.",
+   "O encontro, intitulado \"Idoso ativo e feliz\", abordou afeto, intimidade, prevenção de infecções sexualmente transmissíveis e autocuidado. Os assuntos foram tratados de forma leve por residentes de Clínica Médica da PUC-SP, junto da médica preceptora Renata Michellim.",
+   "Mais de 50 idosos participaram da manhã, que incluiu testes rápidos de ISTs e sessões de auriculoterapia. Para encerrar, os estudantes organizaram jogos de convivência e um karaokê.",
+   "A coordenadora da USF São Bento, Marcia Lourencio, disse que a proposta é quebrar preconceitos e estimular o diálogo sobre sexualidade e qualidade de vida na terceira idade. A coordenadora do Clube do Idoso, Faiga Raiça Damian, avaliou positivamente a atividade."
+  ],
+  "tags": [
+   "USF São Bento",
+   "Clube do Idoso",
+   "Sorocaba",
+   "saúde do idoso"
+  ],
+  "pessoa": "",
+  "busca_imagem": "senior community workshop",
+  "criado": "2026-11-19T11:04:07.429209+00:00",
+  "slug": "usf-sao-bento-leva-atendimento-de-saude-e-bate-papo-ao-clube-do-idoso-1fabd6",
+  "fonte": "Prefeitura de Sorocaba",
+  "link": "https://noticias.sorocaba.sp.gov.br/usf-sao-bento-leva-orientacoes-e-servicos-de-saude-ao-clube-do-idoso/",
+  "categoria": "em-alta",
+  "data": "2026-11-19T10:20:00+00:00",
+  "titulo_original": "USF São Bento leva orientações e serviços de saúde ao Clube do Idoso",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Community_center_hosts_Valentine%27s_Day_workshop_120214-F-BS505-053.jpg/1280px-Community_center_hosts_Valentine%27s_Day_workshop_120214-F-BS505-053.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Senior Airman Clayton Lenhardt / Public domain, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Community_center_hosts_Valentine%27s_Day_workshop_120214-F-BS505-053.jpg"
  }
 }
