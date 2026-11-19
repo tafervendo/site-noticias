@@ -6911,12 +6911,86 @@
   "data": "2026-11-19T08:20:00+00:00",
   "titulo_original": "O rito dos oportunistas",
   "post": null,
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg/1280px-Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credito": "Foto: Joe Ravi / CC BY-SA 3.0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://iclnoticias.com.br/metropoles-escandalo-imprensa-crise-estrutural/": {
   "recusado": true,
   "criado": "2026-11-19T08:42:16.327279+00:00"
+ },
+ "https://www1.folha.uol.com.br/mercado/2026/11/veja-quais-sao-os-direitos-de-quem-trabalha-no-feriado-da-consciencia-negra.shtml": {
+  "recusado": true,
+  "criado": "2026-11-19T10:00:28.016270+00:00"
+ },
+ "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-em-montes-claros-hoje-veja-como-fica-o-clima-nesta-quinta-feira,31cae0842ededf7a3572c0ac61bf4519jvmd8y9i.html": {
+  "publicar": true,
+  "titulo": "Previsão do tempo em Montes Claros nesta quinta-feira: pancadas de chuva passageiras",
+  "linha_fina": "Mínima de 20°C e máxima de 26°C, com sol entre nuvens e chuva rápida ao longo do dia, segundo o Climatempo",
+  "paragrafos": [
+   "Montes Claros, no norte de Minas Gerais, deve ter pancadas de chuva passageiras nesta quinta-feira, 19, segundo dados do Climatempo consultados às 4h01. A instabilidade aparece em meio a momentos de sol.",
+   "As temperaturas devem ficar entre 20°C na madrugada e 26°C no pico da tarde, com sensação térmica entre 23°C e 26°C. A umidade relativa do ar deve variar de 75% a 98% ao longo do dia, e o vento soprará fraco, com velocidade média de cerca de 5 km/h.",
+   "As chuvas rápidas são previstas tanto de dia quanto à noite, mantendo o ambiente úmido na região. Pela manhã, o termômetro sobe gradualmente, e à noite recua para a faixa de 21°C a 24°C.",
+   "Com a alternância entre sol e chuva, a recomendação é redobrar a atenção no trânsito por causa do piso molhado e considerar a possibilidade de chuva ao planejar atividades ao ar livre."
+  ],
+  "tags": [
+   "previsão do tempo",
+   "Montes Claros",
+   "clima Minas Gerais"
+  ],
+  "pessoa": "",
+  "busca_imagem": "rain city cloudy sky",
+  "criado": "2026-11-19T10:00:28.016270+00:00",
+  "slug": "previsao-do-tempo-em-montes-claros-nesta-quinta-feira-pancadas-de-chuv-2ad426",
+  "fonte": "Terra",
+  "link": "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-em-montes-claros-hoje-veja-como-fica-o-clima-nesta-quinta-feira,31cae0842ededf7a3572c0ac61bf4519jvmd8y9i.html",
+  "categoria": "em-alta",
+  "data": "2026-11-19T09:30:00+00:00",
+  "titulo_original": "Previsão do tempo em Montes Claros hoje: veja como fica o clima nesta quinta-feira",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/3183/2813333247_a3617035f6_b.jpg",
+  "credito": "Foto: kevin dooley / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/12836528@N00/2813333247"
+ },
+ "https://www.estadao.com.br/em-alta/einvestidor/onde-investir/rede-dor-se-desfaz-de-negocio-milionario-em-acordo-com-a-blackrock-citi-ve-ganhos-estrategicos/": {
+  "recusado": true,
+  "criado": "2026-11-19T10:00:28.016270+00:00"
+ },
+ "https://www.estadao.com.br/esportes/marcel-rizzo/flamengo-se-une-a-palmeiras-e-outros-cinco-clubes-e-nao-assina-carta-pedindo-socorro-ao-governo/": {
+  "recusado": true,
+  "criado": "2026-11-19T10:00:28.016270+00:00"
+ },
+ "https://www.uol.com.br/splash/noticias/2026/11/18/saia-justa.ghtm": {
+  "publicar": true,
+  "titulo": "Bela Gil deixa o Saia Justa após quatro anos no programa",
+  "linha_fina": "Apresentadora não integra a próxima temporada e diz que decisão não foi fácil; despedida aconteceu no episódio desta quarta-feira (18)",
+  "paragrafos": [
+   "A apresentadora Bela Gil, de 38 anos, vai deixar o Saia Justa, do GNT, e não deve integrar o programa na próxima temporada. A saída foi revelada no episódio desta quarta-feira (18), quando Eliana anunciou nos minutos finais que uma das apresentadoras se despediria da atração.",
+   "Ao falar sobre a decisão, Bela explicou que entrou no programa em um momento de transformação pessoal e que, após um ciclo de quatro anos, sente que o Saia foi importante para sua reorganização. Segundo ela, agora está pronta para novos desafios.",
+   "Eliana se emocionou durante a despedida e relembrou a recepção calorosa que recebeu de Bela quando chegou ao programa. Julitte também chorou e disse que a colega abriu caminhos e a inspirou em momentos de medo.",
+   "Bela afirmou que sentirá falta das colegas e que considera ter cumprido seu papel na atração."
+  ],
+  "tags": [
+   "Bela Gil",
+   "Saia Justa",
+   "GNT",
+   "despedida"
+  ],
+  "pessoa": "Bela Gil",
+  "busca_imagem": "television studio talk show",
+  "criado": "2026-11-19T10:00:28.016270+00:00",
+  "slug": "bela-gil-deixa-o-saia-justa-apos-quatro-anos-no-programa-15cdfb",
+  "fonte": "UOL",
+  "link": "https://www.uol.com.br/splash/noticias/2026/11/18/saia-justa.ghtm",
+  "categoria": "em-alta",
+  "data": "2026-11-19T09:10:00+00:00",
+  "titulo_original": "Bela Gil se despede e deixa o Saia Justa: 'Não é uma decisão fácil'",
+  "post": {
+   "tipo": "x",
+   "url": "https://twitter.com/canalgnt/status/2123246001729286532"
+  },
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bela_Gil%2C_February_2022.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Lula Oficial / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": ""
  }
 }
