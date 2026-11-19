@@ -7163,9 +7163,9 @@
   "data": "2026-11-19T15:10:00+00:00",
   "titulo_original": "Crianças escrevem cartas à Rainha Laelia",
   "post": null,
-  "imagem": "https://live.staticflickr.com/1405/1430903600_a805c1d592_b.jpg",
-  "credito": "Foto: wyntuition / CC BY-SA 2.0",
-  "credito_link": "https://www.flickr.com/photos/15926096@N00/1430903600"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://veja.abril.com.br/economia/o-pior-cenario-para-a-disparada-do-dolar-se-lula-nao-resolver-a-questao-fiscal/": {
   "recusado": true,
@@ -7182,5 +7182,99 @@
  "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/11/apos-anos-sumido-aroldo-ressurge-em-armacao-de-vanessa-contra-bela-em-por-voce.shtml": {
   "recusado": true,
   "criado": "2026-11-19T15:56:37.053729+00:00"
+ },
+ "https://agenciagov.ebc.com.br/noticias/202611/feminicidios-reduzem-5-9-no-brasil-e-queda-e-quase-seis-vezes-maior-em-municipios-com-acoes-da-operacao-mulher-segura": {
+  "recusado": true,
+  "criado": "2026-11-19T17:02:38.420420+00:00"
+ },
+ "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-em-vitoria-hoje-veja-como-fica-o-clima-nesta-quinta-feira,e6d1b8096eed387129ae7235fdb6273cuiskqpqo.html": {
+  "publicar": true,
+  "titulo": "Previsão do tempo em Vitória: quinta-feira com calor, chuva à tarde e noite",
+  "linha_fina": "Máxima de 32°C está prevista para a capital capixaba, com pancadas de chuva a partir do período da tarde",
+  "paragrafos": [
+   "Vitória começa a quinta-feira, 19 de novembro, com céu de sol dividido com numerosas nuvens, segundo dados do Climatempo consultados às 4h da manhã.",
+   "Ao longo do dia, o tempo deve mudar: a manhã segue abafada, e a chegada de áreas de instabilidade traz pancadas de chuva para os períodos seguintes. As temperaturas vão de mínima de 22°C a máxima de 32°C, com sensação térmica entre 27°C e 30°C.",
+   "A umidade do ar fica alta, entre 70% e 95%, o que favorece o aumento das nuvens. Os ventos de norte-nordeste sopram a cerca de 13 km/h na costa.",
+   "A chuva prevista a partir da tarde pode atrapalhar o trânsito nas principais avenidas da cidade, com vias molhadas. Quem sai no horário de pico ou faz atividades ao ar livre no fim do dia deve se preparar para chuva moderada a forte."
+  ],
+  "tags": [
+   "previsão do tempo",
+   "Vitória",
+   "chuva",
+   "clima"
+  ],
+  "pessoa": "",
+  "busca_imagem": "rainy city street",
+  "criado": "2026-11-19T17:02:38.420420+00:00",
+  "slug": "previsao-do-tempo-em-vitoria-quinta-feira-com-calor-chuva-a-tarde-e-no-4635d6",
+  "fonte": "Terra",
+  "link": "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-em-vitoria-hoje-veja-como-fica-o-clima-nesta-quinta-feira,e6d1b8096eed387129ae7235fdb6273cuiskqpqo.html",
+  "categoria": "em-alta",
+  "data": "2026-11-19T16:10:00+00:00",
+  "titulo_original": "Previsão do tempo em Vitória hoje: veja como fica o clima nesta quinta-feira",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/1423/5180603578_ab7d8532dc_b.jpg",
+  "credito": "Foto: Wonderlane / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/71401718@N00/5180603578"
+ },
+ "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-em-maringa-hoje-veja-como-fica-o-clima-nesta-quinta-feira,392b9b501c999b2b1bff3f9fb70a38bbsu9ck54q.html": {
+  "publicar": true,
+  "titulo": "Previsão do tempo em Maringá nesta quinta-feira: calor de até 31°C e chuvas rápidas",
+  "linha_fina": "Probabilidade de pancadas passageiras é de 81%, com acumulado de 7,1 mm segundo o Climatempo",
+  "paragrafos": [
+   "Maringá, no Paraná, terá uma quinta-feira, 19 de novembro, com sol entre algumas nuvens e pancadas de chuva passageiras, de acordo com a previsão do Climatempo. A temperatura deve variar de 22°C pela manhã cedo a máxima de 31°C no período de maior insolação.",
+   "A sensação térmica deve ficar entre 26°C e 30°C. A umidade relativa do ar deve oscilar entre 65% e 93% ao longo do dia, com ventos de nordeste e noroeste a cerca de 6 km/h.",
+   "O volume de chuva previsto é de 7,1 milímetros, com 81% de probabilidade de ocorrência. Segundo a previsão, a água deve cair de forma rápida, de dia e à noite, intercalada com momentos de abertura, sem chuva contínua.",
+   "Ao longo do dia, a madrugada fica entre 23°C e 24°C, a manhã entre 22°C e 25°C e a tarde é o período mais quente, com 27°C a 31°C. À noite, os termômetros devem recuar para a faixa de 25°C a 30°C.",
+   "Diante do calor e das pancadas pontuais, a recomendação é levar guarda-chuva para quem circula pela cidade e escolher roupas leves para enfrentar as temperaturas elevadas."
+  ],
+  "tags": [
+   "previsão do tempo",
+   "Maringá",
+   "clima Paraná"
+  ],
+  "pessoa": "",
+  "busca_imagem": "rainy city weather",
+  "criado": "2026-11-19T17:02:38.420420+00:00",
+  "slug": "previsao-do-tempo-em-maringa-nesta-quinta-feira-calor-de-ate-31c-e-chu-ebd18e",
+  "fonte": "Terra",
+  "link": "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-em-maringa-hoje-veja-como-fica-o-clima-nesta-quinta-feira,392b9b501c999b2b1bff3f9fb70a38bbsu9ck54q.html",
+  "categoria": "em-alta",
+  "data": "2026-11-19T16:00:00+00:00",
+  "titulo_original": "Previsão do tempo em Maringá hoje: veja como fica o clima nesta quinta-feira",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/7175/6546101933_8eef029efe_b.jpg",
+  "credito": "Foto: It's No Game / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/29057345@N04/6546101933"
+ },
+ "https://www.infomoney.com.br/mercados/marcopolo-pomo4-fecha-acordo-para-pdv-e-suspensao-temporaria-de-contratos/": {
+  "publicar": true,
+  "titulo": "Marcopolo (POMO4) fecha acordo para PDV e suspensão de contratos em Caxias do Sul; ações caem",
+  "linha_fina": "Ações da fabricante de carrocerias de ônibus recuam cerca de 4,8% na Bolsa, com desvalorização de mais de 37% no ano",
+  "paragrafos": [
+   "A Marcopolo fechou um acordo coletivo de trabalho que lhe dá espaço para aplicar, quando julgar necessário, um programa de desligamento voluntário e para suspender temporariamente contratos de funcionários das fábricas de Caxias do Sul, no Rio Grande do Sul. A informação consta de comunicado da companhia.",
+   "Segundo a empresa, a iniciativa faz parte de um processo contínuo de ajuste das operações industriais, com foco em ganhar competitividade e eficiência sem abrir mão da capacidade de produção.",
+   "Na Bolsa, por volta do meio-dia e meia, os papéis da fabricante chegaram a cair 4,76%, cotados a R$ 3,60, o pior resultado entre as ações do Ibovespa, que recuava 0,5%. No ano, a ação acumula perda superior a 37%.",
+   "Analistas do Citi avaliam que, por falta de números sobre quantos trabalhadores serão atingidos, fica difícil medir o efeito sobre os resultados. Ainda assim, veem o movimento como um sinal negativo para a procura nos últimos meses de 2026 e nos primeiros meses de 2027, lembrando que cortes parecidos ocorreram em períodos de forte retração do setor, como na pandemia e na crise de 2015 e 2016."
+  ],
+  "tags": [
+   "Marcopolo",
+   "POMO4",
+   "ações",
+   "demissões voluntárias"
+  ],
+  "pessoa": "",
+  "busca_imagem": "bus manufacturing factory",
+  "criado": "2026-11-19T17:02:38.420420+00:00",
+  "slug": "marcopolo-pomo4-fecha-acordo-para-pdv-e-suspensao-de-contratos-em-caxi-1e9c63",
+  "fonte": "InfoMoney",
+  "link": "https://www.infomoney.com.br/mercados/marcopolo-pomo4-fecha-acordo-para-pdv-e-suspensao-temporaria-de-contratos/",
+  "categoria": "em-alta",
+  "data": "2026-11-19T15:30:00+00:00",
+  "titulo_original": "Marcopolo (POMO4) fecha acordo para PDV e suspensão temporária de contratos; ação cai",
+  "post": null,
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  }
 }
