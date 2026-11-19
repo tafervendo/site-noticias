@@ -6624,9 +6624,9 @@
   "data": "2026-11-19T00:40:00+00:00",
   "titulo_original": "Flamengo x Palmeiras: informações sobre ingressos para a partida pelo Brasileirão",
   "post": null,
-  "imagem": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL3B4NTU5NDQ1LWltYWdlLmpwZw.jpg",
-  "credito": "Foto: autor desconhecido / domínio público",
-  "credito_link": "https://www.rawpixel.com/image/8809293/photo-image-light-person-green"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://veja.abril.com.br/cultura/a-gafe-de-simaria-com-ator-comprometido-na-danca-dos-famosos/": {
   "recusado": true,
@@ -6657,8 +6657,54 @@
   "data": "2026-11-19T00:40:00+00:00",
   "titulo_original": "Danilo Forte busca apoio do Ministério do Turismo para fortalecer eventos e impulsionar o turismo no Ceará",
   "post": null,
-  "imagem": "https://live.staticflickr.com/5123/5269533104_48f07acc55_b.jpg",
-  "credito": "Foto: David Berkowitz / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/25897810@N00/5269533104"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://www.gazetadopovo.com.br/mundo/ong-denuncia-quase-mil-violacoes-de-direitos-humanos-em-cuba-em-apenas-um-mes/": {
+  "recusado": true,
+  "criado": "2026-11-19T02:30:19.483655+00:00"
+ },
+ "https://internacional.com.br/noticias/feminino/sub-17-vence-classico-gre-nal-e-abre-vantagem-na-final-do-gauchao-feminino": {
+  "recusado": true,
+  "criado": "2026-11-19T02:30:19.483655+00:00"
+ },
+ "https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/11/a-seis-dias-da-final-miss-brasil-passa-mal-e-se-afasta-da-agenda-do-miss-universo-2026.shtml": {
+  "recusado": true,
+  "criado": "2026-11-19T02:30:19.483655+00:00"
+ },
+ "https://www.terra.com.br/diversao/gente/a-clinica-diretora-revela-o-que-fez-medico-envolvido-no-caso-ryan-gracie-quebrar-o-silencio-apos-anos,0771b598546a2b496fe5fe5ddc8be51cupj2afqw.html": {
+  "publicar": true,
+  "titulo": "Camila Appel revela bastidores para trazer médico de 'A Clínica' a depoimento",
+  "linha_fina": "Fundador da Clínica Maxwell aceitou gravar após meses de insistência, segundo a diretora, e a entrevista vai ao ar na quarta-feira (18)",
+  "paragrafos": [
+   "Em entrevista à coluna Play, do O Globo, a diretora Camila Appel contou como foi difícil conseguir a participação do psiquiatra Sabino Ferreira, de 75 anos, fundador da Clínica Maxwell, na série documental do Globoplay. Segundo ela, o médico resistiu por meses antes de aceitar gravar seu relato, que entra no ar na quarta-feira (18).",
+   "Sabino, que teve o nome ligado à investigação sobre a morte do lutador Ryan Gracie, em 2007, quando estava detido em uma delegacia de São Paulo, não queria conversar no começo. Ainda de acordo com a diretora, ele achava que vinha sendo mal retratado pela imprensa. Familiares do atleta o responsabilizaram pela morte, mas ele foi condenado em primeira instância e depois absolvido pela Justiça.",
+   "As primeiras aproximações começaram em 2023, durante a pesquisa para outro documentário sobre a clínica. A conversa só virou gravação anos depois, e a autorização para a equipe entrar na instituição, em Atibaia, veio cerca de um mês após um encontro presencial em junho de 2026. Camila disse que ele aceitou principalmente pela insistência da equipe, e que um dos argumentos foi que a falta de sua versão deixaria o público sem parte da história.",
+   "A cantora Deborah Blando também hesitou, com medo de que sua passagem pela clínica fosse novamente ligada ao uso de drogas. Depois de refletir, ela decidiu participar, acreditando que contar sua experiência poderia ajudar outras pessoas. Já o ator Mauricio Mattar temia que seu tratamento fosse visto como internação por dependência química. Ele diz que buscou o local durante uma depressão e admite ter usado substâncias, mas nega ser dependente.",
+   "A série reúne relatos de quem passou pela Clínica Maxwell e trata de tratamentos psiquiátricos, exposição pública e os efeitos de situações delicadas na vida dos pacientes. Camila também afirmou que a história da sobrinha de Anita Harley, internada na clínica há mais de duas décadas, é um dos fios que levaram a equipe até a instituição."
+  ],
+  "tags": [
+   "A Clínica",
+   "Clínica Maxwell",
+   "Sabino Ferreira",
+   "Globoplay"
+  ],
+  "pessoa": "Camila Appel",
+  "busca_imagem": "television studio interview",
+  "criado": "2026-11-19T02:30:19.483655+00:00",
+  "slug": "camila-appel-revela-bastidores-para-trazer-medico-de-a-clinica-a-depoi-4f5509",
+  "fonte": "Terra",
+  "link": "https://www.terra.com.br/diversao/gente/a-clinica-diretora-revela-o-que-fez-medico-envolvido-no-caso-ryan-gracie-quebrar-o-silencio-apos-anos,0771b598546a2b496fe5fe5ddc8be51cupj2afqw.html",
+  "categoria": "em-alta",
+  "data": "2026-11-19T01:40:00+00:00",
+  "titulo_original": "'A Clínica': Diretora revela o que fez médico envolvido no caso Ryan Gracie quebrar o silêncio após anos",
+  "post": {
+   "tipo": "instagram",
+   "url": "https://www.instagram.com/p/DfkCOJPjQiN/"
+  },
+  "imagem": "https://live.staticflickr.com/2123/2322445722_5e09a21c4a_b.jpg",
+  "credito": "Foto: William Hook / CC BY-SA 2.0",
+  "credito_link": "https://www.flickr.com/photos/83542829@N00/2322445722"
  }
 }
