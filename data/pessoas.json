@@ -525,6 +525,15 @@
   "nome": "João Gomes",
   "itens": [
    {
+    "titulo": "Prêmio Multishow 2026 anuncia celebração ao Nordeste com João Gomes e Elba Ramalho",
+    "link": "https://gshow.globo.com/multishow/premio-multishow/2026/noticia/premio-multishow-2026-anuncia-celebracao-ao-nordeste-com-joao-gomes-e-elba-ramalho.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-19T18:23:20.483118+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Jo%C3%A3o_Gomes_-_Se_Joga_no_Vulc%C3%A3o_2024.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Leilão de Ronaldo Fenômeno terá show de João Gomes e lote com experiência na Fórmula 1 em Abu Dhabi",
     "link": "https://gshow.globo.com/cultura-pop/noticia/leilao-de-ronaldo-fenomeno-tera-show-de-joao-gomes-e-lote-com-experiencia-na-formula-1-em-abu-dhabi.ghtml",
     "fonte": "Gshow",
@@ -768,6 +777,15 @@
  "patricia-poeta": {
   "nome": "Patrícia Poeta",
   "itens": [
+   {
+    "titulo": "Patrícia Poeta segura a emoção e surpreende ao anunciar morte no 'Encontro'",
+    "link": "https://www.terra.com.br/diversao/gente/patricia-poeta-segura-a-emocao-e-surpreende-ao-anunciar-morte-no-encontro,53db3d48ec9a3d2da92b5338a81386b9fu82ehqs.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-19T17:57:53+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Patr%C3%ADcia_Poeta_001_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: BemDevassa / CC BY 2.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Vídeos do episódio de 'Encontro com Patrícia Poeta' de quinta-feira, 19 de novembro de 2026",
     "link": "https://gshow.globo.com/tv/encontro-com-patricia-poeta/episodio/2026/11/19/videos-do-episodio-de-encontro-com-patricia-poeta-de-quinta-feira-19-de-novembro-de-2026.ghtml",
@@ -1149,6 +1167,15 @@
   "nome": "Aline Wirley",
   "itens": [
    {
+    "titulo": "Aos 42 e 44 anos, Igor Rickli e Aline Wirley comandam construção de refúgio de 850 m² em meio à natureza para a família",
+    "link": "https://caras.com.br/casa-dos-famosos/aos-42-e-44-anos-igor-rickli-e-aline-wirley-comandam-construcao-de-refugio-de-850-m%c2%b2-em-meio-a-natureza-para-a-familia.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-19T17:07:36+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Aline_Wirley_-_BBB_23.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Aline Wirley abre o jogo sobre letramento racial dos filhos: 'Tenho muita esperança por eles'",
     "link": "https://gshow.globo.com/realities/bbb/depois-do-bbb/noticia/aline-wirley-abre-o-jogo-sobre-letramento-racial-dos-filhos-tenho-muita-esperanca-por-eles.ghtml",
     "fonte": "Gshow",
@@ -1157,7 +1184,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Aline_Wirley_-_BBB_23.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "bruna-griphao": {
   "nome": "Bruna Griphao",
@@ -1586,6 +1614,15 @@
  "robert-pattinson": {
   "nome": "Robert Pattinson",
   "itens": [
+   {
+    "titulo": "James Bond: Robert Pattinson teria conquistado papel ao recriar cena icônica de sedução da franquia; saiba qual James Bond: Robert Pattinson teria conquistado papel ao recriar cena icônica de sedução da franquia; saiba qual",
+    "link": "https://hugogloss.uol.com.br/filmes/robert-pattinson-james-bond-teste/",
+    "fonte": "Hugo Gloss",
+    "categoria": "celebridades",
+    "data": "2026-11-19T17:25:58+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Robert_Pattinson_Venice_Film_Festival_%28cropped%29.jpg/1280px-Robert_Pattinson_Venice_Film_Festival_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Colleen Sturtevant / CC BY-SA 4.0, via Wikimedia Commons"
+   },
    {
     "titulo": "'Vai arrebentar': Fernando Meirelles elogia Robert Pattinson como 007 e detalha encontro em Londres",
     "link": "https://www.terra.com.br/diversao/entre-telas/filmes/vai-arrebentar-fernando-meirelles-elogia-robert-pattinson-como-007-e-detalha-encontro-em-londres,250378e3c898aa66fd39803703ca4f05vlcrpn1k.html",
@@ -2035,6 +2072,15 @@
  "bela-gil": {
   "nome": "Bela Gil",
   "itens": [
+   {
+    "titulo": "Bela Gil relata 'momento de transformação pessoal e profissional muito grande'",
+    "link": "https://revistaquem.globo.com/entretenimento/tv-e-novelas/noticia/2026/11/bela-gil-relata-momento-de-transformacao-pessoal-e-profissional-muito-grande.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-19T18:23:20.483118+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bela_Gil%2C_February_2022.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Lula Oficial / CC BY-SA 4.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Bela Gil se despede e deixa o Saia Justa: 'Não é uma decisão fácil'",
     "link": "https://www.uol.com.br/splash/noticias/2026/11/18/saia-justa.ghtm",
@@ -5224,6 +5270,24 @@
   "nome": "Can Yaman",
   "itens": [
    {
+    "titulo": "Can Yaman causa alvoroço em primeira noite de Meet & Greet; veja fotos inéditas",
+    "link": "https://contigo.com.br/noticias/famosos/can-yaman-causa-alvoroco-em-primeira-noite-de-meet-veja-fotos-ineditas-1.phtml",
+    "fonte": "Contigo",
+    "categoria": "celebridades",
+    "data": "2026-11-19T18:07:58+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/41/Can_Yaman_Margherita_di_Savoia_2023-04-27_%281%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Istituto Comprensivo Statale \"Giovanni XXIII - Pascoli\"… / CC BY 3.0 it, via Wikimedia Commons"
+   },
+   {
+    "titulo": "Can Yaman no Brasil: Confira as fotos inéditas da primeira noite de Meet & Greet",
+    "link": "https://caras.com.br/eventos/can-yaman-no-brasil-confira-as-fotos-ineditas-da-primeira-noite-de-meet-greet.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-19T17:28:48+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/41/Can_Yaman_Margherita_di_Savoia_2023-04-27_%281%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Istituto Comprensivo Statale \"Giovanni XXIII - Pascoli\"… / CC BY 3.0 it, via Wikimedia Commons"
+   },
+   {
     "titulo": "Can Yaman revela o que o deixou enfeitiçado no Brasil e faz declaração surpreendente: ‘Sonho’",
     "link": "https://contigo.com.br/noticias/famosos/can-yaman-revela-o-que-o-deixou-enfeiticado-no-brasil-e-faz-declaracao-surpreendente-sonho.phtml",
     "fonte": "Contigo",
@@ -8284,6 +8348,24 @@
   "nome": "Deolane Bezerra",
   "itens": [
    {
+    "titulo": "Deolane Bezerra toma decisão inesperada na prisão e irmã faz apelo desesperado: 'Por favor'",
+    "link": "https://www.terra.com.br/diversao/gente/deolane-bezerra-toma-decisao-inesperada-na-prisao-e-irma-faz-apelo-desesperado-por-favor,dbeb7a9f96c12ffbcaf84e58c4518a09rcc7zqk6.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-19T17:56:00+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Deolane_Bezerra.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow | Grupo Globo / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
+    "titulo": "Presa, Deolane Bezerra recusa atendimento e irmã faz apelo: ‘Por favor’",
+    "link": "https://contigo.com.br/noticias/famosos/presa-deolane-bezerra-recusa-atendimento-e-irma-faz-apelo-por-favor.phtml",
+    "fonte": "Contigo",
+    "categoria": "celebridades",
+    "data": "2026-11-19T17:19:09+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Deolane_Bezerra.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow | Grupo Globo / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "'Prometeu e não foi': presa há quase 6 meses, Deolane Bezerra manda recado a Rico Melquiades e debocha de promessa sobre Lula em nova carta inusitada",
     "link": "https://www.terra.com.br/diversao/gente/prometeu-e-nao-foi-presa-ha-quase-6-meses-deolane-bezerra-manda-recado-a-rico-melquiades-e-debocha-de-promessa-sobre-lula-em-nova-carta-inusitada,b92bb2fd44db3b42d815eaa5a6cb1150of4rnkaz.html",
     "fonte": "Terra",
@@ -8697,6 +8779,24 @@
  "daniel-alves": {
   "nome": "Daniel Alves",
   "itens": [
+   {
+    "titulo": "Ex detona Daniel Alves após término e revela que pagou dívidas do jogador: 'Gastei o meu dinheiro'",
+    "link": "https://www.terra.com.br/diversao/gente/ex-detona-daniel-alves-apos-termino-e-revela-que-pagou-dividas-do-jogador-gastei-o-meu-dinheiro,bb15276262983a877ed9e807fbf73daaxbygq7ya.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-19T18:01:07+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/07_07_2019_Final_da_Copa_Am%C3%A9rica_2019_%2848226649586%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Palácio do Planalto from Brasilia, Brasil / CC BY 2.0, via Wikimedia Commons"
+   },
+   {
+    "titulo": "Ex esculacha jogador Daniel Alves e garante que bancou as dívidas dele",
+    "link": "https://contigo.com.br/noticias/famosos/ex-esculacha-jogador-daniel-alves-e-garante-que-bancou-as-dividas-dele.phtml",
+    "fonte": "Contigo",
+    "categoria": "celebridades",
+    "data": "2026-11-19T17:16:25+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/07_07_2019_Final_da_Copa_Am%C3%A9rica_2019_%2848226649586%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Palácio do Planalto from Brasilia, Brasil / CC BY 2.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Joana Sanz se revolta com Daniel Alves e faz exposed do jogador após fim do casamento: “Gastei meu dinheiro para pagar suas dívidas” joana sanz daniel alves (foto: instagram)",
     "link": "https://hugogloss.uol.com.br/esportes/daniel-alves-joana-sanz-exposed/",
@@ -9712,6 +9812,15 @@
   "nome": "Zé Neto",
   "itens": [
    {
+    "titulo": "Zé Neto sobre reação à morte de Marília: \"Acharam que eu ia entrar em coma\"",
+    "link": "https://www.cnnbrasil.com.br/pop/celebridades/ze-neto-sobre-reacao-a-morte-de-marilia-acharam-que-eu-ia-entrar-em-coma/",
+    "fonte": "CNN Brasil",
+    "categoria": "em-alta",
+    "data": "2026-11-19T16:50:00+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/37/2020_Z%C3%89_NETO_CANDIDATO_PREFEITO_BA_FEIRA_DE_SANTANA_TSE_%2850000824378%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Portal de Dados Abertos do Tribunal Superior Eleitoral do… / CC BY 4.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Zé Neto faz revelação impactante sobre noite após morte de Marília Mendonça: “Acharam que eu ia entrar em coma”; assista Zé Neto faz revelação impactante sobre noite após morte de Marília Mendonça: “Acharam que eu ia entrar em coma”; assista",
     "link": "https://hugogloss.uol.com.br/famosos/ze-neto-marilia-mendonca/",
     "fonte": "Hugo Gloss",
@@ -9815,6 +9924,15 @@
   "nome": "Igor Rickli",
   "itens": [
    {
+    "titulo": "Aos 42 e 44 anos, Igor Rickli e Aline Wirley comandam construção de refúgio de 850 m² em meio à natureza para a família",
+    "link": "https://caras.com.br/casa-dos-famosos/aos-42-e-44-anos-igor-rickli-e-aline-wirley-comandam-construcao-de-refugio-de-850-m%c2%b2-em-meio-a-natureza-para-a-familia.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-19T17:07:36+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Aline_Wirley_-_BBB_23.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Igor Rickli e Aline Winrley mostram andamento de obra: 'Sambando para conseguir'",
     "link": "https://revistaquem.globo.com/casa-dos-famosos/noticia/2026/11/igor-rickli-e-aline-winrley-mostram-andamento-de-obra-em-algum-momento-ela-vai-terminar.ghtml",
     "fonte": "Quem",
@@ -9823,7 +9941,8 @@
     "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Lamb%27s_House_renovation_kit_-_geograph.org.uk_-_3156589.jpg/1280px-Lamb%27s_House_renovation_kit_-_geograph.org.uk_-_3156589.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "credito": "Foto: kim traynor / CC BY-SA 2.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "jorge-aragao": {
   "nome": "Jorge Aragão",
@@ -9961,6 +10080,15 @@
   "nome": "Isabel Teixeira",
   "itens": [
    {
+    "titulo": "Isabel Teixeira defende influencers em novelas e recebe críticas de atores",
+    "link": "https://www.terra.com.br/diversao/gente/isabel-teixeira-defende-influencers-em-novelas-e-recebe-criticas-de-atores,6324510cbbb5dc52adfc076e67a2ed80yucjjztp.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-19T17:40:12+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2023-07-17_Pr%C3%AAmio_APCA_2023%2C_193.jpg/1280px-2023-07-17_Pr%C3%AAmio_APCA_2023%2C_193.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: amigosdaarte / Public domain, via Wikimedia Commons"
+   },
+   {
     "titulo": "Artistas se revoltam após Isabel Teixeira, de ‘Quem Ama Cuida’, defender influencers em novelas",
     "link": "https://veja.abril.com.br/cultura/artistas-se-revoltam-apos-isabel-teixeira-de-quem-ama-cuida-defender-influencers-em-novelas/",
     "fonte": "VEJA",
@@ -9969,7 +10097,8 @@
     "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2023-07-17_Pr%C3%AAmio_APCA_2023%2C_193.jpg/1280px-2023-07-17_Pr%C3%AAmio_APCA_2023%2C_193.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "credito": "Foto: amigosdaarte / Public domain, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "miriam-leitao": {
   "nome": "Míriam Leitão",
@@ -10086,6 +10215,34 @@
     "data": "2026-11-19T17:02:38.420420+00:00",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Cris_Vianna_cropped.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Cris_Vianna_e_Milena_Toscano.jpg : Bahia Notícias from… / CC BY 2.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "mari-gonzalez": {
+  "nome": "Mari Gonzalez",
+  "itens": [
+   {
+    "titulo": "Após congelar óvulos, Mari Gonzalez desabafa sobre cobrança para ter filhos: 'Existe uma pressão grande'",
+    "link": "https://revistaquem.globo.com/noticias/filhos-dos-famosos/noticia/2026/11/apos-congelar-ovulos-mari-gonzalez-desabafa-sobre-cobranca-para-ter-filhos-existe-uma-pressao-grande.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-19T18:23:20.483118+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Mari_Gonzalez_-_Mesacast_BBB_2024_%282%29.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "kris-jenner": {
+  "nome": "Kris Jenner",
+  "itens": [
+   {
+    "titulo": "Kris Jenner detalha procedimento íntimo com laser e amiga brinca: 'Fonte da juventude'",
+    "link": "https://revistaquem.globo.com/moda-e-beleza/estetica/noticia/2026/11/kris-jenner-detalha-procedimento-estetico-intimo.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-19T18:23:20.483118+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Kris_Jenner_by_Gage_Skidmore.jpg/1280px-Kris_Jenner_by_Gage_Skidmore.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Gage Skidmore / CC BY-SA 3.0, via Wikimedia Commons"
    }
   ]
  }

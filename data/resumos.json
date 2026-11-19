@@ -7213,9 +7213,9 @@
   "data": "2026-11-19T16:10:00+00:00",
   "titulo_original": "Previsão do tempo em Vitória hoje: veja como fica o clima nesta quinta-feira",
   "post": null,
-  "imagem": "https://live.staticflickr.com/1423/5180603578_ab7d8532dc_b.jpg",
-  "credito": "Foto: Wonderlane / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/71401718@N00/5180603578"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-em-maringa-hoje-veja-como-fica-o-clima-nesta-quinta-feira,392b9b501c999b2b1bff3f9fb70a38bbsu9ck54q.html": {
   "publicar": true,
@@ -7243,9 +7243,9 @@
   "data": "2026-11-19T16:00:00+00:00",
   "titulo_original": "Previsão do tempo em Maringá hoje: veja como fica o clima nesta quinta-feira",
   "post": null,
-  "imagem": "https://live.staticflickr.com/7175/6546101933_8eef029efe_b.jpg",
-  "credito": "Foto: It's No Game / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/29057345@N04/6546101933"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www.infomoney.com.br/mercados/marcopolo-pomo4-fecha-acordo-para-pdv-e-suspensao-temporaria-de-contratos/": {
   "publicar": true,
@@ -7276,5 +7276,21 @@
   "imagem": "",
   "credito": "",
   "credito_link": ""
+ },
+ "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-em-londrina-pr-hoje-veja-como-fica-o-clima-nesta-quinta-feira,842843f49d11de86ed55e1058c5cf46cdyonvntn.html": {
+  "recusado": true,
+  "criado": "2026-11-19T18:23:20.483118+00:00"
+ },
+ "https://www.cnnbrasil.com.br/pop/celebridades/ze-neto-sobre-reacao-a-morte-de-marilia-acharam-que-eu-ia-entrar-em-coma/": {
+  "recusado": true,
+  "criado": "2026-11-19T18:23:20.483118+00:00"
+ },
+ "https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-confira-as-taxas-de-cdbs-lcis-e-lcas-na-xp-nesta-quinta-feira-19/": {
+  "recusado": true,
+  "criado": "2026-11-19T18:23:20.483118+00:00"
+ },
+ "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/padre-acusa-festa-da-padroeira-da-santa-cecilia-de-usar-seu-nome-para-arrecadar-fundos-e-organizacao-nega.shtml": {
+  "recusado": true,
+  "criado": "2026-11-19T18:23:20.483118+00:00"
  }
 }
