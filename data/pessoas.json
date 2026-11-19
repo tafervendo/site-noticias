@@ -52,6 +52,15 @@
   "nome": "Ana Castela",
   "itens": [
    {
+    "titulo": "Ana Castela apresenta cavalos de luxo de mais de R$ 200 mil: 'Acho que nunca fiz isso'",
+    "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/ana-castela-apresenta-cavalos-de-luxo-acho-que-nunca-fiz-isso.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-19T21:49:07.676056+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Ana_Castela_-_Ver%C3%A3o_Maior_Paran%C3%A1_2026_%28cropped%29_2.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Igor Jacinto/Vice Governadoria / CC0, via Wikimedia Commons"
+   },
+   {
     "titulo": "A Fazenda 18: Adriane Galisteu usa calça de renda com franjas e chapéu da Ana Castela",
     "link": "https://www.terra.com.br/vida-e-estilo/autocuidado/moda/a-fazenda-18-adriane-galisteu-usa-calca-de-renda-com-franjas-e-chapeu-da-ana-castela,81d58018857bf742c562f4be5e948dcdzl0upo5o.html",
     "fonte": "Terra",
@@ -645,6 +654,15 @@
  "paolla-oliveira": {
   "nome": "Paolla Oliveira",
   "itens": [
+   {
+    "titulo": "Paolla Oliveira surge de maiô em gravação de série e web se derrete: 'Deusa'",
+    "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/paolla-oliviera-surge-de-maio-durante-gravacoes.ghtml",
+    "fonte": "Quem",
+    "categoria": "virais",
+    "data": "2026-11-19T21:49:07.676056+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Paolla_Oliveira.jpg/1280px-Paolla_Oliveira.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Paolla Oliveira destaca detalhe importante em discurso após saída da Grande Rio",
     "link": "https://caras.com.br/carnaval/paolla-oliveira-destaca-detalhe-importante-em-discurso-apos-saida-da-grande-rio.phtml",
@@ -2241,6 +2259,15 @@
   "nome": "Mariah Carey",
   "itens": [
    {
+    "titulo": "Mariah Carey atende fãs na porta de hotel em Ipanema antes de show no Rio de Janeiro",
+    "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/mariah-carey-atende-fas-na-porta-de-hotel-em-ipanema-antes-de-show-no-rio-de-janeiro.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-19T21:49:07.676056+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/MariahSandringham150825-18_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Raph_PH / CC BY 4.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Mariah Carey se despede de São Paulo e atende fãs em saída de hotel; veja fotos",
     "link": "https://gshow.globo.com/cultura-pop/famosos/noticia/mariah-carey-se-despede-de-sao-paulo-e-atende-fas-em-saida-de-hotel-veja-fotos.ghtml",
     "fonte": "Gshow",
@@ -3087,6 +3114,15 @@
   "nome": "Andressa Urach",
   "itens": [
    {
+    "titulo": "Andressa Urach chega à 70ª cirurgia plástica e tira cartilagem da costela para remodelar o nariz",
+    "link": "https://f5.folha.uol.com.br/celebridades/2026/11/andressa-urach-chega-a-70a-cirurgia-plastica-e-tira-cartilagem-da-costela-para-remodelar-o-nariz.shtml",
+    "fonte": "UOL",
+    "categoria": "em-alta",
+    "data": "2026-11-19T21:00:00+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Andressa_Urach_IMG_1686_%2824560607221%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Renan Katayama / CC BY-SA 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Andressa Urach tira cartilagem da costela para sua 70ª plástica; vídeo",
     "link": "https://revistaquem.globo.com/moda-e-beleza/estetica/noticia/2026/11/andressa-urach-passa-por-sua-70a-plastica-primeiro-feio-e-depois-bonito.ghtml",
     "fonte": "Quem",
@@ -3095,7 +3131,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Andressa_Urach_IMG_1686_%2824560607221%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Renan Katayama / CC BY-SA 2.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "luiz-bacci": {
   "nome": "Luiz Bacci",
@@ -3403,6 +3440,15 @@
  "jennifer-lopez": {
   "nome": "Jennifer Lopez",
   "itens": [
+   {
+    "titulo": "Jennifer Lopez exalta vida de solteira: 'Não preciso namorar'",
+    "link": "https://gshow.globo.com/cultura-pop/famosos/noticia/jennifer-lopez-afirma-que-nao-esta-em-busca-de-um-novo-amor-nao-preciso-namorar.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-19T21:49:07.676056+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Jennifer_Lopez_at_the_2025_Sundance_Film_Festival_%28cropped_3%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Everwest / CC BY 4.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Mansão do ex-casal Jennifer Lopez e Ben Affleck é reformada e conta com 24 banheiros e ringue",
     "link": "https://caras.com.br/casa-dos-famosos/jennifer-lopez-ben-affleck-mansao-beverly-hills.phtml",
@@ -3730,6 +3776,15 @@
  "alexandre-de-moraes": {
   "nome": "Alexandre de Moraes",
   "itens": [
+   {
+    "titulo": "Jair Bolsonaro faz pedido a Alexandre de Moraes e web debocha: ‘Virou bagunça’",
+    "link": "https://contigo.com.br/noticias/famosos/jair-bolsonaro-faz-pedido-a-alexandre-de-moraes-e-web-debocha-virou-bagunca-1.phtml",
+    "fonte": "Contigo",
+    "categoria": "virais",
+    "data": "2026-11-19T21:00:47+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Sess%C3%A3o_da_Primeira_Turma_do_STF_-_30062026_%28cropped_2%29.jpg/1280px-Sess%C3%A3o_da_Primeira_Turma_do_STF_-_30062026_%28cropped_2%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Supremo Tribunal Federal STF / Public domain, via Wikimedia Commons"
+   },
    {
     "titulo": "A decisão de Alexandre de Moraes sobre pedido de ministro do TCU para visitar Bolsonaro",
     "link": "https://veja.abril.com.br/brasil/a-decisao-de-alexandre-de-moraes-sobre-pedido-de-ministro-do-tcu-para-visitar-bolsonaro/",
@@ -4718,6 +4773,15 @@
   "nome": "Flávia Alessandra",
   "itens": [
    {
+    "titulo": "Aos 52 anos, Flávia Alessandra decora o teto da cozinha com papel de parede com estampa de natureza",
+    "link": "https://caras.com.br/casa-dos-famosos/aos-52-anos-flavia-alessandra-decora-o-teto-da-cozinha-com-papel-de-parede-com-estampa-de-natureza.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-19T21:27:36+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Fl%C3%A1via_Alessandra_05.jpg/1280px-Fl%C3%A1via_Alessandra_05.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Web Summit Rio / CC BY 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Fim de uma era: Flávia Alessandra deixou público chocado ao anunciar separação",
     "link": "https://contigo.com.br/noticias/famosos/fim-de-uma-era-flavia-alessandra-deixou-publico-chocado-ao-anunciar-separacao.phtml",
     "fonte": "Contigo",
@@ -4726,7 +4790,8 @@
     "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Fl%C3%A1via_Alessandra_05.jpg/1280px-Fl%C3%A1via_Alessandra_05.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "credito": "Foto: Web Summit Rio / CC BY 2.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "cara-delevingne": {
   "nome": "Cara Delevingne",
@@ -6547,6 +6612,15 @@
   "nome": "Thelma Assis",
   "itens": [
    {
+    "titulo": "Thelma Assis renova votos de casamento com marido em Alagoas",
+    "link": "https://revistaquem.globo.com/eventos/casamentos/noticia/2026/11/thelma-assis-renova-votos-de-casamento-com-marido.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-19T21:49:07.676056+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Telma_Assis_2021.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Aos 42 anos, Thelma Assis encontra maneira de unir duas paixões após o BBB",
     "link": "https://caras.com.br/atualidades/aos-41-anos-thelma-assis-encontra-maneira-de-unir-duas-paixoes-apos-o-bbb.phtml",
     "fonte": "Caras",
@@ -6555,7 +6629,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Telma_Assis_2021.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "gustavo-scarpa": {
   "nome": "Gustavo Scarpa",
@@ -9071,6 +9146,15 @@
   "nome": "Bruno Mars",
   "itens": [
    {
+    "titulo": "Bruno Mars anuncia morte do pai e faz homenagem emocionante: 'Vou sentir sua falta todos os dias'",
+    "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/bruno-mars-anuncia-morte-do-pai-e-faz-homenagem-emocionante-vou-sentir-sua-falta-todos-os-dias.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-19T21:49:07.676056+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Bruno_Mars_Concert_at_Singapore_67.jpg/1280px-Bruno_Mars_Concert_at_Singapore_67.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Pangalau / CC BY-SA 4.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Grammy 2027: Bruno Mars, Olivia Rodrigo, RAYE e mais; confira os indicados",
     "link": "https://revistaquem.globo.com/entretenimento/musica/noticia/2026/11/grammy-2027-bruno-mars-olivia-rodrigo-raye-e-mais-confira-os-indicados.ghtml",
     "fonte": "Quem",
@@ -9079,7 +9163,8 @@
     "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Bruno_Mars_Concert_at_Singapore_67.jpg/1280px-Bruno_Mars_Concert_at_Singapore_67.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "credito": "Foto: Pangalau / CC BY-SA 4.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "ellen-rocche": {
   "nome": "Ellen Rocche",
@@ -9959,6 +10044,15 @@
   "nome": "Zé Neto",
   "itens": [
    {
+    "titulo": "'Acharam que eu ia entrar em coma. Dormi 18 horas direto': após morte de Marília Mendonça, Zé Neto tomou 30 comprimidos com uísque e ficou 15 horas sem falar. 'Não queria acreditar'",
+    "link": "https://www.terra.com.br/diversao/tv/acharam-que-eu-ia-entrar-em-coma-dormi-18-horas-direto-apos-morte-de-marilia-mendonca-ze-neto-tomou-30-comprimidos-com-uisque-e-ficou-15-horas-sem-falar-nao-queria-acreditar,a0e531e71125a452fa50a47dd7bb6dcefpu5expi.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-19T20:59:35+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/37/2020_Z%C3%89_NETO_CANDIDATO_PREFEITO_BA_FEIRA_DE_SANTANA_TSE_%2850000824378%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Portal de Dados Abertos do Tribunal Superior Eleitoral do… / CC BY 4.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Zé Neto sobre reação à morte de Marília: \"Acharam que eu ia entrar em coma\"",
     "link": "https://www.cnnbrasil.com.br/pop/celebridades/ze-neto-sobre-reacao-a-morte-de-marilia-acharam-que-eu-ia-entrar-em-coma/",
     "fonte": "CNN Brasil",
@@ -10605,6 +10699,86 @@
     "data": "2026-11-19T19:39:49+00:00",
     "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Cacau_Prot%C3%A1sio.jpg/1280px-Cacau_Prot%C3%A1sio.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "credito": "Foto: Multishow / CC BY 4.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "solange-almeida": {
+  "nome": "Solange Almeida",
+  "itens": [
+   {
+    "titulo": "Solange Almeida é anunciada como rainha de bateria da Águia de Ouro para o Carnaval 2027",
+    "link": "https://revistaquem.globo.com/eventos/carnaval/noticia/2026/11/solange-almeida-e-anunciada-como-nova-rainha-de-bateria-da-aguia-de-ouro-para-o-carnaval-2027.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-19T21:49:07.676056+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Solange_Almeida_no_A_Elimina%C3%A7%C3%A3o_em_2021_%282%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "ian-gillan": {
+  "nome": "Ian Gillan",
+  "itens": [
+   {
+    "titulo": "Deep Purple adia shows do Brasil e América Latina após vocalista Ian Gillan passar por problema de saúde",
+    "link": "https://revistaquem.globo.com/entretenimento/musica/noticia/2026/11/deep-purple-adia-show-do-brasil-apos-vocalista-passar-por-procedimento-medico.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-19T22:27:36+00:00",
+    "imagem": "",
+    "credito": ""
+   },
+   {
+    "titulo": "Show do Deep Purple em São Paulo é adiado por problemas de saúde de Ian Gillan",
+    "link": "https://www.terra.com.br/diversao/show-do-deep-purple-em-sao-paulo-e-adiado-por-problemas-de-saude-de-ian-gillan,c0dde0a714c524168eb45e7424899cbeaw925onh.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-19T21:12:30+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Deep_Purple_-_inFinite_-_The_Long_Goodbye_Tour_-_Barclaycard_Arena_Hamburg_2017_22.jpg/1280px-Deep_Purple_-_inFinite_-_The_Long_Goodbye_Tour_-_Barclaycard_Arena_Hamburg_2017_22.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Frank Schwichtenberg / CC BY-SA 4.0, via Wikimedia Commons"
+   }
+  ],
+  "publicada": true
+ },
+ "hugo-henrique": {
+  "nome": "Hugo Henrique",
+  "itens": [
+   {
+    "titulo": "Hugo Henrique inicia nova fase da carreira com lançamento de \"Conexão\"",
+    "link": "https://www.terra.com.br/diversao/musica/meu-sonora/pop-internacional/hugo-henrique-inicia-nova-fase-da-carreira-com-lancamento-de-conexao,ba15feab000d89fd9da39c7fb72e3acehb32yidp.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-19T21:14:28+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Foto_do_cantor_hugo_henrique.webp?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Seganfredo / CC BY-SA 4.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "murilo-cezar": {
+  "nome": "Murilo Cezar",
+  "itens": [
+   {
+    "titulo": "Aos 40, Murilo Cezar já revelou transformação com papel de Paulo, o Apóstolo: ‘Quis ser fiel’",
+    "link": "https://caras.com.br/revista/aos-40-murilo-cezar-ja-revelou-transformacao-com-papel-de-paulo-o-apostolo-quis-ser-fiel.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-19T21:03:05+00:00",
+    "imagem": "",
+    "credito": ""
+   }
+  ]
+ },
+ "robert-de-niro": {
+  "nome": "Robert De Niro",
+  "itens": [
+   {
+    "titulo": "Robert De Niro, 83 anos, sobre o conselho que deu ao neto: 'Quando as coisas estiverem indo bem, mantenha a calma. Não pense que você está no topo do mundo'",
+    "link": "https://www.terra.com.br/diversao/entre-telas/filmes/robert-de-niro-83-anos-sobre-o-conselho-que-deu-ao-neto-quando-as-coisas-estiverem-indo-bem-mantenha-a-calma-nao-pense-que-voce-esta-no-topo-do-mundo,ff222b6ee56cb0ce7e33f0c244e75ca7h140ritp.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-19T20:41:11+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Robert_de_Niro-9578.jpg/1280px-Robert_de_Niro-9578.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Harald Krichel / CC BY-SA 4.0, via Wikimedia Commons"
    }
   ]
  }
