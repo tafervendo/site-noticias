@@ -380,6 +380,15 @@
   "nome": "Ivete Sangalo",
   "itens": [
    {
+    "titulo": "Ivete Sangalo surpreende e estará no novo reality de Boninho; saiba tudo",
+    "link": "https://contigo.com.br/noticias/tv/ivete-sangalo-surpreende-e-estara-no-novo-reality-de-boninho-saiba-tudo.phtml",
+    "fonte": "Contigo",
+    "categoria": "televisao",
+    "data": "2026-11-19T12:28:35+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Ivete_Sangalo_SAM_0058_%2854481946217%29_%28cropped%29.jpg/1280px-Ivete_Sangalo_SAM_0058_%2854481946217%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Web Summit Rio from Rio de Janeiro, Brazil / CC BY 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Saiba o verdadeiro motivo de Léo Santana ter sido vaiado durante show de Ivete Sangalo",
     "link": "https://contigo.com.br/noticias/famosos/saiba-o-verdadeiro-motivo-de-leo-santana-ter-sido-vaiado-durante-show-de-ivete-sangalo.phtml",
     "fonte": "Contigo",
@@ -506,6 +515,15 @@
   "nome": "João Gomes",
   "itens": [
    {
+    "titulo": "Leilão de Ronaldo Fenômeno terá show de João Gomes e lote com experiência na Fórmula 1 em Abu Dhabi",
+    "link": "https://gshow.globo.com/cultura-pop/noticia/leilao-de-ronaldo-fenomeno-tera-show-de-joao-gomes-e-lote-com-experiencia-na-formula-1-em-abu-dhabi.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-19T13:51:47.967371+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Jo%C3%A3o_Gomes_-_Se_Joga_no_Vulc%C3%A3o_2024.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "João Gomes comemora segundo Grammy com Mestrinho e Jota.pê: 'Me sinto imbatível'",
     "link": "https://www.terra.com.br/diversao/musica/meu-sonora/joao-gomes-comemora-segundo-grammy-com-mestrinho-e-jotape-me-sinto-imbativel,4d3d23c223e4466289d0568cbea3db17z9sus963.html",
     "fonte": "Terra",
@@ -590,6 +608,15 @@
  "paolla-oliveira": {
   "nome": "Paolla Oliveira",
   "itens": [
+   {
+    "titulo": "Paolla Oliveira destaca detalhe importante em discurso após saída da Grande Rio",
+    "link": "https://caras.com.br/carnaval/paolla-oliveira-destaca-detalhe-importante-em-discurso-apos-saida-da-grande-rio.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-19T13:17:39+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Paolla_Oliveira.jpg/1280px-Paolla_Oliveira.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Vídeo mostra bastidores da preparação de Paolla Oliveira com bateria da Imperatriz",
     "link": "https://www.terra.com.br/diversao/carnaval/video-mostra-bastidores-da-preparacao-de-paolla-oliveira-com-bateria-da-imperatriz,9ac7565396cdc47a6f507a7e2c7332f60m7y50dg.html",
@@ -722,6 +749,15 @@
  "patricia-poeta": {
   "nome": "Patrícia Poeta",
   "itens": [
+   {
+    "titulo": "Vídeos do episódio de 'Encontro com Patrícia Poeta' de quinta-feira, 19 de novembro de 2026",
+    "link": "https://gshow.globo.com/tv/encontro-com-patricia-poeta/episodio/2026/11/19/videos-do-episodio-de-encontro-com-patricia-poeta-de-quinta-feira-19-de-novembro-de-2026.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-19T13:51:47.967371+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Patr%C3%ADcia_Poeta_001_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: BemDevassa / CC BY 2.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Vídeos do episódio de 'Encontro com Patrícia Poeta' de quarta-feira, 18 de novembro de 2026",
     "link": "https://gshow.globo.com/tv/encontro-com-patricia-poeta/episodio/2026/11/18/videos-do-episodio-de-encontro-com-patricia-poeta-de-quarta-feira-18-de-novembro-de-2026.ghtml",
@@ -1841,8 +1877,18 @@
     "data": "2026-11-19T10:40:00+00:00",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lucas_Pavanato.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Tribunal Superior Eleitoral do Brasil (TSE) (… / CC BY 4.0, via Wikimedia Commons"
+   },
+   {
+    "titulo": "O valor pífio que Lucas Pavanato sugere pagar a Caetano Veloso na Justiça",
+    "link": "https://veja.abril.com.br/cultura/o-valor-pifio-que-lucas-pavanato-sugere-pagar-a-caetano-veloso-na-justica/",
+    "fonte": "VEJA",
+    "categoria": "em-alta",
+    "data": "2026-11-19T10:40:00+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lucas_Pavanato.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Tribunal Superior Eleitoral do Brasil (TSE) (… / CC BY 4.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "caetano-veloso": {
   "nome": "Caetano Veloso",
@@ -1855,8 +1901,18 @@
     "data": "2026-11-19T10:40:00+00:00",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lucas_Pavanato.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Tribunal Superior Eleitoral do Brasil (TSE) (… / CC BY 4.0, via Wikimedia Commons"
+   },
+   {
+    "titulo": "O valor pífio que Lucas Pavanato sugere pagar a Caetano Veloso na Justiça",
+    "link": "https://veja.abril.com.br/cultura/o-valor-pifio-que-lucas-pavanato-sugere-pagar-a-caetano-veloso-na-justica/",
+    "fonte": "VEJA",
+    "categoria": "em-alta",
+    "data": "2026-11-19T10:40:00+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lucas_Pavanato.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Tribunal Superior Eleitoral do Brasil (TSE) (… / CC BY 4.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "renato-aragao": {
   "nome": "Renato Aragão",
@@ -2022,6 +2078,15 @@
   "nome": "Cristiana Oliveira",
   "itens": [
    {
+    "titulo": "Meningioma: entenda o tumor cerebral diagnosticado na filha de Cristiana Oliveira",
+    "link": "https://revistaquem.globo.com/saude/noticia/2026/11/meningioma-entenda-o-tumor-cerebral-diagnosticado-na-filha-de-cristiana-oliveira.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-19T13:51:47.967371+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Cristiana_Oliveira_2013-2.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: TV Brasil / CC BY 3.0 br, via Wikimedia Commons"
+   },
+   {
     "titulo": "Após cirurgia, filha de Cristiana Oliveira fala sobre descoberta de tumor no cérebro; vídeos",
     "link": "https://revistaquem.globo.com/saude/noticia/2026/11/apos-cirurgia-filha-de-cristiana-oliveira-fala-sobre-descoberta-de-tumor-no-cerebro-videos.ghtml",
     "fonte": "Quem",
@@ -2173,6 +2238,15 @@
  "hugo-souza": {
   "nome": "Hugo Souza",
   "itens": [
+   {
+    "titulo": "Pulou a cerca? Hugo Souza, do Corinthians, será pai de duas meninas de mães diferentes",
+    "link": "https://www.terra.com.br/diversao/gente/pulou-a-cerca-hugo-souza-do-corinthians-sera-pai-de-duas-meninas-de-maes-diferentes,01593bb4ee6246d2c92c022703e632aeam2db42j.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-19T12:31:00+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/09/Hugo_Souza_2025_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: TV Central do Timão / CC BY 4.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Dose dupla: Influenciadora e ex-noiva do goleiro Hugo Souza estão grávidas",
     "link": "https://www.terra.com.br/diversao/gente/dose-dupla-influenciadora-e-ex-noiva-do-goleiro-hugo-souza-estao-gravidas,370900cb240c066a6de03dc2d2a378a3ll7q61y1.html",
@@ -2610,6 +2684,15 @@
  "fernanda-lima": {
   "nome": "Fernanda Lima",
   "itens": [
+   {
+    "titulo": "Fernanda Lima reflete sobre beleza aos 50: 'Existe cobrança para que a gente continue jovem'",
+    "link": "https://revistaquem.globo.com/moda-e-beleza/noticia/2026/11/fernanda-lima-reflete-sobre-beleza-aos-50.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-19T13:51:47.967371+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Fernanda_Lima_in_2012.jpg/1280px-Fernanda_Lima_in_2012.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Alex Carvalho from Rio de Janeiro, Brasil / CC BY-SA 2.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Aos 49 anos, Fernanda Lima transforma casa de sítio em refúgio para viver aposentadoria",
     "link": "https://caras.com.br/casa-dos-famosos/aos-49-anos-fernanda-lima-transforma-casa-de-sitio-em-refugio-para-viver-aposentadoria.phtml",
@@ -3709,6 +3792,15 @@
   "nome": "Sonia Abrão",
   "itens": [
    {
+    "titulo": "Sonia Abrão defende Virginia e detona Vini Jr.: 'Tem gente que não merece'",
+    "link": "https://www.terra.com.br/diversao/gente/sonia-abrao-defende-virginia-e-detona-vini-jr-tem-gente-que-nao-merece,b6d392652c415b2eddddf6e1946d2a75xwpc05gm.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-19T12:59:42+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Sonia_Abr%C3%A3o.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Sonia Abrão revela o que estaria por trás da ausência de Virginia em festa de Poliana Rocha",
     "link": "https://www.terra.com.br/diversao/gente/sonia-abrao-revela-o-que-estaria-por-tras-da-ausencia-de-virginia-em-festa-de-poliana-rocha,81839c0f0441328a559bc9ae58c8668abw0xkvb7.html",
     "fonte": "Terra",
@@ -3839,6 +3931,15 @@
  "julio-iglesias": {
   "nome": "Julio Iglesias",
   "itens": [
+   {
+    "titulo": "Julio Iglesias vira alvo de nova investigação após denúncias de ex-funcionárias",
+    "link": "https://contigo.com.br/noticias/famosos/julio-iglesias-vira-alvo-de-nova-investigacao-apos-denuncias-de-ex-funcionarias.phtml",
+    "fonte": "Contigo",
+    "categoria": "celebridades",
+    "data": "2026-11-19T13:44:58+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Julio_Iglesias09.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Alejandro Vilar / CC0, via Wikimedia Commons"
+   },
    {
     "titulo": "Julio Iglesias: Justiça da Espanha abre investigação contra o cantor após acusações de agressão sexual; saiba detalhes Foto: Reprodução/Youtube",
     "link": "https://hugogloss.uol.com.br/famosos/justica-julio-iglesias-investigacao/",
@@ -6068,6 +6169,15 @@
   "nome": "Rafinha Bastos",
   "itens": [
    {
+    "titulo": "Cantora faz forte desabafo e diz que foi humilhada por Rafinha Bastos",
+    "link": "https://www.terra.com.br/diversao/gente/cantora-faz-forte-desabafo-e-diz-que-foi-humilhada-por-rafinha-bastos,520eebbc839e6895a6b48163c9056e95pkbi2bas.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-19T13:21:19+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Rafinha_Bastos_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: campuspartybrasil / CC BY-SA 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Cantora desabafa nas redes sociais e diz ter sido humilhada por Rafinha Bastos",
     "link": "https://www.terra.com.br/diversao/musica/cantora-desabafa-nas-redes-sociais-e-diz-ter-sido-humilhada-por-rafinha-bastos,52cd7f2b50c2f41b17c10de2d51332b5bupgwd4g.html",
     "fonte": "Terra",
@@ -6076,7 +6186,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Rafinha_Bastos_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: campuspartybrasil / CC BY-SA 2.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "nicolas-prattes": {
   "nome": "Nicolas Prattes",
@@ -7097,6 +7208,15 @@
   "nome": "Vini Jr.",
   "itens": [
    {
+    "titulo": "Sonia Abrão defende Virginia e detona Vini Jr.: 'Tem gente que não merece'",
+    "link": "https://www.terra.com.br/diversao/gente/sonia-abrao-defende-virginia-e-detona-vini-jr-tem-gente-que-nao-merece,b6d392652c415b2eddddf6e1946d2a75xwpc05gm.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-19T12:59:42+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Sonia_Abr%C3%A3o.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Derrota para o Japão, goleada sobre Singapura: veja quem foi bem e quem foi mal na Seleção nesta Data Fifa",
     "link": "https://www.terra.com.br/esportes/brasil/derrota-para-o-japao-goleada-sobre-singapura-veja-quem-foi-bem-e-quem-foi-mal-na-selecao-nesta-data-fifa,6efce751bc4cd2ddda83f1ccd7b336a5epzlgt0p.html",
     "fonte": "Terra",
@@ -7813,6 +7933,15 @@
   "nome": "Jonas Sulzbach",
   "itens": [
    {
+    "titulo": "Jonas Sulzbach, ex-BBB 26, exibe físico em circuito de treino: 'Dever cumprido'",
+    "link": "https://gshow.globo.com/realities/bbb/depois-do-bbb/noticia/jonas-sulzbach-ex-bbb-26-exibe-fisico-em-circuito-de-treino-dever-cumprido.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-19T13:51:47.967371+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Jonas_Sulzbach.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Alan Schineider / Public domain, via Wikimedia Commons"
+   },
+   {
     "titulo": "Jonas Sulzbach e Elisa Klein compartilham beijo e encantam seguidores: 'Casal de milhões'",
     "link": "https://gshow.globo.com/realities/bbb/depois-do-bbb/noticia/jonas-sulzbach-e-elisa-klein-compartilham-beijo-e-encantam-seguidores-casal-de-milhoes.ghtml",
     "fonte": "Gshow",
@@ -7821,7 +7950,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Jonas_Sulzbach.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Alan Schineider / Public domain, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "magno-malta": {
   "nome": "Magno Malta",
@@ -8795,6 +8925,15 @@
   "nome": "Luan Santana",
   "itens": [
    {
+    "titulo": "Aos 35 anos, Luan Santana faz de paraíso natural que marcou sua infância um refúgio entre árvores e animais",
+    "link": "https://caras.com.br/atualidades/aos-35-anos-luan-santana-faz-de-paraiso-natural-que-marcou-sua-infancia-um-refugio-entre-arvores-e-animais.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-19T13:02:06+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/2Z9A7852.jpg/1280px-2Z9A7852.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Raresinais / CC BY-SA 4.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Após elogio de Zé Felipe, Karoline Lima curte show de Luan Santana e pede hit; vídeos",
     "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/apos-elogio-de-ze-felipe-karoline-lima-curte-show-de-luan-santana-e-pede-hit-videos.ghtml",
     "fonte": "Quem",
@@ -8803,7 +8942,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ana_Castela_e_Z%C3%A9_Felipe_no_anivers%C3%A1rio_de_Marrone_%28Z%C3%A9_Felipe%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Record Goiás / CC BY 3.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "filipe-luis": {
   "nome": "Filipe Luís",
@@ -9316,6 +9456,15 @@
   "nome": "Zé Neto",
   "itens": [
    {
+    "titulo": "'Acharam que eu ia entrar em coma': Zé Neto relembra dia em que soube da morte de Marília Mendonça",
+    "link": "https://revistaquem.globo.com/entretenimento/musica/sertanejo/noticia/2026/11/ze-neto-fala-sobre-morte-de-marilia-mendonca.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-19T13:51:47.967371+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/37/2020_Z%C3%89_NETO_CANDIDATO_PREFEITO_BA_FEIRA_DE_SANTANA_TSE_%2850000824378%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Portal de Dados Abertos do Tribunal Superior Eleitoral do… / CC BY 4.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Zé Neto choca a web ao revelar reação após morte de Marília Mendonça: ‘30 comprimidos’",
     "link": "https://contigo.com.br/noticias/famosos/ze-neto-choca-a-web-ao-revelar-reacao-apos-morte-de-marilia-mendonca-30-comprimidos.phtml",
     "fonte": "Contigo",
@@ -9324,7 +9473,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/37/2020_Z%C3%89_NETO_CANDIDATO_PREFEITO_BA_FEIRA_DE_SANTANA_TSE_%2850000824378%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Portal de Dados Abertos do Tribunal Superior Eleitoral do… / CC BY 4.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "edson-brum": {
   "nome": "Edson Brum",
@@ -9337,6 +9487,62 @@
     "data": "2026-11-19T11:10:00+00:00",
     "imagem": "",
     "credito": ""
+   }
+  ]
+ },
+ "andrea-veiga": {
+  "nome": "Andréa Veiga",
+  "itens": [
+   {
+    "titulo": "Amigas há mais de 35 anos, Andréa Veiga e Fafy Siqueira curtem praia juntas",
+    "link": "https://revistaquem.globo.com/noticias/famosos-na-praia/noticia/2026/11/amigas-ha-mais-de-35-anos-andrea-veiga-e-fafy-siqueira-curtem-praia-juntas.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-19T13:51:47.967371+00:00",
+    "imagem": "",
+    "credito": ""
+   }
+  ]
+ },
+ "mauricio-kubrusly": {
+  "nome": "Mauricio Kubrusly",
+  "itens": [
+   {
+    "titulo": "Por onde anda Mauricio Kubrusly? Aos 81 anos, jornalista vive rotina reservada após diagnóstico",
+    "link": "https://caras.com.br/atualidades/por-onde-anda-mauricio-kubrusly-aos-81-anos-jornalista-vive-rotina-reservada-apos-diagnostico.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-19T13:03:37+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/07/FLIV_Palestra_Maur%C3%ADcio_Kubrusly_01-05-11_%28169%29_%285679678833%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: ASCOM Prefeitura de Votuporanga / CC BY 2.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "rainer-cadete": {
+  "nome": "Rainer Cadete",
+  "itens": [
+   {
+    "titulo": "Quem é o filho de Rainer Cadete? Ator faz rara aparição pública com jovem de 19 anos",
+    "link": "https://caras.com.br/atualidades/quem-e-o-filho-de-rainer-cadete-ator-faz-rara-aparicao-publica-com-jovem-de-19-anos.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-19T12:31:52+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Rainer_Cadete.jpg/1280px-Rainer_Cadete.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Multishow / CC BY 4.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "bianca-bin": {
+  "nome": "Bianca Bin",
+  "itens": [
+   {
+    "titulo": "Bianca Bin revela por que mora no interior com Sérgio Guizé",
+    "link": "https://caras.com.br/personalidades/bianca-bin-revela-por-que-mora-no-interior-com-sergio-guize.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-19T12:31:28+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/19/Bianca_Bin_01.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Larissa_Maciel_&_Bianca_Bin.jpg : Matheus Gonçalves… / CC BY 2.0, via Wikimedia Commons"
    }
   ]
  }
