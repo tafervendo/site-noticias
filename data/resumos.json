@@ -7077,5 +7077,36 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Deputado_Edson_Brum_durante_uma_entrevista_no_TVE_RS.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: TVE RS / CC BY 3.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Deputado_Edson_Brum_durante_uma_entrevista_no_TVE_RS.png"
+ },
+ "https://www.campogrande.ms.gov.br/cgnoticias/noticia/transporte-coletivo-tera-programacao-especial-no-dia-da-consciencia-negra/": {
+  "publicar": true,
+  "titulo": "Ônibus de Campo Grande têm operação especial no feriado da Consciência Negra",
+  "linha_fina": "Sexta-feira, 20, terá plano de sábado com reforço de veículos nos terminais e ajustes conforme a demanda",
+  "paragrafos": [
+   "Na sexta-feira (20), data em que se celebra o Dia da Consciência Negra, o transporte coletivo de Campo Grande (MS) funcionará com uma escala diferente da habitual. Segundo a Prefeitura, a Agência Municipal de Transporte e Trânsito (Agetran) definiu que a maioria dos itinerários adotará a grade de sábado, com alguns ajustes pontuais.",
+   "Sete linhas, entre elas a 244, a 322 e a 410, terão horários adaptados ao funcionamento das fábricas da região. Já a linha 075 e as demais seguirão a grade de sábado, conforme o plano organizado pelo órgão municipal.",
+   "Para cobrir possíveis picos de procura no feriado, cada um dos sete terminais receberá três veículos com tripulação, das 5h às 19h, além de um ônibus reserva que ficará à disposição, somando-se à frota usual.",
+   "O Consórcio Guaicurus acompanhará a operação e poderá alterar os intervalos entre os ônibus conforme a lotação ou a orientação da fiscalização da Agetran. Os momentos de maior movimento estão previstos entre 5h30 e 8h30, 10h30 e 13h30, e 16h e 18h30.",
+   "A Agetran também monitorará as linhas em tempo real e poderá ajustar a quantidade de veículos ao longo do dia, de acordo com a circulação de passageiros."
+  ],
+  "tags": [
+   "transporte coletivo Campo Grande",
+   "Dia da Consciência Negra",
+   "Agetran",
+   "feriado 20 de novembro"
+  ],
+  "pessoa": "",
+  "busca_imagem": "city bus station",
+  "criado": "2026-11-19T12:31:52.005911+00:00",
+  "slug": "onibus-de-campo-grande-tem-operacao-especial-no-feriado-da-consciencia-f89cdc",
+  "fonte": "Prefeitura de Campo Grande",
+  "link": "https://www.campogrande.ms.gov.br/cgnoticias/noticia/transporte-coletivo-tera-programacao-especial-no-dia-da-consciencia-negra/",
+  "categoria": "em-alta",
+  "data": "2026-11-19T11:50:00+00:00",
+  "titulo_original": "Transporte coletivo terá programação especial no Dia da Consciência Negra – CGNotícias",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/White_City_bus_station_3.jpg/1280px-White_City_bus_station_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Panhard / CC BY 2.5, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:White_City_bus_station_3.jpg"
  }
 }
