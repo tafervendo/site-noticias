@@ -7721,9 +7721,9 @@
   "data": "2026-11-20T02:50:00+00:00",
   "titulo_original": "Clima para amanhã em Florianópolis: sexta-feira tem temporais e chuva volumosa",
   "post": null,
-  "imagem": "https://live.staticflickr.com/5247/5286490490_64655f2fc2_b.jpg",
-  "credito": "Foto: jcnapw / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/57403893@N02/5286490490"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www.espn.com.br/futebol/corinthians/artigo/_/id/17532912/memphis-depay-cita-diniz-responder-sobre-seedorf-projeta-kaio-cesar-ate-europa-apos-hat-trick": {
   "recusado": true,
@@ -7759,8 +7759,50 @@
   "data": "2026-11-20T00:30:00+00:00",
   "titulo_original": "Flamengo bate Athletico após golaço e pode ser campeão na casa do Palmeiras",
   "post": null,
-  "imagem": "https://live.staticflickr.com/6148/5994618045_5411d1f8e3_b.jpg",
-  "credito": "Foto: Mobilus In Mobili / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/52257493@N00/5994618045"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://www1.folha.uol.com.br/ilustrada/2026/11/como-chiquinha-gonzaga-teve-a-propria-negritude-apagada-por-biografos.shtml": {
+  "recusado": true,
+  "criado": "2026-11-20T07:16:56.315132+00:00"
+ },
+ "https://www.poder360.com.br/poder-congresso/cid-gomes-chama-galipolo-de-cavalo-de-troia-do-mercado/": {
+  "publicar": true,
+  "titulo": "Cid Gomes chama Galípolo de “cavalo de Troia do mercado” e critica juros do BC",
+  "linha_fina": "Senador diz que custo da dívida ofusca corte de gastos e propõe pacto para pressionar o BC a reduzir a Selic",
+  "paragrafos": [
+   "O senador Cid Gomes (PSB-CE) criticou a política monetária e o presidente do Banco Central, Gabriel Galípolo, nesta quarta-feira (18), durante a votação dos destaques do projeto de ajuste fiscal. Ele afirmou que Galípolo atua alinhado ao setor financeiro, segundo a versão publicada pelo Poder360.",
+   "Ainda de acordo com o senador, o presidente do BC aguardaria o fim do mandato para assumir cargos bem remunerados na iniciativa privada. Como exemplo, Cid citou o valor de R$ 1,3 milhão mensais que, segundo ele, seria pago a Roberto Campos Neto, ex-presidente do BC. Ele também dirigiu parte da fala ao senador Rogério Marinho (PL-RN).",
+   "Para o parlamentar, a taxa Selic é o principal problema econômico do país. Segundo seus cálculos, cada ponto percentual a menos nos juros geraria uma economia de R$ 100 bilhões, o que tornaria desnecessários cortes em programas sociais ou em despesas administrativas. Já a economia fiscal prevista pelo Congresso e pelo governo, entre R$ 50 bilhões e R$ 60 bilhões, seria ofuscada pelo custo da dívida pública.",
+   "Cid também afirmou que agentes do mercado financeiro, que chamou de “meia dúzia de gananciosos”, provocam alta artificial do dólar para pressionar o governo e justificar juros altos. Como saída, propôs um pacto entre governistas e oposição para exigir do BC a redução imediata dos juros, e sugeriu que o banco venda US$ 10 bilhões das reservas internacionais sempre que o dólar subir de forma especulativa."
+  ],
+  "tags": [
+   "Cid Gomes",
+   "Galípolo",
+   "taxa Selic",
+   "ajuste fiscal"
+  ],
+  "pessoa": "Cid Gomes",
+  "busca_imagem": "central bank building",
+  "criado": "2026-11-20T07:16:56.315132+00:00",
+  "slug": "cid-gomes-chama-galipolo-de-cavalo-de-troia-do-mercado-e-critica-juros-896e07",
+  "fonte": "Poder360",
+  "link": "https://www.poder360.com.br/poder-congresso/cid-gomes-chama-galipolo-de-cavalo-de-troia-do-mercado/",
+  "categoria": "em-alta",
+  "data": "2026-11-20T05:00:00+00:00",
+  "titulo_original": "Cid Gomes chama Galípolo de “cavalo de Troia do mercado”",
+  "post": {
+   "tipo": "youtube",
+   "id": "IUeAafRA0cU",
+   "url": "https://www.youtube.com/watch?v=IUeAafRA0cU"
+  },
+  "imagem": "https://live.staticflickr.com/65535/54520450988_d3c3d1f7d8_b.jpg",
+  "credito": "Foto: w_lemay / CC BY-SA 2.0",
+  "credito_link": "https://www.flickr.com/photos/59081381@N03/54520450988"
+ },
+ "https://criticalhits.com.br/dicas/gta-6-como-resolver-o-minigame-tenebrae-lux/": {
+  "recusado": true,
+  "criado": "2026-11-20T07:16:56.315132+00:00"
  }
 }

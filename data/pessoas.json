@@ -247,6 +247,15 @@
   "nome": "Bruna Marquezine",
   "itens": [
    {
+    "titulo": "Bruna Marquezine pega firme nos treinos após 'chutar o balde' em Noronha; vídeos",
+    "link": "https://revistaquem.globo.com/saude/fitness/noticia/2026/11/bruna-marquezine-volta-a-treinar-apos-chutar-o-balde-em-noronha-videos.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-20T07:16:56.315132+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bruna_Marquezine_2025.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow / CC BY 4.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Bruna Marquezine retoma rotina de treino após festão em Noronha",
     "link": "https://gshow.globo.com/cultura-pop/noticia/bruna-marquezine-retoma-rotina-de-ferias-apos-festao-em-noronha.ghtml",
     "fonte": "Gshow",
@@ -4728,6 +4737,15 @@
  "ze-felipe": {
   "nome": "Zé Felipe",
   "itens": [
+   {
+    "titulo": "Bons amigos? Zé Felipe faz mão de coração pra Karoline Lima em show",
+    "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/bons-amigos-apos-elogio-ze-felipe-faz-mao-de-coracao-pra-karoline-lima-em-show.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-20T07:16:56.315132+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ana_Castela_e_Z%C3%A9_Felipe_no_anivers%C3%A1rio_de_Marrone_%28Z%C3%A9_Felipe%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Record Goiás / CC BY 3.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Zé Felipe leva ex-noiva de jogador do Flamengo como 'acompanhante' para festival na Bahia; com quase 6 milhões de seguidores, famosa influenciadora quer entrar no 'BBB 27'",
     "link": "https://www.terra.com.br/diversao/tv/reality-shows/ze-felipe-leva-ex-noiva-de-jogador-do-flamengo-como-acompanhante-para-festival-na-bahia-com-quase-6-milhoes-de-seguidores-famosa-influenciadora-quer-entrar-no-bbb-27,a675488d1a947cde358e32204e62edbah6dfll7e.html",
@@ -11570,5 +11588,19 @@
    }
   ],
   "publicada": true
+ },
+ "neymar-pai": {
+  "nome": "Neymar Pai",
+  "itens": [
+   {
+    "titulo": "Aos 61 anos, Neymar Pai comanda negócios milionários nos bastidores e mantém rotina familiar",
+    "link": "https://caras.com.br/atualidades/aos-61-anos-neymar-pai-comanda-negocios-milionarios-nos-bastidores-e-mantem-rotina-familiar.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-20T06:02:03+00:00",
+    "imagem": "",
+    "credito": ""
+   }
+  ]
  }
 }
