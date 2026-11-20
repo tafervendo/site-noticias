@@ -8055,8 +8055,45 @@
   "data": "2026-11-20T12:10:00+00:00",
   "titulo_original": "Euro hoje: recuo de 1,12% e bolsas europeias em alta",
   "post": null,
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Croatian_euro_coins_%282%29.jpg/1280px-Croatian_euro_coins_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "credito": "Foto: European Commission / CC BY 4.0, via Wikimedia Commons",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Croatian_euro_coins_(2).jpg"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://veja.abril.com.br/cultura/stenio-garcia-desabafa-sobre-briga-com-filhas-agora-querem-me-matar/": {
+  "recusado": true,
+  "criado": "2026-11-20T13:49:34.913195+00:00"
+ },
+ "https://www.espn.com.br/futebol/artigo/_/id/17537291/uefa-sorteia-quartas-nations-league-jogos-insanos-cruzamentos": {
+  "recusado": true,
+  "criado": "2026-11-20T13:49:34.913195+00:00"
+ },
+ "https://novo2026.portaldoholanda.com.br/florianopolis/clima-para-amanha-em-florianopolis-chuva-mais-intensa-logo-pela-manha": {
+  "publicar": true,
+  "titulo": "Florianópolis terá sexta com chuva forte pela manhã e temperaturas entre 22°C e 27°C",
+  "linha_fina": "Probabilidade de chuva chega a cerca de 80%, e o tempo deve melhorar gradualmente no fim de semana",
+  "paragrafos": [
+   "Florianópolis deve enfrentar uma sexta-feira (20) instável, com chuva mais intensa logo nas primeiras horas. A previsão indica temperatura mínima de 22°C e máxima de 27°C, com probabilidade próxima de 80% de precipitação ao longo do dia.",
+   "Pela manhã, a chuva pode vir acompanhada de trovoadas em diferentes pontos da Ilha e do continente. Depois do almoço, o volume tende a diminuir, mas ainda há chance de pancadas isoladas. À noite, o céu segue nublado e a chuva volta a aparecer de forma mais fraca.",
+   "A umidade do ar pode ultrapassar 90% em vários momentos, o que pede atenção a problemas respiratórios, mofo e alagamentos, sobretudo em regiões mais baixas da capital.",
+   "Quem sair de casa pela manhã deve levar guarda-chuva e tomar cuidado com as ruas molhadas, que ficam mais escorregadias nesse horário. Com vento mais forte, também é recomendado evitar as áreas litorâneas se o mar estiver agitado. Para o fim de semana, a expectativa é de que o tempo vá ficando mais firme, com menos chuva a cada dia."
+  ],
+  "tags": [
+   "previsão do tempo",
+   "Florianópolis",
+   "chuva na capital catarinense"
+  ],
+  "pessoa": "",
+  "busca_imagem": "rainy city street",
+  "criado": "2026-11-20T13:49:34.913195+00:00",
+  "slug": "florianopolis-tera-sexta-com-chuva-forte-pela-manha-e-temperaturas-ent-5c9e75",
+  "fonte": "Portal do Holanda",
+  "link": "https://novo2026.portaldoholanda.com.br/florianopolis/clima-para-amanha-em-florianopolis-chuva-mais-intensa-logo-pela-manha",
+  "categoria": "em-alta",
+  "data": "2026-11-20T12:50:00+00:00",
+  "titulo_original": "Clima para amanhã em Florianópolis: chuva mais intensa logo pela manhã",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/65535/55430701702_2285cfab9d_b.jpg",
+  "credito": "Foto: Anthony Adoré / domínio público",
+  "credito_link": "https://www.flickr.com/photos/204415310@N04/55430701702"
  }
 }
