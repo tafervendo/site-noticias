@@ -8180,8 +8180,41 @@
    "tipo": "x",
    "url": "https://twitter.com/F1/status/2123582905557668128"
   },
-  "imagem": "https://live.staticflickr.com/7558/16112067682_0f8124c995_b.jpg",
-  "credito": "Foto: Peter Mooney / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/25874444@N00/16112067682"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://natelinha.uol.com.br/televisao/2026/11/20/lucio-mauro-filho-admite-pressao-por-audiencia-no-caldeirao-muito-grande-250687.php": {
+  "publicar": true,
+  "titulo": "Lucio Mauro Filho admite pressão por audiência no Caldeirão com Mion",
+  "linha_fina": "Ator diz que a atração, iniciada para durar três meses, segue há cinco anos e que ele e Marcos Mion dividem a cobrança por números",
+  "paragrafos": [
+   "Lucio Mauro Filho admitiu que sente pressão por audiência no Caldeirão com Mion, da Globo. Em entrevista à coluna Play, do jornal O Globo, publicada nesta sexta-feira (20), ele afirmou que o programa, cuja participação dele estava prevista inicialmente para três meses, segue há cinco anos no ar.",
+   "Segundo o ator, a cobrança por números é maior no universo de variedades do que era na teledramaturgia, onde, na visão dele, havia mais proteção contra esse tipo de pressão. Lucio disse que a parceria com Marcos Mion deu certo e que os dois dividem essa cobrança.",
+   "O ator também contou que já estava na Globo há mais de 20 anos quando passou a se dedicar mais às novelas, período que, segundo ele, trouxe realizações pessoais e profissionais.",
+   "Apesar da dedicação ao programa, Lucio não descarta voltar às novelas. Ele explicou que, após cinco anos, conseguiu organizar melhor a rotina e hoje escolhe com mais cuidado os projetos paralelos, por conta dos três filhos e da necessidade de conciliar trabalhos sem sofrimento."
+  ],
+  "tags": [
+   "Lucio Mauro Filho",
+   "Caldeirão com Mion",
+   "audiência Globo"
+  ],
+  "pessoa": "Lucio Mauro Filho",
+  "busca_imagem": "television studio stage",
+  "criado": "2026-11-20T17:56:12.433992+00:00",
+  "slug": "lucio-mauro-filho-admite-pressao-por-audiencia-no-caldeirao-com-mion-118c04",
+  "fonte": "NaTelinha",
+  "link": "https://natelinha.uol.com.br/televisao/2026/11/20/lucio-mauro-filho-admite-pressao-por-audiencia-no-caldeirao-muito-grande-250687.php",
+  "categoria": "em-alta",
+  "data": "2026-11-20T17:40:00+00:00",
+  "titulo_original": "Lucio Mauro Filho admite pressão por audiência no Caldeirão: \"Muito grande\"",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/L%C3%BAcio_Mauro_Filho.jpg/1280px-L%C3%BAcio_Mauro_Filho.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": ""
+ },
+ "https://www.cnnbrasil.com.br/internacional/aeroporto-da-polonia-suspende-voos-apos-suspeita-de-invasao-do-espaco-aereo/": {
+  "recusado": true,
+  "criado": "2026-11-20T17:56:12.433992+00:00"
  }
 }
