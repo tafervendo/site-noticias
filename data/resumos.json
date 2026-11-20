@@ -7631,5 +7631,48 @@
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Lucho_Acosta_capit%C3%A3o_do_Cincinnati_pela_MLS_de_2023_%28cropped%29.jpg/1280px-Lucho_Acosta_capit%C3%A3o_do_Cincinnati_pela_MLS_de_2023_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credito": "Foto: Hayden Schiff / CC BY 2.0, via Wikimedia Commons",
   "credito_link": ""
+ },
+ "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-em-joinville-hoje-veja-como-fica-o-clima-nesta-quinta-feira,77f3af4642162daffaa6e3d7c1d448b21unrxvcd.html": {
+  "recusado": true,
+  "criado": "2026-11-20T03:18:11.876245+00:00"
+ },
+ "https://www1.folha.uol.com.br/cotidiano/2026/11/dois-homens-sao-mortos-a-tiros-em-bar-no-tatuape-na-zona-leste-de-sao-paulo.shtml": {
+  "recusado": true,
+  "criado": "2026-11-20T03:18:11.876245+00:00"
+ },
+ "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3088-confira-o-resultado-sorteado-nesta-quinta-feira-19/": {
+  "recusado": true,
+  "criado": "2026-11-20T03:18:11.876245+00:00"
+ },
+ "https://www.cnnbrasil.com.br/curiosidades/tecnologia-no-jato-da-embraer-permite-a-um-passageiro-leigo-pousar-a-aeronave-entenda/": {
+  "publicar": true,
+  "titulo": "Jato da Embraer faz pouso autônomo de emergência em teste no interior paulista",
+  "linha_fina": "Sistema Garmin Emergency Autoland pode ser acionado por um passageiro sem experiência em aviação, com apenas um botão",
+  "paragrafos": [
+   "Um jato executivo da Embraer pousou sem piloto a bordo em um teste realizado em Gavião Peixoto, no interior de São Paulo. A data exata do voo não foi revelada, segundo o site Aviacionline, que noticiou o caso e classificou a operação como o primeiro pouso autônomo de emergência de um jato executivo feito no Brasil.",
+   "A aeronave usada é o Phenom 300, de matrícula PP-XVJ, primeiro exemplar da série, e o teste serviu para avaliar o sistema na versão mais nova do modelo, o Phenom 300EV. A tecnologia, da Garmin, foi pensada para casos em que o piloto perde a capacidade de pilotar e os passageiros não sabem voar: basta apertar um botão, ou o próprio computador aciona o recurso ao notar que ninguém interage com os comandos.",
+   "Depois de assumir o controle, o sistema administra os comandos de voo e a potência dos motores, escolhe o aeroporto mais adequado, informa a situação ao controle de tráfego aéreo e conduz a aeronave até a parada total. Segundo a Garmin, a rota leva em conta obstáculos naturais e clima adverso. Para isso, a Embraer instalou um equipamento extra, o MEC, que faz a ponte entre o Autoland e as superfícies de controle.",
+   "O Phenom 300EV foi aprovado em agosto pela ANAC, pela FAA e pela EASA, o que o torna o primeiro jato leve certificado para usar o recurso e a maior aeronave executiva com essa função. A Embraer prevê começar as entregas em 2028, sem divulgar mês, primeiro cliente ou preço.",
+   "A Garmin lançou o Autoland em 2019 e obteve a primeira certificação em 2020. Em 20 de dezembro de 2025, um King Air B200 com problema de pressurização usou o sistema em uma emergência real e pousou perto de Denver, nos Estados Unidos, com os pilotos conscientes."
+  ],
+  "tags": [
+   "Embraer",
+   "Phenom 300EV",
+   "piloto automático",
+   "aviação executiva"
+  ],
+  "pessoa": "",
+  "busca_imagem": "private jet runway",
+  "criado": "2026-11-20T03:18:11.876245+00:00",
+  "slug": "jato-da-embraer-faz-pouso-autonomo-de-emergencia-em-teste-no-interior-550f68",
+  "fonte": "CNN Brasil",
+  "link": "https://www.cnnbrasil.com.br/curiosidades/tecnologia-no-jato-da-embraer-permite-a-um-passageiro-leigo-pousar-a-aeronave-entenda/",
+  "categoria": "em-alta",
+  "data": "2026-11-20T01:20:00+00:00",
+  "titulo_original": "Tecnologia no jato da Embraer permite a um passageiro leigo pousar a aeronave; entenda",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/3178/3020361364_354ea2361b_b.jpg",
+  "credito": "Foto: James Willamor / CC BY-SA 2.0",
+  "credito_link": "https://www.flickr.com/photos/81464596@N00/3020361364"
  }
 }
