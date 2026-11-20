@@ -1410,6 +1410,15 @@
   "nome": "Jônatas Faro",
   "itens": [
    {
+    "titulo": "Jônatas Faro fala sobre namoro de dois anos com homem e reação do público: 'Senti um abraço'",
+    "link": "https://revistaquem.globo.com/entrevistas/noticia/2026/11/jonatas-faro-fala-sobre-namoro-de-dois-anos-com-homem-e-reacao-do-publico-senti-um-abraco.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-20T09:57:32.946688+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jonatas_faro_2025.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Niteroi websites / CC0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Assim como Jônatas Faro: Veja 5 famosos que se assumiram em realitys",
     "link": "https://www.terra.com.br/diversao/tv/assim-como-jonatas-faro-veja-5-famosos-que-se-assumiram-em-realitys,a3d8f02b91419252407eda03756c4584kfeq9f62.html",
     "fonte": "Terra",
@@ -1561,6 +1570,15 @@
  "sylvester-stallone": {
   "nome": "Sylvester Stallone",
   "itens": [
+   {
+    "titulo": "Butkus: conheça o cachorro que Sylvester Stallone vendeu e comprou de volta em 'Eu Sou o Rocky'",
+    "link": "https://revistaquem.globo.com/entretenimento/series-e-filmes/noticia/2026/11/butkus-conheca-o-cachorro-que-sylvester-stallone-vendeu-e-comprou-de-volta-em-eu-sou-o-rocky.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-20T09:57:32.946688+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/12/P20251206DT-0472_%283x4_cropped_on_Stallone_with_moderate_headroom%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: The White House / Public domain, via Wikimedia Commons"
+   },
    {
     "titulo": "Eu Sou o Rocky: Diretor explica por que Sylvester Stallone declarou não saber nada sobre a cinebiografia, apesar de ter aprovado a produção",
     "link": "https://www.terra.com.br/diversao/entre-telas/eu-sou-o-rocky-diretor-explica-por-que-sylvester-stallone-declarou-nao-saber-nada-sobre-a-cinebiografia-apesar-de-ter-aprovado-a-producao,402ff769d813c5ca8101d427c7b7cdc7on34xdo2.html",
@@ -11600,6 +11618,48 @@
     "data": "2026-11-20T06:02:03+00:00",
     "imagem": "",
     "credito": ""
+   }
+  ]
+ },
+ "paulo-andre": {
+  "nome": "Paulo André",
+  "itens": [
+   {
+    "titulo": "Paulo André fala da relação com o filho e estímulo à autoestima: 'O cabelo dele é lindo como é'",
+    "link": "https://gshow.globo.com/realities/bbb/depois-do-bbb/noticia/paulo-andre-fala-da-relacao-com-o-filho-e-estimulo-a-autoestima-o-cabelo-dele-e-lindo-como-e.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-20T09:57:32.946688+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Pauo_Andr%C3%A9_%2815695357500%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Renan Katayama / CC BY-SA 2.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "zane-lowe": {
+  "nome": "Zane Lowe",
+  "itens": [
+   {
+    "titulo": "Apple Music Radio alcança mais de 50 milhões de ouvintes únicos por mês, diz Zane Lowe",
+    "link": "https://macmagazine.com.br/post/2026/11/19/apple-music-radio-alcanca-mais-de-50-milhoes-de-ouvintes-unicos-por-mes-diz-zane-lowe/",
+    "fonte": "MacMagazine",
+    "categoria": "em-alta",
+    "data": "2026-11-20T09:10:00+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/91/Zane_Lowe_1_Big_Weekend.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Michael Spiller from Bradford, UK. Also known as MGSpiller / CC BY-SA 3.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "davi-brito": {
+  "nome": "Davi Brito",
+  "itens": [
+   {
+    "titulo": "Ex-BBB, família de Davi Brito e mais: quem são o influencers com Instagram derrubado por divulgar bets",
+    "link": "https://www.terra.com.br/diversao/gente/ex-bbb-familia-de-davi-brito-e-mais-quem-sao-o-influencers-com-instagram-derrubado-por-divulgar-bets,42060f17ea62d2ca85e9196982670abe0p6krpt0.html",
+    "fonte": "Terra",
+    "categoria": "televisao",
+    "data": "2026-11-20T09:00:26+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/57/Davi_Brito_-_BBB_24_O_Reencontro.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
    }
   ]
  }

@@ -7836,9 +7836,9 @@
   "data": "2026-11-20T08:10:00+00:00",
   "titulo_original": "Flamengo vence Athletico e pode ser campeão diante do Palmeiras",
   "post": null,
-  "imagem": "https://live.staticflickr.com/49/131954710_a17e3facac_b.jpg",
-  "credito": "Foto: Arrr! / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/84488184@N00/131954710"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://noticiasdatv.uol.com.br/noticia/a-fazenda/vai-ter-virada-nova-enquete-a-fazenda-18-indica-votacao-apertada-e-indefinida-159692": {
   "publicar": true,
@@ -7866,8 +7866,24 @@
   "data": "2026-11-20T08:10:00+00:00",
   "titulo_original": "Vai ter virada? Nova enquete A Fazenda 18 indica votação apertada e indefinida",
   "post": null,
-  "imagem": "https://live.staticflickr.com/3180/2851149575_31ccf94244_b.jpg",
-  "credito": "Foto: goodrob13 / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/25030443@N03/2851149575"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://www.metro1.com.br/noticias/bahia/191664,governo-federal-destina-rdollar-50-milhoes-para-ponte-salvador-itaparica": {
+  "recusado": true,
+  "criado": "2026-11-20T09:57:32.946688+00:00"
+ },
+ "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/11/justica-nega-recurso-e-condena-sikera-jr-e-tv-por-incitacao-de-odio-contra-a-globo.shtml": {
+  "recusado": true,
+  "criado": "2026-11-20T09:57:32.946688+00:00"
+ },
+ "https://www.estadao.com.br/politica/area-tecnica-do-tcu-ve-indicios-de-irregularidades-em-pronunciamento-de-lula-na-tv/": {
+  "recusado": true,
+  "criado": "2026-11-20T09:57:32.946688+00:00"
+ },
+ "https://macmagazine.com.br/post/2026/11/19/apple-music-radio-alcanca-mais-de-50-milhoes-de-ouvintes-unicos-por-mes-diz-zane-lowe/": {
+  "recusado": true,
+  "criado": "2026-11-20T09:57:32.946688+00:00"
  }
 }
