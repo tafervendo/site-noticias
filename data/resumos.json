@@ -7510,12 +7510,61 @@
   "data": "2026-11-19T23:20:00+00:00",
   "titulo_original": "Flamengo entra na briga com o Vasco por volante do Goiás",
   "post": null,
-  "imagem": "https://live.staticflickr.com/2466/3925632034_ba746def7a_b.jpg",
-  "credito": "Foto: artwork_rebel / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/24092012@N03/3925632034"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/11/tv-de-ratinho-acaba-com-programa-e-demite-15-profissionais-para-cortar-custos.shtml": {
   "recusado": true,
   "criado": "2026-11-19T23:41:43.290737+00:00"
+ },
+ "https://www.uol.com.br/esporte/ultimas-noticias/agencia/2026/11/19/sao-paulo-tem-desgaste-entre-base-e-profissional-apos-eliminacao-no-paulista-sub-20.htm": {
+  "recusado": true,
+  "criado": "2026-11-20T00:57:48.859687+00:00"
+ },
+ "https://projectn.com.br/nintendo-anuncia-promocoes-de-black-friday-na-eshop-com-descontos-de-ate-90/": {
+  "recusado": true,
+  "criado": "2026-11-20T00:57:48.859687+00:00"
+ },
+ "https://internacional.com.br/noticias/masculino/colorado-vence-jogo-treino-contra-sindicato-dos-atletas": {
+  "recusado": true,
+  "criado": "2026-11-20T00:57:48.859687+00:00"
+ },
+ "https://noticiasdatv.uol.com.br/noticia/novelas/final-de-avenida-brasil-carminha-confessa-que-matou-max-para-salvar-vida-de-nina-159656": {
+  "recusado": true,
+  "criado": "2026-11-20T00:57:48.859687+00:00"
+ },
+ "https://www.cnnbrasil.com.br/economia/seu-bolso/loterias/mega-sena-3088/": {
+  "recusado": true,
+  "criado": "2026-11-20T00:57:48.859687+00:00"
+ },
+ "https://noticias.stf.jus.br/postsnoticias/nota-do-gabinete-do-ministro-alexandre-de-moraes-7/": {
+  "publicar": true,
+  "titulo": "Moraes libera para pauta ações contra a Lei da Dosimetria",
+  "linha_fina": "Julgamento no Plenário virtual do STF está marcado para ocorrer entre 4 e 15 de dezembro",
+  "paragrafos": [
+   "O ministro Alexandre de Moraes liberou para pauta quatro Ações Diretas de Inconstitucionalidade (ADIs 7966, 7967, 7968 e 7969) que questionam a Lei 15.402/2026, conhecida como Lei da Dosimetria.",
+   "Segundo o Supremo Tribunal Federal, o julgamento será feito pelo Plenário na sessão virtual marcada para o período de 4 a 15 de dezembro, conforme a Resolução 642, de 14 de junho de 2019.",
+   "O gabinete de Moraes também divulgou um relatório atualizado sobre os atos antidemocráticos e a tentativa de golpe de 8 de janeiro de 2023. O documento trata das investigações, dos acordos de não persecução penal, das audiências, das absolvições e condenações e da execução das penas."
+  ],
+  "tags": [
+   "STF",
+   "Lei da Dosimetria",
+   "Alexandre de Moraes",
+   "8 de janeiro"
+  ],
+  "pessoa": "Alexandre de Moraes",
+  "busca_imagem": "supreme court building",
+  "criado": "2026-11-20T00:57:48.859687+00:00",
+  "slug": "moraes-libera-para-pauta-acoes-contra-a-lei-da-dosimetria-9fecb1",
+  "fonte": "stf noticias",
+  "link": "https://noticias.stf.jus.br/postsnoticias/nota-do-gabinete-do-ministro-alexandre-de-moraes-7/",
+  "categoria": "em-alta",
+  "data": "2026-11-20T00:30:00+00:00",
+  "titulo_original": "Nota do Gabinete do Ministro Alexandre de Moraes",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Sess%C3%A3o_da_Primeira_Turma_do_STF_-_30062026_%28cropped_2%29.jpg/1280px-Sess%C3%A3o_da_Primeira_Turma_do_STF_-_30062026_%28cropped_2%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Supremo Tribunal Federal STF / Public domain, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Sess%C3%A3o_da_Primeira_Turma_do_STF_-_30062026_(cropped_2).jpg"
  }
 }
