@@ -1661,6 +1661,15 @@
   "nome": "Sylvester Stallone",
   "itens": [
    {
+    "titulo": "‘Eu Sou o Rocky’ transforma história extraordinária em filme banal e sem emoção",
+    "link": "https://www.estadao.com.br/cultura/cinema/eu-sou-o-rocky-transforma-historia-extraordinaria-em-filme-banal-e-sem-emocao/",
+    "fonte": "Estadão",
+    "categoria": "em-alta",
+    "data": "2026-11-20T19:20:00+00:00",
+    "imagem": "",
+    "credito": ""
+   },
+   {
     "titulo": "Butkus: conheça o cachorro que Sylvester Stallone vendeu e comprou de volta em 'Eu Sou o Rocky'",
     "link": "https://revistaquem.globo.com/entretenimento/series-e-filmes/noticia/2026/11/butkus-conheca-o-cachorro-que-sylvester-stallone-vendeu-e-comprou-de-volta-em-eu-sou-o-rocky.ghtml",
     "fonte": "Quem",
@@ -2457,6 +2466,15 @@
   "nome": "Mariah Carey",
   "itens": [
    {
+    "titulo": "Mariah Carey surge tomando taça de vinho na varanda do Hotel Fasano; veja fotos",
+    "link": "https://gshow.globo.com/cultura-pop/famosos/noticia/mariah-carey-surge-tomando-taca-de-vinho-na-varanda-do-hotel-fasano-veja-fotos.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-20T19:58:49.735409+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/MariahSandringham150825-18_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Raph_PH / CC BY 4.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Mariah Carey atende fãs na porta de hotel em Ipanema antes de show no Rio de Janeiro",
     "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/mariah-carey-atende-fas-na-porta-de-hotel-em-ipanema-antes-de-show-no-rio-de-janeiro.ghtml",
     "fonte": "Quem",
@@ -2714,6 +2732,15 @@
   "nome": "Gaby Amarantos",
   "itens": [
    {
+    "titulo": "Famosos celebram escolha de Gaby Amarantos para viver Alcione nos cinemas",
+    "link": "https://gshow.globo.com/cultura-pop/filmes/noticia/famosos-celebram-escolha-de-gaby-amarantos-para-viver-alcione-nos-cinemas.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-20T19:58:49.735409+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Gaby_Amarantos_at_Web_Summit_Rio_2025.jpg/1280px-Gaby_Amarantos_at_Web_Summit_Rio_2025.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Web Summit Rio from Rio de Janeiro, Brazil / CC BY 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Gaby Amarantos aposta em decotão, plumas e transparência para evento: veja o look completo",
     "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/gaby-amarantos-aposta-em-decotao-plumas-e-transparencia-para-evento-veja-o-look-completo.ghtml",
     "fonte": "Quem",
@@ -2722,7 +2749,8 @@
     "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Gaby_Amarantos_at_Web_Summit_Rio_2025.jpg/1280px-Gaby_Amarantos_at_Web_Summit_Rio_2025.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "credito": "Foto: Web Summit Rio from Rio de Janeiro, Brazil / CC BY 2.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "deborah-secco": {
   "nome": "Deborah Secco",
@@ -6741,6 +6769,15 @@
   "nome": "Grazi Massafera",
   "itens": [
    {
+    "titulo": "Aos 44 anos e com uma mansão cercada pela natureza, Grazi Massafera revela desejo de comprar sítio com rio e animais",
+    "link": "https://caras.com.br/estilo-de-vida/aos-44-anos-e-com-uma-mansao-cercada-pela-natureza-grazi-massafera-revela-desejo-de-comprar-sitio-com-rio-e-animais.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-20T19:36:12+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Grazi_Massafera_como_D%C3%A9bora_no_Travessia.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Globoplay Novelas / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Grazi Massafera faz ensaio de lingerie em clima de Natal e ganha elogios: 'Maravilhosa'; veja",
     "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/grazi-massafera-faz-ensaio-de-lingerie-em-clima-de-natal.ghtml",
     "fonte": "Quem",
@@ -6749,7 +6786,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Grazi_Massafera_como_D%C3%A9bora_no_Travessia.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Globoplay Novelas / CC BY 3.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "ana-maria-goncalves": {
   "nome": "Ana Maria Gonçalves",
@@ -8510,6 +8548,15 @@
   "nome": "Nicole Bahls",
   "itens": [
    {
+    "titulo": "Nicole Bahls batiza galinha em homenagem a influenciadora",
+    "link": "https://gshow.globo.com/cultura-pop/famosos/noticia/nicole-bahls-batiza-galinha-em-homenagem-a-influenciadora.ghtml",
+    "fonte": "Gshow",
+    "categoria": "virais",
+    "data": "2026-11-20T19:58:49.735409+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bahls_2022.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Nicole Bahls comemora aniversário na Itália após conquistar cidadania do país",
     "link": "https://revistaquem.globo.com/viagem/noticia/2026/11/nicole-bahls-comemora-aniversario-na-italia-apos-conquistar-cidadania-do-pais.ghtml",
     "fonte": "Quem",
@@ -8518,7 +8565,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bahls_2022.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "carlo-ancelotti": {
   "nome": "Carlo Ancelotti",
@@ -10644,6 +10692,15 @@
   "nome": "Abel Ferreira",
   "itens": [
    {
+    "titulo": "Palmeiras: Abel Ferreira sofre com baixa de atacante às vésperas da final da Liberta",
+    "link": "https://tvfoco.uai.com.br/palmeiras-abel-ferreira-sofre-com-baixa-de-atacante-as-vesperas-da-final-da-liberta/",
+    "fonte": "OTV Foco",
+    "categoria": "televisao",
+    "data": "2026-11-20T19:00:00+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Audi%C3%AAncia_com_Abel_Ferreira%2C_T%C3%A9cnico_do_Palmeiras_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Governo do Estado de São Paulo / CC BY 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Abel Ferreira e Guardiola se encontram em evento em São Paulo",
     "link": "https://www.espn.com.br/futebol/artigo/_/id/17536864/abel-ferreira-guardiola-encontram-evento-sao-paulo",
     "fonte": "ESPN Brasil",
@@ -12399,6 +12456,15 @@
   "nome": "Lúcio Mauro Filho",
   "itens": [
    {
+    "titulo": "Lúcio Mauro Filho escondeu diagnóstico de câncer por anos e explica o motivo da decisão",
+    "link": "https://caras.com.br/atualidades/lucio-mauro-filho-escondeu-diagnostico-de-cancer-por-anos-e-explica-o-motivo-da-decisao.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-20T19:09:35+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/L%C3%BAcio_Mauro_Filho.jpg/1280px-L%C3%BAcio_Mauro_Filho.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Lucio Mauro Filho admite pressão por audiência no Caldeirão: \"Muito grande\"",
     "link": "https://natelinha.uol.com.br/televisao/2026/11/20/lucio-mauro-filho-admite-pressao-por-audiencia-no-caldeirao-muito-grande-250687.php",
     "fonte": "NaTelinha",
@@ -12458,6 +12524,34 @@
     "data": "2026-11-20T18:30:00+00:00",
     "imagem": "",
     "credito": ""
+   }
+  ]
+ },
+ "gigi-hadid": {
+  "nome": "Gigi Hadid",
+  "itens": [
+   {
+    "titulo": "Casaram? Gigi Hadid e Bradley Cooper surgem com aliança nas mãos esquerdas",
+    "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/casaram-gigi-hadid-e-bradley-cooper-surgem-com-alianca-nas-maos-esquerdas.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-20T19:58:49.735409+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Marina_Ruy_Barbosa_com_Gigi_Hadid_em_Paris_%28Gigi_Hadid%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Manuela Muniz Feijó Scarpa / CC BY-SA 4.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "yalitza-aparicio": {
+  "nome": "Yalitza Aparicio",
+  "itens": [
+   {
+    "titulo": "Yalitza Aparicio revela como uma reviravolta inesperada a levou ao Oscar",
+    "link": "https://caras.com.br/revista/yalitza-aparicio-revela-como-uma-reviravolta-inesperada-a-levou-ao-oscar.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-20T19:00:27+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Yalitza_Aparicio_Oscars_2019.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Cal Laird / CC BY 3.0, via Wikimedia Commons"
    }
   ]
  }

@@ -8259,5 +8259,39 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/81/Sheron_Menezzes.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: Portal ArteBlitz / CC BY 3.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Sheron_Menezzes.jpg"
+ },
+ "https://www.espn.com.br/mma/ufc/artigo/_/id/17537674/poatan-rebate-criticas-adesanya-antes-ufc-335-ironiza-talvez-nao-tenha-visto-minhas-entrevistas": {
+  "recusado": true,
+  "criado": "2026-11-20T19:58:49.735409+00:00"
+ },
+ "https://www.estadao.com.br/cultura/cinema/eu-sou-o-rocky-transforma-historia-extraordinaria-em-filme-banal-e-sem-emocao/": {
+  "publicar": true,
+  "titulo": "Sylvester Stallone ganha filme sobre bastidores de Rocky, mas crítica aponta falta de emoção",
+  "linha_fina": "Em 'Eu Sou o Rocky', Anthony Ippolito se destaca como Stallone, mas o longa de Peter Farrelly não repete a força do original de 1976",
+  "paragrafos": [
+   "O filme Eu Sou o Rocky estreia nesta quinta-feira, 19, e reconstitui os obstáculos enfrentados por Sylvester Stallone para levar Rocky: Um Lutador às telas. Dirigido por Peter Farrelly e escrito por Peter Gamble, o longa acompanha o ator desde seus primeiros trabalhos, passando pelas dificuldades como roteirista até a produção feita com recursos limitados.",
+   "A história de superação dos bastidores é vista pela crítica como material rico, com personagens excêntricos e negociações difíceis. Segundo a resenha do Estadão, o problema está na execução: o roteiro tenta transformar cada situação em uma sacada cômica, o que deixa o filme artificial e sem tom consistente.",
+   "O destaque positivo do elenco fica com Anthony Ippolito, que interpreta Stallone com semelhança física e uma dimensão dramática própria, sem apenas imitar o astro. Os atores que vivem os produtores também ajudam a dar consistência às cenas.",
+   "Para o crítico, a maior frustração é que o longa não reproduz a emoção do filme original de 1976, que segue como referência. Segundo a matéria, o trailer transmite mais sentimento do que o próprio longa."
+  ],
+  "tags": [
+   "Sylvester Stallone",
+   "Rocky",
+   "Eu Sou o Rocky",
+   "estreias de cinema"
+  ],
+  "pessoa": "Sylvester Stallone",
+  "busca_imagem": "film set behind scenes",
+  "criado": "2026-11-20T19:58:49.735409+00:00",
+  "slug": "sylvester-stallone-ganha-filme-sobre-bastidores-de-rocky-mas-critica-a-98c40f",
+  "fonte": "Estadão",
+  "link": "https://www.estadao.com.br/cultura/cinema/eu-sou-o-rocky-transforma-historia-extraordinaria-em-filme-banal-e-sem-emocao/",
+  "categoria": "em-alta",
+  "data": "2026-11-20T19:20:00+00:00",
+  "titulo_original": "‘Eu Sou o Rocky’ transforma história extraordinária em filme banal e sem emoção",
+  "post": null,
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/12/P20251206DT-0472_%283x4_cropped_on_Stallone_with_moderate_headroom%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: The White House / Public domain, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:P20251206DT-0472_(3x4_cropped_on_Stallone_with_moderate_headroom).jpg"
  }
 }
