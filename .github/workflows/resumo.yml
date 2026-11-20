@@ -2,7 +2,7 @@ name: Resumo diário
 
 on:
   schedule:
-    - cron: "0 12 * * *"   # 9h no horário de Brasília
+    - cron: "15 11 * * *"   # 8h15 em Brasília: o GitHub costuma atrasar de 30 a 50 min, então chega perto das 9h
   workflow_dispatch:
     inputs:
       dia:

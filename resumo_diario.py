@@ -192,8 +192,29 @@ def montar():
     return f"Tá Fervendo · resumo de {dia}: {visitas}{len(publicadas)} matérias, {len(removidas)} remoções", texto, corpo
 
 
+def ja_enviado_hoje():
+    """Evita dois resumos no mesmo dia (ex.: um enviado na mão e o agendado chegando depois)."""
+    token, repo, este = os.environ.get("GITHUB_TOKEN"), os.environ.get("GITHUB_REPOSITORY"), os.environ.get("GITHUB_RUN_ID")
+    if not token or not repo or os.environ.get("RESUMO_DE") == "hoje":
+        return False
+    hoje = AGORA.astimezone(BRT).date()
+    inicio = datetime.combine(hoje, datetime.min.time(), BRT).astimezone(timezone.utc)
+    url = (f"https://api.github.com/repos/{repo}/actions/workflows/resumo.yml/runs"
+           f"?status=success&created=>={inicio:%Y-%m-%dT%H:%M:%SZ}&per_page=20")
+    req = urllib.request.Request(url, headers={"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"})
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            runs = json.load(r).get("workflow_runs", [])
+    except Exception:
+        return False
+    return any(str(x["id"]) != este and (x.get("display_title") or "") != "teste" for x in runs)
+
+
 def main():
     senha = os.environ.get("GMAIL_APP_PASSWORD", "").replace(" ", "")
+    if ja_enviado_hoje():
+        print("Resumo de hoje já foi enviado; não mando de novo.")
+        return
     assunto, texto, corpo = montar()
     if not senha or TESTE:
         print(assunto)
