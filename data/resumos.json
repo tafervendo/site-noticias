@@ -8138,5 +8138,50 @@
  "https://www.alesc.sc.gov.br/deputados/noticia/dr-vicente-destaca-atuacao-da-celesc-nos-temporais-e-defende-empresa-publica/": {
   "recusado": true,
   "criado": "2026-11-20T15:54:54.588548+00:00"
+ },
+ "https://clicknewswebtv.com.br/lereditorial?id=0d05cc3f0d5ca7438b23de10029c584f&idgp=370a8c087f7b40fd8fa3d0b60a6ee2aa": {
+  "recusado": true,
+  "criado": "2026-11-20T16:56:28.820169+00:00"
+ },
+ "https://www1.folha.uol.com.br/cotidiano/2026/11/sao-paulo-tera-feriado-tipico-de-primavera-com-muito-sol-calor-e-pancadas-de-chuva-a-tarde.shtml": {
+  "recusado": true,
+  "criado": "2026-11-20T16:56:28.820169+00:00"
+ },
+ "https://agenciagov.ebc.com.br/noticias/202611/ministerio-das-cidades-entrega-624-moradias-do-minha-casa-minha-vida-em-botucatu-sp": {
+  "recusado": true,
+  "criado": "2026-11-20T16:56:28.820169+00:00"
+ },
+ "https://www.uol.com.br/esporte/colunas/pole-position/2026/11/19/primeiro-treino-livre-gp-de-las-vegas.htm": {
+  "publicar": true,
+  "titulo": "Rafael Câmara e Bortoleto mal conseguem treinar em Las Vegas por causa da chuva e do frio",
+  "linha_fina": "Nenhum piloto marcou tempo no primeiro treino livre do GP de Las Vegas, disputado sob chuva fina e com a pista muito fria",
+  "paragrafos": [
+   "No primeiro treino livre do GP de Las Vegas, disputado sob chuva fina e temperatura de no máximo 12ºC, nenhum piloto conseguiu completar uma volta com tempo marcado. Max Verstappen comparou a pista a uma superfície de gelo ao tentar rodar no circuito de rua.",
+   "Segundo a reportagem, o problema não foi o volume de chuva, mas o frio combinado com as longas retas, que faz o pneu perder temperatura rapidamente. Assim, os pilotos davam uma única volta e voltavam aos boxes, e cinco deles sequer foram à pista.",
+   "O brasileiro Rafael Câmara, da Haas, estreou em sua segunda corrida na Fórmula 1 e foi à pista duas vezes sem completar voltas marcadas. Gabriel Bortoleto, da Audi, também deu apenas uma volta.",
+   "Pelo que foi apontado, o treino serviu principalmente para cumprir a regra que obriga equipes a dar treinos livres a pilotos jovens. A próxima sessão começa à 1h, no horário de Brasília, e a expectativa é de que a chuva pare, mas a pista dificilmente deve estar seca."
+  ],
+  "tags": [
+   "GP de Las Vegas",
+   "Fórmula 1",
+   "Rafael Câmara",
+   "Gabriel Bortoleto"
+  ],
+  "pessoa": "",
+  "busca_imagem": "race track rain",
+  "criado": "2026-11-20T16:56:28.820169+00:00",
+  "slug": "rafael-camara-e-bortoleto-mal-conseguem-treinar-em-las-vegas-por-causa-f37f9a",
+  "fonte": "UOL",
+  "link": "https://www.uol.com.br/esporte/colunas/pole-position/2026/11/19/primeiro-treino-livre-gp-de-las-vegas.htm",
+  "categoria": "em-alta",
+  "data": "2026-11-20T15:10:00+00:00",
+  "titulo_original": "Pole Position: Treino em Las Vegas termina sem nenhum tempo marcado em 'pista de gelo'",
+  "post": {
+   "tipo": "x",
+   "url": "https://twitter.com/F1/status/2123582905557668128"
+  },
+  "imagem": "https://live.staticflickr.com/7558/16112067682_0f8124c995_b.jpg",
+  "credito": "Foto: Peter Mooney / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/25874444@N00/16112067682"
  }
 }
