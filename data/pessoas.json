@@ -4929,6 +4929,15 @@
   "nome": "Zé Felipe",
   "itens": [
    {
+    "titulo": "Karoline Lima reage a rumores de romance com Zé Felipe após marcar presença em show do cantor; assista Fotos: Reprodução/ Instagram",
+    "link": "https://hugogloss.uol.com.br/famosos/karoline-lima-ze-felipe/",
+    "fonte": "Hugo Gloss",
+    "categoria": "virais",
+    "data": "2026-11-20T21:51:50+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ana_Castela_e_Z%C3%A9_Felipe_no_anivers%C3%A1rio_de_Marrone_%28Z%C3%A9_Felipe%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Record Goiás / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Zé Felipe e Karoline Lima juntos? Ex de Léo Pereira ganha coração do cantor durante show e quebra o silêncio: 'Minha vida amorosa é uma novela'",
     "link": "https://www.terra.com.br/diversao/ze-felipe-e-karoline-lima-juntos-ex-de-leo-pereira-ganha-coracao-do-cantor-durante-show-e-quebra-o-silencio-minha-vida-amorosa-e-uma-novela,903328ee10c34c23ab66e6bf030165b1uic0raqa.html",
     "fonte": "Terra",
@@ -12440,6 +12449,15 @@
   "nome": "Rafael Cardoso",
   "itens": [
    {
+    "titulo": "Aos 12 anos, filha de Rafael Cardoso e Mari Bridi orgulha os pais com rotina dedicada aos estudos",
+    "link": "https://caras.com.br/atualidades/aos-12-anos-filha-de-rafael-cardoso-e-mari-bridi-orgulha-os-pais-com-rotina-dedicada-aos-estudos.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-20T22:33:27+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Rafael_Cardoso.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Tupperware Brasil / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Após enfrentar dependência química, Rafael Cardoso quebra o silêncio e faz revelação impactante",
     "link": "https://www.terra.com.br/diversao/gente/apos-enfrentar-dependencia-quimica-rafael-cardoso-quebra-o-silencio-e-faz-revelacao-impactante,520834c67e6fd116276cb902947fa151s8da32gq.html",
     "fonte": "Terra",
@@ -12716,5 +12734,33 @@
    }
   ],
   "publicada": true
+ },
+ "maisa-silva": {
+  "nome": "Maisa Silva",
+  "itens": [
+   {
+    "titulo": "Maisa Silva desfila looks estilososo em cliques de viagem a São Paulo",
+    "link": "https://gshow.globo.com/cultura-pop/famosos/noticia/maisa-silva-desfile-looks-em-cliques-de-viagem-a-sao-paulo.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-20T22:45:01.606695+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Maisa_no_Lady_Night_em_2017.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: https://www.youtube.com/@HumorMultishow Humor Multishow / CC BY 3.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "martinho-da-vila": {
+  "nome": "Martinho da Vila",
+  "itens": [
+   {
+    "titulo": "Martinho da Vila publica foto rara da única mulher com quem se casou: 'Estrela guia'",
+    "link": "https://www.terra.com.br/diversao/gente/martinho-da-vila-publica-foto-rara-da-unica-mulher-com-quem-se-casou-estrela-guia,c98708696d955d1ea36740f1e6286a033l5gnbbb.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-20T22:13:07+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Martinho-Fantastico048_%28cropped%29.jpg/1280px-Martinho-Fantastico048_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Relicarium EstudioCriativo / CC BY 2.0, via Wikimedia Commons"
+   }
+  ]
  }
 }
