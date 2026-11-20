@@ -8025,5 +8025,38 @@
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/2025-05-05_Unterzeichnung_des_Koalitionsvertrages_der_21._Wahlperiode_des_Bundestages_by_Sandro_Halank%E2%80%93076_%28cropped%29.jpg/1280px-2025-05-05_Unterzeichnung_des_Koalitionsvertrages_der_21._Wahlperiode_des_Bundestages_by_Sandro_Halank%E2%80%93076_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credito": "Foto: Sandro Halank, Wikimedia Commons / CC BY-SA 4.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:2025-05-05_Unterzeichnung_des_Koalitionsvertrages_der_21._Wahlperiode_des_Bundestages_by_Sandro_Halank%E2%80%93076_(cropped).jpg"
+ },
+ "https://vejasp.abril.com.br/coluna/terraco-paulistano/decathlon-abre-loja-em-sao-caetano-do-sul-com-vale-para-os-50-primeiros/": {
+  "recusado": true,
+  "criado": "2026-11-20T12:28:01.491109+00:00"
+ },
+ "https://www.spacemoney.com.br/forex/euro-hoje-recua-bolsas-europeias-alta/": {
+  "publicar": true,
+  "titulo": "Euro recua 1,12% frente ao real e bolsas europeias fecham em alta",
+  "linha_fina": "Par EUR/BRL foi cotado a R$ 6,1649 na sessão de 11 de novembro, enquanto Stoxx 600 subiu 0,67%",
+  "paragrafos": [
+   "Na sessão de 11 de novembro, o euro perdeu 1,12% em relação ao real, com o par EUR/BRL cotado a R$ 6,1649. No mesmo dia, as principais bolsas europeias terminaram o pregão no positivo.",
+   "Em Londres, o índice avançou 0,66%, enquanto Frankfurt subiu 1,12% e Paris ganhou 0,60%. O Stoxx 600, que reúne empresas de diversos setores do continente, fechou com alta de 0,67%, aos 662,74 pontos.",
+   "Durante o pregão, o câmbio chegou a ser cotado em R$ 6,1844, com alta de 0,51% na sessão. O mercado de câmbio opera das 9h às 17h, no horário de Brasília.",
+   "Segundo análise da Traders Union, citada pelo veículo, o par segue acima das médias móveis mais acompanhadas, mas o indicador CCI está em sobrecompra, o que pode aumentar o risco de correção no curto prazo. A projeção para as próximas sessões aponta intervalo entre R$ 6,1535 e R$ 6,2153."
+  ],
+  "tags": [
+   "euro hoje",
+   "câmbio EUR/BRL",
+   "bolsas europeias"
+  ],
+  "pessoa": "",
+  "busca_imagem": "euro coins currency",
+  "criado": "2026-11-20T12:28:01.491109+00:00",
+  "slug": "euro-recua-1-12-frente-ao-real-e-bolsas-europeias-fecham-em-alta-555f90",
+  "fonte": "SpaceMoney",
+  "link": "https://www.spacemoney.com.br/forex/euro-hoje-recua-bolsas-europeias-alta/",
+  "categoria": "em-alta",
+  "data": "2026-11-20T12:10:00+00:00",
+  "titulo_original": "Euro hoje: recuo de 1,12% e bolsas europeias em alta",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Croatian_euro_coins_%282%29.jpg/1280px-Croatian_euro_coins_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: European Commission / CC BY 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Croatian_euro_coins_(2).jpg"
  }
 }
