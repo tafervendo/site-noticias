@@ -8323,9 +8323,9 @@
   "data": "2026-11-20T20:10:00+00:00",
   "titulo_original": "Homem desaparecido há dez dias é encontrado caminhando na 407 da Asa Norte",
   "post": null,
-  "imagem": "https://live.staticflickr.com/578/20651934085_0e5dea2b01_b.jpg",
-  "credito": "Foto: CeriC / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/63114989@N00/20651934085"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://noticiasdatv.uol.com.br/noticia/novelas/resumo-de-avenida-brasil-proximo-capitulo-da-novela-segunda-23-de-novembro-159400": {
   "publicar": true,
@@ -8353,8 +8353,12 @@
   "data": "2026-11-20T20:00:00+00:00",
   "titulo_original": "Resumo de Avenida Brasil: Próximo capítulo da novela, segunda, 23 de novembro",
   "post": null,
-  "imagem": "https://live.staticflickr.com/4023/4297510020_3aa8807692_b.jpg",
-  "credito": "Foto: Draco2008 / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/23448975@N04/4297510020"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://www.terra.com.br/esportes/volei/dileo-elogia-evolucao-do-volei-renata-construindo-uma-identidade,92c7fa81892a47759e893f760ddc95f378bgcnc7.html": {
+  "recusado": true,
+  "criado": "2026-11-20T21:45:49.242903+00:00"
  }
 }
