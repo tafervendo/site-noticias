@@ -8092,8 +8092,39 @@
   "data": "2026-11-20T12:50:00+00:00",
   "titulo_original": "Clima para amanhã em Florianópolis: chuva mais intensa logo pela manhã",
   "post": null,
-  "imagem": "https://live.staticflickr.com/65535/55430701702_2285cfab9d_b.jpg",
-  "credito": "Foto: Anthony Adoré / domínio público",
-  "credito_link": "https://www.flickr.com/photos/204415310@N04/55430701702"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-11/bloco-ile-aiye-ganha-exposicao-na-inauguracao-do-ccbb-de-salvador": {
+  "publicar": true,
+  "titulo": "Ilê Aiyê ganha exposição na inauguração do novo CCBB em Salvador",
+  "linha_fina": "Mostra Nação Ilê celebra mais de 50 anos do primeiro bloco afro do Brasil e fica em cartaz até março de 2027",
+  "paragrafos": [
+   "Salvador recebe neste sábado (21) a nova unidade do Centro Cultural Banco do Brasil, instalada no prédio do antigo Palácio da Aclamação, no Campo Grande. A inauguração tem como homenageado o Ilê Aiyê, bloco afro fundado em 1974 no bairro do Curuzu.",
+   "A abertura será marcada pela exposição Nação Ilê, que reúne obras de 30 artistas brasileiros e estrangeiros. A proposta é mostrar como o bloco influenciou a estética, a política e a cultura, além de estabelecer conexões com outras regiões do país e com países africanos, como Benin e Angola.",
+   "Segundo o gerente geral da unidade, Júlio Paranaguá, a escolha de começar as atividades com essa homenagem reforça a identidade baiana. Já a curadoria destaca o papel educativo do grupo, que vai além do carnaval e se expressa em fotografia, pintura e instalações.",
+   "A mostra ocupa 800 metros quadrados do espaço, que também recebe a primeira etapa de restauro do Palácio, antiga residência oficial dos governadores da Bahia. O centro terá, ao todo, dez mil metros quadrados, com teatro, cinema, restaurante e outras áreas, e a conclusão do prédio principal está prevista para 2028.",
+   "Este é o primeiro CCBB da região Nordeste. A exposição Nação Ilê poderá ser visitada até 29 de março de 2027."
+  ],
+  "tags": [
+   "Ilê Aiyê",
+   "CCBB Salvador",
+   "Nação Ilê",
+   "exposição Salvador"
+  ],
+  "pessoa": "",
+  "busca_imagem": "art gallery exhibition",
+  "criado": "2026-11-20T14:52:10.225179+00:00",
+  "slug": "ile-aiye-ganha-exposicao-na-inauguracao-do-novo-ccbb-em-salvador-529d42",
+  "fonte": "Agência Brasil",
+  "link": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-11/bloco-ile-aiye-ganha-exposicao-na-inauguracao-do-ccbb-de-salvador",
+  "categoria": "em-alta",
+  "data": "2026-11-20T14:20:00+00:00",
+  "titulo_original": "Bloco Ilê Aiyê ganha exposição na inauguração do CCBB de Salvador | Radioagência Nacional",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/5668/22100667403_249abc8c09_b.jpg",
+  "credito": "Foto: MDGovpics / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/64018555@N03/22100667403"
  }
 }
