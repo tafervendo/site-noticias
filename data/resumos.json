@@ -9024,5 +9024,34 @@
  "https://www.ufc.com.br/news/alessandro-costa-analisa-revanche-albazi-sou-um-lutador-diferente": {
   "recusado": true,
   "criado": "2026-11-21T16:43:25.704356+00:00"
+ },
+ "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/arthur-elias-chama-taina-maranhao-para-data-fifa-da-selecao-feminina": {
+  "publicar": true,
+  "titulo": "Taina Maranhão é convocada por Arthur Elias para a Seleção Feminina",
+  "linha_fina": "Atacante do Palmeiras entra no lugar de Isabela, lesionada, para os amistosos no Japão em novembro e dezembro",
+  "paragrafos": [
+   "O técnico Arthur Elias convocou a atacante Taina Maranhão, do Palmeiras, para a Seleção Brasileira de futebol feminino. O anúncio foi feito na manhã deste sábado (21).",
+   "A jogadora vai integrar o elenco da última Data FIFA de 2026, com dois amistosos contra o Japão: no dia 29 de novembro, em Hiroshima, e no dia 5 de dezembro, em Okayama. A Confederação Brasileira de Futebol ainda não confirmou os horários das partidas.",
+   "Taina ocupa a vaga de Isabela, do Paris Saint-Germain. A atacante francesa sofreu uma lesão muscular na parte posterior da coxa esquerda durante um jogo contra o Chelsea pela Liga dos Campeões Feminina e segue em tratamento no clube."
+  ],
+  "tags": [
+   "Seleção Feminina",
+   "Taina Maranhão",
+   "Arthur Elias",
+   "Data FIFA"
+  ],
+  "pessoa": "Taina Maranhão",
+  "busca_imagem": "women soccer player stadium",
+  "criado": "2026-11-21T17:40:18.121714+00:00",
+  "slug": "taina-maranhao-e-convocada-por-arthur-elias-para-a-selecao-feminina-7544e7",
+  "fonte": "Agência Brasil",
+  "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/arthur-elias-chama-taina-maranhao-para-data-fifa-da-selecao-feminina",
+  "categoria": "em-alta",
+  "data": "2026-11-21T17:10:00+00:00",
+  "titulo_original": "Arthur Elias chama Taina Maranhão para Data FIFA da Seleção Feminina",
+  "post": null,
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Supercopa_Feminina_2023_-_Corinthians_4x1_Flamengo_-_Arthur_Elias.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: SOCCER DIGITAL / CC0, via Wikimedia Commons",
+  "credito_link": ""
  }
 }
