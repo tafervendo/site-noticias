@@ -8708,8 +8708,8 @@
   "data": "2026-11-21T09:00:00+00:00",
   "titulo_original": "Karoline Lima quebra o silêncio sobre possível romance com Zé Felipe",
   "post": null,
-  "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ana_Castela_e_Z%C3%A9_Felipe_no_anivers%C3%A1rio_de_Marrone_%28Z%C3%A9_Felipe%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "credito": "Foto: Record Goiás / CC BY 3.0, via Wikimedia Commons",
+  "imagem": "",
+  "credito": "",
   "credito_link": ""
  },
  "https://www1.folha.uol.com.br/cotidiano/2026/11/troca-de-valvula-de-16-toneladas-paralisa-estacao-do-cantareira-e-pode-afetar-abastecimento-ate-terca-24.shtml": {
@@ -8735,5 +8735,47 @@
  "https://www.adrenaline.com.br/analise/games/grand-theft-auto-vi-review/": {
   "recusado": true,
   "criado": "2026-11-21T09:17:56.019038+00:00"
+ },
+ "https://www.poder360.com.br/poder-governo/governo-espera-definir-vaga-no-stf-para-soltar-nomeacoes-de-agencias/": {
+  "recusado": true,
+  "criado": "2026-11-21T10:20:44.037135+00:00"
+ },
+ "https://www.espn.com.br/futebol/vasco/artigo/_/id/17535274/carlos-vinicius-vasco-gremio-pre-contrato-incomodo": {
+  "recusado": true,
+  "criado": "2026-11-21T10:20:44.037135+00:00"
+ },
+ "https://www.campograndenews.com.br/economia/calcule-seu-13o-e-descubra-quanto-vai-cair-na-conta-em-2026": {
+  "publicar": true,
+  "titulo": "13º salário 2026: calculadora mostra quanto sobra após INSS e Imposto de Renda",
+  "linha_fina": "Simulador do Campo Grande News estima o valor líquido das duas parcelas, com regras novas do IR e prazos de pagamento até 18 de dezembro",
+  "paragrafos": [
+   "Uma calculadora criada pelo Campo Grande News ajuda o trabalhador de Mato Grosso do Sul a estimar quanto vai receber de 13º salário em 2026. A ferramenta considera descontos de INSS e Imposto de Renda, o tempo trabalhado no ano e a média de horas extras, comissões e outros adicionais, quando houver.",
+   "O contexto financeiro reforça a importância do cálculo. Segundo levantamento da Serasa citado pelo próprio veículo, 60,86% dos adultos sul-mato-grossenses estavam inadimplentes em agosto. Na Capital, outra pesquisa apontou 75,5% das famílias endividadas em outubro. Ter a conta antecipada pode ajudar a decidir entre quitar parcelas, renegociar dívidas ou guardar parte do valor.",
+   "Segundo o texto, as novas regras do Imposto de Renda de 2026, que preveem isenção para rendimentos de até R$ 5 mil e redução gradual até R$ 7.350, também alcançam o 13º. A estimativa vale para trabalhadores CLT sem particularidades de folha, e os resultados podem variar conforme faltas, afastamentos e adicionais.",
+   "Pela regra descrita na matéria, quem trabalhou o ano inteiro tem direito, em geral, a um salário mensal, e quem foi contratado ao longo do ano recebe proporcionalmente. A primeira parcela deve ser paga até 30 de novembro, e a segunda, que concentra os descontos, até 18 de dezembro, já que o prazo legal de 20 de dezembro cai em um domingo."
+  ],
+  "tags": [
+   "13º salário",
+   "Imposto de Renda",
+   "INSS",
+   "Mato Grosso do Sul"
+  ],
+  "pessoa": "",
+  "busca_imagem": "money calculator savings",
+  "criado": "2026-11-21T10:20:44.037135+00:00",
+  "slug": "13o-salario-2026-calculadora-mostra-quanto-sobra-apos-inss-e-imposto-d-ad8910",
+  "fonte": "Campo Grande News",
+  "link": "https://www.campograndenews.com.br/economia/calcule-seu-13o-e-descubra-quanto-vai-cair-na-conta-em-2026",
+  "categoria": "em-alta",
+  "data": "2026-11-21T09:10:00+00:00",
+  "titulo_original": "Calculadora do 13º salário 2026: veja quanto você vai receber",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/8796/17309004521_4a234c80be_b.jpg",
+  "credito": "Foto: free pictures of money / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/126278138@N03/17309004521"
+ },
+ "https://www1.folha.uol.com.br/mercado/2026/11/bolsas-de-toquio-e-seul-caem-apos-anthropic-nao-conseguir-dissipar-temores-sobre-a-ia.shtml": {
+  "recusado": true,
+  "criado": "2026-11-21T10:20:44.037135+00:00"
  }
 }
