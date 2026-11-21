@@ -6019,6 +6019,15 @@
   "nome": "Luciano Huck",
   "itens": [
    {
+    "titulo": "Luciano Huck e Angélica prestigiam filha Eva em estreia de musical no teatro",
+    "link": "https://revistaquem.globo.com/noticias/filhos-dos-famosos/noticia/2026/11/luciano-huck-e-angelica-prestigiam-filha-eva-em-estreia-de-musical-no-teatro.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-21T20:39:01.915159+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Luciano_Huck_in_April_2019.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Romério Cunha / CC BY 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Eva Huck e Luciano Huck: momentos especiais da relação de pai e filha nos últimos tempos",
     "link": "https://caras.com.br/atualidades/eva-huck-luciano-huck-relacao-pai-filha-homenagens-cuidados.phtml",
     "fonte": "Caras",
@@ -9895,6 +9904,15 @@
   "nome": "Leila Pereira",
   "itens": [
    {
+    "titulo": "Palmeiras: Leila Pereira negocia contratação de técnico que brilhou no Cruzeiro",
+    "link": "https://tvfoco.uai.com.br/palmeiras-negocia-contratacao-de-tecnico-que-brilhou-no-cruzeiro/",
+    "fonte": "OTV Foco",
+    "categoria": "televisao",
+    "data": "2026-11-21T20:00:00+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Leila_Pereira_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Governo do Estado de São Paulo / CC BY 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Palmeiras: Leila Pereira se antecipa e assina contrato com 2 reforços antes do fim de 2026",
     "link": "https://tvfoco.uai.com.br/palmeiras-leila-pereira-se-antecipa-e-assina-contrato-com-2-reforcos-antes-do-fim-de-2026/",
     "fonte": "OTV Foco",
@@ -9903,7 +9921,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Leila_Pereira_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Governo do Estado de São Paulo / CC BY 2.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "andre-esteves": {
   "nome": "André Esteves",
@@ -13827,6 +13846,76 @@
     "data": "2026-11-21T19:00:00+00:00",
     "imagem": "",
     "credito": ""
+   }
+  ]
+ },
+ "luisa-arraes": {
+  "nome": "Luisa Arraes",
+  "itens": [
+   {
+    "titulo": "Luisa Arraes mostra novo visual com cabelos raspados, nas redes sociais",
+    "link": "https://gshow.globo.com/cultura-pop/famosos/noticia/luisa-arraes-mostra-novo-visual-com-cabelos-raspados.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-21T20:39:01.915159+00:00",
+    "imagem": "",
+    "credito": ""
+   }
+  ]
+ },
+ "juliana-paes": {
+  "nome": "Juliana Paes",
+  "itens": [
+   {
+    "titulo": "Juliana Paes aproveita dia de sol na praia ao lado do marido",
+    "link": "https://revistaquem.globo.com/noticias/famosos-na-praia/noticia/2026/11/juliana-paes-curte-dia-de-praia-e-aproveita-momento-de-descanso-a-beira-mar.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-21T20:39:01.915159+00:00",
+    "imagem": "",
+    "credito": ""
+   }
+  ]
+ },
+ "malevola-alves": {
+  "nome": "Malévola Alves",
+  "itens": [
+   {
+    "titulo": "Malévola Alves quebra estúdio, fere rapaz e provoca caos em gravação; saiba o motivo",
+    "link": "https://contigo.com.br/noticias/famosos/malevola-alves-quebra-estudio-fere-rapaz-e-provoca-caos-em-gravacao-saiba-o-motivo.phtml",
+    "fonte": "Contigo",
+    "categoria": "celebridades",
+    "data": "2026-11-21T20:31:57+00:00",
+    "imagem": "",
+    "credito": ""
+   }
+  ]
+ },
+ "carlos-miguel": {
+  "nome": "Carlos Miguel",
+  "itens": [
+   {
+    "titulo": "Como a passagem de Carlos Miguel no Flamengo foi impactada por corintiano",
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/20/flamengo-palmeiras-carlos-miguel-base.ghtm",
+    "fonte": "UOL",
+    "categoria": "em-alta",
+    "data": "2026-11-21T20:10:00+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Carlos-Miguel-Palmeiras-Jacuipense-abr26.jpg/1280px-Carlos-Miguel-Palmeiras-Jacuipense-abr26.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: NullReason / CC BY-SA 4.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "lucas-paqueta": {
+  "nome": "Lucas Paquetá",
+  "itens": [
+   {
+    "titulo": "Lucas Paquetá vive expectativa de primeiro grande título pelo Flamengo",
+    "link": "https://odia.ig.com.br/esporte/flamengo/2026/11/7323946-lucas-paqueta-vive-expectativa-de-primeiro-grande-titulo-pelo-flamengo.html",
+    "fonte": "O Dia",
+    "categoria": "em-alta",
+    "data": "2026-11-21T20:10:00+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Lucas_Paqueta_Brazil_V_Morocco_13_June_2026-134_%28cropped%29.jpg/1280px-Lucas_Paqueta_Brazil_V_Morocco_13_June_2026-134_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Bryan Berlin / CC BY-SA 4.0, via Wikimedia Commons"
    }
   ]
  }
