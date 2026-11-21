@@ -8499,9 +8499,9 @@
   "data": "2026-11-21T01:30:00+00:00",
   "titulo_original": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, sábado, 21 de novembro",
   "post": null,
-  "imagem": "https://live.staticflickr.com/65535/48979919978_83e340fee7_b.jpg",
-  "credito": "Foto: DaPuglet / CC BY-SA 2.0",
-  "credito_link": "https://www.flickr.com/photos/43810158@N07/48979919978"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www.campograndenews.com.br/cidades/capital/me-perdoa-senhor-eu-tava-com-fome-diz-ladrao-ao-ser-pego-por-policial-penal": {
   "recusado": true,
@@ -8514,5 +8514,43 @@
  "https://www.bandab.com.br/esporte/times/athletico/athletico-leo-cerci-arthur-dias-clubes-europeus/": {
   "recusado": true,
   "criado": "2026-11-21T02:28:32.761809+00:00"
+ },
+ "https://noticiasdatv.uol.com.br/noticia/novelas/brigitte-e-filha-de-quem-segredo-de-pilar-vem-a-tona-em-quem-ama-cuida-159647": {
+  "recusado": true,
+  "criado": "2026-11-21T03:22:51.014125+00:00"
+ },
+ "https://rollingstone.com.br/cinema/os-7-melhores-filmes-de-todos-os-tempos-segundo-leonardo-dicaprio/": {
+  "recusado": true,
+  "criado": "2026-11-21T03:22:51.014125+00:00"
+ },
+ "https://www.estadao.com.br/tecmundo/voxel/como-trocar-de-personagem-em-gta-6-saiba-mudar-entre-jason-e-lucia-no-gameplay/": {
+  "publicar": true,
+  "titulo": "GTA 6: veja como trocar entre Jason e Lucia durante o jogo",
+  "linha_fina": "A troca livre de protagonistas só é liberada após concluir o Capítulo 1 e avançar no início do Capítulo 2",
+  "paragrafos": [
+   "O jogo GTA 6, já disponível no PS5 e no Xbox Series X|S, permite alternar entre Jason e Lucia durante a aventura. Segundo a matéria, a função não aparece logo no começo da campanha e precisa ser desbloqueada conforme a história avança.",
+   "No início do jogo, Lucia fica presa, e o mapa só se abre para exploração depois da missão \"Pescando\", com Jason. Mesmo assim, a troca manual ainda não está disponível nessa fase. A primeira missão em que os dois aparecem juntos é \"Libertação Diurna\", e, ao final dela, o controle volta para Jason por causa das condições da liberdade condicional de Lucia.",
+   "Para liberar a troca, é preciso concluir o Capítulo 1 e avançar nos acontecimentos iniciais do Capítulo 2. Depois disso, basta pressionar a seta para a direita no direcional digital. Se o retrato de um personagem aparecer acinzentado, ele está indisponível naquele momento, por exemplo por estar em outra missão.",
+   "De acordo com a reportagem, a transição é rápida, levando cerca de 10 segundos nos consoles da nova geração, graças ao SSD NVMe, o que evita longas telas de carregamento. A matéria também destaca que os personagens seguem com atividades próprias pelo mapa quando não estão sob controle do jogador."
+  ],
+  "tags": [
+   "GTA 6",
+   "Jason e Lucia",
+   "Rockstar Games",
+   "PS5"
+  ],
+  "pessoa": "",
+  "busca_imagem": "video game controller",
+  "criado": "2026-11-21T03:22:51.014125+00:00",
+  "slug": "gta-6-veja-como-trocar-entre-jason-e-lucia-durante-o-jogo-bda221",
+  "fonte": "Estadão",
+  "link": "https://www.estadao.com.br/tecmundo/voxel/como-trocar-de-personagem-em-gta-6-saiba-mudar-entre-jason-e-lucia-no-gameplay/",
+  "categoria": "em-alta",
+  "data": "2026-11-21T02:20:00+00:00",
+  "titulo_original": "Como trocar de personagem em GTA 6? Saiba mudar entre Jason e Lucia no gameplay",
+  "post": null,
+  "imagem": "https://pd.w.org/2024/02/15065be0e76c75b72.18792365-2048x1361.jpg",
+  "credito": "Foto: Nilo Velez / domínio público",
+  "credito_link": "https://wordpress.org/photos/photo/15065be0e7/"
  }
 }
