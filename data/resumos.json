@@ -8822,9 +8822,9 @@
   "data": "2026-11-21T12:00:00+00:00",
   "titulo_original": "Fora de A Fazenda, Lucas desconversa sobre futuro com Ana Bruna: 'Não vi tudo'",
   "post": null,
-  "imagem": "https://live.staticflickr.com/2032/2322474672_3983cc824b_b.jpg",
-  "credito": "Foto: William Hook / CC BY-SA 2.0",
-  "credito_link": "https://www.flickr.com/photos/83542829@N00/2322474672"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www.espn.com.br/futebol/premier-league/artigo/_/id/17536713/manchester-city-x-fulham-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-jogo-premier-league": {
   "recusado": true,
@@ -8841,5 +8841,51 @@
  "https://www.uol.com.br/splash/noticias/2026/11/19/ex-nora-de-faustao-schynaider-moura-casa-em-festa-de-tres-dias-no-marrocos.ghtm": {
   "recusado": true,
   "criado": "2026-11-21T12:16:36.790230+00:00"
+ },
+ "https://www.poder360.com.br/poder-justica/lula-cobra-desculpas-mas-nao-foi-absolvido-no-caso-do-triplex/": {
+  "publicar": true,
+  "titulo": "Lula cobra desculpas da imprensa, mas decisão sobre triplex não o absolve",
+  "linha_fina": "Justiça determinou repasse de R$ 2,42 milhões do leilão à OAS, mas não analisou o mérito das acusações contra o petista",
+  "paragrafos": [
+   "Na quarta-feira (11), a Justiça Federal de Brasília determinou que os R$ 2,42 milhões arrecadados no leilão do triplex do Guarujá sejam repassados à OAS. Segundo o Poder360, o presidente Luiz Inácio Lula da Silva (PT) e apoiadores comemoraram a decisão como o fim da narrativa da Lava Jato de que o apartamento pertencia ao petista. No dia seguinte, Lula pediu que a imprensa se desculpe pelas reportagens sobre o caso.",
+   "Ainda segundo a reportagem, a decisão do juiz Marcelo Gentil Monteiro apenas reconhece a propriedade da OAS sobre o imóvel. Ela não absolve Lula nem trata das provas que a Lava Jato reuniu, que, de acordo com o texto, foram validadas em instâncias anteriores. O caso foi anulado pelo Supremo Tribunal Federal em 2021, por questão de foro, sem novo julgamento do mérito.",
+   "O texto lembra que o processo acabou arquivado por prescrição, a pedido do próprio Ministério Público Federal no Distrito Federal, e que o juiz não se manifestou sobre a inocência do petista. Um ministro do STF, Gilmar Mendes, havia dito na época que a anulação não significava absolvição.",
+   "A reportagem resume que a decisão de agora encerra apenas a destinação do dinheiro do leilão, e não a discussão sobre as acusações feitas pela investigação."
+  ],
+  "tags": [
+   "Lula",
+   "triplex do Guarujá",
+   "Lava Jato",
+   "OAS"
+  ],
+  "pessoa": "Luiz Inácio Lula da Silva",
+  "busca_imagem": "court gavel documents",
+  "criado": "2026-11-21T13:32:50.123904+00:00",
+  "slug": "lula-cobra-desculpas-da-imprensa-mas-decisao-sobre-triplex-nao-o-absol-0487b2",
+  "fonte": "Poder360",
+  "link": "https://www.poder360.com.br/poder-justica/lula-cobra-desculpas-mas-nao-foi-absolvido-no-caso-do-triplex/",
+  "categoria": "em-alta",
+  "data": "2026-11-21T13:10:00+00:00",
+  "titulo_original": "Lula cobra desculpas, mas não foi absolvido no caso do triplex",
+  "post": {
+   "tipo": "youtube",
+   "id": "Z0kyKeMEKwE",
+   "url": "https://www.youtube.com/watch?v=Z0kyKeMEKwE"
+  },
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/21/real-da-shopee-provocacao-de-leila-pode-render-vinganca-de-bap-no-nubank.ghtm": {
+  "recusado": true,
+  "criado": "2026-11-21T13:32:50.123904+00:00"
+ },
+ "https://www.infomoney.com.br/mercados/mercados-globais-desabam-em-feriado-na-b3-e-goldman-alerta-quedas-devem-continuar/": {
+  "recusado": true,
+  "criado": "2026-11-21T13:32:50.123904+00:00"
+ },
+ "https://f5.folha.uol.com.br/celebridades/2026/11/tati-machado-da-a-luz-rafael-bem-vindo.shtml": {
+  "recusado": true,
+  "criado": "2026-11-21T13:32:50.123904+00:00"
  }
 }
