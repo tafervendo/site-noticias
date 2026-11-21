@@ -8584,9 +8584,9 @@
   "data": "2026-11-21T02:50:00+00:00",
   "titulo_original": "Pilar perde tudo em Quem Ama Cuida após atitude implacável de Adriana",
   "post": null,
-  "imagem": "https://media.sketchfab.com/models/434c8654f5784119bba5bcc8041ecffc/thumbnails/a2353cfc98f84566bb8e04cd2b5f7813/731466e82e324575bd4902a7780eded8.jpeg",
-  "credito": "Foto: Chris Sweetwood / CC BY-SA 4.0",
-  "credito_link": "https://sketchfab.com/3d-models/434c8654f5784119bba5bcc8041ecffc"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www.estadao.com.br/tecmundo/voxel/gta-6-traz-participacoes-especiais-de-outros-personagens-da-franquia-confira/": {
   "publicar": true,
@@ -8617,5 +8617,9 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Sam_Houser_at_Rockstar_Games.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: Anthony Parello / CC BY-SA 4.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Sam_Houser_at_Rockstar_Games.png"
+ },
+ "https://www1.folha.uol.com.br/mundo/2026/11/homem-gritou-de-dor-em-execucao-que-durou-uma-hora-no-texas-nos-estados-unidos.shtml": {
+  "recusado": true,
+  "criado": "2026-11-21T05:29:53.126656+00:00"
  }
 }
