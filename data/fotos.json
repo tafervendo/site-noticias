@@ -68079,5 +68079,397 @@
  "c:e67bc805feb8523e347f": true,
  "c:0e45cfe377e168189a64": false,
  "c:367132ab03ac78ce2f8b": false,
- "c:c3cd4dceb3b440b822c8": false
+ "c:c3cd4dceb3b440b822c8": false,
+ "v:João Silva": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Lua de Mel": {
+  "descricao": "telenovela portuguesa",
+  "nasc": null,
+  "morte": null
+ },
+ "b:woman running outdoor beach": null,
+ "b:shaved hair salon": [
+  {
+   "imagem": "https://live.staticflickr.com/1505/25441036853_e676f06e82_b.jpg",
+   "credito": "Foto: Phan Văn Công / domínio público",
+   "credito_link": "https://www.flickr.com/photos/139645204@N07/25441036853"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5177/5562115764_6a92e15d3d_b.jpg",
+   "credito": "Foto: 3cinevoli / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/46728316@N08/5562115764"
+  }
+ ],
+ "b:giant star space telescope": [
+  {
+   "imagem": "https://live.staticflickr.com/4811/45291899034_e67911fb9d_b.jpg",
+   "credito": "Foto: NASA Goddard Photo and Video / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/24662369@N07/45291899034"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2551/3903388103_d7b1f85086_b.jpg",
+   "credito": "Foto: NASA Goddard Photo and Video / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/24662369@N07/3903388103"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/52210532302_3f516a5bf9_b.jpg",
+   "credito": "Foto: James Webb Space Telescope / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/50785054@N03/52210532302"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/52310633594_f860e08482_b.jpg",
+   "credito": "Foto: James Webb Space Telescope / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/50785054@N03/52310633594"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/52310689110_0807cbf3f6_b.jpg",
+   "credito": "Foto: James Webb Space Telescope / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/50785054@N03/52310689110"
+  }
+ ],
+ "b:mint plant pot herb": [
+  {
+   "imagem": "https://live.staticflickr.com/1241/536846759_00c56d4dba_b.jpg",
+   "credito": "Foto: Tim Patterson / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/72248790@N00/536846759"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2436/3848722723_11f3a1e3eb_b.jpg",
+   "credito": "Foto: tawalker / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/30139045@N00/3848722723"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2644/3684451437_161e2c2f3e_b.jpg",
+   "credito": "Foto: greckor / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/12531571@N00/3684451437"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2458/3622408487_fc97fff9e3_b.jpg",
+   "credito": "Foto: AVID Vines / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/75921150@N00/3622408487"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8332/8106517443_46d360a109_b.jpg",
+   "credito": "Foto: Ruth and Dave / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/95142644@N00/8106517443"
+  }
+ ],
+ "b:dental tartar teeth closeup": null,
+ "b:fresh eggs yolks closeup": null,
+ "b:football league table standings": null,
+ "b:football trophy gold cup": [
+  {
+   "imagem": "https://live.staticflickr.com/4031/4400844746_a47c17ef6d_b.jpg",
+   "credito": "Foto: s.yume / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/24503701@N02/4400844746"
+  },
+  {
+   "imagem": "https://images.rawpixel.com/image_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvZmwxNTQzOTY4NjE3MS1pbWFnZS1rcHZ6aWcwYS5qcGc.jpg",
+   "credito": "Foto: U.S. Department of Defense / domínio público",
+   "credito_link": "https://www.rawpixel.com/image/3388534/free-photo-image-champion-medal-cc0-chairmans-cup"
+  }
+ ],
+ "b:football stadium empty pitch": [
+  {
+   "imagem": "https://live.staticflickr.com/4014/4504542795_9c494ec3c5_b.jpg",
+   "credito": "Foto: andrewrennie / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/29712408@N02/4504542795"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3258/2755939004_59af093eaf_b.jpg",
+   "credito": "Foto: heiwa4126 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/57552634@N00/2755939004"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/8024/6964791636_175aac1947_b.jpg",
+   "credito": "Foto: Grey World / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/34021024@N02/6964791636"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2765/4505235684_00517d8d8c_b.jpg",
+   "credito": "Foto: andrewrennie / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/29712408@N02/4505235684"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4088/4946143841_fe72f4e4c0_b.jpg",
+   "credito": "Foto: slgckgc / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/14771153@N04/4946143841"
+  }
+ ],
+ "b:football match stadium crowd": [
+  {
+   "imagem": "https://live.staticflickr.com/2076/2487740918_0a39e271e2_b.jpg",
+   "credito": "Foto: Lawrie Cate / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/24298372@N04/2487740918"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/165/388193664_b5e088e601_b.jpg",
+   "credito": "Foto: Art01852 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/31491248@N00/388193664"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5106/5562333854_0a7d9ac0ca_b.jpg",
+   "credito": "Foto: Jeff Attaway / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/33398364@N08/5562333854"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4131/5203688754_ab989419e8_b.jpg",
+   "credito": "Foto: martha_chapa95 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/56192190@N05/5203688754"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/4089/5219349188_0b6a10db9a_b.jpg",
+   "credito": "Foto: martha_chapa95 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/56192190@N05/5219349188"
+  }
+ ],
+ "b:white chalk pieces sock": null,
+ "b:football fans fighting stadium": [
+  {
+   "imagem": "https://live.staticflickr.com/3372/3498698666_32b4df51b8_b.jpg",
+   "credito": "Foto: Christian Haugen / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/34073237@N04/3498698666"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5082/5245658828_df0f1a4c06_b.jpg",
+   "credito": "Foto: USAG-Humphreys / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/31687107@N07/5245658828"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3378/3498109709_3402dfbbeb_b.jpg",
+   "credito": "Foto: Christian Haugen / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/34073237@N04/3498109709"
+  }
+ ],
+ "b:vegetable garden rosemary kale": null,
+ "b:chihuahua small dog": [
+  {
+   "imagem": "https://live.staticflickr.com/18/23490355_919e3a8ed1_b.jpg",
+   "credito": "Foto: Nissa Tzun / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/78717299@N00/23490355"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5091/5459832401_6e43713469_b.jpg",
+   "credito": "Foto: mStreetPhoto / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/58115036@N03/5459832401"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5091/5460440316_2e31c72bf5_b.jpg",
+   "credito": "Foto: mStreetPhoto / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/58115036@N03/5460440316"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6039/6251296811_e0bc7fab7c_b.jpg",
+   "credito": "Foto: david_shankbone / domínio público",
+   "credito_link": "https://www.flickr.com/photos/27865228@N06/6251296811"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/2422/3948240339_3f0b84e304_b.jpg",
+   "credito": "Foto: Sarah_Jones / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/80778878@N00/3948240339"
+  }
+ ],
+ "b:hair dye box bottles": null,
+ "b:spider plant cuttings propagation": [
+  {
+   "imagem": "https://live.staticflickr.com/5286/5687230799_af66dcc266_b.jpg",
+   "credito": "Foto: Keith Williamson / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/34673186@N03/5687230799"
+  }
+ ],
+ "v:Joe Wallach": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "c:2045bfb64f5ba103872f": false,
+ "c:c4434c8502787815ffd9": true,
+ "c:7d57d08731c15e2eb85b": false,
+ "c:3e5c1f976be1a38fc5da": true,
+ "c:6b80f144d4d951dbd245": true,
+ "c:f7af9304a9c847e18ba6": false,
+ "c:3a292961524f457ee16d": false,
+ "c:7f411e61ddb84e7fb4ec": false,
+ "c:c0f53aa2714b25849b2f": false,
+ "c:9611a9cbd9f704ce63ed": false,
+ "c:e654b14fcd422cdd89d0": false,
+ "c:0bd1f8a5f0aceb539e7e": false,
+ "c:279641fe5810cb994146": false,
+ "c:310ac6cca61886364506": false,
+ "c:a1a186a62e721ad924b3": false,
+ "c:7739a78434bfe8a9a8de": false,
+ "c:5d648cd6566b342ad4d4": false,
+ "c:9b04c28986704f5a47ad": false,
+ "c:816f056b26a8d41e0e19": true,
+ "c:c1d8b94bc9f0a7b5c1b0": true,
+ "c:b9a9e01b1229897ee015": true,
+ "c:a0dcd9f7daba0faffdae": true,
+ "b:emmy award medals ceremony": null,
+ "b:vintage television studio camera": [
+  {
+   "imagem": "https://live.staticflickr.com/7033/6639410521_cc88e96c76_b.jpg",
+   "credito": "Foto: Flavio~ / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/37873897@N06/6639410521"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3794/13880957485_620e98526d_b.jpg",
+   "credito": "Foto: pavlinajane / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/60291025@N05/13880957485"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3559/3569137121_91987ac768_b.jpg",
+   "credito": "Foto: bfishadow / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/61368956@N00/3569137121"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/65535/53746594130_f1194512d5_b.jpg",
+   "credito": "Foto: kitmasterbloke / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/58415659@N00/53746594130"
+  }
+ ],
+ "v:Danilo Gentili": {
+  "descricao": "comediante e apresentador brasileiro",
+  "nasc": 1979,
+  "morte": null
+ },
+ "p:Danilo Gentili": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/2019_Presidente_Jair_Bolsonaro_no_Programa_The_Noite_do_SBT_-_47968955187_%28cropped%29.jpg/1280px-2019_Presidente_Jair_Bolsonaro_no_Programa_The_Noite_do_SBT_-_47968955187_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Palácio do Planalto / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:2019_Presidente_Jair_Bolsonaro_no_Programa_The_Noite_do_SBT_-_47968955187_(cropped).jpg"
+ },
+ "b:rats temple india": [
+  {
+   "imagem": "https://live.staticflickr.com/3271/2602505866_0203ac4b09_b.jpg",
+   "credito": "Foto: enric bach / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/70805295@N00/2602505866"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/6053/6271597223_c7419b7c6d_b.jpg",
+   "credito": "Foto: Arian Zwegers / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/67769030@N07/6271597223"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5576/14018349542_4297bdff9f_b.jpg",
+   "credito": "Foto: dalbera / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/72746018@N00/14018349542"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3262/2415325726_effc045e1c_b.jpg",
+   "credito": "Foto: amanderson2 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/49399018@N00/2415325726"
+  }
+ ],
+ "b:recording studio broken equipment": [
+  {
+   "imagem": "https://live.staticflickr.com/2735/4095786503_132859bf42_b.jpg",
+   "credito": "Foto: Keith Williamson / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/34673186@N03/4095786503"
+  }
+ ],
+ "b:open book reading wisdom": [
+  {
+   "imagem": "https://live.staticflickr.com/8225/8469133401_a47bf459a3_b.jpg",
+   "credito": "Foto: Juan Lauriente / CC BY-SA 2.0",
+   "credito_link": "https://www.flickr.com/photos/40243163@N08/8469133401"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3497/3296943915_dee72338c7_b.jpg",
+   "credito": "Foto: lindaaslund / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/22054095@N06/3296943915"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5208/5337277851_0b6e5279e9_b.jpg",
+   "credito": "Foto: born1945 / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/12567713@N00/5337277851"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7177/6774007012_dc75f1b41d_b.jpg",
+   "credito": "Foto: imanka / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/31331191@N07/6774007012"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/5556/14995537677_21690a5e48_b.jpg",
+   "credito": "Foto: jchristin / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/43205168@N06/14995537677"
+  }
+ ],
+ "b:podcast microphone studio police": null,
+ "b:white hair strands closeup": [
+  {
+   "imagem": "https://live.staticflickr.com/3611/3501100066_a822e1a611_b.jpg",
+   "credito": "Foto: Ruth and Dave / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/95142644@N00/3501100066"
+  }
+ ],
+ "b:colonial stone bridge river": [
+  {
+   "imagem": "https://live.staticflickr.com/29/49552020_d5d61e3084_b.jpg",
+   "credito": "Foto: dbking / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/65193799@N00/49552020"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3350/5840170727_1b57a0dbe8_b.jpg",
+   "credito": "Foto: ell brown / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/39415781@N06/5840170727"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/1038/584501173_5fdcf6b8d3_b.jpg",
+   "credito": "Foto: ~MVI~ (warped) / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/20119750@N00/584501173"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/3233/2754499034_8686378c32_b.jpg",
+   "credito": "Foto: Tony Fischer Photography / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/22714323@N06/2754499034"
+  },
+  {
+   "imagem": "https://live.staticflickr.com/7181/6845932753_e68e939cc8_b.jpg",
+   "credito": "Foto: Balmain & Glebe Heritage / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/69965207@N03/6845932753"
+  }
+ ],
+ "c:06d510b764c6eb8e5346": false,
+ "c:5c79698371f955820515": true,
+ "c:8dab30e9c6b0ee20a82a": false,
+ "c:c1776e673b5b7854b059": false,
+ "c:b1610680b05743f7f353": false,
+ "c:58d8f619a3ee180da2b5": false,
+ "c:7166846ee71839809a28": false,
+ "c:ec11bd27026dcd7122cc": false,
+ "c:42d1fb35df79734db669": false,
+ "c:96db057e77db8f6d2529": false,
+ "c:9c8a5c85bb2c913a5e78": false,
+ "c:e6457213fe85fc4861de": true,
+ "c:5a85d1c4ede142e7125e": true,
+ "c:5e0e840f3d56dd23a5d1": false,
+ "c:3f5756c84d02d80ea7dc": false,
+ "c:fb273655a8b506bed3df": false,
+ "c:5134197a4cb0a402f92b": false,
+ "c:b5fe0382edb4c3dc5500": false,
+ "c:63afceea4bb3829c9bee": false,
+ "c:c836857a88dcefd180b3": true,
+ "c:74cc2ac5279e4d9b3b2a": true,
+ "c:7b854eb9c7af26b6ec39": true,
+ "c:b623a43debff30cd4180": true,
+ "c:dc543a367f92b491c50a": false,
+ "b:movie theater seats": [
+  {
+   "imagem": "https://live.staticflickr.com/7568/15937711037_bd3bb69399_b.jpg",
+   "credito": "Foto: qubodup / CC BY 2.0",
+   "credito_link": "https://www.flickr.com/photos/21051491@N02/15937711037"
+  },
+  {
+   "imagem": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3B4NzA4MzAwLWltYWdlLWt3dnY3NW1uLmpwZw.jpg",
+   "credito": "Foto: autor desconhecido / domínio público",
+   "credito_link": "https://www.rawpixel.com/image/5906688/photo-image-public-domain-red-free"
+  },
+  {
+   "imagem": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3B4MTEzMDUwMy1pbWFnZS1rd3Z5NGd1MC5qcGc.jpg",
+   "credito": "Foto: autor desconhecido / domínio público",
+   "credito_link": "https://www.rawpixel.com/image/5925275/photo-image-light-public-domain-red"
+  }
+ ]
 }
