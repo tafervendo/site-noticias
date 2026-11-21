@@ -8413,5 +8413,57 @@
  "https://www.paranashop.com.br/post/clima-de-primavera-desafia-comercio-e-eventos-em-curitiba": {
   "recusado": true,
   "criado": "2026-11-20T23:45:15.909939+00:00"
+ },
+ "https://noticiasdatv.uol.com.br/noticia/novelas/apos-atropelar-dina-tom-finalmente-e-preso-e-se-ferra-em-quem-ama-cuida-159638": {
+  "recusado": true,
+  "criado": "2026-11-21T01:00:55.025804+00:00"
+ },
+ "https://www.estadao.com.br/tecmundo/voxel/gta-6-pirata-hacker-cyberleek-esta-de-volta-com-build-ilegal-do-jogo/": {
+  "publicar": true,
+  "titulo": "GTA 6: hacker Cyberleek volta e promete versão pirata do jogo para Xbox",
+  "linha_fina": "Grupo diz ter build de cerca de 209 GB e condiciona o executável a uma capitalização de US$ 15 milhões da sua criptomoeda",
+  "paragrafos": [
+   "O hacker conhecido como Cyberleek voltou a aparecer em 19 de novembro e afirma ter disponibilizado na internet, via torrent, uma versão de desenvolvimento de GTA 6 para Xbox, com cerca de 209 GB. Segundo ele, o pacote seria uma build completa de novembro de 2026, mas ainda não inclui o arquivo executável principal.",
+   "O responsável pelo perfil diz que liberará o executável caso a criptomoeda própria, a $CYBERLEEK, alcance US$ 15 milhões em capitalização de mercado. Mesmo sem essa meta, ele afirma que pretende divulgar o arquivo em 23 de novembro. Segundo o IGN, a moeda chegou a cerca de US$ 1,9 milhão após o anúncio.",
+   "O especialista em segurança VX Underground analisou os arquivos e considerou que o material aparenta ser legítimo, mas há questionamentos técnicos sobre a integridade do pacote, como a ausência de alguns arquivos de sistema. A autenticidade ainda não foi confirmada de forma independente.",
+   "A estratégia lembra a de outubro, quando o mesmo perfil condicionou um vazamento a US$ 30 milhões em capitalização e publicou materiais supostamente extraídos do jogo. A moeda perdeu valor e a conta desapareceu. Fãs recomendam evitar investimentos na criptomoeda, e análises anteriores apontaram que o responsável teria lucrado cerca de US$ 270 mil com operações na moeda em agosto.",
+   "A possibilidade de rodar o jogo no PC também mobilizou modders, que segundo o PC Gamer acreditam conseguir executá-lo por emulação e recompilação pouco depois da divulgação do executável. Não há garantia de que o projeto funcione. Distribuir ou baixar cópias não autorizadas pode configurar violação de propriedade intelectual.",
+   "A Take-Two, dona da Rockstar Games, investiga desde agosto quem está por trás dos vazamentos e chegou a solicitar intimações envolvendo o Discord. Ainda não está claro quem controla a conta nem como os arquivos saíram dos ambientes internos da desenvolvedora. A Rockstar disse anteriormente que os vazamentos não alterariam o lançamento oficial do jogo, ocorrido em 19 de novembro de 2026."
+  ],
+  "tags": [
+   "GTA 6",
+   "vazamento de jogo",
+   "Cyberleek",
+   "Rockstar Games"
+  ],
+  "pessoa": "",
+  "busca_imagem": "hooded hacker laptop",
+  "criado": "2026-11-21T01:00:55.025804+00:00",
+  "slug": "gta-6-hacker-cyberleek-volta-e-promete-versao-pirata-do-jogo-para-xbox-d1bd09",
+  "fonte": "Estadão",
+  "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-pirata-hacker-cyberleek-esta-de-volta-com-build-ilegal-do-jogo/",
+  "categoria": "em-alta",
+  "data": "2026-11-21T00:20:00+00:00",
+  "titulo_original": "GTA 6 pirata? Hacker Cyberleek está de volta com build ilegal do jogo",
+  "post": null,
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://www.otempo.com.br/sports/basquete/nba/2026/11/20/nba-cup-tem-nove-jogos-com-raptors-x-pistons-e-rockets-x-nuggets-no-prime-video": {
+  "recusado": true,
+  "criado": "2026-11-21T01:00:55.025804+00:00"
+ },
+ "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-69-atinge-lima-capital-do-peru/": {
+  "recusado": true,
+  "criado": "2026-11-21T01:00:55.025804+00:00"
+ },
+ "https://www.espn.com.br/futebol/premier-league/artigo/_/id/17534906/emersonn-brasileiro-sensacao-premier-league-paixao-enciso-companheiro-ama-palmeiras": {
+  "recusado": true,
+  "criado": "2026-11-21T01:00:55.025804+00:00"
+ },
+ "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17534388/abel-ferreira-palmeiras-flamengo-blefe-campeao-discurso-rival": {
+  "recusado": true,
+  "criado": "2026-11-21T01:00:55.025804+00:00"
  }
 }
