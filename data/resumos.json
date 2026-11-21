@@ -9263,9 +9263,9 @@
   "data": "2026-11-21T22:10:00+00:00",
   "titulo_original": "Brandão lança ‘Qual Foi?!’, trap de Arashiro uma semana após ‘Ainda Sou o Mesmo’",
   "post": null,
-  "imagem": "https://live.staticflickr.com/5065/5555912378_a9e05f3efc_b.jpg",
-  "credito": "Foto: Kuba Bożanowski / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/31871979@N00/5555912378"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www.cbf.com.br/futebol-brasileiro/noticias/copa-brasil-masculino/a/final-da-copa-do-brasil-venda-de-ingressos-comeca-na-segunda-feira": {
   "publicar": true,
@@ -9297,8 +9297,86 @@
    "tipo": "instagram",
    "url": "https://www.instagram.com/p/DgBQot_I4iF/"
   },
-  "imagem": "https://live.staticflickr.com/5250/5214877167_82c48bdf0f_b.jpg",
-  "credito": "Foto: Steenbergs / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/50310535@N03/5214877167"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://veja.abril.com.br/cultura/o-conselho-espiritual-que-fez-deborah-secco-adiar-casamento/": {
+  "recusado": true,
+  "criado": "2026-11-21T23:36:11.025753+00:00"
+ },
+ "https://farmnews.com.br/mercado/preco-futuro-do-boi-gordo-expectativa-para-dezembro-segue-em-destaque/": {
+  "publicar": true,
+  "titulo": "Boi gordo: preço futuro para dezembro segue em alta na B3",
+  "linha_fina": "Contratos futuros acumularam ganhos entre 12 e 19 de novembro, com dezembro no patamar mais alto de 2026",
+  "paragrafos": [
+   "O preço esperado do boi gordo na B3 voltou a firmar após um período de pressão, com ganhos acumulados na semana de 12 a 19 de novembro, segundo levantamento do Farmnews.",
+   "O estudo compara o indicador Datagro e o valor de ajuste da B3 para os vencimentos que vão de novembro de 2026 até maio de 2027, todos em reais por arroba. Segundo o Farmnews, o indicador Datagro seguiu renovando máximas ao longo de novembro, ainda que a alta na semana tenha sido discreta.",
+   "Os contratos de janeiro e fevereiro de 2027 também subiram e ficaram perto de R$ 410,00 por arroba. Os papéis seguem oscilando próximos da máxima, e o vencimento de dezembro é o que indica o maior patamar para 2026.",
+   "No cenário internacional, projeções do USDA de outubro de 2026 apontam consumo mundial de carne bovina relativamente estável em 2027, abaixo de 60 milhões de toneladas, nível de 2024 e 2025. Ainda segundo o órgão, o consumo deve cair de forma mais sensível no Brasil, na Argentina e nos Estados Unidos.",
+   "Além disso, a produção mundial de carne bovina deve recuar em 2027 e atingir o menor nível desde 2022, conforme a revisão do USDA."
+  ],
+  "tags": [
+   "boi gordo",
+   "B3",
+   "arroba do boi",
+   "mercado futuro"
+  ],
+  "pessoa": "",
+  "busca_imagem": "cattle farm pasture",
+  "criado": "2026-11-21T23:36:11.025753+00:00",
+  "slug": "boi-gordo-preco-futuro-para-dezembro-segue-em-alta-na-b3-4fee45",
+  "fonte": "Farmnews",
+  "link": "https://farmnews.com.br/mercado/preco-futuro-do-boi-gordo-expectativa-para-dezembro-segue-em-destaque/",
+  "categoria": "em-alta",
+  "data": "2026-11-21T23:10:00+00:00",
+  "titulo_original": "Preço futuro do boi gordo: expectativa para dezembro segue em destaque!",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/7341/9303666227_18efcbcf05_b.jpg",
+  "credito": "Foto: USDAgov / domínio público",
+  "credito_link": "https://www.flickr.com/photos/41284017@N08/9303666227"
+ },
+ "https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/11/miss-universo-2026-com-40-mil-cristais-traje-tipico-da-miss-brasil-homenageia-o-guarana.shtml": {
+  "recusado": true,
+  "criado": "2026-11-21T23:36:11.025753+00:00"
+ },
+ "https://www.otempo.com.br/sports/atletico/2026/11/21/com-paredes-boca-juniors-esta-escalado-para-a-final-da-copa-sul-americana-contra-o-atletico": {
+  "recusado": true,
+  "criado": "2026-11-21T23:36:11.025753+00:00"
+ },
+ "https://tagdlaw.com.br/loja-e-condenada-por-exigir-roupa-social-de-cobrador-motociclista/": {
+  "recusado": true,
+  "criado": "2026-11-21T23:36:11.025753+00:00"
+ },
+ "https://tvtecjundiai.com.br/news/2026/11/21/caravana-de-natal-da-coca-cola-tera-novo-trajeto-em-jundiai-veja-o-percurso/": {
+  "publicar": true,
+  "titulo": "Caravana de Natal da Coca-Cola FEMSA passa por Jundiaí com novo trajeto",
+  "linha_fina": "Desfile sai às 18h30 do Assaí, em 21 de novembro, e terá transmissão ao vivo da TVTEC Jundiaí pelo Facebook",
+  "paragrafos": [
+   "No dia 21 de novembro, a tradicional Caravana de Natal da Coca-Cola FEMSA percorre Jundiaí com um itinerário diferente do habitual. A partida está marcada para as 18h30, no Assaí da Avenida União dos Ferroviários, e o caminho termina na unidade da empresa.",
+   "Segundo o portal oficial da caravana, o percurso na cidade ficou menor e alguns bairros e ruas que o público costumava acompanhar deixaram de fazer parte da rota.",
+   "Pelo trajeto novo, os caminhões passam pela Avenida 9 de Julho até a rotatória do JundiaíShopping e seguem por diversas avenidas da região central e de bairros vizinhos. Depois, cruzam viadutos como os da Vila Rio Branco e da Valquíria, além de passarem pelo Maxi Shopping e pela rotatória do Aeroporto.",
+   "A mudança foi feita para levar a decoração iluminada e o espírito natalino a outros pontos de Jundiaí.",
+   "A TVTEC Jundiaí transmite o desfile ao vivo pelo Facebook a partir das 18h30, com o jornalista Rafael Santos na cobertura, para quem quiser acompanhar em tempo real."
+  ],
+  "tags": [
+   "Caravana de Natal",
+   "Coca-Cola FEMSA",
+   "Jundiaí",
+   "Natal"
+  ],
+  "pessoa": "",
+  "busca_imagem": "christmas parade night lights",
+  "criado": "2026-11-21T23:36:11.025753+00:00",
+  "slug": "caravana-de-natal-da-coca-cola-femsa-passa-por-jundiai-com-novo-trajet-f615c5",
+  "fonte": "TVTEC Jundiaí",
+  "link": "https://tvtecjundiai.com.br/news/2026/11/21/caravana-de-natal-da-coca-cola-tera-novo-trajeto-em-jundiai-veja-o-percurso/",
+  "categoria": "em-alta",
+  "data": "2026-11-21T22:00:00+00:00",
+  "titulo_original": "É HOJE: Caravana de Natal da Coca-Cola Femsa Brasil passa por Jundiaí com transmissão AO VIVO",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/111/300121898_16129f4c40_b.jpg",
+  "credito": "Foto: d4rr3ll / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/83804376@N00/300121898"
  }
 }
