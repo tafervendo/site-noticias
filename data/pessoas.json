@@ -1057,6 +1057,15 @@
   "nome": "Virginia Fonseca",
   "itens": [
    {
+    "titulo": "Jogador apontado como affair de Virginia Fonseca curte show em camarote da influenciadora; vídeo",
+    "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/jogador-apontado-como-affair-de-virginia-fonseca-curte-show-em-camarote-da-influenciadora.ghtml",
+    "fonte": "Quem",
+    "categoria": "virais",
+    "data": "2026-11-21T19:45:29.049979+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Virginia_Fonseca_na_CPI_das_BETS_02_%28cropped%29.jpg/1280px-Virginia_Fonseca_na_CPI_das_BETS_02_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Andressa Anholete/Agência Senado / CC BY 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Virginia Fonseca usa jatinho em voo de cerca de 30 minutos e gera debate na web; veja",
     "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/virginia-fonseca-usa-jatinho-em-voo-de-cerca-de-30-minutos-e-gera-debate-na-web-veja.ghtml",
     "fonte": "Quem",
@@ -1557,6 +1566,15 @@
  "alice-wegmann": {
   "nome": "Alice Wegmann",
   "itens": [
+   {
+    "titulo": "'A gente teve um encontro muito sincero': Alice Wegmann abre o jogo sobre relação com Humberto Carrão em 'Vale Tudo' e revela briga com ator nos bastidores",
+    "link": "https://www.terra.com.br/diversao/tv/a-gente-teve-um-encontro-muito-sincero-alice-wegmann-abre-o-jogo-sobre-relacao-com-humberto-carrao-em-vale-tudo-e-revela-briga-com-ator-nos-bastidores,7da64cfddfd84ffc4a3c7ef72ef0cbcfrllvxij7.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-21T19:19:34+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alice_Wegman.jpg/1280px-Alice_Wegman.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Bastidores da Telinha / CC0, via Wikimedia Commons"
+   },
    {
     "titulo": "Alice Wegmann surpreende ao revelar que teve participação no novo namoro de Nanda Costta",
     "link": "https://observatoriog.com.br/noticia/alice-wegmann-surpreende-ao-revelar-que-teve-participacao-no-novo-namoro-de-nanda-costta/",
@@ -2883,6 +2901,15 @@
  "deborah-secco": {
   "nome": "Deborah Secco",
   "itens": [
+   {
+    "titulo": "De biquíni nude, Deborah Secco dribla o calorão e exibe físico sarado nas redes",
+    "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/deborah-secco-dribla-o-calorao-com-biquini-nude-e-exibe-bronzeado.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-21T19:45:29.049979+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/24/Arezzo_Inverno_2020_por_Deborah_Secco_-_28.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Arezzo Brasil - YouTube / CC BY 3.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Deborah Secco revela que adiou casamento com Dudu Borges após conselho espiritual: 'Mudança radical'",
     "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/deborah-secco-revela-que-adiou-casamento-com-dudu-borges-apos-conselho-espiritual.ghtml",
@@ -4591,6 +4618,15 @@
   "nome": "Jack Black",
   "itens": [
    {
+    "titulo": "O maior vocalista da história do Metal segundo Jack Black",
+    "link": "https://www.terra.com.br/diversao/musica/meu-sonora/rock/o-maior-vocalista-da-historia-do-metal-segundo-jack-black,caa8a2fd04354c6b62b2a98b64816e95d3jstggd.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-21T19:32:52+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/92/TenaciousDO2160623_%2838_of_62%29_Jack_Black.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Raph_PH / CC BY 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "O segredo de Jack Black para voltar a ouvir as bandas que ama",
     "link": "https://www.terra.com.br/diversao/musica/meu-sonora/rock/o-segredo-de-jack-black-para-voltar-a-ouvir-as-bandas-que-ama,4aa4db20f64320ec1f607da28c535724wxw0wv67.html",
     "fonte": "Terra",
@@ -4599,7 +4635,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/92/TenaciousDO2160623_%2838_of_62%29_Jack_Black.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Raph_PH / CC BY 2.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "pequena-lo": {
   "nome": "Pequena Lo",
@@ -4972,6 +5009,15 @@
  "patricia-abravanel": {
   "nome": "Patrícia Abravanel",
   "itens": [
+   {
+    "titulo": "Acabou? Patrícia Abravanel toma decisão sobre casamento com Fábio Faria",
+    "link": "https://contigo.com.br/noticias/famosos/acabou-patricia-abravanel-toma-decisao-sobre-casamento-com-fabio-faria.phtml",
+    "fonte": "Contigo",
+    "categoria": "celebridades",
+    "data": "2026-11-21T18:43:26+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Homenagem_aos_60_anos_do_Programa_Silvio_Santos_%2852952314289%29_%28cropped%29.jpg/1280px-Homenagem_aos_60_anos_do_Programa_Silvio_Santos_%2852952314289%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Vice-Presidência da República / CC BY 2.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Fontes confirmam fim do casamento de Patrícia Abravanel e Fábio Faria, e atitude tomada pela apresentadora surpreende Fontes confirmam fim do casamento de Patrícia Abravanel e Fábio Faria, e atitude tomada pela apresentadora surpreende",
     "link": "https://hugogloss.uol.com.br/famosos/patricia-abravanel-fabio-faria/",
@@ -12016,6 +12062,15 @@
   "nome": "Dulce María",
   "itens": [
    {
+    "titulo": "Dulce María estreia como produtora de cinema com thriller psicológico",
+    "link": "https://caras.com.br/revista/dulce-maria-estreia-como-produtora-de-cinema-com-thriller-psicologico.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-21T19:00:36+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Dulce_Mar%C3%ADa_na_Soy_Rebelde_Tour.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Gabimartinss / CC BY 4.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Dulce María revela drama antes da chegada da caçula: ‘Pensava que nunca mais seria mãe’",
     "link": "https://caras.com.br/revista/dulce-maria-revela-drama-antes-da-chegada-da-cacula-pensava-que-nunca-mais-seria-mae.phtml",
     "fonte": "Caras",
@@ -12024,7 +12079,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Dulce_Mar%C3%ADa_na_Soy_Rebelde_Tour.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Gabimartinss / CC BY 4.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "andre-janones": {
   "nome": "André Janones",
@@ -13150,6 +13206,15 @@
   "nome": "Macaulay Culkin",
   "itens": [
    {
+    "titulo": "Vídeo: Macaulay Culkin volta a papel de \"Esqueceram de Mim\" em propaganda do McDonald's",
+    "link": "https://www.terra.com.br/diversao/entre-telas/video-macaulay-culkin-volta-a-papel-de-esqueceram-de-mim-em-propaganda-do-mcdonalds,f6b3071a84cefa60da72c9d1fe4ea4c3iz9wtmn2.html",
+    "fonte": "Terra",
+    "categoria": "virais",
+    "data": "2026-11-21T19:39:34+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Macaulay_Culkin_-_Home_Alone_35th.jpg/1280px-Macaulay_Culkin_-_Home_Alone_35th.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Kevin Paul / CC BY 4.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Novo 'Esqueceram de Mim' está em desenvolvimento com retorno de Macaulay Culkin",
     "link": "https://www.terra.com.br/diversao/entre-telas/novo-esqueceram-de-mim-esta-em-desenvolvimento-com-retorno-de-macaulay-culkin,ed3ba1c4725f80afaf0b62d76b2104023cdxcq8b.html",
     "fonte": "Terra",
@@ -13158,7 +13223,8 @@
     "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Macaulay_Culkin_-_Home_Alone_35th.jpg/1280px-Macaulay_Culkin_-_Home_Alone_35th.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "credito": "Foto: Kevin Paul / CC BY 4.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "jennifer-aniston": {
   "nome": "Jennifer Aniston",
@@ -13258,6 +13324,15 @@
   "nome": "Martinho da Vila",
   "itens": [
    {
+    "titulo": "Aos 88 anos, Martinho da Vila preserva centro cultural em fazenda onde seus pais trabalhavam como caseiros",
+    "link": "https://caras.com.br/casa-dos-famosos/aos-88-anos-martinho-da-vila-preserva-centro-cultural-em-fazenda-onde-seus-pais-trabalhavam-como-caseiros.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-21T19:12:11+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Martinho-Fantastico048_%28cropped%29.jpg/1280px-Martinho-Fantastico048_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Relicarium EstudioCriativo / CC BY 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Martinho da Vila publica foto rara da única mulher com quem se casou: 'Estrela guia'",
     "link": "https://www.terra.com.br/diversao/gente/martinho-da-vila-publica-foto-rara-da-unica-mulher-com-quem-se-casou-estrela-guia,c98708696d955d1ea36740f1e6286a033l5gnbbb.html",
     "fonte": "Terra",
@@ -13266,7 +13341,8 @@
     "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Martinho-Fantastico048_%28cropped%29.jpg/1280px-Martinho-Fantastico048_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "credito": "Foto: Relicarium EstudioCriativo / CC BY 2.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "murilo-rosa": {
   "nome": "Murilo Rosa",
@@ -13651,6 +13727,15 @@
   "nome": "Fábio Faria",
   "itens": [
    {
+    "titulo": "Acabou? Patrícia Abravanel toma decisão sobre casamento com Fábio Faria",
+    "link": "https://contigo.com.br/noticias/famosos/acabou-patricia-abravanel-toma-decisao-sobre-casamento-com-fabio-faria.phtml",
+    "fonte": "Contigo",
+    "categoria": "celebridades",
+    "data": "2026-11-21T18:43:26+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Homenagem_aos_60_anos_do_Programa_Silvio_Santos_%2852952314289%29_%28cropped%29.jpg/1280px-Homenagem_aos_60_anos_do_Programa_Silvio_Santos_%2852952314289%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Vice-Presidência da República / CC BY 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Casamento de Patrícia Abravanel e Fábio Faria chega ao fim após 13 anos",
     "link": "https://caras.com.br/atualidades/casamento-de-patricia-abravanel-e-fabio-faria-chega-ao-fim-apos-13-anos.phtml",
     "fonte": "Caras",
@@ -13700,6 +13785,48 @@
     "data": "2026-11-21T17:10:00+00:00",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Supercopa_Feminina_2023_-_Corinthians_4x1_Flamengo_-_Arthur_Elias.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: SOCCER DIGITAL / CC0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "mano-brown": {
+  "nome": "Mano Brown",
+  "itens": [
+   {
+    "titulo": "Sensacional: Mano Brown chama jovem fã de Racionais ao palco para cantar \"Jesus Chorou\"",
+    "link": "https://www.terra.com.br/diversao/musica/meu-sonora/rap-e-hip-hop/sensacional-mano-brown-chama-jovem-fa-de-racionais-ao-palco-para-cantar-jesus-chorou,1f7d731c2b97ff51e4141c99a0e0f59a9an0mr2p.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-21T19:26:11+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mano_Brown%2C_June_2025.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Lula Oficial / CC BY-SA 4.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "caleb-followill": {
+  "nome": "Caleb Followill",
+  "itens": [
+   {
+    "titulo": "Caleb Followill faz ranking de hits do Rock nos Anos 2000",
+    "link": "https://www.terra.com.br/diversao/musica/meu-sonora/rock/caleb-followill-faz-ranking-de-hits-do-rock-nos-anos-2000,a73ccede50785f6b670a7838914636dael3klsmm.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-21T19:19:33+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Kings_of_Leon_5.jpg/1280px-Kings_of_Leon_5.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Alterna2 http://www.alterna2.com / CC BY 2.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "sabina-simonato": {
+  "nome": "Sabina Simonato",
+  "itens": [
+   {
+    "titulo": "Mega salário e casada com gerente: Sabina Simonato leva vida discreta fora da Globo",
+    "link": "https://tvfoco.uai.com.br/casada-com-gerente-a-vida-discreta-de-sabina-simonato/",
+    "fonte": "OTV Foco",
+    "categoria": "televisao",
+    "data": "2026-11-21T19:00:00+00:00",
+    "imagem": "",
+    "credito": ""
    }
   ]
  }
