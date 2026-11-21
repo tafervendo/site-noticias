@@ -12450,6 +12450,15 @@
   "nome": "Caio Blat",
   "itens": [
    {
+    "titulo": "Breno Ferreira, Caio Blat e Lucas Oranmian protagonizam cenas quentes em nova série do Globoplay; veja vídeo",
+    "link": "https://gshow.globo.com/globoplay/noticia/breno-ferreira-caio-blat-e-lucas-oranmian-protagonizam-cenas-quentes-em-nova-serie-do-globoplay-veja-video.ghtml",
+    "fonte": "Gshow",
+    "categoria": "virais",
+    "data": "2026-11-21T09:17:56.019038+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/64/Caio_Blat_in_2018.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: CINUSP Paulo Emílio / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Ao lado de Caio Blat e Breno Ferreira, ator baiano estreia série sobre amor e protagonismo negro no Globoplay: 'A revolução que acredito'",
     "link": "https://gshow.globo.com/globoplay/noticia/ayo-serie-sobre-amor-e-protagonismo-negro-estreia-no-globoplay-e-a-revolucao-que-eu-acredito.ghtml",
     "fonte": "Gshow",
@@ -12458,7 +12467,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/64/Caio_Blat_in_2018.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: CINUSP Paulo Emílio / CC BY 3.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "daniela-lima": {
   "nome": "Daniela Lima",
