@@ -8981,5 +8981,48 @@
  "https://www.omelete.com.br/gta-6/gta-6-tem-retorno-de-personagem-classico-saiba-qual": {
   "recusado": true,
   "criado": "2026-11-21T15:43:24.607589+00:00"
+ },
+ "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/21/sao-paulo-vence-santos-e-avanca-a-semifinal-do-paulistao-f.ghtm": {
+  "recusado": true,
+  "criado": "2026-11-21T16:43:25.704356+00:00"
+ },
+ "https://tvsimbrasil.com.br/mg/minas-gerais/saude/noticia/2026/11/18/por-que-mg-quer-lei-propria-acessibilidade-cinema": {
+  "publicar": true,
+  "titulo": "Projeto em MG quer obrigar cinemas a informar acessibilidade sessão por sessão",
+  "linha_fina": "Texto da deputada Carol Caram ainda precisa de 2º turno; regra federal de 2023 já exige legenda, audiodescrição e Libras",
+  "paragrafos": [
+   "Na terça-feira (17 de novembro), a Assembleia Legislativa de Minas Gerais deu parecer favorável ao PL 3.599/25, de autoria da deputada Carol Caram (Avante). A proposta determina que os cinemas do estado informem, em cada sessão, quais opções de legenda, audiodescrição e Libras estarão à disposição do público.",
+   "Pelo texto, as salas também deverão emprestar de graça aparelhos de acessibilidade para quem não possui equipamento próprio. Caso a regra seja descumprida, o estabelecimento pode ser punido com base no Código de Defesa do Consumidor.",
+   "Essas exigências já existem em âmbito nacional. Desde janeiro de 2023, a Instrução Normativa 165 da Ancine determina que todas as sessões comerciais ofereçam legenda, audiodescrição e Libras, com fundamento na Lei Brasileira de Inclusão. O que falta, segundo a matéria, é a obrigação de avisar antecipadamente quais sessões terão esses recursos.",
+   "Usuários relatam que a norma federal não garante acesso na prática, principalmente porque boa parte dos recursos depende de aplicativos no celular. Segundo a matéria, o Censo 2022 do IBGE aponta 2,6 milhões de pessoas com dificuldade para ouvir mesmo com aparelho auditivo e 7,9 milhões com dificuldade para enxergar mesmo com óculos ou lentes.",
+   "Para virar lei estadual, o projeto ainda precisa ser votado em plenário e passar por um segundo turno. Até lá, a discussão continua sobre se a fiscalização estadual vai, de fato, mudar a realidade das salas de cinema."
+  ],
+  "tags": [
+   "acessibilidade em cinemas",
+   "Minas Gerais",
+   "Ancine",
+   "Libras"
+  ],
+  "pessoa": "Carol Caram",
+  "busca_imagem": "movie theater accessibility",
+  "criado": "2026-11-21T16:43:25.704356+00:00",
+  "slug": "projeto-em-mg-quer-obrigar-cinemas-a-informar-acessibilidade-sessao-po-af749b",
+  "fonte": "TV Sim Brasil",
+  "link": "https://tvsimbrasil.com.br/mg/minas-gerais/saude/noticia/2026/11/18/por-que-mg-quer-lei-propria-acessibilidade-cinema",
+  "categoria": "em-alta",
+  "data": "2026-11-21T16:20:00+00:00",
+  "titulo_original": "Por que MG quer lei própria de acessibilidade, se já há regra federal",
+  "post": null,
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
+ },
+ "https://brasilinovador.com.br/embraer-e-governo-holandes-expandem-acordos-industriais-vinculados-ao-cargueiro-c-390-millennium/": {
+  "recusado": true,
+  "criado": "2026-11-21T16:43:25.704356+00:00"
+ },
+ "https://www.ufc.com.br/news/alessandro-costa-analisa-revanche-albazi-sou-um-lutador-diferente": {
+  "recusado": true,
+  "criado": "2026-11-21T16:43:25.704356+00:00"
  }
 }
