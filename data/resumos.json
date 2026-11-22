@@ -9440,9 +9440,9 @@
    "id": "zyqI7giiX-E",
    "url": "https://www.youtube.com/watch?v=zyqI7giiX-E"
   },
-  "imagem": "https://live.staticflickr.com/8108/8468293074_a9c021195a_b.jpg",
-  "credito": "Foto: push 1 / CC BY 2.0",
-  "credito_link": "https://www.flickr.com/photos/66884811@N08/8468293074"
+  "imagem": "",
+  "credito": "",
+  "credito_link": ""
  },
  "https://www.correiodopovo.com.br/not%C3%ADcias/cidades/ventos-de-temporal-arremessam-cavalo-contra-predio-em-tupancireta-1.1766730": {
   "recusado": true,
@@ -9455,5 +9455,21 @@
  "https://www.folhape.com.br/esportes/quadrangular-final-do-pernambucano-20262027-comeca-neste-sabado-21/525170/": {
   "recusado": true,
   "criado": "2026-11-22T02:09:39.906959+00:00"
+ },
+ "https://www.uol.com.br/splash/noticias/2026/11/21/virginia-cinto.ghtm": {
+  "recusado": true,
+  "criado": "2026-11-22T03:21:43.668135+00:00"
+ },
+ "https://aventurasnahistoria.com.br/noticias/investigacao-ah/a-lei-dos-monstros-a-historia-real-por-tras-da-minisserie-da-netflix.phtml": {
+  "recusado": true,
+  "criado": "2026-11-22T03:21:43.668135+00:00"
+ },
+ "https://www.estadao.com.br/einvestidor/loterias/lotofacil-3834-oito-apostas-levam-premio-principal-de-quase-r-167-mil-cada-veja-dezenas-sorteadas/": {
+  "recusado": true,
+  "criado": "2026-11-22T03:21:43.668135+00:00"
+ },
+ "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/21/tecnico-do-parana-e-confundido-com-torcedor-e-e-imobilizado-por-seguranca.ghtm": {
+  "recusado": true,
+  "criado": "2026-11-22T03:21:43.668135+00:00"
  }
 }
