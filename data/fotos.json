@@ -71566,5 +71566,40 @@
   "descricao": "floresta latifoliada úmida",
   "nasc": null,
   "morte": null
+ },
+ "v:Fernanda Venturini": {
+  "descricao": "jogadora de voleibol brasileira",
+  "nasc": 1970,
+  "morte": null
+ },
+ "p:Fernanda Venturini": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Fernanda_Venturini.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: FIVB / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Fernanda_Venturini.jpg"
+ },
+ "v:Festa do Peão de Barretos": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Inteligência Artificial": {
+  "descricao": "ramo da ciência da computação que desenvolve máquinas e software com inteligência",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Gustavo Mioto": {
+  "descricao": "cantor e compositor brasileiro",
+  "nasc": 1997,
+  "morte": null
+ },
+ "p:Gustavo Mioto": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Gustavo_Mioto_entrevista_2024.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Record Goiás / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Gustavo_Mioto_entrevista_2024.jpg"
+ },
+ "v:Rayssa Leal": {
+  "descricao": "skatista brasileira",
+  "nasc": 2008,
+  "morte": null
  }
 }
