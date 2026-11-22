@@ -71631,5 +71631,15 @@
   "descricao": "música brasileira",
   "nasc": 1985,
   "morte": null
+ },
+ "v:Vale Tudo": {
+  "descricao": "telenovela brasileira de 1988",
+  "nasc": null,
+  "morte": null
+ },
+ "p:Ju Moraes": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Ju_Moraes_01.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Bahia Notícias / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Ju_Moraes_01.jpg"
  }
 }
