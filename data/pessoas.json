@@ -9144,6 +9144,15 @@
   "nome": "Daniel Rangel",
   "itens": [
    {
+    "titulo": "Daniel Rangel estreia 'Sonho Meu?' no GloboPop: 'Uma pergunta simples pode levar a conversas profundas'",
+    "link": "https://gshow.globo.com/cultura-pop/noticia/daniel-rangel-estreia-sonho-meu-no-globopop-uma-pergunta-simples-pode-levar-a-conversas-profundas.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-22T10:19:38.463806+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Danielrangel_1.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Edivafilho / CC0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Daniel Rangel completa dez anos de carreira e aposta em projeto autoral: 'Bancar nossa autenticidade'",
     "link": "https://revistaquem.globo.com/entrevistas/noticia/2026/11/daniel-rangel-completa-dez-anos-de-carreira-e-aposta-em-projeto-autoral-bancar-nossa-autenticidade.ghtml",
     "fonte": "Quem",
@@ -9152,7 +9161,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Danielrangel_1.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Edivafilho / CC0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "regiane-alves": {
   "nome": "Regiane Alves",
@@ -10002,6 +10012,15 @@
  "leila-pereira": {
   "nome": "Leila Pereira",
   "itens": [
+   {
+    "titulo": "Chapéu no Flamengo? Leila Pereira prepara contratação de joia ao Palmeiras",
+    "link": "https://tvfoco.uai.com.br/chapeu-no-flamengo-leila-pereira-prepara-contratacao-de-joia-ao-palmeiras/",
+    "fonte": "OTV Foco",
+    "categoria": "televisao",
+    "data": "2026-11-22T10:00:00+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Leila_Pereira_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Governo do Estado de São Paulo / CC BY 2.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Palmeiras: Leila Pereira negocia contratação de técnico que brilhou no Cruzeiro",
     "link": "https://tvfoco.uai.com.br/palmeiras-negocia-contratacao-de-tecnico-que-brilhou-no-cruzeiro/",
@@ -14247,6 +14266,20 @@
     "data": "2026-11-22T00:40:00+00:00",
     "imagem": "",
     "credito": ""
+   }
+  ]
+ },
+ "jamie-lee-curtis": {
+  "nome": "Jamie Lee Curtis",
+  "itens": [
+   {
+    "titulo": "Jamie Lee Curtis, aos 68 anos, ensina a maior lição de longevidade após enfrentar drogas, álcool e procedimentos estéticos: 'Não posso colocar filtro no espelho'",
+    "link": "https://www.terra.com.br/diversao/gente/jamie-lee-curtis-aos-68-anos-ensina-a-maior-licao-de-longevidade-apos-enfrentar-drogas-alcool-e-procedimentos-esteticos-nao-posso-colocar-filtro-no-espelho,eb19afad551de28bfd485e8b64f8b0024ghm70le.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-22T09:17:49+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/2025_Jamie_Lee_Curtis_%28cropped%29.jpg/1280px-2025_Jamie_Lee_Curtis_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Gabriel Hutchinson / CC BY-SA 4.0, via Wikimedia Commons"
    }
   ]
  }

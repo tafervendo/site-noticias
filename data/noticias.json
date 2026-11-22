@@ -1,16 +1,31 @@
 [
  {
+  "titulo": "Daniel Rangel estreia 'Sonho Meu?' no GloboPop: 'Uma pergunta simples pode levar a conversas profundas'",
+  "link": "https://gshow.globo.com/cultura-pop/noticia/daniel-rangel-estreia-sonho-meu-no-globopop-uma-pergunta-simples-pode-levar-a-conversas-profundas.ghtml",
+  "trecho": "Sonho Meu: Xuxa responde sobre os seus sonhos Foi a tir dseds d A gente pergunta tanto o que o outro faz, mas quase nunca pergunta com o que ele sonha, né? E é impressionante como uma pergunta tão simples pode levar a…",
+  "credito": "Foto: Edivafilho / CC0, via Wikimedia Commons",
+  "fonte": "Gshow",
+  "categoria": "televisao",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Danielrangel_1.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "data": "2026-11-22T10:19:38.463806+00:00",
+  "busca_imagem": "",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Danielrangel_1.jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Daniel Rangel"
+ },
+ {
   "titulo": "Cantor PC Silva movimenta a própria engrenagem no show que gera o álbum ao vivo autoral 'Eu vou ganhar o mundo'",
   "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/22/cantor-pc-silva-movimenta-a-propria-engrenagem-no-show-que-gera-o-album-ao-vivo-autoral-eu-vou-ganhar-o-mundo.ghtml",
   "trecho": "PC Silva lança o álbum 'Eu vou ganhar o mundo – Ao vivo', gravado em show do artista em Olinda (PE) Qorpo | Kristopher Kim / Divulgação ♫ NOTÍCIA ♬ Em “tempo de marés agitadas e poucas certezas”, como ressalta texto da…",
-  "credito": "Foto: PattayaPatrol / CC BY-SA 4.0, via Wikimedia Commons",
   "fonte": "g1",
   "categoria": "ultimas",
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/DFC_5455_Live_band_lights_up_the_night_at_Mahakanon_Pattaya_-_energetic_crowd_electric_guitars_and_a_stage_full_of_sound.jpg/1280px-DFC_5455_Live_band_lights_up_the_night_at_Mahakanon_Pattaya_-_energetic_crowd_electric_guitars_and_a_stage_full_of_sound.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "data": "2026-11-22T09:19:15.625113+00:00",
-  "busca_imagem": "concert stage microphone crowd",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:DFC_5455_Live_band_lights_up_the_night_at_Mahakanon_Pattaya_-_energetic_crowd_electric_guitars_and_a_stage_full_of_sound.jpg",
-  "imagem_tipo": "banco"
+  "data": "2026-11-22T10:19:38.463806+00:00",
+  "busca_imagem": "singer concert stage lights",
+  "vetadas": [
+   "https://live.staticflickr.com/2639/5772155756_18f7e0a658_b.jpg",
+   "https://live.staticflickr.com/2031/2407529454_b986824d8a_b.jpg"
+  ],
+  "imagem": ""
  },
  {
   "titulo": "Retorno, demissão e amor no ar: veja os destaques da semana de Por Você",
@@ -20,22 +35,21 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "",
-  "data": "2026-11-22T09:19:15.625113+00:00",
+  "data": "2026-11-22T11:00:00+00:00",
   "busca_imagem": ""
  },
  {
   "titulo": "Previsões de 22 a 28/11: Urano e Lua Cheia em Gêmeos agitam a semana; veja previsões para os signos",
   "link": "https://gshow.globo.com/horoscopo-etc/noticia/previsoes-de-22-a-2811-urano-e-lua-cheia-em-gemeos-agitam-a-semana-veja-previsoes-para-os-signos.ghtml",
   "trecho": "Astrologia, Horóscopo e Mapa Astral Unsplash Sabe aquela sensação de Mercúrio retrógrado, com entrega atrasada e plano mudando em cima da hora? A semana de 22 a 28/11 tem essa cara. A culpa é de Urano, que chega junto…",
+  "credito": "Foto: autor desconhecido / domínio público",
   "fonte": "Gshow",
   "categoria": "televisao",
-  "data": "2026-11-22T09:19:15.625113+00:00",
+  "imagem": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3Vwd2s2MjEwMzc4Ni13aWtpbWVkaWEtaW1hZ2Uta293bm5jajUuanBn.jpg",
+  "data": "2026-11-22T11:00:00+00:00",
   "busca_imagem": "full moon night sky",
-  "vetadas": [
-   "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3Vwd2s2MjEwMzc4Ni13aWtpbWVkaWEtaW1hZ2Uta293bm5jajUuanBn.jpg",
-   "https://live.staticflickr.com/7514/15395542353_d3ecd3df98_b.jpg"
-  ],
-  "imagem": ""
+  "credito_link": "https://www.rawpixel.com/image/3297444/free-photo-image-moon-astronomy-cc0",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "gshow em Quem Ama Cuida: Adriana escorraça Pilar do apartamento de Arthur",
@@ -45,8 +59,33 @@
   "fonte": "Gshow",
   "categoria": "televisao",
   "imagem": "",
-  "data": "2026-11-22T09:19:15.625113+00:00",
+  "data": "2026-11-22T11:00:00+00:00",
   "busca_imagem": ""
+ },
+ {
+  "titulo": "As unhas efeito sabonete (soap nails) são a nova obsessão de quem está cansada de esmaltes pesados e prefere unhas curtas com brilho limpo",
+  "link": "https://catracalivre.com.br/saude-bem-estar/as-unhas-efeito-sabonete-soap-nails-sao-a-nova-obsessao-de-quem-esta-cansada-de-esmaltes-pesados-e-prefere-unhas-curtas-com-brilho-limpo/",
+  "trecho": "Unhas efeito sabonete: veja como fazer as soap nails em casa, as melhores cores de esmalte e os cuidados com cutículas para um brilho limpo e natural nas mãos. O post As unhas efeito sabonete (soap nails) são a nova…",
+  "credito": "",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "imagem": "",
+  "data": "2026-11-22T10:14:00+00:00",
+  "busca_imagem": "short glossy nails manicure"
+ },
+ {
+  "titulo": "A árvore frutífera ideal para o seu jardim: dá sombra, não racha o solo e é fácil de cuidar",
+  "link": "https://catracalivre.com.br/noticias/a-arvore-frutifera-ideal-para-o-seu-jardim-da-sombra-nao-racha-o-solo-e-e-facil-de-cuidar/",
+  "trecho": "Romãzeira oferece sombra, raízes pouco agressivas e cuidados simples. Veja como plantar a árvore frutífera e manter o jardim bonito, produtivo e saudável. O post A árvore frutífera ideal para o seu jardim: dá sombra…",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "data": "2026-11-22T10:04:00+00:00",
+  "busca_imagem": "fruit tree backyard garden",
+  "vetadas": [
+   "https://live.staticflickr.com/3814/10643577956_e6d1366e83_b.jpg",
+   "https://live.staticflickr.com/8506/8356665745_0f95ff5ebe_b.jpg"
+  ],
+  "imagem": ""
  },
  {
   "titulo": "Anitta usou biojoias de designer do interior de SP em gravação de 'EQUILIBRIVM', vencedor do Grammy Latino",
@@ -55,12 +94,211 @@
   "fonte": "g1",
   "categoria": "ultimas",
   "data": "2026-11-22T10:00:00+00:00",
-  "busca_imagem": "designer jewelry bracelet earrings",
+  "busca_imagem": "handmade jewelry bracelets",
   "vetadas": [
-   "https://live.staticflickr.com/3304/3443363601_853444fe7d_b.jpg",
-   "https://live.staticflickr.com/3225/2929065982_df1aca0317_b.jpg"
+   "https://live.staticflickr.com/2439/3812990373_6a6ce29c56_b.jpg",
+   "https://live.staticflickr.com/7259/7604614416_5643fb0d13_b.jpg"
   ],
   "imagem": ""
+ },
+ {
+  "titulo": "Chapéu no Flamengo? Leila Pereira prepara contratação de joia ao Palmeiras",
+  "link": "https://tvfoco.uai.com.br/chapeu-no-flamengo-leila-pereira-prepara-contratacao-de-joia-ao-palmeiras/",
+  "trecho": "Leila Pereira prepara movimentação no mercado da bola, e o Palmeiras pode atravessar o Flamengo para contratar uma joia do futebol O Palmeiras de Leila Pereira pode dar um chapéu no Flamengo na próxima janela de…",
+  "credito": "Foto: Governo do Estado de São Paulo / CC BY 2.0, via Wikimedia Commons",
+  "fonte": "OTV Foco",
+  "categoria": "televisao",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Leila_Pereira_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "data": "2026-11-22T10:00:00+00:00",
+  "busca_imagem": "soccer stadium football field",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Leila_Pereira_(cropped).jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Leila Pereira"
+ },
+ {
+  "titulo": "Esqueça o preto e marrom: 5 cores de esmalte que são tendência na primavera",
+  "link": "https://tvfoco.uai.com.br/5-cores-de-esmalte-tendencia-na-primavera/",
+  "trecho": "Do azul névoa ao vermelho tomate, conheça os tons luminosos que dominam as unhas na estação e veja sugestões para testar em casa A primavera de 2026 abre espaço para cores mais luminosas e versáteis. Dentre as escolhas…",
+  "credito": "Foto: Erin Costa / CC BY 2.0",
+  "fonte": "OTV Foco",
+  "categoria": "televisao",
+  "imagem": "https://live.staticflickr.com/7125/7107442511_e8180580a3_b.jpg",
+  "data": "2026-11-22T10:00:00+00:00",
+  "busca_imagem": "nail polish bottles colors",
+  "credito_link": "https://www.flickr.com/photos/12286015@N06/7107442511",
+  "imagem_tipo": "banco"
+ },
+ {
+  "titulo": "Chitãozinho e Xororó anunciam aposentadoria após 56 anos de carreira",
+  "link": "https://www.terra.com.br/diversao/musica/chitaozinho-e-xororo-anunciam-aposentadoria-apos-56-anos-de-carreira,b4c3ecfcba1411f9ea0b373e699061928a6mxib4.html",
+  "trecho": "Chitãozinho e Xororó vão se aposentar dos palcos após 56 anos de carreira. Os dois vão contar os ...",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "data": "2026-11-22T09:56:27+00:00",
+  "busca_imagem": "guitar acoustic on stage",
+  "vetadas": [
+   "https://live.staticflickr.com/3838/14680128637_8a6a9777e9_b.jpg"
+  ],
+  "imagem": ""
+ },
+ {
+  "titulo": "Especialistas em nutrição concordam: “A omelete francesa se torna o jantar mais nutritivo e saudável se você adicionar alho-poró e cebola.”",
+  "link": "https://catracalivre.com.br/gastronomia/especialistas-em-nutricao-concordam-a-omelete-francesa-se-torna-o-jantar-mais-nutritivo-e-saudavel-se-voce-adicionar-alho-poro-e-cebola/",
+  "trecho": "Omelete francesa com alho-poró e cebola une proteína, fibras e sabor em um jantar saudável. Veja como preparar e equilibrar o prato sem complicação. O post Especialistas em nutrição concordam: “A omelete francesa se…",
+  "credito": "",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "imagem": "",
+  "data": "2026-11-22T09:54:02+00:00",
+  "busca_imagem": "french omelette herbs plate"
+ },
+ {
+  "titulo": "Ministros do STF x Master: o que acontece após a PF entregar 4 relatórios",
+  "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/22/master-e-ministros-do-stf-quais-os-proximos-passos.ghtm",
+  "trecho": "",
+  "fonte": "UOL Notícias",
+  "categoria": "em-alta",
+  "data": "2026-11-22T09:50:00+00:00",
+  "imagem": "https://live.staticflickr.com/7192/6884952051_11f0608720_b.jpg",
+  "em_alta": "supremo tribunal federal · 100+ buscas",
+  "busca_imagem": "supreme court building brasilia",
+  "credito": "Foto: akasped / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/26736723@N00/6884952051",
+  "imagem_tipo": "banco"
+ },
+ {
+  "titulo": "Como deixar o vaso sanitário branco e sem manchas amareladas usando apenas vinagre branco e bicarbonato",
+  "link": "https://catracalivre.com.br/noticias/como-deixar-o-vaso-sanitario-branco-e-sem-manchas-amareladas-usando-apenas-vinagre-branco-e-bicarbonato/",
+  "trecho": "Vinagre branco ajuda a remover depósitos amarelados no vaso sanitário, e o bicarbonato auxilia na limpeza. Veja como usar com segurança. O post Como deixar o vaso sanitário branco e sem manchas amareladas usando apenas…",
+  "credito": "",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "imagem": "",
+  "data": "2026-11-22T09:44:21+00:00",
+  "busca_imagem": "white toilet bowl cleaning"
+ },
+ {
+  "titulo": "Viúva homenageia Gugu Liberato sete anos após morte trágica: 'Saudade nunca acaba'",
+  "link": "https://noticiasdatv.uol.com.br/noticia/celebridades/viuva-homenageia-gugu-liberato-sete-anos-apos-morte-tragica-saudade-nunca-acaba-159777",
+  "trecho": "",
+  "fonte": "Notícias da TV",
+  "categoria": "em-alta",
+  "data": "2026-11-22T09:40:00+00:00",
+  "imagem": "",
+  "em_alta": "rose miriam di matteo · 100+ buscas",
+  "busca_imagem": ""
+ },
+ {
+  "titulo": "Terremoto de magnitude 6,8 graus atinge o Peru",
+  "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/terremoto-de-magnitude-68-graus-atinge-o-peru",
+  "trecho": "",
+  "fonte": "Agência Brasil",
+  "categoria": "em-alta",
+  "data": "2026-11-22T09:40:00+00:00",
+  "imagem": "",
+  "em_alta": "terremoto · 200+ buscas",
+  "busca_imagem": "earthquake cracked ground damage"
+ },
+ {
+  "titulo": "Reportagem da piauí mostra que Metrópoles confunde jornalismo com milícia",
+  "link": "https://www.intercept.com.br/2026/11/21/piaui-metropoles-jornalismo-milicia/",
+  "trecho": "",
+  "fonte": "Intercept Brasil",
+  "categoria": "em-alta",
+  "data": "2026-11-22T09:40:00+00:00",
+  "imagem": "",
+  "em_alta": "metrópoles · 100+ buscas",
+  "busca_imagem": ""
+ },
+ {
+  "titulo": "Colocar uma fronha nas pás do ventilador de teto desligado: para que serve e por que esse cuidado ajuda a retirar a poeira sem espalhá-la sobre os móveis",
+  "link": "https://catracalivre.com.br/noticias/colocar-uma-fronha-nas-pas-do-ventilador-de-teto-desligado-para-que-serve-e-por-que-esse-cuidado-ajuda-a-retirar-a-poeira-sem-espalha-la-sobre-os-moveis/",
+  "trecho": "Usar uma fronha nas pás do ventilador de teto desligado retém toda a poeira acumulada e evita que a sujeira caia sobre camas e sofás. O post Colocar uma fronha nas pás do ventilador de teto desligado: para que serve e…",
+  "credito": "",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "imagem": "",
+  "data": "2026-11-22T09:34:42+00:00",
+  "busca_imagem": "ceiling fan dusting cleaning"
+ },
+ {
+  "titulo": "Abandonada pelos amigos e+: 4 estrelas de A Dona do Pedaço que já morreram",
+  "link": "https://tvfoco.uai.com.br/4-estrelas-de-a-dona-do-pedaco-que-ja-morreram/",
+  "trecho": "Com a volta da novela ao “Vale a Pena Ver de Novo, relembre os artistas do elenco que nos deixaram nos últimos anos A novela “A Dona do Pedaço” volta à programação da Globo em novembro pelo Vale a Pena Ver de Novo…",
+  "credito": "",
+  "fonte": "OTV Foco",
+  "categoria": "televisao",
+  "imagem": "",
+  "data": "2026-11-22T09:30:00+00:00",
+  "busca_imagem": ""
+ },
+ {
+  "titulo": "Eliana, hoje aos 54 anos, sobre longevidade: 'Quero ser como a minha avó paterna, que viveu até os 101 anos. Não costumo pensar sobre rugas e cabelos brancos'",
+  "link": "https://www.terra.com.br/diversao/gente/eliana-hoje-aos-54-anos-sobre-longevidade-quero-ser-como-a-minha-avo-paterna-que-viveu-ate-os-101-anos-nao-costumo-pensar-sobre-rugas-e-cabelos-brancos,9f5686be393608b90d9a52453f5a5180wiucxhg4.html",
+  "trecho": "Assoprando as 54 velinhas neste domingo (22), Eliana já sabe bem em quem se inspirar quando o ...",
+  "credito": "",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "",
+  "data": "2026-11-22T09:29:47+00:00",
+  "busca_imagem": ""
+ },
+ {
+  "titulo": "O ralo da cozinha está escoando devagar? O que fazer antes de precisar chamar um encanador",
+  "link": "https://catracalivre.com.br/noticias/o-ralo-da-cozinha-esta-escoando-devagar-o-que-fazer-antes-de-precisar-chamar-um-encanador/",
+  "trecho": "A pia da cozinha está escoando devagar? Veja como identificar o acúmulo de gordura e restos de alimentos e limpar o ralo e o sifão com segurança. O post O ralo da cozinha está escoando devagar? O que fazer antes de…",
+  "fonte": "Catraca Livre",
+  "categoria": "virais",
+  "data": "2026-11-22T09:24:03+00:00",
+  "busca_imagem": "kitchen sink drain water",
+  "vetadas": [
+   "https://live.staticflickr.com/7095/7399907794_1ac8b3293b_b.jpg",
+   "https://live.staticflickr.com/145/354491309_2c7bff63a6_b.jpg"
+  ],
+  "imagem": ""
+ },
+ {
+  "titulo": "Lotofácil 3834: oito apostas levam prêmio principal de quase R$ 167 mil cada; veja dezenas sorteadas",
+  "link": "https://www.estadao.com.br/einvestidor/loterias/lotofacil-3834-oito-apostas-levam-premio-principal-de-quase-r-167-mil-cada-veja-dezenas-sorteadas/",
+  "trecho": "",
+  "fonte": "Estadão",
+  "categoria": "em-alta",
+  "data": "2026-11-22T09:20:00+00:00",
+  "imagem": "https://live.staticflickr.com/119/287956700_ec80f289c9_b.jpg",
+  "em_alta": "resultado da lotofácil concurso 3835 · 200+ buscas",
+  "busca_imagem": "lottery ticket numbers",
+  "credito": "Foto: wetwebwork / CC BY-SA 2.0",
+  "credito_link": "https://www.flickr.com/photos/82832950@N00/287956700",
+  "imagem_tipo": "banco"
+ },
+ {
+  "titulo": "César Menotti e Fabiano enfrentam temporal e não conseguem pousar em Foz do Iguaçu",
+  "link": "https://www.estadao.com.br/em-alta/emais/gente/cesar-menotti-e-fabiano-enfrentam-temporal-e-nao-conseguem-pousar-em-foz-do-iguacu-npr/",
+  "trecho": "",
+  "fonte": "Estadão",
+  "categoria": "em-alta",
+  "data": "2026-11-22T09:20:00+00:00",
+  "em_alta": "césar menotti · 500+ buscas",
+  "busca_imagem": "helicopter storm sky",
+  "vetadas": [
+   "https://live.staticflickr.com/7538/16144057788_0a202b927d_b.jpg",
+   "https://live.staticflickr.com/8058/8154779109_4ece81dc4f_b.jpg"
+  ],
+  "imagem": ""
+ },
+ {
+  "titulo": "Jamie Lee Curtis, aos 68 anos, ensina a maior lição de longevidade após enfrentar drogas, álcool e procedimentos estéticos: 'Não posso colocar filtro no espelho'",
+  "link": "https://www.terra.com.br/diversao/gente/jamie-lee-curtis-aos-68-anos-ensina-a-maior-licao-de-longevidade-apos-enfrentar-drogas-alcool-e-procedimentos-esteticos-nao-posso-colocar-filtro-no-espelho,eb19afad551de28bfd485e8b64f8b0024ghm70le.html",
+  "trecho": "Uma das atrizes de maior destaque do cinema mundial, Jamie Lee Curtis completa 68 anos neste ...",
+  "credito": "Foto: Gabriel Hutchinson / CC BY-SA 4.0, via Wikimedia Commons",
+  "fonte": "Terra",
+  "categoria": "ultimas",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/2025_Jamie_Lee_Curtis_%28cropped%29.jpg/1280px-2025_Jamie_Lee_Curtis_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "data": "2026-11-22T09:17:49+00:00",
+  "busca_imagem": "",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:2025_Jamie_Lee_Curtis_(cropped).jpg",
+  "imagem_tipo": "pessoa",
+  "pessoa": "Jamie Lee Curtis"
  },
  {
   "titulo": "Cortes médios em tendência: 6 opções modernas na altura dos ombros para dar movimento e leveza a qualquer tipo de cabelo",
@@ -71,18 +309,23 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-22T09:14:00+00:00",
-  "busca_imagem": "shoulder length bob haircut"
+  "busca_imagem": "woman medium length haircut"
  },
  {
   "titulo": "Como os cachorros conseguem sentir o cheiro do medo e do estresse humano sem ver nenhuma expressão facial",
   "link": "https://catracalivre.com.br/noticias/como-os-cachorros-conseguem-sentir-o-cheiro-do-medo-e-do-estresse-humano-sem-ver-nenhuma-expressao-facial/",
   "trecho": "Cachorros conseguem reconhecer alterações no odor do suor e da respiração ligados ao estresse humano. Entenda o que estudos científicos revelam. O post Como os cachorros conseguem sentir o cheiro do medo e do estresse…",
-  "credito": "",
   "fonte": "Catraca Livre",
   "categoria": "virais",
-  "imagem": "",
   "data": "2026-11-22T09:04:22+00:00",
-  "busca_imagem": "dog sniffing outdoor grass"
+  "busca_imagem": "dog nose close up",
+  "vetadas": [
+   "https://live.staticflickr.com/6227/6313198884_5942c28368_b.jpg"
+  ],
+  "imagem": "https://live.staticflickr.com/2472/4011338166_fd28966ecc_b.jpg",
+  "credito": "Foto: kulicki / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/43022558@N08/4011338166",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Câncer: Humorista do Zorra Total morreu precocemente aos 42 e abalou fãs",
@@ -104,21 +347,20 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-22T09:00:00+00:00",
-  "busca_imagem": "eyebrow shaping tweezers brow"
+  "busca_imagem": "eyebrow shaping tweezers"
  },
  {
   "titulo": "Chefs e nutricionistas europeus concordam: “A salada de batata fica melhor se preparada desta forma e se adicionar algo com sabor de frutos do mar, como atum, salmão ou anchovas.”",
   "link": "https://catracalivre.com.br/gastronomia/chefs-e-nutricionistas-europeus-concordam-a-salada-de-batata-fica-melhor-se-preparada-desta-forma-e-se-adicionar-algo-com-sabor-de-frutos-do-mar-como-atum-salmao-ou-anchovas/",
   "trecho": "Aprenda a cozinhar salada de batata com casca e combinar atum, salmão ou anchova com molhos que deixam o prato cremoso, fresco e equilibrado. O post Chefs e nutricionistas europeus concordam: “A salada de batata fica…",
+  "credito": "Foto: avlxyz / CC BY-SA 2.0",
   "fonte": "Catraca Livre",
   "categoria": "virais",
+  "imagem": "https://live.staticflickr.com/3033/2695730538_3d9bf6c51c_b.jpg",
   "data": "2026-11-22T08:54:59+00:00",
-  "busca_imagem": "potato salad bowl fresh",
-  "vetadas": [
-   "https://live.staticflickr.com/3033/2695730538_3d9bf6c51c_b.jpg",
-   "https://live.staticflickr.com/2446/3652961672_57fff0017b_b.jpg"
-  ],
-  "imagem": ""
+  "busca_imagem": "potato salad bowl",
+  "credito_link": "https://www.flickr.com/photos/10559879@N00/2695730538",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "F1 - Leclerc desabafa sobre 'treta' com Hamilton: \"Não pode continuar assim\"",
@@ -142,8 +384,23 @@
   "categoria": "em-alta",
   "data": "2026-11-22T08:50:00+00:00",
   "imagem": "",
-  "em_alta": "lá na minha terra · 100+ buscas",
+  "em_alta": "lá na minha terra · 200+ buscas",
   "busca_imagem": ""
+ },
+ {
+  "titulo": "F1 - Vasseur se revolta com novo choque entre Leclerc e Hamilton: “Não foi profissional”",
+  "link": "https://motorsport.uol.com.br/f1/news/f1-vasseur-se-revolta-com-novo-choque-entre-leclerc-e-hamilton-nao-foi-profissional/10876866/",
+  "trecho": "",
+  "fonte": "Motorsport.com - Fórmula 1, NASCAR, MotoGP, Fórmula Indy",
+  "categoria": "em-alta",
+  "data": "2026-11-22T08:50:00+00:00",
+  "em_alta": "charles leclerc · 500+ buscas",
+  "busca_imagem": "formula one race track",
+  "vetadas": [
+   "https://live.staticflickr.com/3102/3095032784_daaec36467_b.jpg",
+   "https://live.staticflickr.com/3113/3095026304_3953273c25_b.jpg"
+  ],
+  "imagem": ""
  },
  {
   "titulo": "A maquiagem ganha brilho ao longo do dia: para que servem os papéis antioleosidade e como usá-los nas áreas que ficam mais oleosas",
@@ -154,48 +411,47 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-22T08:44:12+00:00",
-  "busca_imagem": "face powder blotting paper makeup"
+  "busca_imagem": "oil blotting paper face"
  },
  {
   "titulo": "Helio Gurovitz estreia na ficção com livro sobre tempo e sonhos frustrados de sua geração",
   "link": "https://www.terra.com.br/diversao/helio-gurovitz-estreia-na-ficcao-com-livro-sobre-tempo-e-sonhos-frustrados-de-sua-geracao,9722d7a7c6a84692576e800e777de853pf4yvkpd.html",
   "trecho": "Cinco amigos marcam um reencontro no réveillon do ano 2000 para celebrar a amizade em uma praia ...",
+  "credito": "Foto: dejankrsmanovic / CC BY 2.0",
   "fonte": "Terra",
   "categoria": "ultimas",
+  "imagem": "https://live.staticflickr.com/7819/33207130558_945b5bc125_b.jpg",
   "data": "2026-11-22T08:42:52+00:00",
   "busca_imagem": "open book reading desk",
-  "vetadas": [
-   "https://live.staticflickr.com/7819/33207130558_945b5bc125_b.jpg",
-   "https://live.staticflickr.com/4050/4487635324_1e3f9c8e7c_b.jpg"
-  ],
-  "imagem": ""
+  "credito_link": "https://www.flickr.com/photos/155403590@N07/33207130558",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "A manicure BIAB é a nova obsessão de quem quer unhas naturais mais firmes e brilhantes sem recorrer ao alongamento em acrílico",
   "link": "https://catracalivre.com.br/saude-bem-estar/a-manicure-biab-e-a-nova-obsessao-de-quem-quer-unhas-naturais-mais-firmes-e-brilhantes-sem-recorrer-ao-alongamento-em-acrilico/",
   "trecho": "Conheça a manicure BIAB, o gel que deixa as unhas naturais mais firmes e brilhantes sem acrílico. Veja como funciona, quem pode fazer e os cuidados certos. O post A manicure BIAB é a nova obsessão de quem quer unhas…",
-  "credito": "Foto: nailsbylisa / CC BY 2.0",
   "fonte": "Catraca Livre",
   "categoria": "virais",
-  "imagem": "https://live.staticflickr.com/3599/4559982239_0ac694451c_b.jpg",
   "data": "2026-11-22T08:34:00+00:00",
-  "busca_imagem": "natural nails manicure polish",
-  "credito_link": "https://www.flickr.com/photos/45706841@N02/4559982239",
+  "busca_imagem": "natural nails manicure",
+  "vetadas": [
+   "https://live.staticflickr.com/5246/5300876290_5faf47d26f_b.jpg"
+  ],
+  "imagem": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdXB3azYxODM1NzAxLXdpa2ltZWRpYS1pbWFnZS1rb3did290dC5qcGc.jpg",
+  "credito": "Foto: autor desconhecido / domínio público",
+  "credito_link": "https://www.rawpixel.com/image/3284349/free-photo-image-cc0-christmas-conifer",
   "imagem_tipo": "banco"
  },
  {
   "titulo": "Com 1 iogurte, 2 ovos e 3 colheres de amido de milho: a receita para preparar um bolo cremoso sem farinha",
   "link": "https://catracalivre.com.br/gastronomia/com-1-iogurte-2-ovos-e-3-colheres-de-amido-de-milho-a-receita-para-preparar-um-bolo-cremoso-sem-farinha/",
   "trecho": "Aprenda a fazer bolo cremoso sem farinha com iogurte, ovos e amido de milho. Receita simples, assada em forma pequena e finalizada na geladeira. O post Com 1 iogurte, 2 ovos e 3 colheres de amido de milho: a receita…",
+  "credito": "",
   "fonte": "Catraca Livre",
   "categoria": "virais",
+  "imagem": "",
   "data": "2026-11-22T08:24:58+00:00",
-  "busca_imagem": "cake batter eggs baking ingredients",
-  "vetadas": [
-   "https://live.staticflickr.com/8365/8524110518_c88b139543_b.jpg",
-   "https://live.staticflickr.com/3367/3565487098_be013aa23d_b.jpg"
-  ],
-  "imagem": ""
+  "busca_imagem": "corn starch cake ingredients"
  },
  {
   "titulo": "Atacadista inaugura nova unidade no Paraná ao mesmo tempo que comemora 53 anos",
@@ -220,7 +476,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-22T08:14:42+00:00",
-  "busca_imagem": "gel nail polish removal"
+  "busca_imagem": "gel nail polish peeling"
  },
  {
   "titulo": "7 cortes de cabelo em camadas que os cabeleireiros recomendam para aumentar o volume",
@@ -231,7 +487,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-22T08:04:57+00:00",
-  "busca_imagem": "layered haircut salon mirror"
+  "busca_imagem": "layered haircut salon"
  },
  {
   "titulo": "De Marina Ruy Barbosa a Virginia: veja as famosas que já tiveram o nome ligado a pilotos da Stock Car",
@@ -253,7 +509,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-22T07:54:57+00:00",
-  "busca_imagem": "broom stick exercise home"
+  "busca_imagem": "broom exercise workout"
  },
  {
   "titulo": "Resumo de Quem Ama Cuida: Próximo capítulo da novela, segunda, 23 de novembro",
@@ -270,28 +526,25 @@
   "titulo": "Passar hidratante antes do perfume: por que esse cuidado pode ajudar a fragrância a permanecer na pele por mais tempo, segundo a Jo Malone",
   "link": "https://catracalivre.com.br/noticias/passar-hidratante-antes-do-perfume-por-que-esse-cuidado-pode-ajudar-a-fragrancia-a-permanecer-na-pele-por-mais-tempo-segundo-a-jo-malone/",
   "trecho": "A aplicação de hidratante corporal antes do perfume ajuda a pele seca a reter melhor as notas olfativas e prolonga a duração da fragrância. O post Passar hidratante antes do perfume: por que esse cuidado pode ajudar a…",
+  "credito": "Foto: Naomi King / CC BY 2.0",
   "fonte": "Catraca Livre",
   "categoria": "virais",
+  "imagem": "https://live.staticflickr.com/8291/7796393844_f4a3554cec_b.jpg",
   "data": "2026-11-22T07:44:12+00:00",
   "busca_imagem": "perfume bottle skin cream",
-  "vetadas": [
-   "https://live.staticflickr.com/8291/7796393844_f4a3554cec_b.jpg",
-   "https://live.staticflickr.com/7125/7796394390_e598044590_b.jpg"
-  ],
-  "imagem": ""
+  "credito_link": "https://www.flickr.com/photos/22141297@N06/7796393844",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Quantos segundos é necessário segurar o agachamento isométrico na parede para fortalecer coxas, abdômen e glúteos sem sobrecarregar os joelhos?",
   "link": "https://catracalivre.com.br/saude-bem-estar/quantos-segundos-e-necessario-segurar-o-agachamento-isometrico-na-parede-para-fortalecer-coxas-abdomen-e-gluteos-sem-sobrecarregar-os-joelhos/",
   "trecho": "Descubra quantos segundos segurar o agachamento isométrico na parede para fortalecer coxas, glúteos e abdômen sem forçar os joelhos. Veja o passo a passo. O post Quantos segundos é necessário segurar o agachamento…",
-  "credito": "Foto: PTPioneer / CC BY 2.0",
+  "credito": "",
   "fonte": "Catraca Livre",
   "categoria": "virais",
-  "imagem": "https://live.staticflickr.com/65535/48441700011_596fb3844b_b.jpg",
+  "imagem": "",
   "data": "2026-11-22T07:34:00+00:00",
-  "busca_imagem": "wall squat exercise",
-  "credito_link": "https://www.flickr.com/photos/182613284@N02/48441700011",
-  "imagem_tipo": "banco"
+  "busca_imagem": "wall squat exercise legs"
  },
  {
   "titulo": "Mariona Ferrán, cabeleireira: “Aos 60 anos, obsessão em cobrir completamente os cabelos brancos costuma ser um erro, para um efeito natural a cor deve proporcionar transparência e movimento.”",
@@ -302,7 +555,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-22T07:24:54+00:00",
-  "busca_imagem": "gray hair salon"
+  "busca_imagem": "woman gray hair salon"
  },
  {
   "titulo": "O curvex deve entrar antes ou depois do rímel? A ordem muda o resultado e pode evitar que os cílios grudem no aparelho durante a aplicação",
@@ -319,15 +572,14 @@
   "titulo": "Javier Abreu, treinador: “As flexões contra a parede permitem dosar a intensidade, eliminar o estresse lombar e aprender o padrão de movimento sem sobrecarregar o ombro.”",
   "link": "https://catracalivre.com.br/saude-bem-estar/javier-abreu-treinador-as-flexoes-contra-a-parede-permitem-dosar-a-intensidade-eliminar-o-estresse-lombar-e-aprender-o-padrao-de-movimento-sem-sobrecarregar-o-ombro/",
   "trecho": "Flexão na parede ajuda a controlar a intensidade, proteger ombro e região lombar e aprender o movimento correto antes de avançar para o chão. O post Javier Abreu, treinador: “As flexões contra a parede permitem dosar a…",
+  "credito": "Foto: manicmaya / CC BY-SA 2.0",
   "fonte": "Catraca Livre",
   "categoria": "virais",
+  "imagem": "https://live.staticflickr.com/6009/6008184562_be7c4d6bf7_b.jpg",
   "data": "2026-11-22T07:04:54+00:00",
   "busca_imagem": "push ups against wall",
-  "vetadas": [
-   "https://live.staticflickr.com/6009/6008184562_be7c4d6bf7_b.jpg",
-   "https://live.staticflickr.com/3807/32949012216_d2a7ebcd61_b.jpg"
-  ],
-  "imagem": ""
+  "credito_link": "https://www.flickr.com/photos/7155821@N02/6008184562",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "O comprimento de cabelo ideal de acordo com o seu pescoço e o formato do rosto após os 50",
@@ -336,9 +588,10 @@
   "fonte": "Catraca Livre",
   "categoria": "virais",
   "data": "2026-11-22T06:54:53+00:00",
-  "busca_imagem": "woman haircut neck",
+  "busca_imagem": "woman short hair neck",
   "vetadas": [
-   "https://live.staticflickr.com/3280/3097849775_19a431ac83_b.jpg"
+   "https://live.staticflickr.com/65535/51664031993_c19d6fc61f_b.jpg",
+   "https://live.staticflickr.com/65535/51663800341_84be508b4c_b.jpg"
   ],
   "imagem": ""
  },
@@ -351,7 +604,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-22T06:44:12+00:00",
-  "busca_imagem": "makeup sponge water"
+  "busca_imagem": "makeup sponge foundation"
  },
  {
   "titulo": "Previsão do tempo em Porto Alegre: Confira como fica o clima entre domingo (22) e quarta (25)",
@@ -374,14 +627,14 @@
   "titulo": "Na Espanha, uma tartaruga-cabeçuda recuperada em hospital marinho será devolvida ao Mediterrâneo durante uma ação que une arte e conservação ambiental",
   "link": "https://catracalivre.com.br/noticias/na-espanha-uma-tartaruga-cabecuda-recuperada-em-hospital-marinho-sera-devolvida-ao-mediterraneo-durante-uma-acao-que-une-arte-e-conservacao-ambiental/",
   "trecho": "Em Laguna, Santa Catarina, pescadores artesanais e botos mantêm uma pesca cooperativa reconhecida como Patrimônio Cultural do Brasil. O post Na Espanha, uma tartaruga-cabeçuda recuperada em hospital marinho será…",
-  "credito": "Foto: Jeroen Looyé / CC BY-SA 2.0",
   "fonte": "Catraca Livre",
   "categoria": "virais",
-  "imagem": "https://live.staticflickr.com/7180/6780166094_9b935bbda4_b.jpg",
   "data": "2026-11-22T06:24:01+00:00",
-  "busca_imagem": "loggerhead sea turtle beach",
-  "credito_link": "https://www.flickr.com/photos/79541956@N00/6780166094",
-  "imagem_tipo": "banco"
+  "busca_imagem": "loggerhead sea turtle rescue",
+  "vetadas": [
+   "https://live.staticflickr.com/4049/4639524395_6b7bacd9ba_b.jpg"
+  ],
+  "imagem": ""
  },
  {
   "titulo": "O corte ideal para cabelos grisalhos de acordo com a textura dos fios após os 50",
@@ -392,7 +645,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-22T06:14:52+00:00",
-  "busca_imagem": "gray hair cut salon"
+  "busca_imagem": "gray hair cut scissors"
  },
  {
   "titulo": "'Neydrasta' reforça rumores de casamento com Neymar Pai ao postar foto e música sugestiva",
@@ -412,14 +665,14 @@
   "titulo": "René Descartes, filósofo francês, sobre a diferença entre inteligência e sabedoria: “Não basta ter uma boa mente, o principal é saber usá-la”",
   "link": "https://catracalivre.com.br/noticias/rene-descartes-filosofo-frances-sobre-a-diferenca-entre-inteligencia-e-sabedoria-nao-basta-ter-uma-boa-mente-o-principal-e-saber-usa-la/",
   "trecho": "Abutres voando em círculos aproveitam correntes térmicas de ar quente para planar e poupar energia no céu, explica pesquisadora da UCLA. O post René Descartes, filósofo francês, sobre a diferença entre inteligência e…",
-  "credito": "Foto: byzantiumbooks / CC BY 2.0",
   "fonte": "Catraca Livre",
   "categoria": "virais",
-  "imagem": "https://live.staticflickr.com/3925/14971833437_9437e063af_b.jpg",
   "data": "2026-11-22T06:04:02+00:00",
-  "busca_imagem": "old book philosophy desk",
-  "credito_link": "https://www.flickr.com/photos/10688882@N00/14971833437",
-  "imagem_tipo": "banco"
+  "busca_imagem": "vintage books library reading",
+  "vetadas": [
+   "https://live.staticflickr.com/5200/5811716939_35f9bc6b66_b.jpg"
+  ],
+  "imagem": ""
  },
  {
   "titulo": "A base começa a esfarelar mesmo com a pele hidratada: o excesso de produtos e a pressa entre as camadas podem estar por trás do problema",
@@ -474,13 +727,13 @@
   "titulo": "Vídeos do episódio de 'Altas Horas' de sábado, 21 de novembro de 2026",
   "link": "https://gshow.globo.com/tv/altas-horas/episodio/2026/11/21/videos-do-episodio-de-altas-horas-de-sabado-21-de-novembro-de-2026.ghtml",
   "trecho": "Assista gratuitamente aos vídeos de 'Altas Horas' de sábado, 21/11",
-  "credito": "Foto: Official GDC / CC BY 2.0",
+  "credito": "Foto: Scribl Scrabl iNk / CC BY 2.0",
   "fonte": "Gshow",
   "categoria": "televisao",
-  "imagem": "https://live.staticflickr.com/7187/6958087967_80bf947bca_b.jpg",
+  "imagem": "https://live.staticflickr.com/8080/8283266934_20c368bd1e_b.jpg",
   "data": "2026-11-22T05:30:00+00:00",
-  "busca_imagem": "television studio audience",
-  "credito_link": "https://www.flickr.com/photos/46982319@N06/6958087967",
+  "busca_imagem": "television studio stage lights",
+  "credito_link": "https://www.flickr.com/photos/91226744@N08/8283266934",
   "imagem_tipo": "banco"
  },
  {
@@ -503,7 +756,9 @@
   "data": "2026-11-22T05:24:41+00:00",
   "busca_imagem": "waterfall cliff rock canyon",
   "vetadas": [
-   "https://live.staticflickr.com/8291/7882026452_8b3ccf1080_b.jpg"
+   "https://live.staticflickr.com/8291/7882026452_8b3ccf1080_b.jpg",
+   "https://live.staticflickr.com/1302/1025332047_930ca3ac3b_b.jpg",
+   "https://live.staticflickr.com/1131/1026196442_24a3844524_b.jpg"
   ],
   "imagem": ""
  },
@@ -550,12 +805,14 @@
   "titulo": "Duda Santos usa look vintage avaliado em R$ 17 mil para evento do Emmy Internacional",
   "link": "https://gshow.globo.com/cultura-pop/famosos/noticia/duda-santos-usa-look-vintage-avaliado-em-r-17-mil-para-evento-do-emmy-internacional.ghtml",
   "trecho": "TV Globo tem 5 indicações ao Emmy 2026 Confira os candidatos Duda Santos compartilhou com seus seguidores, neste sábado (21), todo o glamour e elegância do look escolhido para o evento de abertura do Emmy Internacional…",
-  "credito": "",
+  "credito": "Foto: GuySie / CC BY-SA 2.0",
   "fonte": "Gshow",
   "categoria": "televisao",
-  "imagem": "",
+  "imagem": "https://live.staticflickr.com/8148/7597498726_e1913eb8d7_b.jpg",
   "data": "2026-11-22T05:10:54+00:00",
-  "busca_imagem": ""
+  "busca_imagem": "vintage dress fashion",
+  "credito_link": "https://www.flickr.com/photos/76491533@N00/7597498726",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Como salvar uma planta que caiu no chão e quebrou o galho principal usando fita adesiva",
@@ -588,7 +845,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-22T04:51:50+00:00",
-  "busca_imagem": ""
+  "busca_imagem": "embroidered carnival costume"
  },
  {
   "titulo": "Quem Ama Cuida: Pilar é humilhada pelo próprio sobrinho",
@@ -621,7 +878,7 @@
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Mel_Maia%2C_ArteBlitz%2C_Fev.2023_-_02.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-22T04:33:07+00:00",
-  "busca_imagem": "",
+  "busca_imagem": "boxing gloves ring",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Mel_Maia,_ArteBlitz,_Fev.2023_-_02.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Mel Maia"
@@ -756,12 +1013,14 @@
   "titulo": "Vídeos do capítulo de 'Quem Ama Cuida' de sábado, 21 de novembro de 2026",
   "link": "https://gshow.globo.com/novelas/quem-ama-cuida/capitulo/2026/11/21/videos-do-capitulo-de-quem-ama-cuida-de-sabado-21-de-novembro-de-2026.ghtml",
   "trecho": "Assista gratuitamente aos vídeos de 'Quem Ama Cuida' de sábado, 21/11",
-  "credito": "",
+  "credito": "Foto: kitmasterbloke / CC BY 2.0",
   "fonte": "Gshow",
   "categoria": "televisao",
-  "imagem": "",
+  "imagem": "https://live.staticflickr.com/65535/48949253367_cefe2386a5_b.jpg",
   "data": "2026-11-22T03:50:00+00:00",
-  "busca_imagem": ""
+  "busca_imagem": "television studio stage lights",
+  "credito_link": "https://www.flickr.com/photos/58415659@N00/48949253367",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Como fazer mudas de rosas e flores usando uma simples batata comum da cozinha",
@@ -794,7 +1053,7 @@
   "categoria": "celebridades",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/MariahSandringham150825-18_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-22T03:25:15+00:00",
-  "busca_imagem": "concert stage lights crowd",
+  "busca_imagem": "concert stage night crowd",
   "credito_link": "https://commons.wikimedia.org/wiki/File:MariahSandringham150825-18_(cropped).jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Mariah Carey"
@@ -819,7 +1078,6 @@
   "categoria": "televisao",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/MariahSandringham150825-18_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-22T03:21:04+00:00",
-  "busca_imagem": "concert crowd stage lights",
   "credito_link": "https://commons.wikimedia.org/wiki/File:MariahSandringham150825-18_(cropped).jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Mariah Carey"
@@ -828,12 +1086,14 @@
   "titulo": "Schynaider Moura revela fotos inéditas do casamento luxuoso com empresário no Marrocos",
   "link": "https://revistaquem.globo.com/eventos/casamentos/noticia/2026/11/schynaider-moura-revela-fotos-ineditas-do-casamento-luxuoso-com-empresario-no-marrocos.ghtml",
   "trecho": "Schynaider Moura, de 38 anos, e o empresário Bruno Garfinkel, de 49, herdeiro da Porto Seguro, trocaram alianças neste sábado (21) em uma cerimônia luxuosa no hotel Selman, em Marrakech, no Marrocos. O casamento reuniu…",
-  "credito": "",
   "fonte": "Quem",
   "categoria": "celebridades",
-  "imagem": "",
   "data": "2026-11-22T03:17:20+00:00",
-  "busca_imagem": ""
+  "busca_imagem": "wedding altar white roses",
+  "vetadas": [
+   "https://live.staticflickr.com/4017/4582479927_f639d8bb72_b.jpg"
+  ],
+  "imagem": ""
  },
  {
   "titulo": "Após os 60 anos, simplesmente dar uma caminhada não é suficiente: tente atingir 100 passos por minuto para potencializar os benefícios da caminhada e aumentar a longevidade",
@@ -882,7 +1142,6 @@
   "categoria": "ultimas",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Rebeca_Andrade_in_2023.jpg/1280px-Rebeca_Andrade_in_2023.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "data": "2026-11-22T03:04:35+00:00",
-  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Rebeca_Andrade_in_2023.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Rebeca Andrade"
@@ -950,7 +1209,6 @@
   "categoria": "televisao",
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Solange_Almeida_no_A_Elimina%C3%A7%C3%A3o_em_2021_%282%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "data": "2026-11-22T02:43:25+00:00",
-  "busca_imagem": "samba parade carnival drum",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Solange_Almeida_no_A_Elimina%C3%A7%C3%A3o_em_2021_(2).jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Solange Almeida"
@@ -997,7 +1255,6 @@
   "categoria": "celebridades",
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Rebeca_Andrade_in_2023.jpg/1280px-Rebeca_Andrade_in_2023.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "data": "2026-11-22T02:26:24+00:00",
-  "busca_imagem": "",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Rebeca_Andrade_in_2023.jpg",
   "imagem_tipo": "pessoa",
   "pessoa": "Rebeca Andrade"
@@ -1006,30 +1263,13 @@
   "titulo": "Setlist de Roger Daltrey no Best of Blues & Rock 2026: veja músicas do show do cantor do The Who",
   "link": "https://www.terra.com.br/diversao/musica/setlist-de-roger-daltrey-no-best-of-blues-rock-2026-veja-musicas-do-show-do-cantor-do-the-who,98c2cfb72c7ad0859d069760c4e7fac97xu03zgu.html",
   "trecho": "O vocalista do The Who, Roger Daltrey, sobe ao palco neste sábado, 21, do festival Best of Blues ...",
+  "credito": "Foto: comedy_nose / domínio público",
   "fonte": "Terra",
   "categoria": "ultimas",
+  "imagem": "https://live.staticflickr.com/3614/3638971241_cfe7431998_b.jpg",
   "data": "2026-11-22T02:25:27+00:00",
-  "busca_imagem": "rock band setlist paper",
-  "vetadas": [
-   "https://live.staticflickr.com/3498/3735171010_90582fc99c_b.jpg"
-  ],
-  "imagem": ""
- },
- {
-  "titulo": "Lotofácil 3834: oito apostas levam prêmio principal de quase R$ 167 mil cada; veja dezenas sorteadas",
-  "link": "https://www.estadao.com.br/einvestidor/loterias/lotofacil-3834-oito-apostas-levam-premio-principal-de-quase-r-167-mil-cada-veja-dezenas-sorteadas/",
-  "trecho": "",
-  "fonte": "Estadão",
-  "categoria": "em-alta",
-  "data": "2026-11-22T02:20:00+00:00",
-  "em_alta": "resultado · 200+ buscas",
-  "busca_imagem": "lottery ticket bets",
-  "vetadas": [
-   "https://live.staticflickr.com/101/287951218_7eecc15013_b.jpg"
-  ],
-  "imagem": "https://live.staticflickr.com/119/287956700_ec80f289c9_b.jpg",
-  "credito": "Foto: wetwebwork / CC BY-SA 2.0",
-  "credito_link": "https://www.flickr.com/photos/82832950@N00/287956700",
+  "busca_imagem": "rock concert stage microphone",
+  "credito_link": "https://www.flickr.com/photos/23408922@N07/3638971241",
   "imagem_tipo": "banco"
  },
  {
@@ -1060,14 +1300,14 @@
   "titulo": "Esse é meu casamento dos sonhos a partir de hoje: de torre de rosas brancas a decoração monumental com piso espelhado, estas 12 fotos da união da modelo Schynaider Moura e Bruno Garfinkel vão inspirar quem quer subir no altar",
   "link": "https://www.terra.com.br/diversao/gente/esse-e-meu-casamento-dos-sonhos-a-partir-de-hoje-de-torre-de-rosas-brancas-a-decoracao-monumental-com-piso-espelhado-estas-12-fotos-da-uniao-da-modelo-schynaider-moura-e-bruno-garfinkel-vao-inspirar-quem-quer-subir-no-altar,36fe64aa24f2d6227837136607ffec85xb8vm6md.html",
   "trecho": "O casamento de Schynaider Moura e Bruno Garfinkel reuniu referências de sofisticação, romantismo ...",
-  "credito": "Foto: libraryofcongress / domínio público",
   "fonte": "Terra",
   "categoria": "ultimas",
-  "imagem": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9zdGF0aWMvaW1hZ2VzL3dlYnNpdGUvMjAyNS0xMC9sb2M5NTUwOTQxNi1pbWFnZS5qcGc.jpg",
   "data": "2026-11-22T02:11:10+00:00",
-  "busca_imagem": "white roses wedding arch",
-  "credito_link": "https://www.rawpixel.com/image/6290931/the-wedding-ceremony-the-rose-garden-the-white-house-june-12-1971",
-  "imagem_tipo": "banco"
+  "busca_imagem": "luxury wedding decoration mirror floor",
+  "vetadas": [
+   "https://live.staticflickr.com/7169/13867830345_f02ba3004b_b.jpg"
+  ],
+  "imagem": ""
  },
  {
   "titulo": "Famosos prestigiam casamento de Juliana Paiva e Danilo Partezani no Rio",
@@ -1102,7 +1342,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-22T02:06:26+00:00",
-  "busca_imagem": "child police hand signal"
+  "busca_imagem": "child hand emergency signal"
  },
  {
   "titulo": "Por que a tigela do chocolate não deve encostar na água do banho-maria e como esse cuidado ajuda a derreter sem queimar",
@@ -1251,7 +1491,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-22T01:08:52+00:00",
-  "busca_imagem": "crystal embellished costume"
+  "busca_imagem": "crystal embellished dress"
  },
  {
   "titulo": "Lá na Minha Terra: chegada de Rosenda a São Paulo termina em assalto",
@@ -1262,7 +1502,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-22T01:00:00+00:00",
-  "busca_imagem": "suitcase bus station arrival"
+  "busca_imagem": "street robbery city night"
  },
  {
   "titulo": "Vídeos do capítulo de 'Lá na Minha Terra' de sábado, 21 de novembro de 2026",
@@ -1388,7 +1628,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-22T00:37:14+00:00",
-  "busca_imagem": "soccer championship trophy celebration"
+  "busca_imagem": "soccer fans celebrating championship"
  },
  {
   "titulo": "A porta da geladeira fica difícil de abrir ou fechar: resíduos na borracha podem estar por trás do problema, e a limpeza exige poucos cuidados",
@@ -1410,7 +1650,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-22T00:34:28+00:00",
-  "busca_imagem": "wedding reception party lights"
+  "busca_imagem": "wedding party reception lights"
  },
  {
   "titulo": "Remo 2-0 Chapecoense em tempo real :: Brasileirão Série A 2026",
@@ -1434,12 +1674,14 @@
   "titulo": "Férias 2026: Guia prático diz o que tira o direito e datas proibidas",
   "link": "https://tvfoco.uai.com.br/ferias-2026-guia-pratico-diz-o-que-tira-o-direito-e-datas-proibidas/",
   "trecho": "Trabalhadores com carteira assinada precisam ficar atentos às regras da CLT para garantir o descanso remunerado. Faltas injustificadas, afastamentos prolongados e mais podem afetar no direito às férias As férias são um…",
-  "credito": "",
+  "credito": "Foto: Gareth1953 All Right Now / CC BY 2.0",
   "fonte": "OTV Foco",
   "categoria": "televisao",
-  "imagem": "",
+  "imagem": "https://live.staticflickr.com/6139/5918595195_0129700177_b.jpg",
   "data": "2026-11-22T00:30:00+00:00",
-  "busca_imagem": "vacation travel planning calendar"
+  "busca_imagem": "vacation beach travel planning",
+  "credito_link": "https://www.flickr.com/photos/40837632@N05/5918595195",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Quadrangular Final do Pernambucano 2026/2027 começa neste sábado (21)",
@@ -1490,7 +1732,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-22T00:16:29+00:00",
-  "busca_imagem": "engagement ring bouquet"
+  "busca_imagem": ""
  },
  {
   "titulo": "'Hoje meu amor a previsão era granizo e você nos presenteou com sol, hoje estava como o dia que nos conhecemos': o desabafo emocionante da noiva de Gabriel Félix, Isabelle Abreu, após velório e sepultamento do influenciador",
@@ -1512,7 +1754,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-22T00:09:15+00:00",
-  "busca_imagem": "cemetery grave flowers"
+  "busca_imagem": ""
  },
  {
   "titulo": "A primavera pode fazer flores perderem a beleza antes da hora quando recebem água demais",
@@ -1547,7 +1789,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-22T00:00:00+00:00",
-  "busca_imagem": "car registration tax document"
+  "busca_imagem": "car vehicle inspection document"
  },
  {
   "titulo": "Gabriel Félix: 'Minha âncora. Meu grande amor', diz Xsbel após velório de influenciador",
@@ -1580,7 +1822,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-21T23:52:15+00:00",
-  "busca_imagem": "candle memorial flowers"
+  "busca_imagem": ""
  },
  {
   "titulo": "Por Você: no ódio, Junqueira deixa a cadeia e promete vingança contra Vanessa após cair no golpe da vilã",
@@ -1628,7 +1870,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-21T23:37:07+00:00",
-  "busca_imagem": "honeymoon beach hotel"
+  "busca_imagem": "wedding photo album honeymoon"
  },
  {
   "titulo": "As raízes da orquídea ficam verdes depois da rega e prateadas quando secam: como essa mudança ajuda a cuidar da phalaenopsis sem depender só do calendário",
@@ -1782,7 +2024,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-21T23:07:44+00:00",
-  "busca_imagem": "woman shaved head hairstyle"
+  "busca_imagem": "woman short hair salon"
  },
  {
   "titulo": "40 mil cristais, iluminação em LED e guaranás impressos em 3D: brasileira leva moda reciclável ao Miss Universo 2026 com look deslumbrante feito a partir de garrafas PET; produção grandiosa usou 80 metros de tecido plissado",
@@ -1830,7 +2072,7 @@
   "categoria": "curiosidades",
   "imagem": "",
   "data": "2026-11-21T23:00:42+00:00",
-  "busca_imagem": "ancient cave paintings"
+  "busca_imagem": "ancient stone cave paintings"
  },
  {
   "titulo": "Loja é condenada por exigir roupa social de cobrador motociclista",
@@ -1927,7 +2169,7 @@
   "categoria": "curiosidades",
   "imagem": "",
   "data": "2026-11-21T22:30:00+00:00",
-  "busca_imagem": "loudspeaker sound waves"
+  "busca_imagem": "loud explosion sound wave"
  },
  {
   "titulo": "Provérbio africano sobre a amizade: “Um amigo é como uma fonte de água durante uma longa viagem.”",
@@ -2030,7 +2272,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-21T22:07:25+00:00",
-  "busca_imagem": "emmy awards trophy"
+  "busca_imagem": "television awards ceremony medals"
  },
  {
   "titulo": "Em Cingapura, um aeroporto abriga uma cachoeira de 40 metros dentro de seu complexo e transforma a espera em uma atração turística",
@@ -2054,7 +2296,7 @@
   "categoria": "curiosidades",
   "imagem": "",
   "data": "2026-11-21T22:00:00+00:00",
-  "busca_imagem": "giant star space"
+  "busca_imagem": "giant star astronomy telescope"
  },
  {
   "titulo": "Final da Copa do Brasil: Venda de ingressos começa na segunda-feira",
@@ -2085,12 +2327,14 @@
   "titulo": "Do Corinthians ao Cruzeiro: Pedrinho BH prepara chapéu em rival para 2027",
   "link": "https://tvfoco.uai.com.br/do-corinthians-ao-cruzeiro-pedrinho-bh-prepara-chapeu-em-rival/",
   "trecho": "A diretoria do Raposa abre cofres e mira na contratação de craque de peso de gigante rival; veja detalhes agora O Cruzeiro deve terminar a temporada em uma boa posição no Campeonato Brasileiro e, mesmo com a reta final…",
-  "credito": "",
+  "credito": "Foto: https://vilfortpark.dk / CC BY-SA 4.0, via Wikimedia Commons",
   "fonte": "OTV Foco",
   "categoria": "televisao",
-  "imagem": "",
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Jacob_Amb%C3%A6k_celebrating_goal.jpg/1280px-Jacob_Amb%C3%A6k_celebrating_goal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "data": "2026-11-21T22:00:00+00:00",
-  "busca_imagem": "soccer player cleats"
+  "busca_imagem": "soccer player celebrating goal",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Jacob_Amb%C3%A6k_celebrating_goal.jpg",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Jogador é filmado no camarote de Virginia após interação sugestiva nas redes sociais",
@@ -2274,12 +2518,14 @@
   "titulo": "GRAVE? Internado na UTI, Jair Bolsonaro tem novo boletim divulgado",
   "link": "https://contigo.com.br/noticias/famosos/grave-internado-na-uti-jair-bolsonaro-tem-novo-boletim-divulgado.phtml",
   "trecho": "Após ser hospitalizado em Brasília, novo boletim médico revela real condição do ex-presidente Jair Bolsonaro O post GRAVE? Internado na UTI, Jair Bolsonaro tem novo boletim divulgado apareceu primeiro em Contigo! .",
-  "credito": "",
+  "credito": "Foto: mescon / CC BY 2.0",
   "fonte": "Contigo",
   "categoria": "celebridades",
-  "imagem": "",
+  "imagem": "https://live.staticflickr.com/2165/3529592370_568f8f0490_b.jpg",
   "data": "2026-11-21T21:18:10+00:00",
-  "busca_imagem": "hospital intensive care bed"
+  "busca_imagem": "hospital intensive care unit bed",
+  "credito_link": "https://www.flickr.com/photos/23666014@N08/3529592370",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Poucas pessoas sabem disso: colocar pedaços de giz escolar branco em uma meia é um dos melhores truques que já experimentei",
@@ -2361,7 +2607,7 @@
   "categoria": "virais",
   "imagem": "",
   "data": "2026-11-21T21:02:04+00:00",
-  "busca_imagem": "vegetable garden rosemary kale"
+  "busca_imagem": "rosemary vegetable garden countryside"
  },
  {
   "titulo": "Pequena chihuahua de apenas 9 centímetros de altura é o menor cachorro vivo do mundo",
@@ -2372,7 +2618,7 @@
   "categoria": "curiosidades",
   "imagem": "",
   "data": "2026-11-21T21:00:35+00:00",
-  "busca_imagem": "tiny chihuahua dog"
+  "busca_imagem": "tiny chihuahua dog small"
  },
  {
   "titulo": "Vídeos do episódio de 'Caldeirão' de sábado, 21 de novembro de 2026",
@@ -2407,7 +2653,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-21T21:00:00+00:00",
-  "busca_imagem": "hair dye bottles"
+  "busca_imagem": "hair dye color bottles"
  },
  {
   "titulo": "Sentiu? Gabriel Félix escreveu carta para a filha antes de morrer: ‘Dias difíceis’",
@@ -2693,14 +2939,12 @@
   "titulo": "Malévola denuncia transfobia em gravação de podcast e confusão generalizada termina com polícia acionada; envolvidos se pronunciam – assista malévola engenheiro leo",
   "link": "https://hugogloss.uol.com.br/famosos/malevola-engenheiro-leo/",
   "trecho": "Malévola chegou a jogar um microfone que atingiu a cabeça de Engenheiro Leo O post Malévola denuncia transfobia em gravação de podcast e confusão generalizada termina com polícia acionada; envolvidos se pronunciam …",
+  "credito": "",
   "fonte": "Hugo Gloss",
   "categoria": "celebridades",
+  "imagem": "",
   "data": "2026-11-21T19:57:58+00:00",
-  "busca_imagem": "podcast microphone studio",
-  "vetadas": [
-   "https://live.staticflickr.com/36/76894378_a204fc4ab4_b.jpg"
-  ],
-  "imagem": ""
+  "busca_imagem": ""
  },
  {
   "titulo": "Os especialistas em saúde capilar concordam: cobrir totalmente os cabelos brancos faz com que seu crescimento na raiz fique mais evidente",
@@ -2760,7 +3004,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-21T19:39:24+00:00",
-  "busca_imagem": "documentary film camera"
+  "busca_imagem": "documentary film camera set"
  },
  {
   "titulo": "Ator francês Depardieu e escritor Houellebecq são investigados por agressão sexual",
@@ -3000,7 +3244,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-21T19:02:42+00:00",
-  "busca_imagem": "sequin costume crystals"
+  "busca_imagem": "sequin costume crystals LED"
  },
  {
   "titulo": "Noiva de Gabriel Félix compartilha carta que o influenciador escreveu para a filha antes de morrer",
@@ -3074,14 +3318,14 @@
   "titulo": "Karoline Lima curte dia de praia com a filha, Cecília, no Rio de Janeiro",
   "link": "https://revistaquem.globo.com/noticias/famosos-na-praia/noticia/2026/11/karoline-lima-curte-praia.ghtml",
   "trecho": "Karoline Lima, de 30 anos, aproveitou o dia de sol na praia da Barra da Tijuca, na Zona Oeste do Rio de Janeiro, neste sábado (21). A influenciadora curtiu o momento ao lado da filha, Cecilia, de quatro anos, de seu…",
+  "credito": "Foto: Robert Cutts / CC BY-SA 2.0",
   "fonte": "Quem",
   "categoria": "celebridades",
+  "imagem": "https://live.staticflickr.com/5162/5268534424_55b9aa37ef_b.jpg",
   "data": "2026-11-21T18:56:02+00:00",
   "busca_imagem": "mother daughter beach rio",
-  "vetadas": [
-   "https://live.staticflickr.com/5162/5268534424_55b9aa37ef_b.jpg"
-  ],
-  "imagem": ""
+  "credito_link": "https://www.flickr.com/photos/21678559@N06/5268534424",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Deixar a roupa de molho em água oxigenada: para que serve e quanto tempo deve ser deixado no máximo",
@@ -3267,7 +3511,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-21T18:09:02+00:00",
-  "busca_imagem": "wedding rings broken"
+  "busca_imagem": "wedding rings broken divorce"
  },
  {
   "titulo": "Nem leite nem açúcar: por que uma pitada de sal pode reduzir a percepção de amargor no café sem transformar o sabor em doce",
@@ -3419,14 +3663,12 @@
   "titulo": "Famosos aproveitam sábado de sol para renovar o bronzeado; fotos",
   "link": "https://revistaquem.globo.com/noticias/famosos-na-praia/noticia/2026/11/famosos-aproveitam-dia-de-sol-para-renovar-o-bronzeado-fotos.ghtml",
   "trecho": "Seja viajando ou aproveitando o quintal de casa, famosos aproveitaram este sábado (21) para curtir o sol e renovar o bronzeado. Fernanda Paes Leme, Rodrigo Simas e Vivi Orth, por exemplo, compartilharam registros de…",
-  "credito": "Foto: Vassil Tzvetanov / CC BY 2.0",
+  "credito": "",
   "fonte": "Quem",
   "categoria": "celebridades",
-  "imagem": "https://live.staticflickr.com/2648/4122871914_feeedfb0d9_b.jpg",
+  "imagem": "",
   "data": "2026-11-21T17:30:39+00:00",
-  "busca_imagem": "sunbathing beach summer sun",
-  "credito_link": "https://www.flickr.com/photos/10785765@N07/4122871914",
-  "imagem_tipo": "banco"
+  "busca_imagem": "sunbathing beach people sunny"
  },
  {
   "titulo": "Maria Beltrão parabeniza ao vivo o nascimento do filho de Tati Machado: 'Que alegria'",
@@ -3598,17 +3840,6 @@
   "busca_imagem": ""
  },
  {
-  "titulo": "César Menotti e Fabiano enfrentam temporal e não conseguem pousar em Foz do Iguaçu",
-  "link": "https://www.terra.com.br/diversao/gente/cesar-menotti-e-fabiano-enfrentam-temporal-e-nao-conseguem-pousar-em-foz-do-iguacu,76f75a9b06764f0fb53ec0d51505b43esoczwg95.html",
-  "trecho": "Saindo de Belo Horizonte (MG) para Foz do Iguaçu (PR) para um show, a dupla sertaneja César ...",
-  "credito": "",
-  "fonte": "Terra",
-  "categoria": "ultimas",
-  "imagem": "",
-  "data": "2026-11-21T17:03:39+00:00",
-  "busca_imagem": "helicopter storm clouds sky"
- },
- {
   "titulo": "Da vacinação ao pilates: como o cuidado com a saúde cabe na rotina da família",
   "link": "https://gshow.globo.com/tv/e-de-casa/especial-publicitario/sesc-mg/noticia/da-vacinacao-ao-pilates-como-o-cuidado-com-a-saude-cabe-na-rotina-da-familia.ghtml",
   "trecho": "Em Belo Horizonte, o Sesc em Minas reúne serviços de saúde e bem-estar para toda a família em duas unidades. Divulgação Conferir a caderneta de vacinação das crianças, conversar com um profissional sobre a alimentação…",
@@ -3628,7 +3859,7 @@
   "categoria": "curiosidades",
   "imagem": "",
   "data": "2026-11-21T17:00:20+00:00",
-  "busca_imagem": "gold miners open pit mine"
+  "busca_imagem": "gold mining pit aerial"
  },
  {
   "titulo": "Cientistas transformam poeira lunar em blocos de LEGO para construir bases na Lua",
@@ -3639,7 +3870,7 @@
   "categoria": "curiosidades",
   "imagem": "",
   "data": "2026-11-21T17:00:00+00:00",
-  "busca_imagem": "lunar regolith moon surface"
+  "busca_imagem": "moon dust lego bricks"
  },
  {
   "titulo": "Filho de Faustão é ‘promovido’ e assume programa nas tardes de sábado no SBT",
@@ -3656,12 +3887,14 @@
   "titulo": "Efeito Lamacchia: Vasco prepara limpa no elenco e três atacantes podem dar adeus em 2027",
   "link": "https://tvfoco.uai.com.br/efeito-lamacchia-vasco-prepara-limpa-no-elenco-e-tres-atacantes-podem-dar-adeus-em-2027/",
   "trecho": "Com a chegada de 2027 no planejamento, o Vasco prepara mudanças no elenco e três atacantes podem deixar o clube na próxima temporada O Vasco já começa a preparar uma mudança daquelas no elenco para 2027. Com a chegada…",
-  "credito": "",
+  "credito": "Foto: David Jones / CC BY 2.0",
   "fonte": "OTV Foco",
   "categoria": "televisao",
-  "imagem": "",
+  "imagem": "https://live.staticflickr.com/3795/9710502838_caf57114a6_b.jpg",
   "data": "2026-11-21T17:00:00+00:00",
-  "busca_imagem": "soccer stadium empty bench"
+  "busca_imagem": "soccer stadium empty seats",
+  "credito_link": "https://www.flickr.com/photos/45457437@N00/9710502838",
+  "imagem_tipo": "banco"
  },
  {
   "titulo": "Tainá Militão se pronuncia sobre rumores de 'crise' em casamento com Militão por ciúmes",
@@ -3694,7 +3927,7 @@
   "categoria": "celebridades",
   "imagem": "",
   "data": "2026-11-21T16:46:48+00:00",
-  "busca_imagem": "hospital room bed ward"
+  "busca_imagem": "hospital room hallway"
  },
  {
   "titulo": "Antes do nascimento do filho, Tati Machado confessou: 'Só vou estar realizada com ele no meu colo'",
@@ -3767,7 +4000,7 @@
   "categoria": "televisao",
   "imagem": "",
   "data": "2026-11-21T16:30:00+00:00",
-  "busca_imagem": "woman sandals summer dress"
+  "busca_imagem": "comfortable flat sandals summer"
  },
  {
   "titulo": "Lembra dele? Sérgio Chapelin, da Globo, está irreconhecível aos 85, vive recluso e leva vida simples",
@@ -3967,14 +4200,12 @@
   "titulo": "Afinal, beber uma taça de vinho ao dia faz mesmo bem à saúde?",
   "link": "https://revistagalileu.globo.com/saude/noticia/2026/11/afinal-beber-uma-taca-de-vinho-ao-dia-faz-mesmo-bem-a-saude.ghtml",
   "trecho": "A crença popular de que beber uma taça de vinho por dia faz bem para a saúde é tão antiga quanto outras como “não devemos nadar depois de comer” e “não devemos misturar leite com manga”. É algo que é tão repetido que…",
-  "credito": "Foto: Didriks / CC BY 2.0",
+  "credito": "",
   "fonte": "Galileu",
   "categoria": "curiosidades",
-  "imagem": "https://live.staticflickr.com/332/18767887878_0b0a1dcef3_b.jpg",
+  "imagem": "",
   "data": "2026-11-21T16:00:00+00:00",
-  "busca_imagem": "red wine glass",
-  "credito_link": "https://www.flickr.com/photos/49889671@N03/18767887878",
-  "imagem_tipo": "banco"
+  "busca_imagem": "red wine glass health"
  },
  {
   "titulo": "Natal e Ano-Novo: 5 cortes de cabelo para renovar o visual antes das festas",
@@ -29619,142 +29850,5 @@
   "imagem": "",
   "data": "2026-11-18T10:24:44+00:00",
   "busca_imagem": "crashed car forest stream"
- },
- {
-  "titulo": "Os cozinheiros concordam: o arroz doce deve ser cozido primeiro com água para que fique cremoso",
-  "link": "https://catracalivre.com.br/gastronomia/os-cozinheiros-concordam-o-arroz-doce-deve-ser-cozido-primeiro-com-agua-para-que-fique-cremoso/",
-  "trecho": "Aprenda por que cozinhar o arroz doce primeiro em água deixa os grãos macios e o creme aveludado, além da ordem certa dos ingredientes na panela. O post Os cozinheiros concordam: o arroz doce deve ser cozido primeiro…",
-  "credito": "",
-  "fonte": "Catraca Livre",
-  "categoria": "virais",
-  "imagem": "",
-  "data": "2026-11-18T10:04:17+00:00",
-  "busca_imagem": "rice pudding dessert cinnamon"
- },
- {
-  "titulo": "Triângulo das Bermudas: por que tantos aviões e navios desaparecem? Veja explicações científicas",
-  "link": "https://super.abril.com.br/mundo-estranho/triangulo-das-bermudas-por-que-tantos-avioes-e-navios-desaparecem-veja-explicacoes-cientificas/",
-  "trecho": "Região próxima ao Caribe ganhou fama de amaldiçoada em lendas urbanas; entenda.",
-  "credito": "",
-  "fonte": "Superinteressante",
-  "categoria": "curiosidades",
-  "imagem": "",
-  "data": "2026-11-18T10:00:44+00:00"
- },
- {
-  "titulo": "Alaíde Costa canta Fátima Guedes, Zé Renato, Joyce Moreno e Johnny Alf no álbum 'Meu vício na dor de amar demais'",
-  "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/18/alaide-costa-canta-fatima-guedes-ze-renato-joyce-moreno-e-johnny-alf-no-album-meu-vicio-na-dor-de-amar-demais.ghtml",
-  "trecho": "Capa do álbum 'Meu vício na dor de amar demais', de Alaíde Costa Fábio Audi / Divulgação ♫ NOTÍCIA ♬ Idealizada por Marcus Preto, a capa do álbum que Alaíde Costa lançará em 27 de novembro, “Meu vício na dor de amar…",
-  "credito": "Foto: Alaíde_Costa_-_Fundação_Cultural_Palmares_-_MinC.jpg … / CC BY 2.0, via Wikimedia Commons",
-  "fonte": "g1",
-  "categoria": "ultimas",
-  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Ala%C3%ADde_Costa_cropped.jpg/1280px-Ala%C3%ADde_Costa_cropped.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "data": "2026-11-18T10:00:00+00:00",
-  "credito_link": "https://commons.wikimedia.org/wiki/File:Ala%C3%ADde_Costa_cropped.jpg",
-  "imagem_tipo": "pessoa",
-  "pessoa": "Alaíde Costa"
- },
- {
-  "titulo": "Além do nódulo: saiba quando alterações na pele podem indicar câncer de mama",
-  "link": "https://gshow.globo.com/comportamento/saude/noticia/alem-do-nodulo-saiba-quando-alteracoes-na-pele-podem-indicar-cancer-de-mama.ghtml",
-  "trecho": "Personagem de Regiane Alves na novela 'Por Você' vai descobrir câncer de mama Quando se fala em câncer de mama, o aparecimento de nódulos costuma ser o sintoma mais lembrado. No entanto, especialistas alertam que…",
-  "credito": "",
-  "fonte": "Gshow",
-  "categoria": "televisao",
-  "imagem": "",
-  "data": "2026-11-18T10:00:00+00:00",
-  "busca_imagem": "breast self examination doctor"
- },
- {
-  "titulo": "Muito além do pescoço: 4 formas de usar o lenço e transformar o look na hora",
-  "link": "https://tvfoco.uai.com.br/4-formas-de-usar-o-lenco-e-transformar-o-look/",
-  "trecho": "Acessório ganha protagonismo usado como top, faixa de cabelo, cinto ou detalhe de bolsa; Veja como acertar nas amarrações e nos tamanhos O lenço é um daqueles acessórios capazes de mudar completamente a aparência de uma…",
-  "credito": "",
-  "fonte": "OTV Foco",
-  "categoria": "televisao",
-  "imagem": "",
-  "data": "2026-11-18T10:00:00+00:00"
- },
- {
-  "titulo": "Homem encontra passagem secreta atrás da estante de uma casa construída há 500 anos",
-  "link": "https://catracalivre.com.br/noticias/homem-encontra-passagem-secreta-atras-da-estante-de-uma-casa-construida-ha-500-anos/",
-  "trecho": "Uma foto antiga revelou a porta escondida atrás da estante de uma casa de 500 anos. O jovem encontrou corredores, escadas e objetos históricos. O post Homem encontra passagem secreta atrás da estante de uma casa…",
-  "credito": "",
-  "fonte": "Catraca Livre",
-  "categoria": "virais",
-  "imagem": "",
-  "data": "2026-11-18T09:44:45+00:00",
-  "busca_imagem": "hidden door behind bookshelf"
- },
- {
-  "titulo": "Previsão do tempo em Contagem hoje: veja como fica o clima nesta terça-feira",
-  "link": "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-em-contagem-hoje-veja-como-fica-o-clima-nesta-terca-feira,a848946bdb60572b2a9fbe9a800c5a835saah4n6.html",
-  "trecho": "",
-  "fonte": "Terra",
-  "categoria": "em-alta",
-  "data": "2026-11-18T09:40:00+00:00",
-  "imagem": "",
-  "em_alta": "previsão do tempo contagem · 200+ buscas",
-  "busca_imagem": "weather forecast umbrella rain sky"
- },
- {
-  "titulo": "Credores da Braskem rejeitam última oferta da empresa e discutem um novo plano",
-  "link": "https://www.infomoney.com.br/mercados/credores-da-braskem-rejeitam-ultima-oferta-da-empresa-e-discutem-um-novo-plano/",
-  "trecho": "",
-  "fonte": "InfoMoney",
-  "categoria": "em-alta",
-  "data": "2026-11-18T09:40:00+00:00",
-  "em_alta": "braskem · 100+ buscas",
-  "busca_imagem": "oil refinery plant factory",
-  "vetadas": [
-   "https://live.staticflickr.com/8002/7483897650_5ba1b4daa8_b.jpg",
-   "https://live.staticflickr.com/65535/52403656156_f869d75ec9_b.jpg",
-   "https://live.staticflickr.com/65535/51931710614_b4697f814a_b.jpg",
-   "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL2ZsMzkzMTAwNzUxMy1pbWFnZS5qcGc.jpg"
-  ],
-  "imagem": ""
- },
- {
-  "titulo": "Vice Miss Bumbum fatura 20x mais do que em ex-emprego após foto vazar",
-  "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/vice-miss-bumbum-que-teve-foto-vazada-hoje-ganha-20x-do-que-em-antigo-emprego.ghtml",
-  "trecho": "A vice Miss Bumbum 2026, Cris Baldissera, revela que perdeu oportunidades profissionais após ter uma foto sensual vazada após um ensaio particular. O episódio, que ela define como ‘sexy leak’, aconteceu em Butiá, no…",
-  "credito": "",
-  "fonte": "Quem",
-  "categoria": "celebridades",
-  "imagem": "",
-  "data": "2026-11-18T09:37:15+00:00",
-  "busca_imagem": ""
- },
- {
-  "titulo": "Enem 2026: começa prazo para pedir reaplicação de provas em dezembro",
-  "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-aberto-prazo-para-pedir-reaplicacao-de-provas-em-dezembro",
-  "trecho": "",
-  "fonte": "Agência Brasil",
-  "categoria": "em-alta",
-  "data": "2026-11-18T09:30:00+00:00",
-  "imagem": "",
-  "em_alta": "gabarito oficial enem 2026 · 100+ buscas",
-  "busca_imagem": "exam test answer sheet pencil"
- },
- {
-  "titulo": "Parece elegante, mas envelhece: Os acabamentos de esmalte para riscar da lista depois dos 60",
-  "link": "https://tvfoco.uai.com.br/os-acabamentos-esmalte-riscar-lista-depois-60/",
-  "trecho": "Texturas muito opacas, glitter grosso ou branco perolado intenso destacam linhas e manchas; Veja também os tons que rejuvenescem o visual Conforme sempre frisamos em nossas matérias de beleza, o esmalte certo tem o…",
-  "credito": "",
-  "fonte": "OTV Foco",
-  "categoria": "televisao",
-  "imagem": "",
-  "data": "2026-11-18T09:30:00+00:00"
- },
- {
-  "titulo": "Duas novas espécies de bugios foram identificadas na Amazônia e a descoberta surpreendeu pesquisadores",
-  "link": "https://catracalivre.com.br/noticias/duas-novas-especies-de-bugios-foram-identificadas-na-amazonia-e-a-descoberta-surpreendeu-pesquisadores/",
-  "trecho": "m e como os rios contribuíram para sua evolução. O post Duas novas espécies de bugios foram identificadas na Amazônia…",
-  "credito": "",
-  "fonte": "Catraca Livre",
-  "categoria": "curiosidades",
-  "imagem": "",
-  "data": "2026-11-18T09:24:09+00:00",
-  "busca_imagem": "howler monkey amazon rainforest"
  }
 ]
