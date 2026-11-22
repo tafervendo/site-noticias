@@ -11145,6 +11145,15 @@
   "nome": "Lívia Andrade",
   "itens": [
    {
+    "titulo": "Lívia Andrade posa de biquíni no Rio de Janeiro",
+    "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/livia-andrade-posa-de-biquini-no-rio-de-janeiro.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-22T16:42:40.753861+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Live_Casa_Mimosa_-_Participa%C3%A7%C3%A3o_Livia_Andrade_%28cropped%29.jpg/1280px-Live_Casa_Mimosa_-_Participa%C3%A7%C3%A3o_Livia_Andrade_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Renato Cipriano / CC BY-SA 4.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "‘Dança dos Famosos’: Assumiu? Eliminado, Scooby ganha declaração de Lívia Andrade",
     "link": "https://contigo.com.br/noticias/tv/danca-dos-famosos-assumiu-eliminado-scooby-ganha-declaracao-de-livia-andrade.phtml",
     "fonte": "Contigo",
@@ -11153,7 +11162,8 @@
     "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Live_Casa_Mimosa_-_Participa%C3%A7%C3%A3o_Livia_Andrade_%28cropped%29.jpg/1280px-Live_Casa_Mimosa_-_Participa%C3%A7%C3%A3o_Livia_Andrade_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "credito": "Foto: Renato Cipriano / CC BY-SA 4.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "everton-cebolinha": {
   "nome": "Everton Cebolinha",
@@ -14683,6 +14693,48 @@
     "data": "2026-11-22T15:02:28+00:00",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Gustavo_Mioto_entrevista_2024.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Record Goiás / CC BY 3.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "tche-tche": {
+  "nome": "Tchê Tchê",
+  "itens": [
+   {
+    "titulo": "Adeus, Vasco? Tchê Tchê perde espaço, fica fora de jogo e saída para 2027 ganha força",
+    "link": "https://tvfoco.uai.com.br/adeus-vasco-tche-tche-perde-espaco-fica-fora-de-jogo-e-saida-para-2027-ganha-forca/",
+    "fonte": "OTV Foco",
+    "categoria": "televisao",
+    "data": "2026-11-22T16:30:00+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/%D0%9C%D0%B0%D1%82%D1%87_%C2%AB%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%BE%C2%BB_-_%C2%AB%D0%92%D0%BE%D1%80%D1%81%D0%BA%D0%BB%D0%B0%C2%BB_1-0._25_%D0%B8%D1%8E%D0%BB%D1%8F_2018_%D0%B3%D0%BE%D0%B4%D0%B0_%E2%80%94_889537_%28Tch%C3%AA_Tch%C3%AA%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Dynamomania.com / CC BY-SA 4.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "viola-davis": {
+  "nome": "Viola Davis",
+  "itens": [
+   {
+    "titulo": "Viola Davis estrela A Mulher Rei, filmaço da Temperatura Máxima",
+    "link": "https://gauchazh.clicrbs.com.br/colunistas/ticiano-osorio/noticia/2026/11/rbs-tv-exibe-filmaco-com-viola-davis-sobre-guerreiras-africanas-cmwnjzmdn019l017a1mkk8cke.html",
+    "fonte": "GZH",
+    "categoria": "em-alta",
+    "data": "2026-11-22T16:10:00+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Viola_Davis_2026_%28cropped%29.jpg/1280px-Viola_Davis_2026_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Maryland GovPics / CC BY 4.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "ju-moraes": {
+  "nome": "Ju Moraes",
+  "itens": [
+   {
+    "titulo": "Letticia Munniz, do 'Domingão', assume namoro com cantora Ju Moraes, ex-The Voice",
+    "link": "https://www.terra.com.br/diversao/gente/letticia-munniz-do-domingao-assume-namoro-com-cantora-ju-moraes-ex-the-voice,28638a4708b01857a97e3be28915b4fdwxjk66an.html",
+    "fonte": "Terra",
+    "categoria": "televisao",
+    "data": "2026-11-22T14:49:27+00:00",
+    "imagem": "",
+    "credito": ""
    }
   ]
  }
