@@ -2612,6 +2612,24 @@
   "nome": "Mariah Carey",
   "itens": [
    {
+    "titulo": "Mariah Carey faz show natalino no Rio de Janeiro e encerra passagem pelo Brasil",
+    "link": "https://revistaquem.globo.com/entretenimento/musica/noticia/2026/11/mariah-carey-faz-show-natalino-no-rio-de-janeiro-e-encerra-passagem-pelo-brasil.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-22T00:58:49.256177+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/MariahSandringham150825-18_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Raph_PH / CC BY 4.0, via Wikimedia Commons"
+   },
+   {
+    "titulo": "Famosos comparecem ao show de Mariah Carey",
+    "link": "https://gshow.globo.com/cultura-pop/famosos/noticia/famosos-comparecem-ao-show-de-mariah-carey.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-22T00:58:49.256177+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/MariahSandringham150825-18_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Raph_PH / CC BY 4.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Mariah Carey surge tomando taça de vinho na varanda do Hotel Fasano; veja fotos",
     "link": "https://gshow.globo.com/cultura-pop/famosos/noticia/mariah-carey-surge-tomando-taca-de-vinho-na-varanda-do-hotel-fasano-veja-fotos.ghtml",
     "fonte": "Gshow",
@@ -6877,6 +6895,15 @@
  "walcyr-carrasco": {
   "nome": "Walcyr Carrasco",
   "itens": [
+   {
+    "titulo": "Otoniel e Francesca ficam juntos? Autor de Quem Ama Cuida dá pista sobre desfecho",
+    "link": "https://noticiasdatv.uol.com.br/noticia/novelas/otoniel-e-francesca-ficam-juntos-autor-de-quem-ama-cuida-da-pista-sobre-desfecho-159750",
+    "fonte": "Notícias da TV",
+    "categoria": "em-alta",
+    "data": "2026-11-22T00:40:00+00:00",
+    "imagem": "",
+    "credito": ""
+   },
    {
     "titulo": "Walcyr Carrasco lança livro sobre tráfico de bebês: 'A gente fecha os olhos para essa realidade'",
     "link": "https://revistaquem.globo.com/entretenimento/livros/noticia/2026/11/walcyr-carrasco-lanca-livro-sobre-trafico-de-bebes-a-gente-fecha-os-olhos-para-essa-realidade.ghtml",
@@ -12324,6 +12351,15 @@
   "nome": "Solange Almeida",
   "itens": [
    {
+    "titulo": "Solange Almeida é coroada Rainha de Bateria da Águia de Ouro, em São Paulo",
+    "link": "https://gshow.globo.com/carnaval/2027/noticia/solange-almeida-e-coroada-rainha-de-bateria-da-aguia-de-ouro-em-sao-paulo.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-22T00:58:49.256177+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Solange_Almeida_no_A_Elimina%C3%A7%C3%A3o_em_2021_%282%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Solange Almeida é apresentada como nova rainha de bateria da Águia de Ouro para o Carnaval 2027",
     "link": "https://revistaquem.globo.com/eventos/carnaval/noticia/2026/11/solange-almeida-e-apresentada-como-nova-rainha-de-bateria-da-aguia-de-ouro-para-o-carnaval-2027.ghtml",
     "fonte": "Quem",
@@ -12427,6 +12463,15 @@
  "schynaider-moura": {
   "nome": "Schynaider Moura",
   "itens": [
+   {
+    "titulo": "Schynaider Moura revela fotos inéditas do casamento luxuoso com empresário no Marrocos",
+    "link": "https://revistaquem.globo.com/eventos/casamentos/noticia/2026/11/schynaider-moura-revela-fotos-ineditas-do-casamento-luxuoso-com-empresario-no-marrocos.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-22T00:58:49.256177+00:00",
+    "imagem": "",
+    "credito": ""
+   },
    {
     "titulo": "Filho de Faustão, João Silva vai ao casamento da ex Schynaider Moura no Marrocos",
     "link": "https://revistaquem.globo.com/eventos/casamentos/noticia/2026/11/filho-de-faustao-joao-silva-vai-ao-casamento-da-ex-schynaider-moura-no-marrocos.ghtml",
@@ -14104,6 +14149,20 @@
     "data": "2026-11-21T22:28:26+00:00",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Flavia_oliveira_tvbrasil.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Mídia promocional do programa Observatório da Imprensa… / CC BY 3.0 br, via Wikimedia Commons"
+   }
+  ]
+ },
+ "tony-ramos": {
+  "nome": "Tony Ramos",
+  "itens": [
+   {
+    "titulo": "Otoniel e Francesca ficam juntos? Autor de Quem Ama Cuida dá pista sobre desfecho",
+    "link": "https://noticiasdatv.uol.com.br/noticia/novelas/otoniel-e-francesca-ficam-juntos-autor-de-quem-ama-cuida-da-pista-sobre-desfecho-159750",
+    "fonte": "Notícias da TV",
+    "categoria": "em-alta",
+    "data": "2026-11-22T00:40:00+00:00",
+    "imagem": "",
+    "credito": ""
    }
   ]
  }
