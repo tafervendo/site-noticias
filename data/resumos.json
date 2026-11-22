@@ -9409,5 +9409,51 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Tony_Ramos.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Tony_Ramos.jpg"
+ },
+ "https://www1.folha.uol.com.br/ilustrada/2026/11/novo-jogos-vorazes-estreia-com-us-56-milhoes-e-lidera-as-bilheterias-americanas.shtml": {
+  "publicar": true,
+  "titulo": "Novo 'Jogos Vorazes' estreia com US$ 56 milhões e lidera bilheterias dos EUA",
+  "linha_fina": "Amanhecer na Colheita supera Eu Sou o Rocky, que ficou em segundo lugar no fim de semana nos cinemas americanos",
+  "paragrafos": [
+   "O novo filme da saga Jogos Vorazes, Amanhecer na Colheita, estreou com US$ 56 milhões nas bilheterias dos Estados Unidos e ficou em primeiro lugar no fim de semana. Segundo a Variety, a produção deve encerrar o primeiro fim de semana com US$ 120 milhões, a terceira maior estreia da franquia, atrás dos dois primeiros capítulos.",
+   "O longa mostra o passado de Haymitch Abernathy, mentor de Katniss Everdeen, papel de Jennifer Lawrence. Na segunda posição ficou Eu Sou o Rocky, que conta os bastidores de como Sylvester Stallone escreveu e estrelou o clássico de 1976.",
+   "O filme sobre Rocky estreou em circuito limitado no começo do mês, arrecadando US$ 345 mil. No terceiro fim de semana, ampliou o circuito para todo o país e chegou a quase US$ 4 milhões.",
+   "Segundo a reportagem, Amanhecer na Colheita custou cerca de US$ 200 milhões, enquanto Eu Sou o Rocky, produção independente, teve orçamento estimado em pouco menos de US$ 30 milhões. Ainda não há dados de bilheteria global dos dois filmes."
+  ],
+  "tags": [
+   "Jogos Vorazes",
+   "bilheteria",
+   "cinema",
+   "Eu Sou o Rocky"
+  ],
+  "pessoa": "",
+  "busca_imagem": "movie theater audience",
+  "criado": "2026-11-22T02:09:39.906959+00:00",
+  "slug": "novo-jogos-vorazes-estreia-com-us-56-milhoes-e-lidera-bilheterias-dos-1cd35a",
+  "fonte": "Folha de S.Paulo",
+  "link": "https://www1.folha.uol.com.br/ilustrada/2026/11/novo-jogos-vorazes-estreia-com-us-56-milhoes-e-lidera-as-bilheterias-americanas.shtml",
+  "categoria": "em-alta",
+  "data": "2026-11-22T01:50:00+00:00",
+  "titulo_original": "Novo 'Jogos Vorazes' estreia com US$ 56 milhões e lidera as bilheterias americanas",
+  "post": {
+   "tipo": "youtube",
+   "id": "zyqI7giiX-E",
+   "url": "https://www.youtube.com/watch?v=zyqI7giiX-E"
+  },
+  "imagem": "https://live.staticflickr.com/8108/8468293074_a9c021195a_b.jpg",
+  "credito": "Foto: push 1 / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/66884811@N08/8468293074"
+ },
+ "https://www.correiodopovo.com.br/not%C3%ADcias/cidades/ventos-de-temporal-arremessam-cavalo-contra-predio-em-tupancireta-1.1766730": {
+  "recusado": true,
+  "criado": "2026-11-22T02:09:39.906959+00:00"
+ },
+ "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17532396/cruzeiro-vira-dois-minutos-garante-vaga-na-libertadores-e-complica-palmeiras-briga-titulo-brasileirao": {
+  "recusado": true,
+  "criado": "2026-11-22T02:09:39.906959+00:00"
+ },
+ "https://www.folhape.com.br/esportes/quadrangular-final-do-pernambucano-20262027-comeca-neste-sabado-21/525170/": {
+  "recusado": true,
+  "criado": "2026-11-22T02:09:39.906959+00:00"
  }
 }

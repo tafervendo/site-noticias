@@ -9722,6 +9722,15 @@
   "nome": "Mel Maia",
   "itens": [
    {
+    "titulo": "De look grifado, Mel Maia e namorado marcam presença em evento de luta com Mike Tyson",
+    "link": "https://revistaquem.globo.com/eventos/noticia/2026/11/de-look-grifado-mel-maia-e-namorado-marcam-presenca-em-evento-de-luta-com-mike-tyson.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-22T02:09:39.906959+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Mel_Maia%2C_ArteBlitz%2C_Fev.2023_-_02.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Portal ArteBlitz / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Cauã Reymond revela bastidores “Avenida Brasil 2” e responde sobre possível par romântico com Mel Maia; assista Cauã Reymond revela bastidores “Avenida Brasil 2” e fala sobre possível par romântico com Mel Maia; assista! (Foto: Globo / Bob Paulino)",
     "link": "https://hugogloss.uol.com.br/tv/caua-reymond/",
     "fonte": "Hugo Gloss",
@@ -14128,6 +14137,15 @@
   "nome": "Rebeca Andrade",
   "itens": [
    {
+    "titulo": "Rebeca Andrade compartilha registro nas redes sociais em clima de romance",
+    "link": "https://www.terra.com.br/diversao/gente/rebeca-andrade-compartilha-registro-nas-redes-sociais-em-clima-de-romance,a37c3b6d632e0921daf52b13d540e4dfebdet74o.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-22T01:10:18+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Rebeca_Andrade_in_2023.jpg/1280px-Rebeca_Andrade_in_2023.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Sarah Ladot / CC BY-SA 4.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Rebeca Andrade surge em clima íntimo com mulher apontada como namorada: 'Te amo'",
     "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/rebeca-andrade-surge-em-clima-intimo-com-mulher-apontada-como-namorada.ghtml",
     "fonte": "Quem",
@@ -14136,7 +14154,8 @@
     "imagem": "",
     "credito": ""
    }
-  ]
+  ],
+  "publicada": true
  },
  "flavia-oliveira": {
   "nome": "Flávia Oliveira",
