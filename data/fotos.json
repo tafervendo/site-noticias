@@ -71706,5 +71706,40 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Priscilla_Alcantara_Multishow_2026.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Priscilla_Alcantara_Multishow_2026.png"
+ },
+ "v:Ary Fontoura": {
+  "descricao": "Ator, poeta, escritor e diretor brasileiro",
+  "nasc": 1933,
+  "morte": null
+ },
+ "p:Ary Fontoura": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Ary_Fontoura.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Ary_Fontoura.jpg"
+ },
+ "v:Jornal Nacional": {
+  "descricao": "telejornal brasileiro produzido e exibido pela TV Globo",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Stephen King": {
+  "descricao": "escritor norte-americano",
+  "nasc": 1947,
+  "morte": null
+ },
+ "p:Stephen King": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg/1280px-Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Kevin Payravi / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+ },
+ "v:Aldo Rebelo": {
+  "descricao": "jornalista e político brasileiro",
+  "nasc": 1956,
+  "morte": null
+ },
+ "p:Aldo Rebelo": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Foto_oficial_de_Aldo_Rebelo.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Aldo Rebelo / CC0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Foto_oficial_de_Aldo_Rebelo.jpg"
  }
 }

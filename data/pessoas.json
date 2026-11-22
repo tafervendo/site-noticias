@@ -737,6 +737,15 @@
   "nome": "Paolla Oliveira",
   "itens": [
    {
+    "titulo": "Paolla Oliveira, Jorge Aragão e mais: Alcione reúne timaço de famosos em festa de aniversário no Rio",
+    "link": "https://gshow.globo.com/cultura-pop/famosos/noticia/paolla-oliveira-jorge-aragao-e-mais-alcione-reune-timaco-de-famosos-em-festa-de-aniversario-no-rio.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-22T20:42:08.101632+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Paolla_Oliveira.jpg/1280px-Paolla_Oliveira.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Paolla Oliveira samba muito em ensaio e mostra entrosamento com passistas da Imperatriz; vídeo",
     "link": "https://gshow.globo.com/carnaval/2027/noticia/paolla-oliveira-brilha-em-ensaio-de-quadra-da-imperatriz.ghtml",
     "fonte": "Gshow",
@@ -5328,6 +5337,15 @@
  "poliana-abritta": {
   "nome": "Poliana Abritta",
   "itens": [
+   {
+    "titulo": "Aos 51 anos, Poliana Abritta manteve casamento ‘em segredo’ com roteirista da Globo e só revelou 6 meses depois",
+    "link": "https://caras.com.br/atualidades/aos-51-anos-poliana-abritta-manteve-casamento-em-segredo-com-roteirista-da-globo-e-so-revelou-6-meses-depois.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-22T20:08:30+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/ce/100_anos_do_Grupo_Globo_e_60_anos_da_Rede_Globo_20_%28Poliana_Abritta%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Senado Federal / CC BY-SA 4.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Poliana Abritta paralisa Globo com notícia sobre Chitãozinho & Xororó após 56 anos",
     "link": "https://tvfoco.uai.com.br/poliana-paralisa-globo-com-noticia-sobre-chitaozinho-xororo/",
@@ -11489,6 +11507,15 @@
   "nome": "Sandra Annenberg",
   "itens": [
    {
+    "titulo": "Sandra Annenberg se emociona com declaração apaixonada de Ernesto Paglia no Em Família",
+    "link": "https://gshow.globo.com/tv/em-familia-com-eliana/noticia/sandra-annenberg-se-emociona-com-declaracao-apaixonada-de-ernesto-paglia-no-em-familia-com-eliana.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-22T20:42:08.101632+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/SAnnenberg.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Virada Sustentavél / CC BY-SA 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Sandra Annenberg reencontra sua mãe da ficção 37 anos após novela",
     "link": "https://revistaquem.globo.com/entretenimento/tv-e-novelas/noticia/2026/11/sandra-annenberg-reencontra-sua-mae-da-ficcao-36-anos-apos-novela.ghtml",
     "fonte": "Quem",
@@ -11497,7 +11524,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/SAnnenberg.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Virada Sustentavél / CC BY-SA 2.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "henry-freitas": {
   "nome": "Henry Freitas",
@@ -12065,6 +12093,15 @@
   "nome": "Jorge Aragão",
   "itens": [
    {
+    "titulo": "Paolla Oliveira, Jorge Aragão e mais: Alcione reúne timaço de famosos em festa de aniversário no Rio",
+    "link": "https://gshow.globo.com/cultura-pop/famosos/noticia/paolla-oliveira-jorge-aragao-e-mais-alcione-reune-timaco-de-famosos-em-festa-de-aniversario-no-rio.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-22T20:42:08.101632+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Paolla_Oliveira.jpg/1280px-Paolla_Oliveira.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Zeca Pagodinho, Alcione e Jorge Aragão fazem show de Natal em Copacabana",
     "link": "https://gshow.globo.com/cultura-pop/noticia/zeca-pagodinho-alcione-e-jorge-aragao-fazem-show-de-natal-em-copacana.ghtml",
     "fonte": "Gshow",
@@ -12073,7 +12110,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Abertura_do_Carnaval_2024_%2853519886801%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Governo do Estado de São Paulo / CC BY 2.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "zeca-pagodinho": {
   "nome": "Zeca Pagodinho",
@@ -13937,6 +13975,33 @@
   "nome": "Tati Machado",
   "itens": [
    {
+    "titulo": "Tati Machado deixa maternidade com filho Rafael no colo: 'Muito felizes'",
+    "link": "https://gshow.globo.com/comportamento/maternidade/noticia/tati-machado-deixa-maternidade-com-filho-no-colo.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-22T20:42:08.101632+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Tati_Machado.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
+    "titulo": "Tati Machado deixa maternidade com o marido e o filho recém-nascido em São Paulo",
+    "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/tati-machado-deixa-maternidade.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-22T20:42:08.101632+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Tati_Machado.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
+    "titulo": "Tati Machado deixa a maternidade com filho recém-nascido e faz desabafo; veja",
+    "link": "https://contigo.com.br/noticias/famosos/tati-machado-deixa-a-maternidade-com-filho-recem-nascido-e-faz-desabafo-veja.phtml",
+    "fonte": "Contigo",
+    "categoria": "celebridades",
+    "data": "2026-11-22T20:36:46+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Tati_Machado.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Maria Beltrão parabeniza ao vivo o nascimento do filho de Tati Machado: 'Que alegria'",
     "link": "https://gshow.globo.com/tv/e-de-casa/noticia/maria-beltrao-parabeniza-ao-vivo-o-nascimento-do-filho-de-tati-machado-que-alegria.ghtml",
     "fonte": "Gshow",
@@ -14686,6 +14751,15 @@
   "nome": "Leo Pereira",
   "itens": [
    {
+    "titulo": "Léo Pereira é visto aos beijos com morena após fim de noivado com Karoline Lima",
+    "link": "https://www.terra.com.br/diversao/gente/leo-pereira-e-visto-aos-beijos-com-morena-apos-fim-de-noivado-com-karoline-lima,5cde337eace70750881f20b89feda0d2xuwso1sz.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-22T19:38:28+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Leo_Pereira_Brazil_V_Morocco_13_June_2026-136_%28cropped%29.jpg/1280px-Leo_Pereira_Brazil_V_Morocco_13_June_2026-136_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Bryan Berlin / CC BY-SA 4.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Léo Pereira é flagrado aos beijos após fim do noivado com Karoline Lima; veja fotos e saiba quem é Léo Pereira é flagrado aos beijos após fim do noivado com Karoline Lima; veja fotos e saiba quem é",
     "link": "https://hugogloss.uol.com.br/famosos/leo-pereira-flagrado-beijos/",
     "fonte": "Hugo Gloss",
@@ -14959,6 +15033,48 @@
     "data": "2026-11-22T19:02:37+00:00",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Priscilla_Alcantara_Multishow_2026.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "ary-fontoura": {
+  "nome": "Ary Fontoura",
+  "itens": [
+   {
+    "titulo": "Com Sandra Annenberg, Ary Fontoura, Marcos e Belutti, Em Família tem aniversário de Eliana e muita emoção",
+    "link": "https://gshow.globo.com/tv/em-familia-com-eliana/noticia/com-sandra-annenberg-ary-fontoura-marcos-e-belutti-em-familia-tem-aniversario-de-eliana-e-muita-emocao.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-22T20:42:08.101632+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Ary_Fontoura.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "aldo-rebelo": {
+  "nome": "Aldo Rebelo",
+  "itens": [
+   {
+    "titulo": "Aldo Rebelo lança movimento político e acusa Lula de ‘franquear’ a Amazônia",
+    "link": "https://www.estadao.com.br/politica/coluna-do-estadao/aldo-rebelo-lanca-movimento-politico-e-acusa-lula-de-franquear-a-amazonia/",
+    "fonte": "Estadão",
+    "categoria": "em-alta",
+    "data": "2026-11-22T20:00:00+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Foto_oficial_de_Aldo_Rebelo.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Aldo Rebelo / CC0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "stephen-king": {
+  "nome": "Stephen King",
+  "itens": [
+   {
+    "titulo": "Em 1974, Stephen King passou uma noite terrível em um hotel vazio; 51 anos depois, o hotel tem 400 milhões de razões para lhe agradecer",
+    "link": "https://www.terra.com.br/diversao/entre-telas/em-1974-stephen-king-passou-uma-noite-terrivel-em-um-hotel-vazio-51-anos-depois-o-hotel-tem-400-milhoes-de-razoes-para-lhe-agradecer,ce9389b06fc4ee969709b9025c6e9d54gfj7s1ru.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-22T19:40:47+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg/1280px-Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Kevin Payravi / CC BY-SA 4.0, via Wikimedia Commons"
    }
   ]
  }
