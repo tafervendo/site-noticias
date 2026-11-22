@@ -1066,6 +1066,15 @@
   "nome": "Virginia Fonseca",
   "itens": [
    {
+    "titulo": "'Prefiro um beijo': Virginia Fonseca posta mensagem enigmática após novo flagra de Kauã Elias",
+    "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/prefiro-um-beijo-virginia-fonseca-posta-mensagem-enigmatica-apos-flagra-de-kaua-elias.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-22T12:15:01.199021+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Virginia_Fonseca_na_CPI_das_BETS_02_%28cropped%29.jpg/1280px-Virginia_Fonseca_na_CPI_das_BETS_02_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Andressa Anholete/Agência Senado / CC BY 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Jogador apontado como affair de Virginia Fonseca curte show em camarote da influenciadora; vídeo",
     "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/jogador-apontado-como-affair-de-virginia-fonseca-curte-show-em-camarote-da-influenciadora.ghtml",
     "fonte": "Quem",
@@ -5977,6 +5986,15 @@
  "kaio-cesar": {
   "nome": "Kaio César",
   "itens": [
+   {
+    "titulo": "Adeus, Corinthians? Kaio César desperta interesse de oito clubes da Europa",
+    "link": "https://tvfoco.uai.com.br/adeus-corinthians-kaio-cesar-desperta-interesse-de-oito-clubes-da-europa/",
+    "fonte": "OTV Foco",
+    "categoria": "televisao",
+    "data": "2026-11-22T12:00:00+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/22/Kaio-cesar-press-conference-2026.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: TV Central do Timão / CC BY 3.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Memphis Depay cita Diniz ao responder sobre Seedorf e projeta Kaio César até na Europa após hat-trick",
     "link": "https://www.espn.com.br/futebol/corinthians/artigo/_/id/17532912/memphis-depay-cita-diniz-responder-sobre-seedorf-projeta-kaio-cesar-ate-europa-apos-hat-trick",
@@ -14154,6 +14172,15 @@
   "nome": "Juliana Paes",
   "itens": [
    {
+    "titulo": "Com transparência e body de tule, Juliana Paes se encontra com Bellinha Delfim em ensaio da Viradouro",
+    "link": "https://gshow.globo.com/carnaval/2027/noticia/com-transparencia-e-body-de-tule-juliana-paes-se-encontra-com-bellinha-delfim-em-ensaio-da-viradouro.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-22T12:15:01.199021+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/9_-_Juliana_Paes-003_%2816925722197%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Renan Katayama / CC BY-SA 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Juliana Paes aproveita dia de sol na praia ao lado do marido",
     "link": "https://revistaquem.globo.com/noticias/famosos-na-praia/noticia/2026/11/juliana-paes-curte-dia-de-praia-e-aproveita-momento-de-descanso-a-beira-mar.ghtml",
     "fonte": "Quem",
@@ -14162,7 +14189,8 @@
     "imagem": "",
     "credito": ""
    }
-  ]
+  ],
+  "publicada": true
  },
  "malevola-alves": {
   "nome": "Malévola Alves",
@@ -14344,6 +14372,48 @@
     "data": "2026-11-22T10:10:00+00:00",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/38/Foto_da_deputada_estadual_do_Paran%C3%A1%2C_Miss_Preta.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Roni Campos / CC0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "mulher-melao": {
+  "nome": "Mulher Melão",
+  "itens": [
+   {
+    "titulo": "Mulher Melão ganha festa surpresa no Camarote das Musas do Salgueiro",
+    "link": "https://gshow.globo.com/carnaval/2026/noticia/mulher-melao-ganha-festa-supresa-no-camarote-das-musas-do-salgueiro.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-22T12:15:01.199021+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Mulher_Mel%C3%A3o.JPG?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Léo Pinheiro - lpinheiro76@gmail.com / CC BY-SA 3.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "pedro-pascal": {
+  "nome": "Pedro Pascal",
+  "itens": [
+   {
+    "titulo": "Os 10 melhores filmes de todos os tempos, segundo Pedro Pascal",
+    "link": "https://www.terra.com.br/diversao/entre-telas/os-10-melhores-filmes-de-todos-os-tempos-segundo-pedro-pascal,2538f0ffd25a0bfdc65d37646122c871m8jkvz06.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-22T12:05:19+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Pedro_Pascal_at_the_2026_New_York_Film_Festival-042.jpg/1280px-Pedro_Pascal_at_the_2026_New_York_Film_Festival-042.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Bryan Berlin / CC BY-SA 4.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "bae-suzy": {
+  "nome": "Bae Suzy",
+  "itens": [
+   {
+    "titulo": "9 episódios de apenas 45 minutos: um dos doramas românticos mais viciantes da Netflix, com Bae Suzy e Yang Se-jong, para maratonar em um único dia",
+    "link": "https://www.terra.com.br/diversao/gente/9-episodios-de-apenas-45-minutos-um-dos-doramas-romanticos-mais-viciantes-da-netflix-com-bae-suzy-e-yang-se-jong-para-maratonar-em-um-unico-dia,25507f82ccc93b19f9a3782895d8b4364ogvwch6.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-22T11:21:12+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bae_Suzy_2nd_Blue_Dragon_Series_Awards_2.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: https://www.youtube.com/@tenasia10 / CC BY 3.0, via Wikimedia Commons"
    }
   ]
  }
