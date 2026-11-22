@@ -9536,5 +9536,52 @@
  "https://motorsport.uol.com.br/f1/news/f1-leclerc-desabafa-sobre-treta-com-hamilton-nao-pode-continuar-assim/10876747/": {
   "recusado": true,
   "criado": "2026-11-22T08:26:25.683196+00:00"
+ },
+ "https://noticiasdatv.uol.com.br/noticia/novelas/la-na-minha-terra-rosenda-reencontra-cesario-em-situacao-inusitada-em-sao-paulo-159593": {
+  "recusado": true,
+  "criado": "2026-11-22T09:19:15.625113+00:00"
+ },
+ "https://www.bemparana.com.br/noticias/economia/atacadista-inaugura-nova-unidade-no-parana-ao-mesmo-tempo-que-comemora-53-anos/": {
+  "recusado": true,
+  "criado": "2026-11-22T09:19:15.625113+00:00"
+ },
+ "https://noticiasdatv.uol.com.br/noticia/novelas/resumo-de-quem-ama-cuida-proximo-capitulo-da-novela-segunda-23-de-novembro-159708": {
+  "recusado": true,
+  "criado": "2026-11-22T09:19:15.625113+00:00"
+ },
+ "https://motorsport.uol.com.br/f1/news/f1-russell-dispara-contra-verstappen-age-como-se-fosse-maior-e-melhor-que-todos/10876323/": {
+  "publicar": true,
+  "titulo": "Russell acusa Verstappen de se achar superior após incidente em Las Vegas",
+  "linha_fina": "Holandês recebeu advertência dos comissários por manobra contra a Mercedes; Verstappen minimizou o caso após a classificação",
+  "paragrafos": [
+   "George Russell criticou duramente Max Verstappen depois de um contato entre os dois no treino livre 3 do GP de Las Vegas. Russell ficou irritado com a atitude do holandês, que foi advertido pelos comissários, e disse que Verstappen se comporta como se estivesse acima dos outros pilotos.",
+   "Em entrevista à Sky Sports Italia, Russell afirmou que o regulamento não proíbe ultrapassar um carro que está iniciando a volta, mas que essa prática prejudica o piloto ultrapassado. Segundo ele, Verstappen age assim com frequência, e ele não pretende aceitar isso. Russell também disse que alguém precisa enfrentar o holandês. \"Alguém precisa enfrentar esse cara\".",
+   "O lance ocorreu perto da curva 14. Verstappen passou pela Mercedes em busca de pista livre, Russell tentou retomar a posição e o holandês fechou a linha, levando os carros a se tocarem. Russell conseguiu seguir à frente, e Verstappen fez um gesto obsceno para o rival. Na coletiva após a classificação, Verstappen disse que não havia acontecido nada.",
+   "Ao analisar as imagens e ouvir os envolvidos, os comissários concluíram que Verstappen mudou de direção de forma imprevisível na frenagem, o que forçou Russell a buscar espaço por dentro. A direção de prova considerou a manobra abaixo do padrão esperado, mas optou por uma simples admoestação, sem punição extra caso o caso se repita.",
+   "Como Kimi Antonelli, que marcou o tempo mais rápido, foi penalizado em cinco vagas no grid, Verstappen e Russell acabam subindo uma posição cada e vão dividir a primeira fila em Las Vegas. Verstappen ficou em segundo na classificação, logo à frente de Russell."
+  ],
+  "tags": [
+   "Fórmula 1",
+   "George Russell",
+   "Max Verstappen",
+   "GP de Las Vegas"
+  ],
+  "pessoa": "George Russell",
+  "busca_imagem": "formula one race car",
+  "criado": "2026-11-22T09:19:15.625113+00:00",
+  "slug": "russell-acusa-verstappen-de-se-achar-superior-apos-incidente-em-las-ve-05ec65",
+  "fonte": "Motorsport.com - Fórmula 1, NASCAR, MotoGP, Fórmula Indy",
+  "link": "https://motorsport.uol.com.br/f1/news/f1-russell-dispara-contra-verstappen-age-como-se-fosse-maior-e-melhor-que-todos/10876323/",
+  "categoria": "em-alta",
+  "data": "2026-11-22T05:20:00+00:00",
+  "titulo_original": "F1 - Russell dispara contra Verstappen: \"Age como se fosse maior e melhor que todos\"",
+  "post": {
+   "tipo": "youtube",
+   "id": "qz_Pi3PF4ZE",
+   "url": "https://www.youtube.com/watch?v=qz_Pi3PF4ZE"
+  },
+  "imagem": "https://live.staticflickr.com/7862/46259315605_fd54e50221_b.jpg",
+  "credito": "Foto: Renzopaso / CC BY-SA 2.0",
+  "credito_link": "https://www.flickr.com/photos/105731165@N07/46259315605"
  }
 }
