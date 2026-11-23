@@ -71787,5 +71787,35 @@
   "descricao": "filme de 2017 dirigido por Jennifer Kent",
   "nasc": null,
   "morte": null
+ },
+ "v:Willow Smith": {
+  "descricao": "atriz e cantora estadunidense",
+  "nasc": 2000,
+  "morte": null
+ },
+ "p:Willow Smith": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Willow_Smith_October_2024.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: JD Sports / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Willow_Smith_October_2024.png"
+ },
+ "v:Garota do Momento": {
+  "descricao": "telenovela brasileira de 2024 produzida e exibida pela TV Globo",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Pabllo Vittar": {
+  "descricao": "drag queen, cantor e performer brasileiro",
+  "nasc": 1993,
+  "morte": null
+ },
+ "p:Pabllo Vittar": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Pabllo_Vittar_-_TVZ_2024_%281%29.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Pabllo_Vittar_-_TVZ_2024_(1).png"
+ },
+ "v:Caldas Novas": {
+  "descricao": "município brasileiro no Estado de Goiás",
+  "nasc": null,
+  "morte": null
  }
 }
