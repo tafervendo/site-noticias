@@ -423,7 +423,17 @@
  },
  "carol-peixinho": {
   "nome": "Carol Peixinho",
-  "itens": [],
+  "itens": [
+   {
+    "titulo": "Carol Peixinho revela por que vai remover tatuagem após 11 anos e fala de planos de casar com Thiaguinho",
+    "link": "https://gshow.globo.com/realities/bbb/depois-do-bbb/noticia/carol-peixinho-revela-por-que-vai-remover-tatuagem-apos-11-anos-e-fala-de-planos-de-casar-com-thiaguinho.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-23T10:11:09.232638+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/66/Carol_Peixinho_in_2020.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
+   }
+  ],
   "publicada": true
  },
  "carolina-dieckmmann": {
@@ -12533,6 +12543,15 @@
   "nome": "Marisa Monte",
   "itens": [
    {
+    "titulo": "Nando Reis se declara a Marisa Monte, sua ex: 'Organiza o mundo pra mim'",
+    "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/nando-reis-se-declara-a-marisa-monte-sua-ex-organiza-o-mundo-pra-mim.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-23T10:11:09.232638+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/-2026-02-01-_Nando_Reis_-_003_-_Romerito_Pontes_%2855074388588%29_%28cropped%29.jpg/1280px--2026-02-01-_Nando_Reis_-_003_-_Romerito_Pontes_%2855074388588%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Romerito Pontes from São Carlos / CC BY 4.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Simone Mendes quer gravar com Marisa Monte e pede parceria",
     "link": "https://www.terra.com.br/diversao/musica/simone-mendes-quer-gravar-com-marisa-monte-e-pede-parceria,81a2212fb211b3f810d8e6155648c7654tju4htt.html",
     "fonte": "Terra",
@@ -12541,7 +12560,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/50/31.01.2026_%E2%80%93_Governador_Eduardo_Leite_participa_da_segunda_noite_do_Planeta_Atl%C3%A2ntida_-_55072122491_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Governo RS / CC BY-SA 4.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "rick-riordan": {
   "nome": "Rick Riordan",
@@ -15719,6 +15739,20 @@
     "data": "2026-11-23T05:50:00+00:00",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Reuni%C3%A3o_com_o_Ministro_de_Estado_do_Turismo%2C_Celso_Sabino._%2854445010299%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Ministério da Gestão e da Inovação / CC BY-SA 2.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "nando-reis": {
+  "nome": "Nando Reis",
+  "itens": [
+   {
+    "titulo": "Nando Reis se declara a Marisa Monte, sua ex: 'Organiza o mundo pra mim'",
+    "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/nando-reis-se-declara-a-marisa-monte-sua-ex-organiza-o-mundo-pra-mim.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-23T10:11:09.232638+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/-2026-02-01-_Nando_Reis_-_003_-_Romerito_Pontes_%2855074388588%29_%28cropped%29.jpg/1280px--2026-02-01-_Nando_Reis_-_003_-_Romerito_Pontes_%2855074388588%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Romerito Pontes from São Carlos / CC BY 4.0, via Wikimedia Commons"
    }
   ]
  }

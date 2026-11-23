@@ -71862,5 +71862,25 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Reuni%C3%A3o_com_o_Ministro_de_Estado_do_Turismo%2C_Celso_Sabino._%2854445010299%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: Ministério da Gestão e da Inovação / CC BY-SA 2.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Reuni%C3%A3o_com_o_Ministro_de_Estado_do_Turismo,_Celso_Sabino._(54445010299)_(cropped).jpg"
+ },
+ "v:Nando Reis": {
+  "descricao": "cantor e compositor brasileiro",
+  "nasc": 1963,
+  "morte": null
+ },
+ "p:Nando Reis": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/-2026-02-01-_Nando_Reis_-_003_-_Romerito_Pontes_%2855074388588%29_%28cropped%29.jpg/1280px--2026-02-01-_Nando_Reis_-_003_-_Romerito_Pontes_%2855074388588%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Romerito Pontes from São Carlos / CC BY 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:-2026-02-01-_Nando_Reis_-_003_-_Romerito_Pontes_(55074388588)_(cropped).jpg"
+ },
+ "v:São Gonçalo": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Show de Calouros": {
+  "descricao": "programa antigo do SBT",
+  "nasc": null,
+  "morte": null
  }
 }
