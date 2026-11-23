@@ -71817,5 +71817,15 @@
   "descricao": "município brasileiro no Estado de Goiás",
   "nasc": null,
   "morte": null
+ },
+ "v:Ribeirão Preto": {
+  "descricao": "município brasileiro no interior do estado de São Paulo, Região Sudeste do Brasil",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Tribunal de Justiça de Goiás": {
+  "descricao": "órgão máximo do Poder Judiciário no estado brasileiro de Goiás",
+  "nasc": null,
+  "morte": null
  }
 }
