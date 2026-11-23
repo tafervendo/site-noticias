@@ -72245,5 +72245,35 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Carla_Diaz.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Carla_Diaz.jpg"
+ },
+ "v:Carlinhos Brown": {
+  "descricao": "cantor brasileiro",
+  "nasc": 1962,
+  "morte": null
+ },
+ "p:Carlinhos Brown": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/ALEXANDRE_CASTILHO_E_CARLINHOS_BROWN_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Castilho1971 / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:ALEXANDRE_CASTILHO_E_CARLINHOS_BROWN_(cropped).jpg"
+ },
+ "v:Tiago Piquilo": {
+  "descricao": "dupla sertaneja brasileira",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Igor Thiago": {
+  "descricao": "futebolista brasileiro",
+  "nasc": 2001,
+  "morte": null
+ },
+ "p:Igor Thiago": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Igor_Thiago_Brazil_V_Morocco_13_June_2026-120_%28cropped%29.jpg/1280px-Igor_Thiago_Brazil_V_Morocco_13_June_2026-120_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Bryan Berlin / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Igor_Thiago_Brazil_V_Morocco_13_June_2026-120_(cropped).jpg"
+ },
+ "v:Tony Salles": {
+  "descricao": "banda brasileira de pagode baiano",
+  "nasc": null,
+  "morte": null
  }
 }
