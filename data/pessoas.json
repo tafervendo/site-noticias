@@ -1146,7 +1146,17 @@
  },
  "sergio-mallandro": {
   "nome": "Sérgio Mallandro",
-  "itens": [],
+  "itens": [
+   {
+    "titulo": "'Pegadinha do Mallandro', que nada: Sérgio Mallandro é acusado de dívida de R$ 72.680 mil de 12 parcelas com condomínio de Angra dos Reis; jurado de Ratinho, apresentador pode ter bens penhorados pela Justiça",
+    "link": "https://www.terra.com.br/diversao/gente/pegadinha-do-mallandro-que-nada-sergio-mallandro-e-acusado-de-divida-de-r-72680-mil-de-12-parcelas-com-condominio-de-angra-dos-reis-jurado-de-ratinho-apresentador-pode-ter-bens-penhorados-pela-justica,a26072065bca5b34875a15f983b03c77u1o9mwdl.html",
+    "fonte": "Terra",
+    "categoria": "televisao",
+    "data": "2026-11-23T11:08:33+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/S%C3%A9rgio_Mallandro.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Sérgio (Savaman) Savarese / CC BY 2.0, via Wikimedia Commons"
+   }
+  ],
   "publicada": true
  },
  "tuca-andrada": {
@@ -1514,6 +1524,15 @@
  "mell-muzzillo": {
   "nome": "Mell Muzzillo",
   "itens": [
+   {
+    "titulo": "Exclusiva da 'Dança dos Famosos': Mell Muzzillo revela seu truque para chegar na grande final",
+    "link": "https://www.terra.com.br/diversao/tv/exclusiva-da-danca-dos-famosos-mell-muzzillo-revela-seu-truque-para-chegar-na-grande-final,7da79391c170b81a32570c13805baae2rrobtpvt.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-23T11:22:43+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Mell_Muzzillo_-_Big_Show_2026.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow / CC BY 4.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Mell Muzzillo quebra protocolo ao vivo na 'Dança dos Famosos' ao ver Léo Foguete eliminado: 'Pessoas como você'",
     "link": "https://www.terra.com.br/diversao/tv/mell-muzzillo-quebra-protocolo-ao-vivo-na-danca-dos-famosos-ao-ver-leo-foguete-eliminado-pessoas-como-voce,40193c1957e3322f7aef9ea381b9fd7dsesime33.html",
@@ -4606,6 +4625,15 @@
   "nome": "Mauro Cezar Pereira",
   "itens": [
    {
+    "titulo": "Mauro Cezar Pereira: Postura pequena de quem comanda um clube grande: são péssimos perdedores",
+    "link": "https://www.uol.com.br/esporte/futebol/colunas/mauro-cezar-pereira/2026/11/22/postura-pequena-de-quem-comanda-um-clube-grande-sao-pessimos-perdedores.htm",
+    "fonte": "UOL",
+    "categoria": "em-alta",
+    "data": "2026-11-23T10:50:00+00:00",
+    "imagem": "",
+    "credito": ""
+   },
+   {
     "titulo": "Mauro Cezar Pereira: Brasileiro volta com mais de 6 minutos de bola rolando após pacote anticera",
     "link": "https://www.uol.com.br/esporte/futebol/colunas/mauro-cezar-pereira/2026/11/18/brasileiro-volta-com-mais-de-6-minutos-de-bola-rolando-apos-pacote-anticera.htm",
     "fonte": "UOL",
@@ -4614,7 +4642,8 @@
     "imagem": "",
     "credito": ""
    }
-  ]
+  ],
+  "publicada": true
  },
  "hayley-williams": {
   "nome": "Hayley Williams",
@@ -9145,6 +9174,15 @@
   "nome": "Clara Moneke",
   "itens": [
    {
+    "titulo": "Acabou a palhaçada na 'Dança': Confira a reação de Simaria após recado ao vivo de Clara Moneke sobre seu namorado",
+    "link": "https://www.terra.com.br/diversao/tv/acabou-a-palhacada-na-danca-confira-a-reacao-de-simaria-apos-recado-ao-vivo-de-clara-moneke-sobre-seu-namorado,1a6aa5370f7b88707c791bf6c7f96233z1ig6jvx.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-23T11:07:55+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Clara_Moneke_2024.jpg/1280px-Clara_Moneke_2024.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Multishow / CC BY 4.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Clara Moneke reage após cantada de Simaria em Breno Ferreira: 'Acabou a palhaçada'",
     "link": "https://www.terra.com.br/diversao/gente/clara-moneke-reage-apos-cantada-de-simaria-em-breno-ferreira-acabou-a-palhacada,0769c0fe29c610f3fede134a4ca94a5cgvq2ix94.html",
     "fonte": "Terra",
@@ -10668,6 +10706,15 @@
  "viih-tube": {
   "nome": "Viih Tube",
   "itens": [
+   {
+    "titulo": "Em vídeo secreto gravado meses antes de sair das redes, Viih Tube revela lado sombrio de ser influenciadora",
+    "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/viih-tube-fala-sobre-saida-da-internet.ghtml",
+    "fonte": "Quem",
+    "categoria": "virais",
+    "data": "2026-11-23T11:27:37.378282+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Viih_Tube_2026.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Cortes PODDELAS [OFICIAL ] / CC BY 3.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Viih Tube choca com vídeo de despedida: ‘Deus empurrando as minhas costas’",
     "link": "https://contigo.com.br/noticias/famosos/viih-tube-choca-com-video-de-despedida-deus-empurrando-as-minhas-costas.phtml",
@@ -15008,6 +15055,15 @@
   "nome": "Rebeca Andrade",
   "itens": [
    {
+    "titulo": "Jade Barbosa reúne Rebeca Andrade, Flavia Saraiva e Lorrane Oliveira em festa da filha",
+    "link": "https://revistaquem.globo.com/eventos/festa/noticia/2026/11/jade-barbosa-reune-rebeca-andrade-flavia-saraiva-e-lorrane-oliveira-em-festa-da-filha.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-23T11:27:37.378282+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/3%C2%BA_Sargento_Jade_Barbosa.jpg/1280px-3%C2%BA_Sargento_Jade_Barbosa.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Ministério da Defesa / CC BY 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Quem é a mulher apontada como namorada de Rebeca Andrade? Ginasta ganha beijo romântico e declaração de amor de empresária em foto: 'Te amo'",
     "link": "https://www.terra.com.br/diversao/gente/quem-e-a-mulher-apontada-como-namorada-de-rebeca-andrade-ginasta-ganha-beijo-romantico-e-declaracao-de-amor-de-empresaria-em-foto-te-amo,d4da5ad6a4d4e346b33b22ed037bf624tjo33mob.html",
     "fonte": "Terra",
@@ -15055,6 +15111,15 @@
   "nome": "Tony Ramos",
   "itens": [
    {
+    "titulo": "Tony Ramos reflete sobre sonhos e desafios: 'A vida vai te surpreendendo'",
+    "link": "https://gshow.globo.com/cultura-pop/noticia/tony-ramos-reflete-sobre-sonhos-e-desafios-a-vida-vai-te-surpreendendo.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-23T11:27:37.378282+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Tony_Ramos.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Otoniel e Francesca ficam juntos? Autor de Quem Ama Cuida dá pista sobre desfecho",
     "link": "https://noticiasdatv.uol.com.br/noticia/novelas/otoniel-e-francesca-ficam-juntos-autor-de-quem-ama-cuida-da-pista-sobre-desfecho-159750",
     "fonte": "Notícias da TV",
@@ -15063,7 +15128,8 @@
     "imagem": "",
     "credito": ""
    }
-  ]
+  ],
+  "publicada": true
  },
  "jamie-lee-curtis": {
   "nome": "Jamie Lee Curtis",
@@ -15082,6 +15148,33 @@
  "fred-bruno": {
   "nome": "Fred Bruno",
   "itens": [
+   {
+    "titulo": "Fred Bruno anuncia o nascimento do segundo filho: 'maior amor que um ser humano é capaz de sentir'",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/23/fred-bruno-anuncia-o-nascimento-do-segundo-filho-maior-amor-que-um-ser-humano-e-capaz-de-sentir.ghtml",
+    "fonte": "g1",
+    "categoria": "ultimas",
+    "data": "2026-11-23T11:27:37.378282+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Fred_Desimpedidos_-_BBB_A_Elimina%C3%A7%C3%A3o_2023.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
+    "titulo": "Fred Bruno vira papai pela segunda vez e nome chama atenção na web: 'Nosso neném'",
+    "link": "https://www.terra.com.br/diversao/gente/fred-bruno-vira-papai-pela-segunda-vez-e-nome-chama-atencao-na-web-nosso-nenem,24b9093050f93ee22cc5fe46cba6b376zyzd0irk.html",
+    "fonte": "Terra",
+    "categoria": "virais",
+    "data": "2026-11-23T11:14:29+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Fred_Desimpedidos_-_BBB_A_Elimina%C3%A7%C3%A3o_2023.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
+    "titulo": "Nome estranho? Fred Bruno anuncia nascimento do segundo filho e nome chama atenção",
+    "link": "https://contigo.com.br/noticias/famosos/nome-estranho-fred-bruno-anuncia-nascimento-do-segundo-filho-e-nome-chama-atencao.phtml",
+    "fonte": "Contigo",
+    "categoria": "celebridades",
+    "data": "2026-11-23T10:56:00+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/13/Fred_Desimpedidos_-_BBB_A_Elimina%C3%A7%C3%A3o_2023.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Bianca Andrade reage ao nascimento do 2º filho de Fred Bruno, pai de Cris; veja",
     "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/bianca-andrade-reage-ao-nascimento-do-2o-filho-de-fred-bruno-pai-de-cris-veja.ghtml",
@@ -15208,6 +15301,15 @@
  "leo-pereira": {
   "nome": "Leo Pereira",
   "itens": [
+   {
+    "titulo": "Médica e amiga de Malu Borges: quem é Giovanna Mattos, que foi vista aos beijos com Léo Pereira",
+    "link": "https://www.terra.com.br/diversao/gente/medica-e-amiga-de-malu-borges-quem-e-giovanna-mattos-que-foi-vista-aos-beijos-com-leo-pereira,a6b7b0ae61524b238be539501736417a1a8mpoh8.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-23T11:15:07+00:00",
+    "imagem": "",
+    "credito": ""
+   },
    {
     "titulo": "Quem é Giovanna Mattos, médica flagrada aos beijos com Léo Pereira após término com Karoline Lima?",
     "link": "https://www.terra.com.br/diversao/gente/quem-e-giovanna-mattos-medica-flagrada-aos-beijos-com-leo-pereira-apos-termino-com-karoline-lima,6fda7ffae1b5289a053f240cb7f15609zg5af5l3.html",
@@ -15753,6 +15855,62 @@
     "data": "2026-11-23T10:11:09.232638+00:00",
     "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/-2026-02-01-_Nando_Reis_-_003_-_Romerito_Pontes_%2855074388588%29_%28cropped%29.jpg/1280px--2026-02-01-_Nando_Reis_-_003_-_Romerito_Pontes_%2855074388588%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "credito": "Foto: Romerito Pontes from São Carlos / CC BY 4.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "jade-barbosa": {
+  "nome": "Jade Barbosa",
+  "itens": [
+   {
+    "titulo": "Jade Barbosa reúne Rebeca Andrade, Flavia Saraiva e Lorrane Oliveira em festa da filha",
+    "link": "https://revistaquem.globo.com/eventos/festa/noticia/2026/11/jade-barbosa-reune-rebeca-andrade-flavia-saraiva-e-lorrane-oliveira-em-festa-da-filha.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-23T11:27:37.378282+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/3%C2%BA_Sargento_Jade_Barbosa.jpg/1280px-3%C2%BA_Sargento_Jade_Barbosa.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Ministério da Defesa / CC BY 2.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "scheila-carvalho": {
+  "nome": "Scheila Carvalho",
+  "itens": [
+   {
+    "titulo": "Scheila Carvalho mostra resultado após 30 dias de lifting facial",
+    "link": "https://gshow.globo.com/comportamento/beleza/noticia/scheila-carvalho-mostra-resultado-apos-30-dias-de-lifting-facial.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-23T11:27:37.378282+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/SCarvalho_em_2014.jpg/1280px-SCarvalho_em_2014.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Renato Cipriano / CC BY-SA 4.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "anthony-garotinho": {
+  "nome": "Anthony Garotinho",
+  "itens": [
+   {
+    "titulo": "Saiba o real motivo da separação entre Anthony Garotinho e Rosinha Garotinho",
+    "link": "https://contigo.com.br/noticias/famosos/saiba-o-real-motivo-da-separacao-entre-anthony-garotinho-e-rosinha-garotinho.phtml",
+    "fonte": "Contigo",
+    "categoria": "celebridades",
+    "data": "2026-11-23T11:23:44+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Anthony_Garotinho_na_CPI_do_Crime_Organizado_-_54988540833_%28cropped%29.jpg/1280px-Anthony_Garotinho_na_CPI_do_Crime_Organizado_-_54988540833_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Senado Federal / CC BY-SA 4.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "jose-paulo-kupfer": {
+  "nome": "José Paulo Kupfer",
+  "itens": [
+   {
+    "titulo": "José Paulo Kupfer: Derrubada dos mercados nos EUA liga risco de 'segunda sangrenta' no Brasil",
+    "link": "https://economia.uol.com.br/colunas/jose-paulo-kupfer/2026/11/22/derrubada-dos-mercados-nos-eua-liga-risco-de-segunda-sangrenta-no-brasil.htm",
+    "fonte": "UOL Economia",
+    "categoria": "em-alta",
+    "data": "2026-11-23T10:50:00+00:00",
+    "imagem": "",
+    "credito": ""
    }
   ]
  }

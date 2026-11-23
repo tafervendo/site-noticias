@@ -71882,5 +71882,41 @@
   "descricao": "programa antigo do SBT",
   "nasc": null,
   "morte": null
- }
+ },
+ "v:Jockey Club": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Jade Barbosa": {
+  "descricao": "ginasta artística brasileira",
+  "nasc": 1991,
+  "morte": null
+ },
+ "p:Jade Barbosa": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/3%C2%BA_Sargento_Jade_Barbosa.jpg/1280px-3%C2%BA_Sargento_Jade_Barbosa.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Ministério da Defesa / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:3%C2%BA_Sargento_Jade_Barbosa.jpg"
+ },
+ "v:Anthony Garotinho": {
+  "descricao": "político brasileiro, ex-deputado estadual do Rio de Janeiro e ex-governador do Estado do Rio de Janeiro.",
+  "nasc": 1960,
+  "morte": null
+ },
+ "p:Anthony Garotinho": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Anthony_Garotinho_na_CPI_do_Crime_Organizado_-_54988540833_%28cropped%29.jpg/1280px-Anthony_Garotinho_na_CPI_do_Crime_Organizado_-_54988540833_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Senado Federal / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Anthony_Garotinho_na_CPI_do_Crime_Organizado_-_54988540833_(cropped).jpg"
+ },
+ "v:Malu Borges": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:José Paulo Kupfer": {
+  "descricao": "jornalista brasileiro",
+  "nasc": 1948,
+  "morte": null
+ },
+ "p:José Paulo Kupfer": null
 }
