@@ -72275,5 +72275,65 @@
   "descricao": "banda brasileira de pagode baiano",
   "nasc": null,
   "morte": null
+ },
+ "v:Rodrigo Santoro": {
+  "descricao": "ator brasileiro",
+  "nasc": 1975,
+  "morte": null
+ },
+ "p:Rodrigo Santoro": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Rodrigo_Santoro_at_Berlinale_2025.jpg/1280px-Rodrigo_Santoro_at_Berlinale_2025.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Elena Ternovaja / CC BY-SA 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Rodrigo_Santoro_at_Berlinale_2025.jpg"
+ },
+ "v:Chico César": {
+  "descricao": "cantor e compositor brasileiro",
+  "nasc": 1964,
+  "morte": null
+ },
+ "p:Chico César": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Elba_Ramalho_convida_Chico_C%C3%A9sar_%2849508839882%29_%28cropped%29.jpg/1280px-Elba_Ramalho_convida_Chico_C%C3%A9sar_%2849508839882%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Festival Sensacional from Belo Horizonte, Brasil / CC BY-SA 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Elba_Ramalho_convida_Chico_C%C3%A9sar_(49508839882)_(cropped).jpg"
+ },
+ "v:Thomas Pynchon": {
+  "descricao": "escritor estadunidense",
+  "nasc": 1937,
+  "morte": null
+ },
+ "p:Thomas Pynchon": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Thomas_Pynchon%2C_Navy_Sailor.jpg/1280px-Thomas_Pynchon%2C_Navy_Sailor.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Published by Albert Love Enterprises, a publisher based in… / Public domain, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Thomas_Pynchon,_Navy_Sailor.jpg"
+ },
+ "v:Carla Zambelli": {
+  "descricao": "politica brasileira",
+  "nasc": 1980,
+  "morte": null
+ },
+ "v:Ashley Tisdale": {
+  "descricao": "atriz, cantora e empresária norte-americana",
+  "nasc": 1985,
+  "morte": null
+ },
+ "p:Ashley Tisdale": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Ashley_Tisdale_6%2C_2012.jpg/1280px-Ashley_Tisdale_6%2C_2012.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Joella Marano from Manhattan, NYC / CC BY-SA 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Ashley_Tisdale_6,_2012.jpg"
+ },
+ "v:Jair Renan Bolsonaro": {
+  "descricao": "político brasileiro, Vereador de Balneário Camboriú, Santa Catarina",
+  "nasc": 1998,
+  "morte": null
+ },
+ "v:Cela Lopes": {
+  "descricao": "influenciadora digital e apresentadora brasileira",
+  "nasc": 2001,
+  "morte": null
+ },
+ "p:Cela Lopes": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Jo%C3%A3o_Brasio_e_Cela_Lopes_no_Oscar_2026_%28cropped%29.jpg/1280px-Jo%C3%A3o_Brasio_e_Cela_Lopes_no_Oscar_2026_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Gabriel Augusto / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Jo%C3%A3o_Brasio_e_Cela_Lopes_no_Oscar_2026_(cropped).jpg"
  }
 }
