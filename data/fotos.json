@@ -72164,5 +72164,86 @@
   "descricao": "",
   "nasc": null,
   "morte": null
+ },
+ "v:Kim Novak": {
+  "descricao": "atriz norte-americana",
+  "nasc": 1933,
+  "morte": null
+ },
+ "p:Kim Novak": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/47/Kim_Novak_2014.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Greg Hernandez / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Kim_Novak_2014.jpg"
+ },
+ "v:Walter Salles": {
+  "descricao": "cineasta brasileiro",
+  "nasc": 1956,
+  "morte": null
+ },
+ "v:Sócrates Brasileiro": {
+  "descricao": "futebolista brasileiro (1954–2011)",
+  "nasc": 1954,
+  "morte": 2011
+ },
+ "v:Aline Borges": {
+  "descricao": "atriz brasileira",
+  "nasc": 1975,
+  "morte": null
+ },
+ "p:Aline Borges": null,
+ "v:Klebber Toledo": {
+  "descricao": "ator brasileiro",
+  "nasc": 1986,
+  "morte": null
+ },
+ "p:Klebber Toledo": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Klebber_Toledo_in_september_2024.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Team Comics | Kainan Medeiros / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Klebber_Toledo_in_september_2024.jpg"
+ },
+ "v:Canal Brasil": {
+  "descricao": "canal de televisão por assinatura brasileiro",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Mark Wahlberg": {
+  "descricao": "ator norte-americano",
+  "nasc": 1971,
+  "morte": null
+ },
+ "p:Mark Wahlberg": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Mark_Wahlberg_2021.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: U.S. Marine Corps photo by Sgt. Jorge A. Rosales / Public domain, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Mark_Wahlberg_2021.jpg"
+ },
+ "v:Billy Corgan": {
+  "descricao": "Músico, compositor, produtor e autor americano",
+  "nasc": 1967,
+  "morte": null
+ },
+ "p:Billy Corgan": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Billy_Corgan.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Benutzer:Blankpage / Public domain, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Billy_Corgan.jpg"
+ },
+ "v:Túlio Gadêlha": {
+  "descricao": "político brasileiro",
+  "nasc": 1987,
+  "morte": null
+ },
+ "p:Túlio Gadêlha": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/T%C3%BAlio_Gad%C3%AAlha.jpg/1280px-T%C3%BAlio_Gad%C3%AAlha.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Michel Jesus/Câmara dos Deputados / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:T%C3%BAlio_Gad%C3%AAlha.jpg"
+ },
+ "v:Carla Díaz": {
+  "descricao": "atriz brasileira",
+  "nasc": 1990,
+  "morte": null
+ },
+ "p:Carla Díaz": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Carla_Diaz.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Carla_Diaz.jpg"
  }
 }
