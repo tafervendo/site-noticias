@@ -72089,5 +72089,80 @@
   "nasc": 2006,
   "morte": null
  },
- "p:Kauã Elias": null
+ "p:Kauã Elias": null,
+ "v:Bolão da Firma": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Estúdios Globo": {
+  "descricao": "complexo de estúdios de televisão brasileiro localizado no Rio de Janeiro, RJ",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Britney Spears": {
+  "descricao": "cantora, compositora, dançarina e atriz norte-americana",
+  "nasc": 1981,
+  "morte": null
+ },
+ "p:Britney Spears": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Britney-Spears-Vegas-July-13-2016.jpg/1280px-Britney-Spears-Vegas-July-13-2016.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: marcen27 from Glasgow, UK / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Britney-Spears-Vegas-July-13-2016.jpg"
+ },
+ "v:Jesse Eisenberg": {
+  "descricao": "ator americano",
+  "nasc": 1983,
+  "morte": null
+ },
+ "p:Jesse Eisenberg": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/60th_Karlovy_Vary_International_Film_Festival%2C_Jesse_Eisenberg_%28cropped%29.jpg/1280px-60th_Karlovy_Vary_International_Film_Festival%2C_Jesse_Eisenberg_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Jan Beránek / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:60th_Karlovy_Vary_International_Film_Festival,_Jesse_Eisenberg_(cropped).jpg"
+ },
+ "v:Carol Biazin": {
+  "descricao": "cantora, compositora e instrumentista brasileira",
+  "nasc": 1997,
+  "morte": null
+ },
+ "p:Carol Biazin": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/df/Carol_Biazin_2023_Humor_Multishow_01.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Carol_Biazin_2023_Humor_Multishow_01.png"
+ },
+ "v:Love You": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Liam Gallagher": {
+  "descricao": "cantor britânico",
+  "nasc": 1972,
+  "morte": null
+ },
+ "p:Liam Gallagher": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Liam_Gallagher_at_83rd_Venice_International_Film_Festival-4.jpg/1280px-Liam_Gallagher_at_83rd_Venice_International_Film_Festival-4.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: LucaFazPhoto / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Liam_Gallagher_at_83rd_Venice_International_Film_Festival-4.jpg"
+ },
+ "v:Tânia Maria": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Elisa Lucinda": {
+  "descricao": "atriz, poetisa, escritora e cantora brasileira",
+  "nasc": 1958,
+  "morte": null
+ },
+ "p:Elisa Lucinda": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/2018-05-23_Elisa_Lucinda_06_%28cropped%29.jpg/1280px-2018-05-23_Elisa_Lucinda_06_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Conselho Nacional do Ministério Público / CC BY-SA 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:2018-05-23_Elisa_Lucinda_06_(cropped).jpg"
+ },
+ "v:Justiça do Trabalho": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ }
 }
