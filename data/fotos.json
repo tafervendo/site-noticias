@@ -71762,5 +71762,20 @@
   "descricao": "clube esportivo brasileiro",
   "nasc": null,
   "morte": null
+ },
+ "v:Denis Villeneuve": {
+  "descricao": "realizador canadiano",
+  "nasc": 1967,
+  "morte": null
+ },
+ "v:Léo Foguete": {
+  "descricao": "cantor e compositor brasileiro",
+  "nasc": 2004,
+  "morte": null
+ },
+ "p:Léo Foguete": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/41/L%C3%A9o_Foguete_-_Arrai%C3%A1_do_Povo_-_2025.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Governo de Sergipe / CC BY 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:L%C3%A9o_Foguete_-_Arrai%C3%A1_do_Povo_-_2025.jpg"
  }
 }
