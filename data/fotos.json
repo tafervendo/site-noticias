@@ -72370,5 +72370,36 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Adriano_2009_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: José Cruz/A Br / CC BY 3.0 br, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Adriano_2009_(cropped).jpg"
+ },
+ "v:Bella Longuinho": {
+  "descricao": "influenciadora digital e criadora de conteúdo transgênero brasileira",
+  "nasc": 2002,
+  "morte": null
+ },
+ "p:Bella Longuinho": null,
+ "v:Chef de Alto Nível": {
+  "descricao": "reality show culinário da Globo",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Matador de Aluguel": {
+  "descricao": "filme de 1989 dirigido por Rowdy Herrington",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Espondilite Anquilosante": {
+  "descricao": "tipo de artrite",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Jessica Alba": {
+  "descricao": "atriz e empresária norte-americana",
+  "nasc": 1981,
+  "morte": null
+ },
+ "p:Jessica Alba": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/TechCrunch_Disrupt_NY_2016_-_Day_3_%2826348667323%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: TechCrunch / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:TechCrunch_Disrupt_NY_2016_-_Day_3_(26348667323)_(cropped).jpg"
  }
 }
