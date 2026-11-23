@@ -71918,5 +71918,35 @@
   "nasc": 1948,
   "morte": null
  },
- "p:José Paulo Kupfer": null
+ "p:José Paulo Kupfer": null,
+ "v:Regina Casé": {
+  "descricao": "atriz e apresentadora brasileira",
+  "nasc": 1954,
+  "morte": null
+ },
+ "v:David Fincher": {
+  "descricao": "diretor de cinema norte-americano",
+  "nasc": 1962,
+  "morte": null
+ },
+ "v:Boletim Focus": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Odd Future": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Cesar Tralli": {
+  "descricao": "Jornalista brasileiro",
+  "nasc": 1970,
+  "morte": null
+ },
+ "p:Cesar Tralli": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Cesartralli_%28cropped%29.JPG/1280px-Cesartralli_%28cropped%29.JPG?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Cesartralli / CC BY-SA 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Cesartralli_(cropped).JPG"
+ }
 }
