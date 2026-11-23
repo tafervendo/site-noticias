@@ -72335,5 +72335,40 @@
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Jo%C3%A3o_Brasio_e_Cela_Lopes_no_Oscar_2026_%28cropped%29.jpg/1280px-Jo%C3%A3o_Brasio_e_Cela_Lopes_no_Oscar_2026_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credito": "Foto: Gabriel Augusto / CC BY-SA 4.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Jo%C3%A3o_Brasio_e_Cela_Lopes_no_Oscar_2026_(cropped).jpg"
+ },
+ "v:Vincent Cassel": {
+  "descricao": "ator francês",
+  "nasc": 1966,
+  "morte": null
+ },
+ "p:Vincent Cassel": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Vincent_Cassel_Cannes_2018.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Georges Biard / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Vincent_Cassel_Cannes_2018.jpg"
+ },
+ "v:Amor Valente": {
+  "descricao": "Telenovela",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Rolling Stones": {
+  "descricao": "banda de rock britânica",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Vittor Fernando": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Adriano Imperador": {
+  "descricao": "ex-futebolista brasileiro",
+  "nasc": 1982,
+  "morte": null
+ },
+ "p:Adriano Imperador": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Adriano_2009_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: José Cruz/A Br / CC BY 3.0 br, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Adriano_2009_(cropped).jpg"
  }
 }
