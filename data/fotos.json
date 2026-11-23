@@ -71827,5 +71827,40 @@
   "descricao": "órgão máximo do Poder Judiciário no estado brasileiro de Goiás",
   "nasc": null,
   "morte": null
+ },
+ "v:Miá Mello": {
+  "descricao": "Atriz e comediante brasileira",
+  "nasc": 1981,
+  "morte": null
+ },
+ "p:Miá Mello": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/59/Mi%C3%A1_Mello_2015.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Gente Carioca / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Mi%C3%A1_Mello_2015.jpg"
+ },
+ "v:Milton Hatoum": {
+  "descricao": "escritor brasileiro",
+  "nasc": 1952,
+  "morte": null
+ },
+ "p:Milton Hatoum": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Milton_Hatoum_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Mídia promocional do programa Impressões do Brasil (TV… / CC BY 3.0 br, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Milton_Hatoum_(cropped).jpg"
+ },
+ "v:Carolina Maria de Jesus": {
+  "descricao": "escritora brasileira (1914–1977)",
+  "nasc": 1914,
+  "morte": 1977
+ },
+ "v:Esther Dweck": {
+  "descricao": "economista, escritora, pesquisadora e professora brasileira",
+  "nasc": 1977,
+  "morte": null
+ },
+ "p:Esther Dweck": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Reuni%C3%A3o_com_o_Ministro_de_Estado_do_Turismo%2C_Celso_Sabino._%2854445010299%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Ministério da Gestão e da Inovação / CC BY-SA 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Reuni%C3%A3o_com_o_Ministro_de_Estado_do_Turismo,_Celso_Sabino._(54445010299)_(cropped).jpg"
  }
 }
