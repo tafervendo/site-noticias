@@ -72694,5 +72694,53 @@
   "descricao": "futebolista português",
   "nasc": 1915,
   "morte": 1981
+ },
+ "v:Parque do Ibirapuera": {
+  "descricao": "parque na cidade de São Paulo",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Humberto Morais": {
+  "descricao": "ator brasileiro",
+  "nasc": 1993,
+  "morte": null
+ },
+ "p:Humberto Morais": null,
+ "v:Bruno Montaleone": {
+  "descricao": "ator brasileiro",
+  "nasc": 1996,
+  "morte": null
+ },
+ "p:Bruno Montaleone": null,
+ "v:Viktor Frankl": {
+  "descricao": "neuropsiquiatra austríaco, fundador da Logoterapia e sobrevivente do Holocausto, conhecido por \"Em Busca de Sentido\"",
+  "nasc": 1905,
+  "morte": 1997
+ },
+ "v:Rei Juan Carlos": {
+  "descricao": "rei da Espanha de 1975 a 2014",
+  "nasc": 1938,
+  "morte": null
+ },
+ "v:Simples Nacional": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Ullisses Campbell": {
+  "descricao": "jornalista e escritor brasileiro",
+  "nasc": 1975,
+  "morte": null
+ },
+ "p:Ullisses Campbell": null,
+ "v:Escola Municipal de Bailado": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Jogo Aberto": {
+  "descricao": "programa esportivo brasileiro exibido pela Rede Bandeirantes",
+  "nasc": null,
+  "morte": null
  }
 }
