@@ -14016,6 +14016,15 @@
   "nome": "Conceição Evaristo",
   "itens": [
    {
+    "titulo": "Aos 80 anos, Conceição Evaristo rejeita ideia de meritocracia e diz que ainda quer escrever rap e poemas eróticos",
+    "link": "https://g1.globo.com/fantastico/noticia/2026/11/24/aos-80-anos-conceicao-evaristo-rejeita-ideia-de-meritocracia-e-diz-que-ainda-quer-escrever-rap-e-poemas-eroticos.ghtml",
+    "fonte": "g1",
+    "categoria": "ultimas",
+    "data": "2026-11-24T07:56:29.457429+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Concei%C3%A7%C3%A3o_Evaristo%2C_September_2024.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Lula Oficial / CC BY-SA 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Fim de semana em SP tem ópera sobre Conceição Evaristo, Best of Blues and Rock, Caetano e mais; veja",
     "link": "https://www.terra.com.br/diversao/fim-de-semana-em-sp-tem-opera-sobre-conceicao-evaristo-best-of-blues-and-rock-caetano-e-mais-veja,aa79bd03fad2a751321568b338abbd87eyj9b7ak.html",
     "fonte": "Terra",
@@ -14024,7 +14033,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Concei%C3%A7%C3%A3o_Evaristo%2C_September_2024.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Lula Oficial / CC BY-SA 2.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "paulo-cesar-grande": {
   "nome": "Paulo César Grande",
@@ -18018,6 +18028,20 @@
     "fonte": "UOL",
     "categoria": "em-alta",
     "data": "2026-11-24T02:40:00+00:00",
+    "imagem": "",
+    "credito": ""
+   }
+  ]
+ },
+ "bianca-censori": {
+  "nome": "Bianca Censori",
+  "itens": [
+   {
+    "titulo": "Com Kanye, Bianca Censori usa look com decote até a virilha e abala a web",
+    "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/com-kanye-bianca-censori-aposta-em-decote-ate-a-virilha-e-abala-a-web.ghtml",
+    "fonte": "Quem",
+    "categoria": "virais",
+    "data": "2026-11-24T07:56:29.457429+00:00",
     "imagem": "",
     "credito": ""
    }
