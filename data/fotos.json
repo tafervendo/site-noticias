@@ -72822,5 +72822,61 @@
   "descricao": "parque temático em Tampa, Flórida, Estados Unidos",
   "nasc": null,
   "morte": null
+ },
+ "v:Jaque Khury": {
+  "descricao": "modelo brasileira",
+  "nasc": 1984,
+  "morte": null
+ },
+ "p:Jaque Khury": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Grava%C3%A7%C3%A3o_da_vinheta_da_P%C3%A9rola_Negra_-_Itanha%C3%A9m_%28180%29_%286263128503%29.jpg/1280px-Grava%C3%A7%C3%A3o_da_vinheta_da_P%C3%A9rola_Negra_-_Itanha%C3%A9m_%28180%29_%286263128503%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Prefeitura Municipal Itanhaém from Itanhaém, Brasil / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Grava%C3%A7%C3%A3o_da_vinheta_da_P%C3%A9rola_Negra_-_Itanha%C3%A9m_(180)_(6263128503).jpg"
+ },
+ "v:Whindersson Nunes": {
+  "descricao": "comediante, youtuber, cantor e ator brasileiro",
+  "nasc": 1995,
+  "morte": null
+ },
+ "p:Whindersson Nunes": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/14/Whindersson_2021.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Chris Tex / CC BY-SA 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Whindersson_2021.png"
+ },
+ "v:Bárbara Reis": {
+  "descricao": "Atriz brasileira",
+  "nasc": 1989,
+  "morte": null
+ },
+ "p:Bárbara Reis": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/46/Barbara_Reis_in_2023.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Portal ArteBlitz / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Barbara_Reis_in_2023.png"
+ },
+ "v:Ana Paula Padrão": {
+  "descricao": "jornalista brasileira",
+  "nasc": 1965,
+  "morte": null
+ },
+ "v:Jonas Bloch": {
+  "descricao": "ator brasileiro",
+  "nasc": 1939,
+  "morte": null
+ },
+ "p:Jonas Bloch": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Jonas_Bloch.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Ivone Perez / CC BY-SA 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Jonas_Bloch.jpg"
+ },
+ "v:Eduardo Pelizzari": {
+  "descricao": "ator brasileiro",
+  "nasc": 1985,
+  "morte": null
+ },
+ "p:Eduardo Pelizzari": null,
+ "p:Ana Paula Padrão": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2024-08-22_Inaugura%C3%A7%C3%A3o_da_Sala_Digital_Band_Google%2C_10_%28Ana_Paula_Padr%C3%A3o%29.jpg/1280px-2024-08-22_Inaugura%C3%A7%C3%A3o_da_Sala_Digital_Band_Google%2C_10_%28Ana_Paula_Padr%C3%A3o%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Governo do Estado de São Paulo / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:2024-08-22_Inaugura%C3%A7%C3%A3o_da_Sala_Digital_Band_Google,_10_(Ana_Paula_Padr%C3%A3o).jpg"
  }
 }
