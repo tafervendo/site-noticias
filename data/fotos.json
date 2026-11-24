@@ -72777,5 +72777,30 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/46/Barbara_Reis_in_2023.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: Portal ArteBlitz / CC BY 3.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Barbara_Reis_in_2023.png"
+ },
+ "v:Sex Pistols": {
+  "descricao": "Banda de punk rock britânica",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Charles Mingus": {
+  "descricao": "baixista e compositor de jazz norte-americano (1922–1979)",
+  "nasc": 1922,
+  "morte": 1979
+ },
+ "v:Joni Mitchell": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Matt Bellamy": {
+  "descricao": "vocalista, guitarrista e pianista britânico",
+  "nasc": 1978,
+  "morte": null
+ },
+ "v:Roy Baumeister": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
  }
 }
