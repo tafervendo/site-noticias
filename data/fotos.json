@@ -72564,5 +72564,45 @@
   "descricao": "Baía de Guanabara, Rio de Janeiro, RJ, Brasil",
   "nasc": null,
   "morte": null
+ },
+ "v:Santiago de Compostela": {
+  "descricao": "capital da Galiza, Espanha",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Ana Carolina": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Stand Up": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Princesa Charlene": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Bad Bunny": {
+  "descricao": "rapper, cantor e produtor musical porto-riquenho",
+  "nasc": 1994,
+  "morte": null
+ },
+ "p:Bad Bunny": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bad_Bunny_Performs_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Comecoquito / CC0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Bad_Bunny_Performs_(cropped).jpg"
+ },
+ "v:Virgínia Fonseca": {
+  "descricao": "influenciadora digital e apresentadora brasilo-estadunidense",
+  "nasc": 1999,
+  "morte": null
+ },
+ "p:Virgínia Fonseca": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Virginia_Fonseca_na_CPI_das_BETS_02_%28cropped%29.jpg/1280px-Virginia_Fonseca_na_CPI_das_BETS_02_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Andressa Anholete/Agência Senado / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Virginia_Fonseca_na_CPI_das_BETS_02_(cropped).jpg"
  }
 }
