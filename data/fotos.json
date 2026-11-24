@@ -72401,5 +72401,30 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/TechCrunch_Disrupt_NY_2016_-_Day_3_%2826348667323%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: TechCrunch / CC BY 2.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:TechCrunch_Disrupt_NY_2016_-_Day_3_(26348667323)_(cropped).jpg"
+ },
+ "v:Ted Lasso": {
+  "descricao": "Série de televisão comédia dramática americana sobre esportes",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Lauryn Hill": {
+  "descricao": "cantora norte-americana",
+  "nasc": 1975,
+  "morte": null
+ },
+ "p:Lauryn Hill": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Lauryn_Hill_-_2014.jpg/1280px-Lauryn_Hill_-_2014.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: The Come Up Show from Canada / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Lauryn_Hill_-_2014.jpg"
+ },
+ "v:Carlos Bolsonaro": {
+  "descricao": "político brasileiro e Vereador da Cidade do Rio de Janeiro (2001–2025) e Senador da República eleito por Santa Catarina",
+  "nasc": 1982,
+  "morte": null
+ },
+ "p:Carlos Bolsonaro": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Carlos_Bolsonaro_durante_Encontro_Brasil-R%C3%BAssia_em_2022.jpg/1280px-Carlos_Bolsonaro_durante_Encontro_Brasil-R%C3%BAssia_em_2022.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Palácio do Planalto from Brasilia, Brasil / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Carlos_Bolsonaro_durante_Encontro_Brasil-R%C3%BAssia_em_2022.jpg"
  }
 }
