@@ -72426,5 +72426,30 @@
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Carlos_Bolsonaro_durante_Encontro_Brasil-R%C3%BAssia_em_2022.jpg/1280px-Carlos_Bolsonaro_durante_Encontro_Brasil-R%C3%BAssia_em_2022.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credito": "Foto: Palácio do Planalto from Brasilia, Brasil / CC BY 2.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Carlos_Bolsonaro_durante_Encontro_Brasil-R%C3%BAssia_em_2022.jpg"
+ },
+ "v:Sem Remorso": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Lucas Rangel": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Giovanna Antonelli": {
+  "descricao": "atriz brasileira",
+  "nasc": 1976,
+  "morte": null
+ },
+ "p:Giovanna Antonelli": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Web_Summit_Rio_2025_-_0358_%2854483558135%29_%28cropped%29.jpg/1280px-Web_Summit_Rio_2025_-_0358_%2854483558135%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Web Summit Rio from Rio de Janeiro, Brazil / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Web_Summit_Rio_2025_-_0358_(54483558135)_(cropped).jpg"
+ },
+ "v:Ministério Público": {
+  "descricao": "representação dos interesses da sociedade mediante o exercício de ação penal pública e outros",
+  "nasc": null,
+  "morte": null
  }
 }
