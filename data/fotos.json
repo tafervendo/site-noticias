@@ -72524,5 +72524,15 @@
   "nasc": 1995,
   "morte": null
  },
- "p:Bianca Censori": null
+ "p:Bianca Censori": null,
+ "v:Tom Brady": {
+  "descricao": "Jogador de futebol americano",
+  "nasc": 1977,
+  "morte": null
+ },
+ "p:Tom Brady": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/73/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Tom_Brady_-_240422_191334_%28cropped%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Barcex / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Tom_Brady_-_240422_191334_(cropped)_(cropped).jpg"
+ }
 }
