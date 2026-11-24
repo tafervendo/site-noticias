@@ -72802,5 +72802,25 @@
   "descricao": "",
   "nasc": null,
   "morte": null
+ },
+ "v:Rafael Reis": {
+  "descricao": "ciclista português",
+  "nasc": 1992,
+  "morte": null
+ },
+ "v:The Masked Singer": {
+  "descricao": "talent show norte-americano",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Bola de Prata": {
+  "descricao": "premiação esportiva da revista Placar",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Busch Gardens": {
+  "descricao": "parque temático em Tampa, Flórida, Estados Unidos",
+  "nasc": null,
+  "morte": null
  }
 }
