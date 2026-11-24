@@ -72878,5 +72878,30 @@
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2024-08-22_Inaugura%C3%A7%C3%A3o_da_Sala_Digital_Band_Google%2C_10_%28Ana_Paula_Padr%C3%A3o%29.jpg/1280px-2024-08-22_Inaugura%C3%A7%C3%A3o_da_Sala_Digital_Band_Google%2C_10_%28Ana_Paula_Padr%C3%A3o%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credito": "Foto: Governo do Estado de São Paulo / CC BY 2.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:2024-08-22_Inaugura%C3%A7%C3%A3o_da_Sala_Digital_Band_Google,_10_(Ana_Paula_Padr%C3%A3o).jpg"
+ },
+ "v:Branca de Neve": {
+  "descricao": "conto de fadas",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Campos do Jordão": {
+  "descricao": "município mais frio da região sudeste brasileira e mais alto do Brasil, localizado no interior do estado de São Paulo",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Kieran Culkin": {
+  "descricao": "ator norte-americano",
+  "nasc": 1982,
+  "morte": null
+ },
+ "p:Kieran Culkin": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/ARealPainBFILFF131024_%2882_of_138%29_%2854065186044%29_%28cropped%29_%28cropped%29.jpg/1280px-ARealPainBFILFF131024_%2882_of_138%29_%2854065186044%29_%28cropped%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Raph_PH / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:ARealPainBFILFF131024_(82_of_138)_(54065186044)_(cropped)_(cropped).jpg"
+ },
+ "v:Richard Gere": {
+  "descricao": "ator norte-americano",
+  "nasc": 1949,
+  "morte": null
  }
 }
