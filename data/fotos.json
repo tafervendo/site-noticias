@@ -72476,5 +72476,37 @@
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/2025-05-22_STJ_e_TRF1_Mulheres_%E2%80%93_Palestra_O_Protagonismo_da_Mulher_nas_Artes%2C_011.jpg/1280px-2025-05-22_STJ_e_TRF1_Mulheres_%E2%80%93_Palestra_O_Protagonismo_da_Mulher_nas_Artes%2C_011.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credito": "Foto: STJNoticias / CC BY 2.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:2025-05-22_STJ_e_TRF1_Mulheres_%E2%80%93_Palestra_O_Protagonismo_da_Mulher_nas_Artes,_011.jpg"
+ },
+ "v:Cris Braun": {
+  "descricao": "cantora e compositora brasileira",
+  "nasc": 1962,
+  "morte": null
+ },
+ "p:Cris Braun": null,
+ "v:Claudia Rodrigues": {
+  "descricao": "atriz e comediante brasileira",
+  "nasc": 1971,
+  "morte": null
+ },
+ "p:Claudia Rodrigues": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Claudia_Rodrigues.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Bruno Uehara / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Claudia_Rodrigues.jpg"
+ },
+ "v:Fernanda Gentil": {
+  "descricao": "jornalista brasileira",
+  "nasc": 1984,
+  "morte": null
+ },
+ "p:Fernanda Gentil": null,
+ "v:Champions League": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:João Kleber": {
+  "descricao": "apresentador de televisão brasileiro",
+  "nasc": 1957,
+  "morte": null
  }
 }
