@@ -73424,5 +73424,50 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/31/David_Brazil.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:David_Brazil.jpg"
+ },
+ "v:Dudu Camargo": {
+  "descricao": "apresentador de televisão, ator e radialista brasileiro",
+  "nasc": 1998,
+  "morte": null
+ },
+ "p:Dudu Camargo": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/CamargoDudu.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Un trabajo propio / CC BY 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:CamargoDudu.png"
+ },
+ "v:Daniella Marques": {
+  "descricao": "administradora brasileira",
+  "nasc": 1979,
+  "morte": null
+ },
+ "v:Giovana Cordeiro": {
+  "descricao": "atriz brasileira",
+  "nasc": 1996,
+  "morte": null
+ },
+ "v:João Mendes": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Warwick Davis": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Matheus Bidu": {
+  "descricao": "futebolista brasileiro",
+  "nasc": 1999,
+  "morte": null
+ },
+ "p:Matheus Bidu": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Matheus-bidu-entrevista-2026.png/1280px-Matheus-bidu-entrevista-2026.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: TV Central do Timão / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Matheus-bidu-entrevista-2026.png"
+ },
+ "v:Sidney Oliveira": {
+  "descricao": "empresário do ramo farmacêutico",
+  "nasc": 1953,
+  "morte": null
  }
 }
