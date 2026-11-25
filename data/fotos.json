@@ -73368,5 +73368,61 @@
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/BlueMoonBFILFF161025-53_%2854875551295%29_%28cropped_2%29.jpg/1280px-BlueMoonBFILFF161025-53_%2854875551295%29_%28cropped_2%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credito": "Foto: Raph_PH / CC BY 4.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:BlueMoonBFILFF161025-53_(54875551295)_(cropped_2).jpg"
+ },
+ "v:Andy Taylor": {
+  "descricao": "guitarrista do Duran Duran",
+  "nasc": 1961,
+  "morte": 2026
+ },
+ "v:Angelina Jolie": {
+  "descricao": "atriz, cineasta e ativista norte-americana",
+  "nasc": 1975,
+  "morte": null
+ },
+ "p:Angelina Jolie": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/JolieMariaBFILFF181024_%2818_of_28%29_%2854081064591%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Raph_PH / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:JolieMariaBFILFF181024_(18_of_28)_(54081064591)_(cropped).jpg"
+ },
+ "v:Sistema Solar": {
+  "descricao": "sistema planetário do Sol",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Solange Frazão": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Black Eyed Peas": {
+  "descricao": "grupo musical norte-americano",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Thiago Borbas": {
+  "descricao": "futebolista uruguaio",
+  "nasc": 2002,
+  "morte": null
+ },
+ "p:Thiago Borbas": null,
+ "v:Idade Dourada": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:David Brazil": {
+  "descricao": "ator brasileiro",
+  "nasc": 1969,
+  "morte": null
+ },
+ "v:Planeta Nove": {
+  "descricao": "Planeta hipotético nos confins do Sistema Solar",
+  "nasc": null,
+  "morte": null
+ },
+ "p:David Brazil": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/31/David_Brazil.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:David_Brazil.jpg"
  }
 }
