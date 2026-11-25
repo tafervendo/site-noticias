@@ -543,6 +543,15 @@
   "nome": "Fábio Jr",
   "itens": [
    {
+    "titulo": "Fiuk e Cleo Pires: a relação dos filhos de Fábio Jr. na vida e na carreira",
+    "link": "https://caras.com.br/atualidades/fiuk-e-cleo-pires-a-relacao-dos-filhos-de-fabio-jr-na-vida-e-na-carreira.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-25T05:19:08+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cleo_On_Demand.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Portal ArteBlitz / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Fábio Jr. aos 73 anos: relembre os 7 casamentos que marcaram a vida do cantor",
     "link": "https://caras.com.br/atualidades/fabio-jr-aos-73-anos-relembre-os-7-casamentos-que-marcaram-a-vida-do-cantor.phtml",
     "fonte": "Caras",
@@ -4235,6 +4244,15 @@
  "sabrina-sato": {
   "nome": "Sabrina Sato",
   "itens": [
+   {
+    "titulo": "Sabrina Sato além da TV: apresentadora diversifica seus negócios no mercado",
+    "link": "https://caras.com.br/atualidades/sabrina-sato-alem-da-tv-apresentadora-diversifica-seus-negocios-no-mercado.phtml",
+    "fonte": "Caras",
+    "categoria": "televisao",
+    "data": "2026-11-25T05:16:10+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sabrina_Sato_at_the_Lady_Night_in_2022_%2802%29.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Sabrina Sato diz que vai desfilar no Carnaval ‘de barriga grande' e amamentando",
     "link": "https://www.terra.com.br/diversao/gente/sabrina-sato-diz-que-vai-desfilar-no-carnaval-de-barriga-grande-e-amamentando,51c734b76d194c9636bb2d1e33c02387s5wvp081.html",
@@ -19457,6 +19475,15 @@
   "nome": "Antoine Fuqua",
   "itens": [
    {
+    "titulo": "Antoine Fuqua, diretor de 'Michael', e filho são acusados de agressão e ameaça de morte",
+    "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/antoine-fuqua-diretor-de-michael-e-filho-sao-acusados-de-agressao-e-ameaca-de-morte.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-25T06:26:12.070192+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Antoine_Fuqua_%2829682821190%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Gordon Correll / CC BY-SA 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Antoine Fuqua, diretor de ‘Michael’, é acusado de agressão com arma de fogo contra gerente de bar em LA Antoine Fuqua, diretor de \"Michael\". (Foto: Getty)",
     "link": "https://hugogloss.uol.com.br/famosos/antoine-fuqua-michael-agressao/",
     "fonte": "Hugo Gloss",
@@ -19465,7 +19492,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Antoine_Fuqua_%2829682821190%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Gordon Correll / CC BY-SA 2.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "humberto-morais": {
   "nome": "Humberto Morais",
@@ -19982,6 +20010,20 @@
     "data": "2026-11-25T03:01:36+00:00",
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Khloe_Kardashian_Glamour_2.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Eric Longden / CC BY 3.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "cleo-pires": {
+  "nome": "Cleo Pires",
+  "itens": [
+   {
+    "titulo": "Fiuk e Cleo Pires: a relação dos filhos de Fábio Jr. na vida e na carreira",
+    "link": "https://caras.com.br/atualidades/fiuk-e-cleo-pires-a-relacao-dos-filhos-de-fabio-jr-na-vida-e-na-carreira.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-25T05:19:08+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cleo_On_Demand.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Portal ArteBlitz / CC BY 3.0, via Wikimedia Commons"
    }
   ]
  }
