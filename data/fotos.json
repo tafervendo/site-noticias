@@ -73113,5 +73113,55 @@
   "descricao": "",
   "nasc": null,
   "morte": null
+ },
+ "v:Fernanda Rodrigues": {
+  "descricao": "atriz brasileira",
+  "nasc": 1979,
+  "morte": null
+ },
+ "p:Fernanda Rodrigues": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Fernanda_Rodrigues_2024.jpg/1280px-Fernanda_Rodrigues_2024.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Multishow / CC BY 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Fernanda_Rodrigues_2024.jpg"
+ },
+ "v:Matheus Ceará": {
+  "descricao": "Humorista Brasileiro",
+  "nasc": 1984,
+  "morte": null
+ },
+ "p:Matheus Ceará": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Matheus_Cear%C3%A1_2018_Julho.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: André Vasco / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Matheus_Cear%C3%A1_2018_Julho.png"
+ },
+ "v:Departamento de Estado": {
+  "descricao": "Departamento executivo do governo federal dos Estados Unidos",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Mariana Ximenes": {
+  "descricao": "atriz e produtora brasileira",
+  "nasc": 1981,
+  "morte": null
+ },
+ "p:Mariana Ximenes": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/100_anos_do_Grupo_Globo_e_60_anos_da_Rede_Globo_305_%28Mariana_Ximenes%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Senado Federal / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:100_anos_do_Grupo_Globo_e_60_anos_da_Rede_Globo_305_(Mariana_Ximenes)_(cropped).jpg"
+ },
+ "v:Gustavo Gómez": {
+  "descricao": "futebolista paraguaio",
+  "nasc": 1993,
+  "morte": null
+ },
+ "p:Gustavo Gómez": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Gustavo_Gomez_France_v_Paraguay_4_July_2026-029.jpg/1280px-Gustavo_Gomez_France_v_Paraguay_4_July_2026-029.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Bryan Berlin / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Gustavo_Gomez_France_v_Paraguay_4_July_2026-029.jpg"
+ },
+ "v:Zé Roberto": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
  }
 }
