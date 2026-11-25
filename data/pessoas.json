@@ -2054,6 +2054,15 @@
   "nome": "Jônatas Faro",
   "itens": [
    {
+    "titulo": "Jônatas Faro revela que trabalhou em fábrica no Canadá após se afastar da TV",
+    "link": "https://revistaquem.globo.com/entrevistas/noticia/2026/11/jonatas-faro-revela-que-trabalhou-em-fabrica-no-canada-apos-se-afastar-da-tv.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-25T09:07:52.315757+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jonatas_faro_2025.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Niteroi websites / CC0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Jônatas Faro fala sobre relação com o filho adolescente: 'É uma descoberta diária'",
     "link": "https://revistaquem.globo.com/noticias/filhos-dos-famosos/noticia/2026/11/jonatas-faro-fala-sobre-relacao-com-o-filho-adolescente-e-uma-descoberta-diaria.ghtml",
     "fonte": "Quem",
@@ -3748,6 +3757,15 @@
  "isis-valverde": {
   "nome": "Isis Valverde",
   "itens": [
+   {
+    "titulo": "Marcus Buaiz diz se pretende ter filho com Isis Valverde e se declara à atriz: 'Me trouxe uma paz que nunca tinha sentido'",
+    "link": "https://revistaquem.globo.com/entrevistas/noticia/2026/11/marcus-buaiz-diz-se-pretende-ter-filho-com-isis-valverde-e-se-declara-a-atriz-me-trouxe-uma-paz-que-nunca-tinha-sentido.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-25T09:07:52.315757+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/72/3_-_Isis_Valverde-001_%2817131555112%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Renan Katayama / CC BY-SA 2.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Isis Valverde aposta em look de praia com saia de crochê e chapéu estiloso na Bahia",
     "link": "https://revistaquem.globo.com/viagem/noticia/2026/11/isis-valverde-posa-de-biquini-e-chapeu-vermelho-durante-viagem-a-bahia.ghtml",
@@ -6246,6 +6264,15 @@
  "ze-felipe": {
   "nome": "Zé Felipe",
   "itens": [
+   {
+    "titulo": "Matheus Vargas fala da relação com os irmãos Zé Felipe e João Guilherme: 'Orgulho'",
+    "link": "https://revistaquem.globo.com/entrevistas/noticia/2026/11/matheus-vargas-fala-da-relacao-com-os-irmaos-ze-felipe-e-joao-guilherme-orgulho.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-25T09:07:52.315757+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ana_Castela_e_Z%C3%A9_Felipe_no_anivers%C3%A1rio_de_Marrone_%28Z%C3%A9_Felipe%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Record Goiás / CC BY 3.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Zé Felipe teria feito convite inesperado a Karoline Lima após suposto affair",
     "link": "https://www.terra.com.br/diversao/gente/ze-felipe-teria-feito-convite-inesperado-a-karoline-lima-apos-suposto-affair,07e4a7c5526979eefebc1332bcb69b23fjpedhiu.html",
@@ -19947,6 +19974,15 @@
   "nome": "Narcisa Tamborindeguy",
   "itens": [
    {
+    "titulo": "Narcisa Tamborindeguy diz se arrepender 'profundamente' de não ter mantido relação com filho de Frank Sinatra",
+    "link": "https://gshow.globo.com/gnt/que-historia-e-essa-porchat/noticia/narcisa-tamborindeguy-diz-se-arrepender-profundamente-de-nao-ter-mantido-relacao-com-filho-de-frank-sinatra.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-25T09:07:52.315757+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Narcisa_-_Lady_Night_2024.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Narcisa Tamborindeguy conta como perdeu prêmio milionário na loteria canadense",
     "link": "https://gshow.globo.com/gnt/que-historia-e-essa-porchat/noticia/narcisa-tamborindeguy-conta-como-perdeu-premio-milionario-na-loteria-canadense.ghtml",
     "fonte": "Gshow",
@@ -19955,7 +19991,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Narcisa_-_Lady_Night_2024.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "halle-berry": {
   "nome": "Halle Berry",
