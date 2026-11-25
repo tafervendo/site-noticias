@@ -73228,5 +73228,60 @@
   "descricao": "automobilista britânico, heptacampeão mundial de Fórmula 1",
   "nasc": 1985,
   "morte": null
+ },
+ "v:Carolinie Figueiredo": {
+  "descricao": "atriz brasileira",
+  "nasc": 1989,
+  "morte": null
+ },
+ "p:Carolinie Figueiredo": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Carolinie_Figueiredo%2C_2020_%28cropped-02%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Minerva97 / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Carolinie_Figueiredo,_2020_(cropped-02).jpg"
+ },
+ "v:Hugo Carvana": {
+  "descricao": "ator brasileiro (1937–2014)",
+  "nasc": 1937,
+  "morte": 2014
+ },
+ "v:Boca Rosa": {
+  "descricao": "influenciadora digital e empresária brasileira",
+  "nasc": 1994,
+  "morte": null
+ },
+ "p:Boca Rosa": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Web_Summit_Rio_2025_-_1251_%2854487944998%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Web Summit Rio from Rio de Janeiro, Brazil / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Web_Summit_Rio_2025_-_1251_(54487944998).jpg"
+ },
+ "v:Rosinha Garotinho": {
+  "descricao": "política brasileira",
+  "nasc": 1963,
+  "morte": null
+ },
+ "p:Rosinha Garotinho": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/35/Visitas.Visitantes_%2816894960340%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Senado Federal / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Visitas.Visitantes_(16894960340)_(cropped).jpg"
+ },
+ "v:Quarto de Milha": {
+  "descricao": "raça de cavalo",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Geraldo Carneiro": {
+  "descricao": "poeta, letrista, dramaturgo e roteirista brasileiro",
+  "nasc": 1952,
+  "morte": null
+ },
+ "v:John Dolmayan": {
+  "descricao": "baterista armênio-americano",
+  "nasc": 1972,
+  "morte": null
+ },
+ "v:New Order": {
+  "descricao": "Banda britânica",
+  "nasc": null,
+  "morte": null
  }
 }
