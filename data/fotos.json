@@ -73283,5 +73283,15 @@
   "descricao": "Banda britânica",
   "nasc": null,
   "morte": null
+ },
+ "v:Luan Pereira": {
+  "descricao": "cantor brasileiro",
+  "nasc": 2003,
+  "morte": null
+ },
+ "p:Luan Pereira": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Luan_Pereira_em_2025.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Na Tv com a Madrinha / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Luan_Pereira_em_2025.png"
  }
 }
