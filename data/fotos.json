@@ -73163,5 +73163,30 @@
   "descricao": "",
   "nasc": null,
   "morte": null
+ },
+ "v:Christiane Torloni": {
+  "descricao": "atriz brasileira",
+  "nasc": 1957,
+  "morte": null
+ },
+ "p:Christiane Torloni": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/2022-03-09_Audi%C3%AAncia_Ato_Pela_Terra_-_51929002159_%28Christiane_Torloni%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Senado Federal / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:2022-03-09_Audi%C3%AAncia_Ato_Pela_Terra_-_51929002159_(Christiane_Torloni).jpg"
+ },
+ "v:Hiroyuki Sanada": {
+  "descricao": "ator japonês",
+  "nasc": 1960,
+  "morte": null
+ },
+ "p:Hiroyuki Sanada": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Hiro_Sanada.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: The MacGuffin / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Hiro_Sanada.png"
+ },
+ "v:Winston Churchill": {
+  "descricao": "político e escritor britânico (1874–1965)",
+  "nasc": 1874,
+  "morte": 1965
  }
 }
