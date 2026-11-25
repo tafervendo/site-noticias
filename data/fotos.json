@@ -73188,5 +73188,40 @@
   "descricao": "político e escritor britânico (1874–1965)",
   "nasc": 1874,
   "morte": 1965
+ },
+ "v:Fafá de Belém": {
+  "descricao": "cantora e compositora brasileira",
+  "nasc": 1956,
+  "morte": null
+ },
+ "p:Fafá de Belém": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Faf%C3%A1_de_Bel%C3%A9m_2022.JPG/1280px-Faf%C3%A1_de_Bel%C3%A9m_2022.JPG?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: amigosdaarte / CC0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Faf%C3%A1_de_Bel%C3%A9m_2022.JPG"
+ },
+ "v:Nathália Timberg": {
+  "descricao": "atriz, dama do teatro e da teledramaturgia brasileira",
+  "nasc": 1929,
+  "morte": null
+ },
+ "v:Cinema Novo": {
+  "descricao": "movimento cinematográfico brasileiro",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Young Thug": {
+  "descricao": "Rapper e cantor americano",
+  "nasc": 1991,
+  "morte": null
+ },
+ "p:Young Thug": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Young_Thug_-_Openair_Frauenfeld_2019_20.jpg/1280px-Young_Thug_-_Openair_Frauenfeld_2019_20.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Frank Schwichtenberg / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Young_Thug_-_Openair_Frauenfeld_2019_20.jpg"
+ },
+ "v:Miriam Mehler": {
+  "descricao": "actriz brasileira",
+  "nasc": 1935,
+  "morte": null
  }
 }
