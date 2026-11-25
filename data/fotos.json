@@ -73068,5 +73068,25 @@
   "descricao": "atriz e apresentadora brasileira",
   "nasc": 1978,
   "morte": null
+ },
+ "v:Porto Rico": {
+  "descricao": "ilha caribenha e território não incorporado dos Estados Unidos",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Baruch Spinoza": {
+  "descricao": "Filósofo português-holandês (1632–1677)",
+  "nasc": 1632,
+  "morte": 1677
+ },
+ "v:Sonho Meu": {
+  "descricao": "telenovela brasileira produzida e exibida pela Rede Globo",
+  "nasc": null,
+  "morte": null
+ },
+ "p:Taís Araújo": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Ta%C3%ADs_Ara%C3%BAjo_2025_%28cropped%29.jpg/1280px-Ta%C3%ADs_Ara%C3%BAjo_2025_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Web Summit Rio from Rio de Janeiro, Brazil / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Ta%C3%ADs_Ara%C3%BAjo_2025_(cropped).jpg"
  }
 }

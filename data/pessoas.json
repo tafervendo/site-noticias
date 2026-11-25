@@ -19665,6 +19665,15 @@
   "nome": "Ana Paula Padrão",
   "itens": [
    {
+    "titulo": "Aos 61 anos, Ana Paula Padrão transforma mansão em Portugal em refúgio para novos projetos",
+    "link": "https://caras.com.br/casa-dos-famosos/aos-61-anos-ana-paula-padrao-transforma-mansao-em-portugal-em-refugio-para-novos-projetos.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-25T05:06:49+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2024-08-22_Inaugura%C3%A7%C3%A3o_da_Sala_Digital_Band_Google%2C_10_%28Ana_Paula_Padr%C3%A3o%29.jpg/1280px-2024-08-22_Inaugura%C3%A7%C3%A3o_da_Sala_Digital_Band_Google%2C_10_%28Ana_Paula_Padr%C3%A3o%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Governo do Estado de São Paulo / CC BY 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Ana Paula Padrão rebate etarismo e abre o coração sobre o MasterChef: ‘Estou cada vez melhor’",
     "link": "https://caras.com.br/entrevistas/ana-paula-padrao-rebate-etarismo-e-abre-o-coracao-sobre-o-masterchef-estou-cada-vez-melhor.phtml",
     "fonte": "Caras",
@@ -19673,7 +19682,8 @@
     "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2024-08-22_Inaugura%C3%A7%C3%A3o_da_Sala_Digital_Band_Google%2C_10_%28Ana_Paula_Padr%C3%A3o%29.jpg/1280px-2024-08-22_Inaugura%C3%A7%C3%A3o_da_Sala_Digital_Band_Google%2C_10_%28Ana_Paula_Padr%C3%A3o%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "credito": "Foto: Governo do Estado de São Paulo / CC BY 2.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "jonas-bloch": {
   "nome": "Jonas Bloch",
