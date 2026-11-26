@@ -74044,5 +74044,40 @@
   "descricao": "",
   "nasc": null,
   "morte": null
+ },
+ "v:Marcelo Teixeira": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Mercado Livre": {
+  "descricao": "empresa argentina de comércio eletrônico",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Tom Hardy": {
+  "descricao": "ator, produtor e roteirista britânico",
+  "nasc": 1977,
+  "morte": null
+ },
+ "p:Tom Hardy": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/14/Tom_Hardy_by_Gage_Skidmore_in_2018.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Gage Skidmore / CC BY-SA 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Tom_Hardy_by_Gage_Skidmore_in_2018.jpg"
+ },
+ "v:Gossip Girl": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Manuel Neuer": {
+  "descricao": "futebolista alemão",
+  "nasc": 1986,
+  "morte": null
+ },
+ "p:Manuel Neuer": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Manuel_Neuer_Ecuador_v_Germany_25_June_2026-148.jpg/1280px-Manuel_Neuer_Ecuador_v_Germany_25_June_2026-148.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Bryan Berlin / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Manuel_Neuer_Ecuador_v_Germany_25_June_2026-148.jpg"
  }
 }
