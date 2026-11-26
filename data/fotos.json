@@ -73631,5 +73631,35 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Nathan_Fielder_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: Northwest / CC BY-SA 4.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Nathan_Fielder_(cropped).jpg"
+ },
+ "p:Hayden Panettiere": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/04/Hayden_Panettiere_2009_%28Straighten_Crop%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Toglenn / CC BY-SA 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Hayden_Panettiere_2009_(Straighten_Crop).jpg"
+ },
+ "v:Kid Cudi": {
+  "descricao": "cantor e rapper norte-americano",
+  "nasc": 1984,
+  "morte": null
+ },
+ "p:Kid Cudi": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/44/Kid_Cudi_2010_2_%28crop%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: brinsknaps / CC BY-SA 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Kid_Cudi_2010_2_(crop).jpg"
+ },
+ "v:Espírito Santo": {
+  "descricao": "terceira pessoa da Trindade, presente em grande parte do Cristianismo",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Serra do Mar": {
+  "descricao": "conjunto de serras que beira o Oceano Atlântico por cerca de 1500 km da costa brasileira",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Loterias Caixa": {
+  "descricao": "loterias brasileiras operadas pela Caixa Econômica Federal",
+  "nasc": null,
+  "morte": null
  }
 }
