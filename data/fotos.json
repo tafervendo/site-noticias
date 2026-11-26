@@ -73849,5 +73849,50 @@
   "descricao": "",
   "nasc": null,
   "morte": null
+ },
+ "v:Henri Castelli": {
+  "descricao": "ator brasileiro",
+  "nasc": 1978,
+  "morte": null
+ },
+ "p:Henri Castelli": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Henri_Castelli_2019.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Renato Cipriano / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Henri_Castelli_2019.jpg"
+ },
+ "v:Mick Jagger": {
+  "descricao": "cantor e compositor britânico",
+  "nasc": 1943,
+  "morte": null
+ },
+ "p:Mick Jagger": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/RStonesHydePark030722_%2849_of_125%29_%2852193656268%29_%28cropped%29.jpg/1280px-RStonesHydePark030722_%2849_of_125%29_%2852193656268%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Raph_PH / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:RStonesHydePark030722_(49_of_125)_(52193656268)_(cropped).jpg"
+ },
+ "v:Debora Bloch": {
+  "descricao": "atriz brasileira",
+  "nasc": 1963,
+  "morte": null
+ },
+ "v:Tame Impala": {
+  "descricao": "banda australiana de música psicodélica",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Carly Rae Jepsen": {
+  "descricao": "cantora, compositora e atriz canadense",
+  "nasc": 1985,
+  "morte": null
+ },
+ "p:Carly Rae Jepsen": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Carly_Rae_Jepsen_Primavera19_-146_%2848986111926%29_%28cropped%29.jpg/1280px-Carly_Rae_Jepsen_Primavera19_-146_%2848986111926%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Raph_PH / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Carly_Rae_Jepsen_Primavera19_-146_(48986111926)_(cropped).jpg"
+ },
+ "p:Debora Bloch": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/54/25%C2%BA_Pr%C3%AAmio_da_M%C3%BAsica_Brasileira_%2814190200532%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: 25º Prêmio da Música Brasileira / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:25%C2%BA_Pr%C3%AAmio_da_M%C3%BAsica_Brasileira_(14190200532)_(cropped).jpg"
  }
 }
