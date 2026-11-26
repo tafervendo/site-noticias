@@ -73722,5 +73722,40 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Images.3.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: Pedro Lucas Da silva / CC0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Images.3.jpg"
+ },
+ "v:Dora Morelenbaum": {
+  "descricao": "cantora, compositora e multi-instrumentista brasileira",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Vitor Belfort": {
+  "descricao": "lutador de MMA brasileiro",
+  "nasc": 1977,
+  "morte": null
+ },
+ "p:Vitor Belfort": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Vitor_belfort_cropped.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: https://www.flickr.com/photos/tiagoluiz/ / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Vitor_belfort_cropped.jpg"
+ },
+ "v:Adam Sandler": {
+  "descricao": "ator e comediante norte-americano",
+  "nasc": 1966,
+  "morte": null
+ },
+ "p:Adam Sandler": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Adam_Sandler_at_Berlinale_2024.jpg/1280px-Adam_Sandler_at_Berlinale_2024.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Elena Ternovaja / CC BY-SA 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Adam_Sandler_at_Berlinale_2024.jpg"
+ },
+ "v:Cream Cheese": {
+  "descricao": "Suave, queijo cremoso com alta taxa de gordura.",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Nintendo Switch": {
+  "descricao": "console híbrido de videojogos desenvolvido pela Nintendo",
+  "nasc": null,
+  "morte": null
  }
 }
