@@ -73934,5 +73934,55 @@
   "descricao": "Banda midwest",
   "nasc": null,
   "morte": null
+ },
+ "v:The Vampire Diaries": {
+  "descricao": "série literária criada por L. J. Smith",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Liga Europa": {
+  "descricao": "competição continental de clubes de futebol organizada pela UEFA",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Eduardo Sterblitch": {
+  "descricao": "Humorista e ator brasileiro",
+  "nasc": 1987,
+  "morte": null
+ },
+ "p:Eduardo Sterblitch": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Eduardo_Sterblitch.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Eduardo_Sterblitch.png"
+ },
+ "v:Clint Eastwood": {
+  "descricao": "ator e diretor de cinema americano (nascido em 1930)",
+  "nasc": 1930,
+  "morte": null
+ },
+ "p:Clint Eastwood": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Clint_Eastwood_visits_MCB_Camp_Pendleton_%281%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Lance Cpl. Melissa I. Ugalde / Public domain, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Clint_Eastwood_visits_MCB_Camp_Pendleton_(1)_(cropped).jpg"
+ },
+ "v:Caroline Dallarosa": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Colman Domingo": {
+  "descricao": "Ator, roteirista e produtor norte-americano",
+  "nasc": 1969,
+  "morte": null
+ },
+ "p:Colman Domingo": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Colman_Domingo_at_SXSW_2024.jpg/1280px-Colman_Domingo_at_SXSW_2024.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Danorton / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Colman_Domingo_at_SXSW_2024.jpg"
+ },
+ "v:Avenida Paulista": {
+  "descricao": "avenida em São Paulo",
+  "nasc": null,
+  "morte": null
  }
 }

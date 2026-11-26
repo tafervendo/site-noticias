@@ -4900,6 +4900,15 @@
   "nome": "Matt Damon",
   "itens": [
    {
+    "titulo": "O melhor filme de todos os tempos, segundo Matt Damon",
+    "link": "https://www.terra.com.br/diversao/entre-telas/o-melhor-filme-de-todos-os-tempos-segundo-matt-damon,7aa8e3917cb0126609a2350fd5675325kjnf5sbn.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-26T20:05:02+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/MattDamon-byPhilipRomano2.jpg/1280px-MattDamon-byPhilipRomano2.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: PhilipRomano / CC BY-SA 4.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Matt Damon revela regra inegociável que as quatro filhas precisam respeitar dentro de casa; saiba qual é Matt Damon revela regra inegociável que as quatro filhas precisam respeitar dentro de casa; saiba qual é",
     "link": "https://hugogloss.uol.com.br/famosos/matt-damon-filhas/",
     "fonte": "Hugo Gloss",
@@ -4908,7 +4917,8 @@
     "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/MattDamon-byPhilipRomano2.jpg/1280px-MattDamon-byPhilipRomano2.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "credito": "Foto: PhilipRomano / CC BY-SA 4.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "andressa-urach": {
   "nome": "Andressa Urach",
@@ -6275,6 +6285,15 @@
  "nikolas-ferreira": {
   "nome": "Nikolas Ferreira",
   "itens": [
+   {
+    "titulo": "Vidente prevê que Nikolas Ferreira levará rasteira e será exposto por mulher: “Sofrimento”",
+    "link": "https://tvfoco.uai.com.br/vidente-preve-que-nikolas-ferreira-levara-rasteira-e-sera-exposto-por-mulher-sofrimento/",
+    "fonte": "OTV Foco",
+    "categoria": "televisao",
+    "data": "2026-11-26T20:00:00+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nikolas_Ferreira_in_2023_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Pablo Valadares / Câmara dos Deputados / CC BY 3.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Nikolas Ferreira debocha de Lula e ironiza alta da moeda: ‘É hexa’",
     "link": "https://contigo.com.br/noticias/famosos/nikolas-ferreira-debocha-de-lula-e-ironiza-alta-da-moeda-e-hexa.phtml",
@@ -9646,6 +9665,15 @@
  "gracyanne-barbosa": {
   "nome": "Gracyanne Barbosa",
   "itens": [
+   {
+    "titulo": "Abuso psicológico e ameaças: Gracyanne Barbosa expõe falas de Belo: ‘Posso acabar com você’",
+    "link": "https://contigo.com.br/noticias/famosos/abuso-psicologico-e-ameacas-gracyanne-barbosa-expoe-falas-de-belo-posso-acabar-com-voce.phtml",
+    "fonte": "Contigo",
+    "categoria": "celebridades",
+    "data": "2026-11-26T19:52:59+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Gracyanne_Barbosa_-_Mesacast_BBB_2025.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow / CC BY 4.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Gracyanne Barbosa afirma que sofreu pressão de Belo: 'Eu sou o Belo e posso acabar com você'",
     "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/gracyanne-barbosa-afirma-que-sofreu-pressao-de-belo-eu-sou-o-belo-e-posso-acabar-com-voce.ghtml",
@@ -15343,6 +15371,15 @@
   "nome": "Travis Barker",
   "itens": [
    {
+    "titulo": "Khloé Kardashian entrega revelação feita por Travis Barker sobre sua relação com Kourtney Khloé e Travis falam sobre forma com a qual Kourtney gerencia suas relações. (Foto: Getty / Reprodução ; Instagram)",
+    "link": "https://hugogloss.uol.com.br/buzz/vinoinstagram/khloe-travis-kourtney/",
+    "fonte": "Hugo Gloss",
+    "categoria": "virais",
+    "data": "2026-11-26T20:45:40+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Khloe_Kardashian_Glamour_2.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Eric Longden / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Travis Barker faz discurso emocionante em homenagem a Phil Collins; leia na íntegra",
     "link": "https://www.terra.com.br/diversao/musica/meu-sonora/rock/travis-barker-faz-discurso-emocionante-em-homenagem-a-phil-collins-leia-na-integra,05f2e2ac3b0b35ed7c1ca45748b77868rdat4eba.html",
     "fonte": "Terra",
@@ -15351,7 +15388,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/TravisBarker.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Journalist 2nd Class Denny Lester / Public domain, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "ze-neto": {
   "nome": "Zé Neto",
@@ -16645,6 +16683,15 @@
   "nome": "Letícia Colin",
   "itens": [
    {
+    "titulo": "Letícia Colin aos 36 anos: declarações e momentos especiais com o filho de 7 anos",
+    "link": "https://caras.com.br/atualidades/leticia-colin-maternidade-falas-sobre-uri.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-26T19:32:16+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Let%C3%ADcia_Colin_2026.jpg/1280px-Let%C3%ADcia_Colin_2026.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Globoplay Novelas / CC BY 4.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Letícia Colin, de 'Quem Ama Cuida', aparece com 'cara de choro' e explica motivo; vídeo",
     "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/leticia-colin-de-quem-ama-cuida-aparece-com-cara-de-choro-e-explica-motivo-video.ghtml",
     "fonte": "Quem",
@@ -17304,6 +17351,15 @@
  "rafael-cardoso": {
   "nome": "Rafael Cardoso",
   "itens": [
+   {
+    "titulo": "Rafael Cardoso celebra quase 6 meses de tratamento contra o vício: 'Uma escolha diária'",
+    "link": "https://revistaquem.globo.com/saude/noticia/2026/11/rafael-cardoso-celebra-quase-6-meses-de-tratamento-contra-o-vicio-uma-escolha-diaria.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-26T20:53:35.979797+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Rafael_Cardoso.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Tupperware Brasil / CC BY 3.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Aos 12 anos, filha de Rafael Cardoso e Mari Bridi orgulha os pais com rotina dedicada aos estudos",
     "link": "https://caras.com.br/atualidades/aos-12-anos-filha-de-rafael-cardoso-e-mari-bridi-orgulha-os-pais-com-rotina-dedicada-aos-estudos.phtml",
@@ -21809,6 +21865,15 @@
   "nome": "Ronaldo Fenômeno",
   "itens": [
    {
+    "titulo": "Ronaldo Fenômeno ganha chamego de Celina Locks em torneio de tênis em São Paulo",
+    "link": "https://gshow.globo.com/cultura-pop/noticia/ronaldo-fenomeno-ganha-chamego-de-celina-locks-em-torneio-de-tenis-em-sao-paulo.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-26T20:53:35.979797+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/36/12.12.2025_%E2%80%93_Cerim%C3%B4nia_de_lan%C3%A7amento_do_SBT_News_-_54980664160_%28cropped2%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Lula Oficial / CC BY-SA 4.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Terno azul e beleza do filho mais velho de Ronaldo Fenômeno atraem olhares em evento: 'Nossa'",
     "link": "https://www.terra.com.br/diversao/gente/terno-azul-e-beleza-do-filho-mais-velho-de-ronaldo-fenomeno-atraem-olhares-em-evento-nossa,1e4060cd427dca77fac1910d210388dccb8zmjdn.html",
     "fonte": "Terra",
@@ -21986,6 +22051,15 @@
   "nome": "Narcisa Tamborindeguy",
   "itens": [
    {
+    "titulo": "VÍDEO: Narcisa Tamborindeguy expõe traição de funcionário que a fez perder fortuna milionária",
+    "link": "https://www.terra.com.br/diversao/gente/video-narcisa-tamborindeguy-expoe-traicao-de-funcionario-que-a-fez-perder-fortuna-milionaria,2ab96428aa33471c32a86c3ada5f1f6cz98rog08.html",
+    "fonte": "Terra",
+    "categoria": "virais",
+    "data": "2026-11-26T20:01:58+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Narcisa_-_Lady_Night_2024.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Narcisa Tamborindeguy revela que perdeu fortuna na loteria do Canadá após golpe de motorista, e surpreende com desfecho do caso; assista Narcisa Tamborindeguy revela que perdeu fortuna na loteria do Canadá após golpe de motorista, e surpreende com desfecho do caso; assista",
     "link": "https://hugogloss.uol.com.br/famosos/narcisa-loteria-golpe/",
     "fonte": "Hugo Gloss",
@@ -22069,6 +22143,15 @@
  "khloe-kardashian": {
   "nome": "Khloé Kardashian",
   "itens": [
+   {
+    "titulo": "Khloé Kardashian entrega revelação feita por Travis Barker sobre sua relação com Kourtney Khloé e Travis falam sobre forma com a qual Kourtney gerencia suas relações. (Foto: Getty / Reprodução ; Instagram)",
+    "link": "https://hugogloss.uol.com.br/buzz/vinoinstagram/khloe-travis-kourtney/",
+    "fonte": "Hugo Gloss",
+    "categoria": "virais",
+    "data": "2026-11-26T20:45:40+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/01/Khloe_Kardashian_Glamour_2.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Eric Longden / CC BY 3.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Khloé Kardashian relembra susto após procedimentos estéticos feitos com a irmã, Kim: 'Voltamos deformadas'",
     "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/khloe-kardashian-relembra-susto-apos-procedimentos-esteticos-feitos-com-a-irma-kim-voltamos-deformadas.ghtml",
@@ -23108,6 +23191,15 @@
   "nome": "Craque Neto",
   "itens": [
    {
+    "titulo": "Craque Neto diz que ficou “constrangido” em encontro com Neymar, explica o motivo e faz confissão; assista Craque Neto e Neymar. (Fotos: Getty/ Reprodução; Instagram)",
+    "link": "https://hugogloss.uol.com.br/esportes/craque-neto-neymar/",
+    "fonte": "Hugo Gloss",
+    "categoria": "virais",
+    "data": "2026-11-26T20:20:46+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Craque_Neto.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Show do Esporte / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Entenda a origem da briga entre Neymar e Craque Neto",
     "link": "https://www.terra.com.br/diversao/tv/entenda-a-origem-da-briga-entre-neymar-e-craque-neto,7e1915bb59392b7f42cb06689f499db5a6coa9ls.html",
     "fonte": "Terra",
@@ -23116,7 +23208,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Craque_Neto.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: Show do Esporte / CC BY 3.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "tini-stoessel": {
   "nome": "Tini Stoessel",
@@ -23157,6 +23250,48 @@
     "data": "2026-11-26T18:35:30+00:00",
     "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_%28cropped%29.jpg/1280px-Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "credito": "Foto: U.S. Secretary of Defense / Public domain, via Wikimedia Commons"
+   }
+  ]
+ },
+ "eduardo-sterblitch": {
+  "nome": "Eduardo Sterblitch",
+  "itens": [
+   {
+    "titulo": "Recusou protagonista? Eduardo Sterblitch expõe convite para 'Quem Ama Cuida' e revela: 'Escrito para mim'",
+    "link": "https://www.terra.com.br/diversao/gente/recusou-protagonista-eduardo-sterblitch-expoe-convite-para-quem-ama-cuida-e-revela-escrito-para-mim,1619691e429999322b04d28e66cd15d8gufbe039.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-26T20:29:58+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Eduardo_Sterblitch.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "clint-eastwood": {
+  "nome": "Clint Eastwood",
+  "itens": [
+   {
+    "titulo": "Clint Eastwood, de 96 anos, tem forte opinião sobre a Hollywood moderna: 'Vivemos em uma geração excessivamente sensível. Todo mundo está pisando em ovos'",
+    "link": "https://www.terra.com.br/diversao/gente/clint-eastwood-de-96-anos-tem-forte-opiniao-sobre-a-hollywood-moderna-vivemos-em-uma-geracao-excessivamente-sensivel-todo-mundo-esta-pisando-em-ovos,8769c7a8f1f57a71301b0a335037c6fc0fmwlmgi.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-26T20:28:34+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Clint_Eastwood_visits_MCB_Camp_Pendleton_%281%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Lance Cpl. Melissa I. Ugalde / Public domain, via Wikimedia Commons"
+   }
+  ]
+ },
+ "colman-domingo": {
+  "nome": "Colman Domingo",
+  "itens": [
+   {
+    "titulo": "Colman Domingo rebate internauta que chamou sua atuação em 'Michael' de 'medíocre': 'Quem te magoou?'",
+    "link": "https://www.terra.com.br/diversao/entre-telas/colman-domingo-rebate-internauta-que-chamou-sua-atuacao-em-michael-de-mediocre-quem-te-magoou,6419b70725547c075b1f47cec24295134k0rf1ii.html",
+    "fonte": "Terra",
+    "categoria": "ultimas",
+    "data": "2026-11-26T20:05:05+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Colman_Domingo_at_SXSW_2024.jpg/1280px-Colman_Domingo_at_SXSW_2024.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Danorton / CC BY-SA 4.0, via Wikimedia Commons"
    }
   ]
  }
