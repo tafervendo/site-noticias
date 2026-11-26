@@ -22483,6 +22483,15 @@
   "nome": "Vitor Belfort",
   "itens": [
    {
+    "titulo": "Vitor Belfort faz confissão sobre vício que tem afetado sua relação com a família",
+    "link": "https://contigo.com.br/noticias/famosos/vitor-belfort-faz-confissao-sobre-vicio-que-tem-afetado-sua-relacao-com-a-familia.phtml",
+    "fonte": "Contigo",
+    "categoria": "celebridades",
+    "data": "2026-11-26T14:39:00+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Vitor_belfort_cropped.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: https://www.flickr.com/photos/tiagoluiz/ / CC BY 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Vitor Belfort admite vício em celular: 'Adversário mais difícil que já enfrentei'",
     "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/vitor-belfort-admite-vicio-em-celular-adversario-mais-dificil-que-ja-enfrentei.ghtml",
     "fonte": "Quem",
@@ -22491,7 +22500,8 @@
     "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Vitor_belfort_cropped.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "credito": "Foto: https://www.flickr.com/photos/tiagoluiz/ / CC BY 2.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "adam-sandler": {
   "nome": "Adam Sandler",
@@ -22504,6 +22514,20 @@
     "data": "2026-11-26T14:16:28+00:00",
     "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Adam_Sandler_at_Berlinale_2024.jpg/1280px-Adam_Sandler_at_Berlinale_2024.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "credito": "Foto: Elena Ternovaja / CC BY-SA 3.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "nathalia-dill": {
+  "nome": "Nathalia Dill",
+  "itens": [
+   {
+    "titulo": "Quem é o marido de Nathalia Dill? Atriz de ‘Quem Ama Cuida’ vive união discreta há 8 anos com músico",
+    "link": "https://caras.com.br/atualidades/quem-e-o-marido-de-nathalia-dill-atriz-de-quem-ama-cuida-vive-uniao-discreta-ha-8-anos-com-musico.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-26T14:31:50+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Nathalia_Dill_01.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Mundo GTV / CC BY 3.0, via Wikimedia Commons"
    }
   ]
  }
