@@ -73833,5 +73833,21 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Bianca_Rinaldi_2020.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: Poltrona Vip / CC BY 3.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Bianca_Rinaldi_2020.jpg"
+ },
+ "v:Luis Lobianco": {
+  "descricao": "ator brasileiro",
+  "nasc": 1982,
+  "morte": null
+ },
+ "p:Luis Lobianco": null,
+ "v:Divina Comédia": {
+  "descricao": "obra de Dante Alighieri",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Homem do Amanhã": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
  }
 }
