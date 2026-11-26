@@ -4516,6 +4516,15 @@
   "nome": "Sabrina Sato",
   "itens": [
    {
+    "titulo": "À espera de Rio, Sabrina Sato e Nicolas Prattes contam quais sonhos ainda querem realizar juntos",
+    "link": "https://gshow.globo.com/cultura-pop/noticia/a-espera-de-rio-sabrina-sato-e-nicolas-prattes-contam-quais-sonhos-ainda-querem-realizar-juntos.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-26T10:32:37.191669+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sabrina_Sato_at_the_Lady_Night_in_2022_%2802%29.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Sabrina Sato explica escolha e grafia do nome do caçula: 'Honrar minhas raízes'",
     "link": "https://revistaquem.globo.com/noticias/filhos-dos-famosos/noticia/2026/11/sabrina-sato-explica-escolha-e-grafia-do-nome-do-cacula-honrar-minhas-raizes.ghtml",
     "fonte": "Quem",
@@ -5146,6 +5155,15 @@
   "nome": "Wesley Safadão",
   "itens": [
    {
+    "titulo": "Ele cresceu! Filho de Mileide Mihaile e Wesley Safadão completa 16 anos e impressiona pela altura",
+    "link": "https://gshow.globo.com/cultura-pop/noticia/ele-cresceu-filho-de-mileide-mihaile-e-wesley-safadao-completa-16-anos-e-impressiona-pela-altura.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-26T10:32:37.191669+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Wesley_Safad%C3%A3o_Citibank_Hall_2017_%2836674588052%29_%28cropped%29.jpg/1280px-Wesley_Safad%C3%A3o_Citibank_Hall_2017_%2836674588052%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Teca Lamboglia / CC BY-SA 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Aos 37 anos, Wesley Safadão comanda fazenda que se tornou império rural com cavalos avaliados em R$ 7,2 milhões",
     "link": "https://caras.com.br/atualidades/37-anos-wesley-safadao-comanda-fazenda-tornou-imperio-rural-cavalos-avaliados-r-72-milhoes.phtml",
     "fonte": "Caras",
@@ -5154,7 +5172,8 @@
     "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Wesley_Safad%C3%A3o_Citibank_Hall_2017_%2836674588052%29_%28cropped%29.jpg/1280px-Wesley_Safad%C3%A3o_Citibank_Hall_2017_%2836674588052%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "credito": "Foto: Teca Lamboglia / CC BY-SA 2.0, via Wikimedia Commons"
    }
-  ]
+  ],
+  "publicada": true
  },
  "natuza-nery": {
   "nome": "Natuza Nery",
@@ -7766,6 +7785,15 @@
   "nome": "Luciano Huck",
   "itens": [
    {
+    "titulo": "Aos 21 anos, filho de Luciano Huck e Angélica troca Nova York por São Paulo e dá novo passo na carreira",
+    "link": "https://caras.com.br/atualidades/aos-21-anos-filho-de-luciano-huck-e-angelica-troca-nova-york-por-sao-paulo-e-da-novo-passo-na-carreira.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-26T10:17:20+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/15/Luciano_Huck_in_April_2019.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Romério Cunha / CC BY 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Luciano Huck tem investimento exótico que ninguém imagina; veja o que ele planta",
     "link": "https://www.terra.com.br/diversao/gente/luciano-huck-tem-investimento-exotico-que-ninguem-imagina-veja-o-que-ele-planta,1c7417b1f6bb0ae118e69ce67aa55eb5wl237b6g.html",
     "fonte": "Terra",
@@ -9927,6 +9955,15 @@
  "nicolas-prattes": {
   "nome": "Nicolas Prattes",
   "itens": [
+   {
+    "titulo": "À espera de Rio, Sabrina Sato e Nicolas Prattes contam quais sonhos ainda querem realizar juntos",
+    "link": "https://gshow.globo.com/cultura-pop/noticia/a-espera-de-rio-sabrina-sato-e-nicolas-prattes-contam-quais-sonhos-ainda-querem-realizar-juntos.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-26T10:32:37.191669+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sabrina_Sato_at_the_Lady_Night_in_2022_%2802%29.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Sabrina Sato explica escolha do nome para o filho com Nicolas Prattes e revela significado; assista (Foto: Globo/ Leo Rosário)",
     "link": "https://hugogloss.uol.com.br/famosos/sabrina-sato-rio/",
@@ -22100,6 +22137,20 @@
     "data": "2026-11-26T02:47:02+00:00",
     "imagem": "",
     "credito": ""
+   }
+  ]
+ },
+ "nathan-fielder": {
+  "nome": "Nathan Fielder",
+  "itens": [
+   {
+    "titulo": "'Tudo Pode Ser Visto': Nathan Fielder faz do cinema mágica - 25/11/2026 - Ilustrada",
+    "link": "https://www1.folha.uol.com.br/ilustrada/2026/11/nathan-fielder-do-aclamado-tudo-pode-ser-visto-faz-do-cinema-um-truque-de-magica.shtml",
+    "fonte": "Folha de S.Paulo",
+    "categoria": "em-alta",
+    "data": "2026-11-26T09:30:00+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Nathan_Fielder_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Northwest / CC BY-SA 4.0, via Wikimedia Commons"
    }
   ]
  }

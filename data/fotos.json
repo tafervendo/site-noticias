@@ -73621,5 +73621,15 @@
   "descricao": "município brasileiro do estado de Mato Grosso",
   "nasc": null,
   "morte": null
+ },
+ "v:Nathan Fielder": {
+  "descricao": "Humorista canadense (nascido em 1983)",
+  "nasc": 1983,
+  "morte": null
+ },
+ "p:Nathan Fielder": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Nathan_Fielder_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Northwest / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Nathan_Fielder_(cropped).jpg"
  }
 }
