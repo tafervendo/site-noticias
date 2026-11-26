@@ -73661,5 +73661,66 @@
   "descricao": "loterias brasileiras operadas pela Caixa Econômica Federal",
   "nasc": null,
   "morte": null
+ },
+ "v:Cíntia Chagas": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Karina Bacchi": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Gisele Frade": {
+  "descricao": "atriz de televisão brasileira",
+  "nasc": 1985,
+  "morte": null
+ },
+ "p:Gisele Frade": null,
+ "v:Zona Norte": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Kevin Feige": {
+  "descricao": "Presidente da Marvel Studios e Diretor Criativo (CCO) da Marvel Entertainment",
+  "nasc": 1973,
+  "morte": null
+ },
+ "p:Kevin Feige": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Kevin_Feige_by_Gage_Skidmore.jpg/1280px-Kevin_Feige_by_Gage_Skidmore.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Gage Skidmore / CC BY-SA 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Kevin_Feige_by_Gage_Skidmore.jpg"
+ },
+ "v:Axé Brasil": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Rodrigo Teixeira": {
+  "descricao": "Produtor cinematográfico brasileiro",
+  "nasc": 1976,
+  "morte": null
+ },
+ "p:Rodrigo Teixeira": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Rodrigo_Teixeira_at_the_2026_New_York_Film_Festival-020_%28cropped%29.jpg/1280px-Rodrigo_Teixeira_at_the_2026_New_York_Film_Festival-020_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Bryan Berlin / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Rodrigo_Teixeira_at_the_2026_New_York_Film_Festival-020_(cropped).jpg"
+ },
+ "v:Rayssa Bratillieri": {
+  "descricao": "atriz brasileira",
+  "nasc": 1997,
+  "morte": null
+ },
+ "v:Rio Claro": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "p:Rayssa Bratillieri": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Images.3.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Pedro Lucas Da silva / CC0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Images.3.jpg"
  }
 }
