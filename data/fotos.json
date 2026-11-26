@@ -73591,5 +73591,10 @@
   "nasc": 1990,
   "morte": null
  },
- "p:Daniel Rocha": null
+ "p:Daniel Rocha": null,
+ "v:Steve Kerr": {
+  "descricao": "basquetebolista americano",
+  "nasc": 1965,
+  "morte": null
+ }
 }
