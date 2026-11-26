@@ -73469,5 +73469,35 @@
   "descricao": "empresário do ramo farmacêutico",
   "nasc": 1953,
   "morte": null
+ },
+ "p:Giovana Cordeiro": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Giovanna_Cordeiro.jpg/1280px-Giovanna_Cordeiro.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Multishow / CC BY 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Giovanna_Cordeiro.jpg"
+ },
+ "v:Play Store": {
+  "descricao": "plataforma de distribuição de aplicativos para o sistema operacional Android",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Débora do Batom": {
+  "descricao": "cabeleireira brasileira notória por ser condenada pelo Supremo Tribunal Federal a 14 anos de prisão por pichar de batom uma estátua",
+  "nasc": 1985,
+  "morte": null
+ },
+ "v:Joan Smalls": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Candice Swanepoel": {
+  "descricao": "supermodelo sul-africana",
+  "nasc": 1988,
+  "morte": null
+ },
+ "p:Candice Swanepoel": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Candice-Swanepoel_2010-03-31_VictoriasSecretStoreChicago_photo-by-Adam_Bielawski_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Photobra , Adam Bielawski / CC BY-SA 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Candice-Swanepoel_2010-03-31_VictoriasSecretStoreChicago_photo-by-Adam_Bielawski_(cropped).jpg"
  }
 }
