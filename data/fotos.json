@@ -73894,5 +73894,45 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/54/25%C2%BA_Pr%C3%AAmio_da_M%C3%BAsica_Brasileira_%2814190200532%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: 25º Prêmio da Música Brasileira / CC BY 2.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:25%C2%BA_Pr%C3%AAmio_da_M%C3%BAsica_Brasileira_(14190200532)_(cropped).jpg"
+ },
+ "v:Tini Stoessel": {
+  "descricao": "cantora, compositora e atriz argentina",
+  "nasc": 1997,
+  "morte": null
+ },
+ "p:Tini Stoessel": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/12/Tini_%282021%29_02.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Movistar Plus+ International / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Tini_(2021)_02.png"
+ },
+ "v:Real Estate": {
+  "descricao": "uma banda norte-americana",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Leandro Karnal": {
+  "descricao": "historiador, escritor e palestrante brasileiro",
+  "nasc": 1963,
+  "morte": null
+ },
+ "p:Leandro Karnal": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2022-08-09_Primeiro_dia_do_COMAC_SC%2C_026_%28Leandro_Karnal%29.jpg/1280px-2022-08-09_Primeiro_dia_do_COMAC_SC%2C_026_%28Leandro_Karnal%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: FECAM-SC / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:2022-08-09_Primeiro_dia_do_COMAC_SC,_026_(Leandro_Karnal).jpg"
+ },
+ "v:Morgan Freeman": {
+  "descricao": "ator e produtor norte-americano",
+  "nasc": 1937,
+  "morte": null
+ },
+ "p:Morgan Freeman": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_%28cropped%29.jpg/1280px-Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: U.S. Secretary of Defense / Public domain, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_(cropped).jpg"
+ },
+ "v:American Football": {
+  "descricao": "Banda midwest",
+  "nasc": null,
+  "morte": null
  }
 }
