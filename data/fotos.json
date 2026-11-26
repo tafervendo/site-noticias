@@ -73606,5 +73606,15 @@
   "descricao": "",
   "nasc": null,
   "morte": null
+ },
+ "v:Síndrome de Down": {
+  "descricao": "condição cromossómica congénita",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Balneário Camboriú": {
+  "descricao": "município brasileiro do estado de Santa Catarina",
+  "nasc": null,
+  "morte": null
  }
 }
