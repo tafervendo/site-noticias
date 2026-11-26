@@ -73984,5 +73984,65 @@
   "descricao": "avenida em São Paulo",
   "nasc": null,
   "morte": null
+ },
+ "v:Chico Buarque": {
+  "descricao": "músico, dramaturgo, escritor e ator brasileiro",
+  "nasc": 1944,
+  "morte": null
+ },
+ "p:Chico Buarque": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2a/06.12.2023_-_Jantar_na_casa_do_m%C3%BAsico_Chico_Buarque_de_Holanda_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Lula Oficial / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:06.12.2023_-_Jantar_na_casa_do_m%C3%BAsico_Chico_Buarque_de_Holanda_(cropped).jpg"
+ },
+ "v:Império de Casa Verde": {
+  "descricao": "Escola de Samba",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Christian Figueiredo": {
+  "descricao": "ator, youtuber e influenciador digital brasileiro",
+  "nasc": 1994,
+  "morte": null
+ },
+ "p:Christian Figueiredo": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/70/Christian_Figueiredo.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Christian_Figueiredo.png"
+ },
+ "v:Ação de Graças": {
+  "descricao": "data comemorativa",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Norges Bank": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Marcos Palmeira": {
+  "descricao": "ator brasileiro",
+  "nasc": 1963,
+  "morte": null
+ },
+ "p:Marcos Palmeira": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Marcospalmeira26022007.jpg/1280px-Marcospalmeira26022007.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: José Cruz/ABr / CC BY 3.0 br, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Marcospalmeira26022007.jpg"
+ },
+ "v:Jane Fonda": {
+  "descricao": "atriz e ativista americana (nascida em 1937)",
+  "nasc": 1937,
+  "morte": null
+ },
+ "p:Jane Fonda": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/20/Jane_Fonda_1963.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Studio / Public domain, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Jane_Fonda_1963.jpg"
+ },
+ "v:Biah Rodrigues": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
  }
 }
