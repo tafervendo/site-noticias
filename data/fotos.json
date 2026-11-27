@@ -74481,5 +74481,25 @@
  "_conferidas_dia": {
   "dia": "2026-11-27",
   "n": 100
+ },
+ "v:Demi Moore": {
+  "descricao": "atriz norte-americana",
+  "nasc": 1962,
+  "morte": null
+ },
+ "p:Demi Moore": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Demi_Moore_at_the_2026_Cannes_Film_Festival.jpg/1280px-Demi_Moore_at_the_2026_Cannes_Film_Festival.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Gabriel Hutchinson / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Demi_Moore_at_the_2026_Cannes_Film_Festival.jpg"
+ },
+ "v:Vanessa Lóes": {
+  "descricao": "Atriz brasileira",
+  "nasc": 1971,
+  "morte": null
+ },
+ "p:Vanessa Lóes": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Vanessa_L%C3%B3es_4.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Sérgio Savarese / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Vanessa_L%C3%B3es_4.jpg"
  }
 }

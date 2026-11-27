@@ -81,6 +81,15 @@
   "nome": "Ana Castela",
   "itens": [
    {
+    "titulo": "Ana Castela adquire bonecas raras de Dolly Parton avaliadas em mais de R$ 2 mil: 'Referência gigante'; confira",
+    "link": "https://revistaquem.globo.com/moda-e-beleza/estetica/noticia/2026/11/ana-castela-adquire-bonecas-raras-de-dolly-parton-avaliadas-em-mais-de-r-2-mil-referencia-gigante-confira.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-27T18:10:54.035798+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Ana_Castela_-_Ver%C3%A3o_Maior_Paran%C3%A1_2026_%28cropped%29_2.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Igor Jacinto/Vice Governadoria / CC0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Exclusiva: Virgínia e Ana Castela grávidas; vidente faz previsões quentíssimas",
     "link": "https://contigo.com.br/noticias/famosos/exclusiva-virginia-e-ana-castela-gravidas-vidente-faz-previsoes-quentissimas.phtml",
     "fonte": "Contigo",
@@ -9393,6 +9402,15 @@
  "humberto-martins": {
   "nome": "Humberto Martins",
   "itens": [
+   {
+    "titulo": "Humberto Martins passa por procedimento no cérebro e confirma volta ao trabalho",
+    "link": "https://revistaquem.globo.com/saude/noticia/2026/11/humberto-martins-passa-por-procedimento-no-cerebro-e-confirma-volta-ao-trabalho.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-27T18:10:54.035798+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Humberto_Martins_ator.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
    {
     "titulo": "Urgente: Veja o real estado de Humberto Martins após cirurgia na cabeça",
     "link": "https://www.terra.com.br/diversao/gente/urgente-veja-o-real-estado-de-humberto-martins-apos-cirurgia-na-cabeca,e942b66aa9d6c1d1e2754017e5dd39712ig8j6y8.html",
@@ -21419,6 +21437,15 @@
   "nome": "Thiago Lacerda",
   "itens": [
    {
+    "titulo": "Aos 19 anos, filho de Vanessa Lóes e Thiago Lacerda é discreto e trilha carreira com apoio dos pais",
+    "link": "https://caras.com.br/atualidades/aos-19-anos-filho-de-vanessa-loes-e-thiago-lacerda-e-discreto-e-trilha-carreira-com-apoio-dos-pais.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-27T18:02:49+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Vanessa_L%C3%B3es_4.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Sérgio Savarese / CC BY 2.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Aos 48 anos, como Thiago Lacerda encara a vida amorosa após fim de casamento de mais de 2 décadas?",
     "link": "https://caras.com.br/atualidades/aos-48-anos-como-thiago-lacerda-encara-a-vida-amorosa-apos-fim-de-casamento-de-mais-de-2-decadas.phtml",
     "fonte": "Caras",
@@ -25219,6 +25246,34 @@
     "data": "2026-11-27T17:04:59+00:00",
     "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Netinho_de_Paula.jpg/1280px-Netinho_de_Paula.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "credito": "Foto: Mílton Jung / CC BY 2.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "demi-moore": {
+  "nome": "Demi Moore",
+  "itens": [
+   {
+    "titulo": "Filha de Bruce Willis e Demi Moore mostra clique inédito com o ator: 'Gratidão'",
+    "link": "https://revistaquem.globo.com/noticias/noticia/2026/11/rummer-willis-posa-com-bruce-willis.ghtml",
+    "fonte": "Quem",
+    "categoria": "celebridades",
+    "data": "2026-11-27T18:10:54.035798+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Demi_Moore_at_the_2026_Cannes_Film_Festival.jpg/1280px-Demi_Moore_at_the_2026_Cannes_Film_Festival.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Gabriel Hutchinson / CC BY-SA 4.0, via Wikimedia Commons"
+   }
+  ]
+ },
+ "vanessa-loes": {
+  "nome": "Vanessa Lóes",
+  "itens": [
+   {
+    "titulo": "Aos 19 anos, filho de Vanessa Lóes e Thiago Lacerda é discreto e trilha carreira com apoio dos pais",
+    "link": "https://caras.com.br/atualidades/aos-19-anos-filho-de-vanessa-loes-e-thiago-lacerda-e-discreto-e-trilha-carreira-com-apoio-dos-pais.phtml",
+    "fonte": "Caras",
+    "categoria": "celebridades",
+    "data": "2026-11-27T18:02:49+00:00",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Vanessa_L%C3%B3es_4.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credito": "Foto: Sérgio Savarese / CC BY 2.0, via Wikimedia Commons"
    }
   ]
  }
