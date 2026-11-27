@@ -180,7 +180,7 @@ def montar():
 <h2 style="font-size:18px;margin:22px 0 6px">Matérias publicadas ontem</h2><ul>{linhas_pub or "<li>Nenhuma</li>"}</ul>
 <h2 style="font-size:18px;margin:22px 0 6px">Pedidos de remoção atendidos</h2><ul>{linhas_rem}</ul>
 <h2 style="font-size:18px;margin:22px 0 6px">Saúde do robô</h2>
-<p>{E(saude)} · gasto estimado com a IA: US$ {gasto:.2f} (limite de US$ 2 por mês)</p>
+<p>{E(saude)} · gasto estimado com a IA: US$ {gasto:.2f} (limite de US$ 3 por mês)</p>
 <h2 style="font-size:18px;margin:22px 0 6px">Ver os números</h2>
 <p><a href="https://analytics.google.com/">Visitas no Google Analytics</a> ·
 <a href="https://search.google.com/search-console?resource_id={E(base)}%2F">Buscas no Search Console</a> ·
