@@ -74231,5 +74231,25 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/95/Reuni%C3%A3o_com_Gleisi_Hoffmann%2C_Ministra_da_Secretaria_de_Rela%C3%A7%C3%B5es_Institucionais_-_SRI_%2854410212078%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: Vice-Presidência da República / CC BY 2.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Reuni%C3%A3o_com_Gleisi_Hoffmann,_Ministra_da_Secretaria_de_Rela%C3%A7%C3%B5es_Institucionais_-_SRI_(54410212078)_(cropped).jpg"
+ },
+ "v:Festival de Parintins": {
+  "descricao": "festa popular brasileira na cidade de Parintins, Amazonas, Brasil",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Faria Limer": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Marc Márquez": {
+  "descricao": "motovelocista espanhol",
+  "nasc": 1993,
+  "morte": null
+ },
+ "v:Diário Oficial": {
+  "descricao": "periódico publicado com amplo acesso e com valor de depósito legal, para registrar os atos do governo ou instituição aberta",
+  "nasc": null,
+  "morte": null
  }
 }
