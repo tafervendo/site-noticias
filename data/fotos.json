@@ -74346,5 +74346,85 @@
   "descricao": "banda musical",
   "nasc": null,
   "morte": null
+ },
+ "v:Bianca Castanho": {
+  "descricao": "atriz brasileira",
+  "nasc": 1979,
+  "morte": null
+ },
+ "p:Bianca Castanho": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bianca_Castanho2.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Sérgio (Savaman) Savarese / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Bianca_Castanho2.jpg"
+ },
+ "v:Nicole Scherzinger": {
+  "descricao": "cantora norte-americana",
+  "nasc": 1978,
+  "morte": null
+ },
+ "p:Nicole Scherzinger": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Nicole_Scherzinger_2012.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Toglenn / CC BY-SA 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Nicole_Scherzinger_2012.jpg"
+ },
+ "v:Sydney Sweeney": {
+  "descricao": "atriz norte-americana",
+  "nasc": 1997,
+  "morte": null
+ },
+ "p:Sydney Sweeney": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Sydney_Sweeney_at_the_2024_Toronto_International_Film_Festival_%28cropped%2C_rotated%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Jay Dixit / CC BY-SA 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Sydney_Sweeney_at_the_2024_Toronto_International_Film_Festival_(cropped,_rotated).jpg"
+ },
+ "v:Valle Nevado": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Arthur Aguiar": {
+  "descricao": "empresário, ex-ator e ex-cantor brasileiro",
+  "nasc": 1989,
+  "morte": null
+ },
+ "p:Arthur Aguiar": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Arthur_Aguiar_-_Big_Show_2026.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Multishow / CC BY 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Arthur_Aguiar_-_Big_Show_2026.png"
+ },
+ "v:Decoração de Natal": {
+  "descricao": "decorações usadas durante o período de Natal",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Linkin Park": {
+  "descricao": "banda de rock norte-americana",
+  "nasc": null,
+  "morte": null
+ },
+ "v:James Gray": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Escola de Rock": {
+  "descricao": "filme de 2003 dirigido por Richard Linklater",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Mestre Nuca": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Patrimônio Vivo de Pernambuco": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Hybrid Theory": {
+  "descricao": "primeiro álbum de estúdio da banda Linkin Park",
+  "nasc": null,
+  "morte": null
  }
 }
