@@ -74251,5 +74251,50 @@
   "descricao": "periódico publicado com amplo acesso e com valor de depósito legal, para registrar os atos do governo ou instituição aberta",
   "nasc": null,
   "morte": null
+ },
+ "v:Lucas Lima": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Chapada dos Veadeiros": {
+  "descricao": "Parque Nacional da Chapada dos Veadeiros de nível Federal, localizado (a) em Alto Paraíso de Goiás (GO), Cavalcante (GO), Nova Roma (GO), São João D'Aliança (GO), Teresina de Goiás (GO)",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Cameron Crowe": {
+  "descricao": "Diretor de cinema",
+  "nasc": 1957,
+  "morte": null
+ },
+ "p:Cameron Crowe": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/93/Cameron_Crowe_2005.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Tony Shek / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Cameron_Crowe_2005.jpg"
+ },
+ "v:Santa Marta": {
+  "descricao": "personagem bíblica irmã de Maria e de Lázaro",
+  "nasc": 100,
+  "morte": 100
+ },
+ "v:Abel Braga": {
+  "descricao": "treinador e ex-futebolista brasileiro",
+  "nasc": 1952,
+  "morte": null
+ },
+ "p:Abel Braga": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/ABEL_BRAGA_%2851839163546%29_%28cropped%29.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: SOCCER DIGITAL / CC0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:ABEL_BRAGA_(51839163546)_(cropped).png"
+ },
+ "v:Vanessa Giácomo": {
+  "descricao": "atriz e roteirista brasileira",
+  "nasc": 1983,
+  "morte": null
+ },
+ "p:Vanessa Giácomo": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Vanessa_Gi%C3%A1como_in_blue_shirt.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Rafael Silva from Rio de Janeiro, Brasil / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Vanessa_Gi%C3%A1como_in_blue_shirt.jpg"
  }
 }
