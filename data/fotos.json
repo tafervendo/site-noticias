@@ -74296,5 +74296,55 @@
   "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Vanessa_Gi%C3%A1como_in_blue_shirt.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "credito": "Foto: Rafael Silva from Rio de Janeiro, Brasil / CC BY 2.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Vanessa_Gi%C3%A1como_in_blue_shirt.jpg"
+ },
+ "v:Andréia Horta": {
+  "descricao": "atriz brasileira",
+  "nasc": 1983,
+  "morte": null
+ },
+ "p:Andréia Horta": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Andr%C3%A9ia_Horta_em_Tr%C3%AAs_Gra%C3%A7as.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Globoplay Novelas / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9ia_Horta_em_Tr%C3%AAs_Gra%C3%A7as.png"
+ },
+ "v:Padre Kelmon": {
+  "descricao": "político brasileiro",
+  "nasc": 1976,
+  "morte": null
+ },
+ "p:Padre Kelmon": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/37/2022_PADRE_KELMON_CANDIDATO_PRESIDENTE_TSE_%28280001734029%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Fotógrafo desconhecido / CC BY 4.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:2022_PADRE_KELMON_CANDIDATO_PRESIDENTE_TSE_(280001734029).jpg"
+ },
+ "v:Idade Média": {
+  "descricao": "período da história entre 476 d.c a 1453",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Christina Rocha": {
+  "descricao": "jornalista brasileira",
+  "nasc": 1957,
+  "morte": null
+ },
+ "p:Christina Rocha": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Christina_Rocha_2006.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Sergio Savarese / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Christina_Rocha_2006.jpg"
+ },
+ "v:Via Sacra": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Rei do Gado": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Art Popular": {
+  "descricao": "banda musical",
+  "nasc": null,
+  "morte": null
  }
 }
