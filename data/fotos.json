@@ -74124,5 +74124,31 @@
   "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Ryan_Reynolds_by_Gage_Skidmore_4.jpg/1280px-Ryan_Reynolds_by_Gage_Skidmore_4.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "credito": "Foto: Gage Skidmore / CC BY-SA 3.0, via Wikimedia Commons",
   "credito_link": "https://commons.wikimedia.org/wiki/File:Ryan_Reynolds_by_Gage_Skidmore_4.jpg"
+ },
+ "v:Hugo Gloss": {
+  "descricao": "jornalista brasileiro",
+  "nasc": 1985,
+  "morte": null
+ },
+ "p:Hugo Gloss": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/47/Hugo_Gloss_at_the_Ferdinando_Show_in_2017_%2801%29.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Hugo_Gloss_at_the_Ferdinando_Show_in_2017_(01).png"
+ },
+ "v:Fabrício Bruno": {
+  "descricao": "futebolista brasileiro",
+  "nasc": 1996,
+  "morte": null
+ },
+ "p:Fabrício Bruno": null,
+ "v:Valentina Bandeira": {
+  "descricao": "atriz brasileira",
+  "nasc": 1994,
+  "morte": null
+ },
+ "p:Valentina Bandeira": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Valentina_Bandeira_2022.png?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Humor Multishow / CC BY 3.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Valentina_Bandeira_2022.png"
  }
 }
