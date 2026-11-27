@@ -74471,5 +74471,15 @@
   "descricao": "",
   "nasc": null,
   "morte": null
+ },
+ "v:Fabio Faria": {
+  "descricao": "futebolista português",
+  "nasc": 1989,
+  "morte": null
+ },
+ "p:Fabio Faria": null,
+ "_conferidas_dia": {
+  "dia": "2026-11-27",
+  "n": 100
  }
 }
