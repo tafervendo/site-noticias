@@ -74175,5 +74175,15 @@
   "descricao": "",
   "nasc": null,
   "morte": null
+ },
+ "v:Courtney Love": {
+  "descricao": "cantora, compositora e atriz norte-americana",
+  "nasc": 1964,
+  "morte": null
+ },
+ "p:Courtney Love": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/CourtLoveRoyalGeo040325_%2849_of_54%29_%28crop%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Raph_PH / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:CourtLoveRoyalGeo040325_(49_of_54)_(crop).jpg"
  }
 }
