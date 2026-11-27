@@ -74426,5 +74426,50 @@
   "descricao": "primeiro álbum de estúdio da banda Linkin Park",
   "nasc": null,
   "morte": null
+ },
+ "v:São Caetano": {
+  "descricao": "santo católico, fundador de ordem religiosa",
+  "nasc": 1480,
+  "morte": 1547
+ },
+ "v:Pontos de Cultura": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Elizabeth Debicki": {
+  "descricao": "atriz australiana",
+  "nasc": 1990,
+  "morte": null
+ },
+ "p:Elizabeth Debicki": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Elizabeth_Debicki_2015_Comic_Con_05_%28cropped%29.jpg/1280px-Elizabeth_Debicki_2015_Comic_Con_05_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Gage Skidmore / CC BY-SA 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Elizabeth_Debicki_2015_Comic_Con_05_(cropped).jpg"
+ },
+ "v:The Killers": {
+  "descricao": "banda de rock norte-americana",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Netinho de Paula": {
+  "descricao": "Cantor e político brasileiro",
+  "nasc": 1970,
+  "morte": null
+ },
+ "p:Netinho de Paula": {
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Netinho_de_Paula.jpg/1280px-Netinho_de_Paula.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Mílton Jung / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Netinho_de_Paula.jpg"
+ },
+ "v:Licínio Januário": {
+  "descricao": "ator, diretor, roteirista, produtor, cineasta, capoeirista e empreendedor angolano",
+  "nasc": null,
+  "morte": null
+ },
+ "v:Dave Keuning": {
+  "descricao": "",
+  "nasc": null,
+  "morte": null
  }
 }
