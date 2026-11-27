@@ -74210,5 +74210,26 @@
   "descricao": "telenovela brasileira produzida e exibida pela Rede Globo",
   "nasc": null,
   "morte": null
+ },
+ "v:Breno Ferreira": {
+  "descricao": "ator brasileiro",
+  "nasc": 1998,
+  "morte": null
+ },
+ "p:Breno Ferreira": null,
+ "v:Roberto Leal": {
+  "descricao": "cantor português",
+  "nasc": 1951,
+  "morte": 2019
+ },
+ "v:Gleisi Hoffmann": {
+  "descricao": "política e advogada brasileira",
+  "nasc": 1965,
+  "morte": null
+ },
+ "p:Gleisi Hoffmann": {
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/95/Reuni%C3%A3o_com_Gleisi_Hoffmann%2C_Ministra_da_Secretaria_de_Rela%C3%A7%C3%B5es_Institucionais_-_SRI_%2854410212078%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credito": "Foto: Vice-Presidência da República / CC BY 2.0, via Wikimedia Commons",
+  "credito_link": "https://commons.wikimedia.org/wiki/File:Reuni%C3%A3o_com_Gleisi_Hoffmann,_Ministra_da_Secretaria_de_Rela%C3%A7%C3%B5es_Institucionais_-_SRI_(54410212078)_(cropped).jpg"
  }
 }
