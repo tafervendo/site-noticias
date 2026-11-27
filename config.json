@@ -13,7 +13,8 @@
     "esforco": "low",
     "por_rodada": 4,
     "max_por_dia": 25,
-    "dias_paginas": 365
+    "dias_paginas": 365,
+    "max_fotos_dia": 100
   },
   "categorias": [
     {

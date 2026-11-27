@@ -570,7 +570,7 @@ ESQUEMA_CONFERE = {
 
 
 def miniatura_base64(url):
-    """Baixa a foto e reduz para 512 px (a IA vê bem e custa pouco)."""
+    """Baixa a foto e reduz para 320 px (a IA vê bem e custa pouco)."""
     import base64
     import io
     from PIL import Image
@@ -578,7 +578,7 @@ def miniatura_base64(url):
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15"})
     with urllib.request.urlopen(req, timeout=20) as r:
         img = Image.open(io.BytesIO(r.read(8_000_000))).convert("RGB")
-    img.thumbnail((512, 512))
+    img.thumbnail((320, 320))
     saida = io.BytesIO()
     img.save(saida, "JPEG", quality=80)
     return base64.b64encode(saida.getvalue()).decode()
@@ -609,9 +609,18 @@ def conferir_imagens(noticias, limite=120):
     cache = json.loads(FOTOS.read_text(encoding="utf-8")) if FOTOS.exists() else {}
     resumos = json.loads(RESUMOS.read_text(encoding="utf-8")) if RESUMOS.exists() else {}
     chave = chave_conferencia
-    alvos = [("n", n, n["titulo"]) for n in noticias if n.get("imagem") and n.get("credito", "").find("Agência Brasil") < 0]
-    alvos += [("r", r, r["titulo"]) for r in resumos.values() if r.get("slug") and r.get("imagem")]
+    # matérias próprias primeiro, depois as manchetes mais novas
+    alvos = [("r", r, r["titulo"]) for r in resumos.values() if r.get("slug") and r.get("imagem")]
+    alvos += [("n", n, n["titulo"]) for n in sorted(noticias, key=lambda x: x.get("data", ""), reverse=True)
+              if n.get("imagem") and n.get("credito", "").find("Agência Brasil") < 0]
+    # teto diário para o gasto com a IA caber no limite do mês
+    hoje = AGORA.astimezone(BRT).strftime("%Y-%m-%d")
+    contagem = cache.get("_conferidas_dia") or {}
+    feitas = contagem.get("n", 0) if contagem.get("dia") == hoje else 0
+    limite = max(0, min(limite, IA.get("max_fotos_dia", 100) - feitas))
     pendentes = [a for a in alvos if chave(a[1]["imagem"], a[2]) not in cache][:limite]
+    if not pendentes:
+        return
     cliente = anthropic.Anthropic()
     reprovadas = 0
     for i in range(0, len(pendentes), 8):
@@ -648,6 +657,7 @@ def conferir_imagens(noticias, limite=120):
                 reg["imagem"] = ""
             else:
                 reg.update({"imagem": "", "credito": "", "credito_link": ""})
+    cache["_conferidas_dia"] = {"dia": hoje, "n": feitas + len(pendentes)}
     FOTOS.write_text(json.dumps(cache, ensure_ascii=False, indent=1), encoding="utf-8")
     RESUMOS.write_text(json.dumps(resumos, ensure_ascii=False, indent=1), encoding="utf-8")
     DADOS.write_text(json.dumps(noticias, ensure_ascii=False, indent=1), encoding="utf-8")
