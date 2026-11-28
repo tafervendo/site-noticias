@@ -11038,5 +11038,39 @@
   "imagem": "https://live.staticflickr.com/4089/5219349188_0b6a10db9a_b.jpg",
   "credito": "Foto: martha_chapa95 / CC BY 2.0",
   "credito_link": "https://www.flickr.com/photos/56192190@N05/5219349188"
+ },
+ "https://www.estadao.com.br/tecmundo/ciberseguranca/hacker-vaza-suposto-arquivo-executavel-de-gta-6/": {
+  "recusado": true,
+  "criado": "2026-11-28T12:20:18.548979+00:00"
+ },
+ "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/com-bandeira-tarifaria-verde-energia-nao-tera-custo-extra-em-dezembro": {
+  "publicar": true,
+  "titulo": "Aneel mantém bandeira verde e conta de luz não terá acréscimo em dezembro",
+  "linha_fina": "Decisão marca o terceiro mês seguido com bandeira verde, após melhora nas condições de geração de energia no país",
+  "paragrafos": [
+   "A Agência Nacional de Energia Elétrica (Aneel) decidiu manter a bandeira tarifária verde para o mês de dezembro. Com isso, as contas de luz dos brasileiros seguem sem cobrança extra. A medida vale por mais um mês e já é a terceira seguida com essa cor.",
+   "Segundo a Aneel, a escolha da bandeira verde tem relação com a situação atual da geração de energia no país. Com as chuvas do período, os reservatórios se recuperaram e as usinas hidrelétricas passaram a produzir em melhores condições. Assim, a necessidade de ligar usinas termelétricas, mais caras, diminui.",
+   "O sistema de bandeiras tarifárias foi criado pela Aneel em 2015 para mostrar ao consumidor o peso dos custos variáveis da produção de eletricidade. Cada cor indica o custo de gerar a energia consumida por casas, comércios e indústrias ligados ao Sistema Interligado Nacional (SIN).",
+   "A cor de cada bandeira depende da estimativa de como o custo da energia deve oscilar ao longo do mês. Na bandeira verde, nenhum valor a mais é somado à conta. Já as bandeiras amarela e vermelha geram acréscimos, que variam conforme o consumo de cada cliente."
+  ],
+  "tags": [
+   "bandeira tarifária",
+   "conta de luz",
+   "Aneel",
+   "energia elétrica"
+  ],
+  "pessoa": "",
+  "busca_imagem": "electric power lines",
+  "criado": "2026-11-28T12:20:18.548979+00:00",
+  "slug": "aneel-mantem-bandeira-verde-e-conta-de-luz-nao-tera-acrescimo-em-dezem-8322e6",
+  "fonte": "Agência Brasil",
+  "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/com-bandeira-tarifaria-verde-energia-nao-tera-custo-extra-em-dezembro",
+  "categoria": "em-alta",
+  "data": "2026-11-28T11:50:00+00:00",
+  "titulo_original": "Com bandeira tarifária verde, energia não terá custo extra em dezembro",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/215/488399852_77e197091f_b.jpg",
+  "credito": "Foto: St_A_Sh / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/51655688@N00/488399852"
  }
 }
