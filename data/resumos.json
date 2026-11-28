@@ -10736,5 +10736,44 @@
   "imagem": "https://live.staticflickr.com/5012/5405411818_1f3799b0e4_b.jpg",
   "credito": "Foto: Erin Costa / CC BY 2.0",
   "credito_link": "https://www.flickr.com/photos/12286015@N06/5405411818"
+ },
+ "https://veja.abril.com.br/paginas-amarelas/tabata-amaral-ha-muitos-privilegios/": {
+  "publicar": true,
+  "titulo": "Tabata Amaral diz que há muitos privilégios no Estado e defende ajuste fiscal",
+  "linha_fina": "Deputada do PSB, autora do projeto que deu origem ao Pé-de-Meia, critica supersalários e emendas parlamentares e defende ajuste das contas públicas",
+  "paragrafos": [
+   "A deputada federal Tabata Amaral, do PSB, afirmou em entrevista à Veja que é preciso fazer um ajuste nas contas públicas e que a discussão deve alcançar privilégios no próprio Estado, como supersalários e emendas parlamentares. Ela também comentou o debate interno da esquerda sobre o tema.",
+   "Filha de uma diarista e de um cobrador de ônibus, Tabata, que foi criada na periferia de São Paulo e estudou em Harvard, disse que a internet tem reforçado o radicalismo na política. Segundo ela, a discussão sobre o ajuste fiscal tem sido guiada por quem aparece mais, e não pelo que é melhor para a população.",
+   "Na entrevista, a parlamentar falou também sobre segurança pública, afirmando que votou a favor da PEC da Segurança e que a área precisa de coordenação entre governo federal e governadores. Sobre as eleições municipais de 2024, ela disse que não pretende adotar um discurso radical para ganhar seguidores.",
+   "Tabata também defendeu mudanças no Supremo Tribunal Federal, como mandato para ministros, código de conduta e proibição de que familiares advoguem na Corte. Ela criticou ainda a forma como as emendas parlamentares são usadas hoje e afirmou ser contra esse modelo.",
+   "Sobre o Pé-de-Meia, programa que virou uma das vitrines do governo Lula, ela afirmou que o governo foi essencial para a execução do projeto e citou a queda da evasão escolar como resultado."
+  ],
+  "tags": [
+   "Tabata Amaral",
+   "Pé-de-Meia",
+   "ajuste fiscal",
+   "PSB"
+  ],
+  "pessoa": "Tabata Amaral",
+  "busca_imagem": "brazilian congress building",
+  "criado": "2026-11-28T04:58:05.293492+00:00",
+  "slug": "tabata-amaral-diz-que-ha-muitos-privilegios-no-estado-e-defende-ajuste-be8bd7",
+  "fonte": "VEJA",
+  "link": "https://veja.abril.com.br/paginas-amarelas/tabata-amaral-ha-muitos-privilegios/",
+  "categoria": "em-alta",
+  "data": "2026-11-28T04:40:00+00:00",
+  "titulo_original": "Tabata Amaral: “Há muitos privilégios”",
+  "post": null,
+  "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Deputada_Tabata_Amaral_1%C2%BA_07_2026_-_Foto_Chico_Ferreira_%2855368148587%29.jpg/1280px-Deputada_Tabata_Amaral_1%C2%BA_07_2026_-_Foto_Chico_Ferreira_%2855368148587%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credito": "Foto: Liderança do PSB na Câmara / CC BY 4.0, via Wikimedia Commons",
+  "credito_link": ""
+ },
+ "https://noticiasdatv.uol.com.br/noticia/novelas/resumo-de-quem-ama-cuida-ademir-flagra-traicao-bem-debaixo-de-seu-nariz-159965": {
+  "recusado": true,
+  "criado": "2026-11-28T04:58:05.293492+00:00"
+ },
+ "https://www.espn.com.br/nba/artigo/_/id/17564320/nba-gui-santos-quarta-maior-pontuacao-vitoria-warriors-kings": {
+  "recusado": true,
+  "criado": "2026-11-28T04:58:05.293492+00:00"
  }
 }

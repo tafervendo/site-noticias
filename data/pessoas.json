@@ -5981,6 +5981,15 @@
   "nome": "Agatha Moreira",
   "itens": [
    {
+    "titulo": "Chay Suede, Agatha Moreira e mais prestigiam o 1º dia de minidesfiles na Cidade do Samba, no Rio de Janeiro",
+    "link": "https://gshow.globo.com/carnaval/2027/noticia/famosos-marcam-presenca-em-minidesfile-na-cidade-do-samba.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-28T04:58:05.293492+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Chay_Suede_%28cropped%29.jpg/1280px-Chay_Suede_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Agatha Moreira elege personagem que foi 'divisor de águas' na carreira",
     "link": "https://revistaquem.globo.com/entretenimento/tv-e-novelas/noticia/2026/11/agatha-moreira-elege-personagem-que-foi-divisor-de-aguas-na-carreira.ghtml",
     "fonte": "Quem",
@@ -19058,6 +19067,15 @@
   "nome": "Chay Suede",
   "itens": [
    {
+    "titulo": "Chay Suede, Agatha Moreira e mais prestigiam o 1º dia de minidesfiles na Cidade do Samba, no Rio de Janeiro",
+    "link": "https://gshow.globo.com/carnaval/2027/noticia/famosos-marcam-presenca-em-minidesfile-na-cidade-do-samba.ghtml",
+    "fonte": "Gshow",
+    "categoria": "televisao",
+    "data": "2026-11-28T04:58:05.293492+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Chay_Suede_%28cropped%29.jpg/1280px-Chay_Suede_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Multishow / CC BY 3.0, via Wikimedia Commons"
+   },
+   {
     "titulo": "Chay Suede revela planos para carreira após “Quem Ama Cuida” e surpreende com decisão; assista Chay Suede revela planos para carreira após “Quem Ama Cuida” e surpreende com decisão; assista! (Foto: Globo/ Manoella Mello)",
     "link": "https://hugogloss.uol.com.br/famosos/chay-suede/",
     "fonte": "Hugo Gloss",
@@ -26345,5 +26363,19 @@
    }
   ],
   "publicada": true
+ },
+ "tabata-amaral": {
+  "nome": "Tabata Amaral",
+  "itens": [
+   {
+    "titulo": "Tabata Amaral: “Há muitos privilégios”",
+    "link": "https://veja.abril.com.br/paginas-amarelas/tabata-amaral-ha-muitos-privilegios/",
+    "fonte": "VEJA",
+    "categoria": "em-alta",
+    "data": "2026-11-28T04:40:00+00:00",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Deputada_Tabata_Amaral_1%C2%BA_07_2026_-_Foto_Chico_Ferreira_%2855368148587%29.jpg/1280px-Deputada_Tabata_Amaral_1%C2%BA_07_2026_-_Foto_Chico_Ferreira_%2855368148587%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credito": "Foto: Liderança do PSB na Câmara / CC BY 4.0, via Wikimedia Commons"
+   }
+  ]
  }
 }
