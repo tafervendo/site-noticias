@@ -10775,5 +10775,39 @@
  "https://www.espn.com.br/nba/artigo/_/id/17564320/nba-gui-santos-quarta-maior-pontuacao-vitoria-warriors-kings": {
   "recusado": true,
   "criado": "2026-11-28T04:58:05.293492+00:00"
+ },
+ "https://www.gazetadopovo.com.br/mundo/argentina-aprova-lei-para-restringir-as-bets-enquanto-o-brasil-mantem-proibicao/": {
+  "recusado": true,
+  "criado": "2026-11-28T05:58:50.811363+00:00"
+ },
+ "https://www.campograndenews.com.br/economia/novo-aplicativo-da-caixa-e-alternativa-para-encontrar-dinheiro-esquecido": {
+  "publicar": true,
+  "titulo": "Novo app da Caixa ajuda clientes a achar dinheiro esquecido em contas antigas",
+  "linha_fina": "Plataforma unifica 15 aplicativos do banco e já passou de 1 milhão de downloads em três dias",
+  "paragrafos": [
+   "O novo aplicativo da Caixa Econômica Federal, lançado em 9 de novembro para Android e iOS, tem levado clientes a encontrar saldos em contas que já não usavam ou que nem lembravam mais de ter.",
+   "A plataforma reúne serviços antes espalhados em 15 aplicativos do banco e permite consultar várias contas com uma única senha. Segundo reportagem do jornal O Tempo, há relatos nas redes sociais de valores acima de R$ 1 mil.",
+   "O saldo encontrado não é um benefício novo nem uma liberação extraordinária. Ele já pertencia ao cliente, e a integração de contas-correntes, poupanças e poupanças sociais digitais apenas facilitou a consulta. Quem recebeu auxílios do governo, como o emergencial, o abono salarial ou o seguro-desemprego, pode ter sobras na conta, que às vezes incluem rendimentos.",
+   "Quem não é cliente da Caixa ou encerrou contas no passado pode usar o SVR, sistema gratuito do Banco Central, no endereço valoresareceber.bcb.gov.br, informando CPF e data de nascimento. A ferramenta também permite checar valores de empresas e de pessoas falecidas. Para receber, é preciso uma conta gov.br de nível prata ou ouro com verificação em duas etapas.",
+   "O Banco Central alerta que não cobra taxas e não envia links nem pede dados por WhatsApp, SMS ou e-mail, e recomenda usar apenas os canais oficiais."
+  ],
+  "tags": [
+   "Caixa Econômica Federal",
+   "dinheiro esquecido",
+   "valores a receber"
+  ],
+  "pessoa": "",
+  "busca_imagem": "bank mobile app",
+  "criado": "2026-11-28T05:58:50.811363+00:00",
+  "slug": "novo-app-da-caixa-ajuda-clientes-a-achar-dinheiro-esquecido-em-contas-bc50e5",
+  "fonte": "Campo Grande News",
+  "link": "https://www.campograndenews.com.br/economia/novo-aplicativo-da-caixa-e-alternativa-para-encontrar-dinheiro-esquecido",
+  "categoria": "em-alta",
+  "data": "2026-11-28T02:30:00+00:00",
+  "titulo_original": "Novo aplicativo da Caixa é alternativa para encontrar dinheiro esquecido",
+  "post": null,
+  "imagem": "https://live.staticflickr.com/65535/51658218435_1f996ddc93_b.jpg",
+  "credito": "Foto: PiggyBank Canada / CC BY 2.0",
+  "credito_link": "https://www.flickr.com/photos/194322287@N05/51658218435"
  }
 }
